@@ -1,0 +1,33 @@
+{
+  "assets/cozy/mii-sailor-outfit-B.png": {
+    "slots": [
+      "identity",
+      "full_body"
+    ],
+    "review": "2026-09-24 目视确认：独立完整猫咪全身，帽子、爪、尾巴完整。"
+  },
+  "assets/cozy/cat-identity-costume-v3.png": {
+    "slots": [
+      "full_body"
+    ],
+    "review": "2026-09-24 目视确认：独立完整猫咪全身。"
+  },
+  "assets/cozy/outfit-A-approved.png": {
+    "slots": [
+      "full_body"
+    ],
+    "review": "2026-09-24 目视确认：独立完整猫咪全身。"
+  },
+  "assets/cozy/heroine-pajamas-v2.png": {
+    "slots": [
+      "full_body"
+    ],
+    "review": "2026-09-24 目视确认：单人全身睡衣实例，头脚完整。"
+  },
+  "assets/role-completion-20260924/animal-mii-nian-gao--head_angles.png": {
+    "slots": [
+      "body_turnaround"
+    ],
+    "review": "2026-09-24 目视确认六个全身角度，正面、左右侧面和背面头脚尾完整。"
+  }
+}

@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.pyc
+.voice-runtime/
+.voice-runtime312/
+.gallery-publish.lock
+.github-transfer/
+# Complete content snapshots are stored in this repository's Releases.
+/assets/
+/imports/
+/previews/
+/references/
+/verification/
+/metadata/
+/asset-additions/
+/voice-models/
+
+# Local credentials are never repository content.
+.env
+.env.*

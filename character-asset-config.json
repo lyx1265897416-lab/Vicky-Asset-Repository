@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "notes": "角色归属默认从 character-library.json 的 reference_assets / identity_anchor 读取；此文件补充明确的归属及视图类型。仅关联 gallery-manifest 内已确认图片，多人图片可以归属多个角色；没有身份依据的图保持未归类。",
+  "characters": [
+    {
+      "id": "sea.rian",
+      "display_name_zh": "Rian",
+      "source_project": "the-sea-princes-almost-bride",
+      "reference_assets": [
+        "assets/3d/ria-identity-v02.png",
+        "assets/3d/ria-court-medium-v07.png",
+        "assets/3d/ria-sea-full-v07.png",
+        "assets/3d/cp-court-v07.png",
+        "assets/3d/rian-night-portrait-20260925/rian-night-portrait.png"
+      ]
+    },
+    {
+      "id": "research.white-C-01",
+      "display_name_zh": "原创角色 01 · 长发学院风（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-C-01.png",
+        "assets/realistic/research-batch-20260922/character-board-C-white.png"
+      ]
+    },
+    {
+      "id": "research.white-C-02",
+      "display_name_zh": "原创角色 02 · 短卷发针织背心（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-C-02.png",
+        "assets/realistic/research-batch-20260922/character-board-C-white.png"
+      ]
+    },
+    {
+      "id": "research.white-C-03",
+      "display_name_zh": "原创角色 03 · 雀斑金发鼠尾草（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-C-03.png",
+        "assets/realistic/research-batch-20260922/character-board-C-white.png"
+      ]
+    },
+    {
+      "id": "research.white-C-04",
+      "display_name_zh": "原创角色 04 · 编发暖棕西装（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-C-04.png",
+        "assets/realistic/research-batch-20260922/character-board-C-white.png"
+      ]
+    },
+    {
+      "id": "research.white-D-01",
+      "display_name_zh": "原创角色 05 · 栗色牛仔（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-D-01.png",
+        "assets/realistic/research-batch-20260922/character-board-D-white.png"
+      ]
+    },
+    {
+      "id": "research.white-D-02",
+      "display_name_zh": "原创角色 06 · 浅金蓝领结（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-D-02.png",
+        "assets/realistic/research-batch-20260922/character-board-D-white.png"
+      ]
+    },
+    {
+      "id": "research.white-D-03",
+      "display_name_zh": "原创角色 07 · 深色短发灰西装（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-D-03.png",
+        "assets/realistic/research-batch-20260922/character-board-D-white.png"
+      ]
+    },
+    {
+      "id": "research.white-D-04",
+      "display_name_zh": "June · 暖棕外套（调研组）",
+      "source_project": "research-character-batch-20260922",
+      "reference_assets": [
+        "assets/realistic/research-batch-20260922/white-D-04.png",
+        "assets/realistic/research-batch-20260922/character-board-D-white.png"
+      ]
+    }
+  ],
+  "assets": {
+    "assets/cozy/cat-identity-costume-v3.png": {
+      "character_ids": [
+        "animal.mii-nian-gao"
+      ]
+    },
+    "assets/cozy/outfit-A-approved.png": {
+      "character_ids": [
+        "animal.mii-nian-gao"
+      ]
+    },
+    "assets/cozy/heroine-pajamas-v2.png": {
+      "character_ids": [
+        "human.owner-pov"
+      ]
+    },
+    "assets/cozy/pov-bedside-approved.png": {
+      "character_ids": [
+        "animal.mii-nian-gao",
+        "human.owner-pov"
+      ]
+    },
+    "assets/3d/rian-style-authority.png": {
+      "character_ids": [
+        "sea.rian"
+      ],
+      "view_type": "style_reference"
+    },
+    "assets/3d/3d-front-17-20260923/character-01.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-01"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-02.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-02"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-03.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-03"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-04.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-04"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-05.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-05"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-06.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-06"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-07.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-07"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-08.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-08"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-09.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-09"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-10.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-10"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-11.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-11"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-12.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-12"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-13.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-13"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-14.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-14"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-15.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-15"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-16.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-16"
+      ],
+      "view_type": "front"
+    },
+    "assets/3d/3d-front-17-20260923/character-17.png": {
+      "character_ids": [
+        "human.3d-front-17-20260923-17"
+      ],
+      "view_type": "front"
+    }
+  }
+}

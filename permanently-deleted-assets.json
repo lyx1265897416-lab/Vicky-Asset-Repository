@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assets": {
+    "assets/realistic/research-white-27-20260923/ref-07-white.png": {
+      "path": "assets/realistic/research-white-27-20260923/ref-07-white.png",
+      "title": "调研白底女角色27组 · 参考07 · 蓬松长卷发眨眼针织 · 用户确认",
+      "deleted_at": "2026-09-24T09:50:33.701856+00:00",
+      "status": "complete"
+    },
+    "assets/3d/3d-front-17-20260923/character-03.png": {
+      "path": "assets/3d/3d-front-17-20260923/character-03.png",
+      "title": "白底3D角色17组 · 正面平视 · 03 · 铜簪青锦",
+      "deleted_at": "2026-09-24T09:50:33.702053+00:00",
+      "status": "complete"
+    },
+    "assets/realistic/research-front-id-27-20260924/ref-07-front.png": {
+      "path": "assets/realistic/research-front-id-27-20260924/ref-07-front.png",
+      "title": "调研白底女角色27组 · 正面平视 · 参考07 · 蓬松长卷发眨眼针织 · 用户确认",
+      "deleted_at": "2026-09-25T10:43:45.289916+00:00",
+      "status": "complete"
+    }
+  }
+}

@@ -1,0 +1,1075 @@
+{
+  "schema_version": 1,
+  "note": "性别来自角色文字设定及单角色素材提示词，不依据图片外貌猜测；未明确的保留unknown。assets可配置character/scene/prop/voice。",
+  "characters": {
+    "human.kellan-brooks": {
+      "gender": "male",
+      "source": "assets/realistic/kellan-face-orthographic.png"
+    },
+    "human.aria-solano": {
+      "gender": "female",
+      "source": "assets/realistic/aria-face-orthographic.png"
+    },
+    "human.yuna-park": {
+      "gender": "female",
+      "source": "assets/role-completion-20260924/human-yuna-park--body_turnaround.png"
+    },
+    "human.theo-nguyen": {
+      "gender": "male",
+      "source": "assets/role-completion-20260924/human-theo-nguyen--body_turnaround.png"
+    },
+    "human.mara-vale": {
+      "gender": "female",
+      "source": "assets/realistic/the-ninth-inning/mara-face-turnaround.png"
+    },
+    "human.june-solano": {
+      "gender": "female",
+      "source": "assets/role-completion-20260924/human-june-solano--body_turnaround.png"
+    },
+    "animal.mii-nian-gao": {
+      "gender": "unknown",
+      "source": "not specified"
+    },
+    "human.owner-pov": {
+      "gender": "female",
+      "source": "assets/cozy/heroine-pajamas-v2.png"
+    },
+    "off-script.jamie": {
+      "gender": "male",
+      "source": "assets/realistic/off-script/Jamie-body.png"
+    },
+    "off-script.theo": {
+      "gender": "male",
+      "source": "assets/realistic/off-script/Theo-body.png"
+    },
+    "off-script.owen": {
+      "gender": "male",
+      "source": "assets/realistic/off-script/Owen-body.png"
+    },
+    "off-script.mina": {
+      "gender": "female",
+      "source": "assets/role-completion-20260924/off-script-mina--expression_grid.png"
+    },
+    "off-script.leah": {
+      "gender": "female",
+      "source": "assets/role-completion-20260924/off-script-leah--expression_grid.png"
+    },
+    "off-script.rae": {
+      "gender": "female",
+      "source": "assets/role-completion-20260924/off-script-rae--expression_grid.png"
+    },
+    "off-script.photographer": {
+      "gender": "male",
+      "source": "assets/role-completion-20260924/off-script-photographer--expression_grid.png"
+    },
+    "human.white-portraits-24-20260922-01": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-01-front.png"
+    },
+    "human.white-portraits-24-20260922-02": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-02-front.png"
+    },
+    "human.white-portraits-24-20260922-03": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-03-front.png"
+    },
+    "human.white-portraits-24-20260922-04": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-04-front.png"
+    },
+    "human.white-portraits-24-20260922-05": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-05-front.png"
+    },
+    "human.white-portraits-24-20260922-06": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-06-front.png"
+    },
+    "human.white-portraits-24-20260922-07": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-07-front.png"
+    },
+    "human.white-portraits-24-20260922-08": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-08-front.png"
+    },
+    "human.white-portraits-24-20260922-09": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-09-front.png"
+    },
+    "human.white-portraits-24-20260922-10": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-10-front.png"
+    },
+    "human.white-portraits-24-20260922-11": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-11-front.png"
+    },
+    "human.white-portraits-24-20260922-12": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-12-front.png"
+    },
+    "human.white-portraits-24-20260922-13": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-13-front.png"
+    },
+    "human.white-portraits-24-20260922-14": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-14-front.png"
+    },
+    "human.white-portraits-24-20260922-15": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-15-front.png"
+    },
+    "human.white-portraits-24-20260922-16": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-16-front.png"
+    },
+    "human.white-portraits-24-20260922-17": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-17-front.png"
+    },
+    "human.white-portraits-24-20260922-18": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-18-front.png"
+    },
+    "human.white-portraits-24-20260922-19": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-19-front.png"
+    },
+    "human.white-portraits-24-20260922-20": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-20-front.png"
+    },
+    "human.white-portraits-24-20260922-21": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-21-front.png"
+    },
+    "human.white-portraits-24-20260922-22": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-22-front.png"
+    },
+    "human.white-portraits-24-20260922-23": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-23-front.png"
+    },
+    "human.white-portraits-24-20260922-24": {
+      "gender": "female",
+      "source": "assets/realistic/front-id-24-20260923/character-24-front.png"
+    },
+    "human.male-white-portraits-23-v2-20260923-01": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-02": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-03": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-04": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-05": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-06": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-07": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-08": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-09": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-10": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-11": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-12": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-13": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-14": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-15": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-16": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-17": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-18": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-19": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-20": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-21": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-22": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-23-v2-20260923-23": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-01": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-02": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-03": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-04": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-05": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-06": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-07": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-08": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-09": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-10": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-11": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-12": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-13": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-14": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-15": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-16": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-17": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-18": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-19": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-20": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-21": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-22": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-23": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-24": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-25": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-26": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-27": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-28": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-29": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-30": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-31": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.front-id-32-20260923-32": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-01": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-02": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-03": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-04": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-05": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-06": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-07": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-08": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-09": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-10": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-11": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-12": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-13": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-14": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-15": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-16": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-17": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-18": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-19": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-20": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-21": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-22": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-23": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-24": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-25": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-26": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-27": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-28": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-29": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-30": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.male-white-portraits-31-v2-20260923-31": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-01": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-02": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-03": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-04": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-05": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-06": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-07": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-08": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-09": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-10": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-11": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-12": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-13": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-14": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-15": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-16": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-17": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-18": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-19": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-20": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-21": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-22": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-23": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-24": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-25": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-26": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-27": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-28": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-29": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-30": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-31": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-32": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-33": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-white-34-20260923-34": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-02": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-03": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-04": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-05": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-06": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-07": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-08": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-09": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-10": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-12": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-13": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-14": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-15": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-16": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-17": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-18": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-19": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-20": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-21": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-22": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-24": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-26": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-27": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-28": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-29": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-30": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.research-white-27-20260923-31": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-01": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-02": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-03": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-04": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-05": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-06": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-07": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-08": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-09": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-10": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-11": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-12": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-13": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-14": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-15": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-16": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-17": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-18": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-19": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-20": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-21": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-22": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-23": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-24": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-25": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-26": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-27": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.western-male-white-28-v3-20260923-28": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-01": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-02": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-03": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-04": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-05": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-06": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-07": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-08": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-09": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-10": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-11": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-12": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-13": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-14": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-15": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-16": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-front-17-20260923-17": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-01": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-02": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-03": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-04": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-05": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-06": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-07": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-08": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-09": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-10": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-12": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-13": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-14": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-15": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-16": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-17": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-18": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-19": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-20": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-21": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-22": {
+      "gender": "female",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-23": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-24": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-25": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-27": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "human.3d-original-28-selected-20260924-28": {
+      "gender": "male",
+      "source": "character setting"
+    },
+    "sea.rian": {
+      "gender": "male",
+      "source": "assets/3d/rian-style-authority.png"
+    },
+    "research.white-C-01": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-C-01.png"
+    },
+    "research.white-C-02": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-C-02.png"
+    },
+    "research.white-C-03": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-C-03.png"
+    },
+    "research.white-C-04": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-C-04.png"
+    },
+    "research.white-D-01": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-D-01.png"
+    },
+    "research.white-D-02": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-D-02.png"
+    },
+    "research.white-D-03": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-D-03.png"
+    },
+    "research.white-D-04": {
+      "gender": "female",
+      "source": "assets/realistic/research-batch-20260922/white-D-04.png"
+    }
+  },
+  "assets": {
+    "assets/cozy/pov-bedside-approved.png": {
+      "asset_kind": "character"
+    }
+  }
+}
