@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Publish and restore complete Vicky asset snapshots in the private GitHub repository."""
-import argparse, hashlib, json, os, shutil, subprocess, tarfile, time
+import argparse, hashlib, json, os, shutil, subprocess, tarfile, time, threading
+from concurrent.futures import ThreadPoolExecutor
 from collections import Counter
 from pathlib import Path
 
@@ -10,7 +11,7 @@ MANIFEST = ROOT / 'github-content-manifest.json'
 CACHE = ROOT / '.github-transfer'
 EXCLUDED = {'.git', '.github-transfer', '.voice-runtime', '.voice-runtime312', '__pycache__', '.DS_Store', '.gallery-publish.lock'}
 SOURCE_DIRS = {'tools'}
-LIMIT = 480 * 1024 * 1024
+LIMIT = 80 * 1024 * 1024
 
 def sha(path):
     h = hashlib.sha256()
@@ -19,8 +20,12 @@ def sha(path):
     return h.hexdigest()
 
 def run(*args, capture=False):
-    r = subprocess.run(args, cwd=ROOT, check=True, text=True, stdout=subprocess.PIPE if capture else None)
-    return r.stdout if capture else None
+    for attempt in range(3):
+        r = subprocess.run(args, cwd=ROOT, text=True, stdout=subprocess.PIPE if capture else None)
+        if r.returncode == 0:return r.stdout if capture else None
+        if attempt == 2:raise subprocess.CalledProcessError(r.returncode,args)
+        print(f'Network command retry {attempt+1}/2',flush=True)
+        time.sleep(10*(attempt+1))
 
 def save(path, data):
     tmp = path.with_suffix(path.suffix + '.tmp')
@@ -28,7 +33,8 @@ def save(path, data):
     tmp.replace(path)
 
 def eligible(path):
-    return not any(p in EXCLUDED or p.endswith('.pyc') for p in path.relative_to(ROOT).parts)
+    return not any(p in EXCLUDED or p.endswith('.pyc') or p.startswith('.voice-runtime')
+                   or p == '.env' or p.startswith('.env.') for p in path.relative_to(ROOT).parts)
 
 def prepare(tag):
     CACHE.mkdir(exist_ok=True)
@@ -66,16 +72,29 @@ def prepare(tag):
 
 def publish():
     inv=json.loads(MANIFEST.read_text());tag=inv['snapshot'];sources=json.loads((CACHE/'sources.json').read_text())
-    release=json.loads(run('gh','release','view',tag,'--repo',REPO,'--json','assets,isDraft',capture=True))
+    releases=json.loads(run('gh','api',f'repos/{REPO}/releases',capture=True))
+    release=next(r for r in releases if r['tag_name']==tag)
     remote={a['name']:a for a in release['assets']}
+    inflight_path=CACHE/'inflight.json'
+    inflight=json.loads(inflight_path.read_text()) if inflight_path.exists() else {}
     batches={}
     for h,o in inv['objects'].items():
         if o['release']==tag:batches.setdefault(o['bundle'],[]).append(h)
-    for name, hashes in sorted(batches.items()):
+    lock=threading.Lock()
+    def upload_batch(item):
+        name, hashes=item
         key=f'{tag}/{name}';known=inv['bundles'].get(key)
-        if known and name in remote:
-            print(f'Already uploaded and recorded: {name}',flush=True);continue
+        if known and name in remote and remote[name].get('digest')=='sha256:'+known['sha256'] and remote[name]['size']==known['size']:
+            print(f'Already uploaded and recorded: {name}',flush=True);return
         pack=CACHE/name
+        if name in inflight:
+            pid=inflight[name]
+            while True:
+                try:os.kill(pid,0)
+                except ProcessLookupError:break
+                time.sleep(2)
+            current=json.loads(run('gh','api',f'repos/{REPO}/releases/{release["id"]}',capture=True))
+            remote.update({a['name']:a for a in current['assets']})
         with tarfile.open(pack,'w') as tar:
             for h in hashes:
                 src=ROOT/sources[h]
@@ -85,14 +104,26 @@ def publish():
         digest=sha(pack);n=pack.stat().st_size
         if n >= 2*1024**3:raise RuntimeError('Bundle exceeds GitHub Release file limit')
         print(f'Uploading {name}: {n/1024**2:.1f} MiB',flush=True)
-        run('gh','release','upload',tag,str(pack),'--repo',REPO,'--clobber')
-        assets=json.loads(run('gh','api',f'repos/{REPO}/releases/tags/{tag}',capture=True))['assets']
+        existing=remote.get(name)
+        if not existing or existing.get('digest')!=f'sha256:{digest}' or existing['size']!=n:
+            run('gh','release','upload',tag,str(pack),'--repo',REPO,'--clobber')
+        assets=json.loads(run('gh','api',f'repos/{REPO}/releases/{release["id"]}',capture=True))['assets']
         uploaded=next(a for a in assets if a['name']==name)
         if uploaded['size']!=n or uploaded.get('digest')!=f'sha256:{digest}':raise RuntimeError(f'Remote checksum mismatch: {name}')
-        inv['bundles'][key]={'sha256':digest,'size':n,'download_url':uploaded['browser_download_url'],'asset_id':uploaded['id']}
-        save(MANIFEST,inv);pack.unlink()
+        with lock:
+            inv['bundles'][key]={'sha256':digest,'size':n,'download_url':uploaded['browser_download_url'],'asset_id':uploaded['id']}
+            save(MANIFEST,inv)
+        pack.unlink()
         print(f'Verified {name} on GitHub ({len(inv["bundles"])} bundle records)',flush=True)
+    small=[];large=[]
+    for item in sorted(batches.items()):
+        size=sum(inv['objects'][h]['size'] for h in item[1])
+        (large if size > 120*1024**2 else small).append(item)
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        list(pool.map(upload_batch,small))
+    for item in large:upload_batch(item)
     run('gh','release','upload',tag,str(MANIFEST),'--repo',REPO,'--clobber')
+    inflight_path.unlink(missing_ok=True)
     print('All content bundles uploaded and remote SHA-256 verified.',flush=True)
 
 def restore():

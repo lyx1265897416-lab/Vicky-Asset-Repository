@@ -1,0 +1,623 @@
+{
+  "repository": "lyx1265897416-lab/Vicky-Asset-Repository",
+  "snapshot": "snapshot-2026-10-12",
+  "content_file_count": 26017,
+  "logical_bytes": 20676066867,
+  "gallery_asset_count": 4043,
+  "bundles": [
+    {
+      "name": "objects-0001.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 496711680,
+      "sha256": "7d41d43d6d6be1d11d11622fbb518a39486c1701da5958b683fce3a5e6582e03"
+    },
+    {
+      "name": "objects-0002.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 502876160,
+      "sha256": "2c11b3ad5d276a55d62408d33acb30edb0045c2784b456a017df7d4720b8f5f0"
+    },
+    {
+      "name": "objects-0003.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 502558720,
+      "sha256": "df44850e0cdb56aec663775cc6f96258867c4d8958d6b8284a6e653336067a23"
+    },
+    {
+      "name": "objects-0004.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 502968320,
+      "sha256": "e19d7365eb3cdd0cbd7e7ad21fb0e8d96d2e62cb7b952f3872afb22289e9f5c0"
+    },
+    {
+      "name": "objects-0005.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 501391360,
+      "sha256": "38de02398b927cd8dca6bc9a9d3a80acc78fb37e854de90d0902bef86117b022"
+    },
+    {
+      "name": "objects-0006.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 501749760,
+      "sha256": "dca8b67582b10ffe323088198f505462ebfc05000e87f45e57569a784dae64f7"
+    },
+    {
+      "name": "objects-0007.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 502568960,
+      "sha256": "1440012565d9da5c97fb7d293bcd873cbfec8ab7b778b5de775df44c661476d7"
+    },
+    {
+      "name": "objects-0008.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 502732800,
+      "sha256": "ae0fd505c91e10046b9e8dcc8a0fe04822df3fdfcaa279761b4a0ab256d9525e"
+    },
+    {
+      "name": "objects-0009.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 501452800,
+      "sha256": "bafad227ac0afc06cbe44fb79b93ef8728e6992ca720c6ddbb99d52b81dccbdc"
+    },
+    {
+      "name": "objects-0010.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 500981760,
+      "sha256": "81671e7fd7fda7675099fbaac2d8580017c214c7c7fdeb1d65e15329ff773160"
+    },
+    {
+      "name": "objects-0011.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81848320,
+      "sha256": "ed0c56c3728225582abc893b9bc8e32cd86ada7e585740c450e50017ce211d6f"
+    },
+    {
+      "name": "objects-0012.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83097600,
+      "sha256": "6be80f44586d8fa163b162746e47c066e3550305b615459fc2a5140d1d4129f3"
+    },
+    {
+      "name": "objects-0013.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83302400,
+      "sha256": "f8eb19b7678b381c0618a37a3f22ad440f959a2670da5994655ad2dae5ddf302"
+    },
+    {
+      "name": "objects-0014.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82718720,
+      "sha256": "9c69af35fb7a9a2875f3dfb8ebdd43f8554262c719a7d59c96bd93bfb479ec36"
+    },
+    {
+      "name": "objects-0015.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83630080,
+      "sha256": "2aa7a45c091f62d7fe41241a6e7177bb1329dda934e5235f60d31922c074d45e"
+    },
+    {
+      "name": "objects-0016.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82309120,
+      "sha256": "dae8133929fe091bcd8af799aa066c4720a514c5cc25af3544479ae509f95653"
+    },
+    {
+      "name": "objects-0017.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82718720,
+      "sha256": "ed068b51e201942f6066b3a54f4808ec1157f58df84d747997c77a37157a7d16"
+    },
+    {
+      "name": "objects-0018.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82913280,
+      "sha256": "a77fcd1f8ab4531342516b1f7c925fdae74f35a94b307b45167376c704e09a41"
+    },
+    {
+      "name": "objects-0019.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82780160,
+      "sha256": "6aa66c39e42d830047918464c357a55e30688896645bb0b7b6c0a3c6bef45d3a"
+    },
+    {
+      "name": "objects-0020.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83343360,
+      "sha256": "6aeacb72584a8b59452856e48f0470ab13f8385c2fec9b775d0a6231d5c62ffa"
+    },
+    {
+      "name": "objects-0021.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83230720,
+      "sha256": "90e48efde2c344dee7cd2db1e33477ede6009c2afafa5d898e5d8f06e5ddfbd0"
+    },
+    {
+      "name": "objects-0022.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83322880,
+      "sha256": "ee7d3dc6f5a20b0172100f2e67502c43d7764f0d69dba916c198db35d9dd5ebf"
+    },
+    {
+      "name": "objects-0023.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83548160,
+      "sha256": "fd98415697b7a44e7dfd75340882c861da5f0810a4b3ddd5c4776734b1bdb7dd"
+    },
+    {
+      "name": "objects-0024.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82739200,
+      "sha256": "b980207105749d2115c9e867b44fc0835215215fe7d6cfa7bcc4b1b97bc55288"
+    },
+    {
+      "name": "objects-0025.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83281920,
+      "sha256": "529c7755ce876248382aa4c60ea16a35b23ed80b855536c3a8a95ed037a8ac6e"
+    },
+    {
+      "name": "objects-0026.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83169280,
+      "sha256": "a0a86360ef4673f1248386409d58059594d968ce7afb2059dc767417ca81f33b"
+    },
+    {
+      "name": "objects-0027.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82053120,
+      "sha256": "7bc4667137bad9cf7a5ecbe1c843372a11e2212aef8507b5c71e43b83684c7ee"
+    },
+    {
+      "name": "objects-0028.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83742720,
+      "sha256": "041edc546c7f7ef0ebc7d58b036be61a4c08843f225156b9898764389e8ca690"
+    },
+    {
+      "name": "objects-0029.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82862080,
+      "sha256": "23e77122f4d35c71591b3ca0ad5d0d2c3eb74041f690e5b972f7ff07d4cc93b9"
+    },
+    {
+      "name": "objects-0030.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83128320,
+      "sha256": "8b180aa8969f6434fc8a4183ba4f0d0af4b19450823dca5316d70041cde6ea53"
+    },
+    {
+      "name": "objects-0031.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83230720,
+      "sha256": "90a37634c432c4f7f60d8d370fff4901be699fd72820af00784c44fcb9dd0aee"
+    },
+    {
+      "name": "objects-0032.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83107840,
+      "sha256": "7c082d7c5b30bf2e670368a55c38f63bc53c6148d25984293a46c97babeafd27"
+    },
+    {
+      "name": "objects-0033.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82411520,
+      "sha256": "c10d0e6202d2d03bc5ee00242444457327fb534ff44cef711667fb4125ae52a2"
+    },
+    {
+      "name": "objects-0034.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82401280,
+      "sha256": "debef42d6f042b618c5c44c021bf170f53628cf07688b3e52b143e8812cb49a1"
+    },
+    {
+      "name": "objects-0035.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82575360,
+      "sha256": "1ddba10f9699f26131166892238c7de19e1253d99dd96f1656127f3588ae81a8"
+    },
+    {
+      "name": "objects-0036.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83302400,
+      "sha256": "b2b105b7c9165ca97395b32b67d75aa633015e9732840c93c172ad5b911ae6a2"
+    },
+    {
+      "name": "objects-0037.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82309120,
+      "sha256": "7c5af91b52f7f89b4db99f76185bb3c9f40ef30df4ee425e4e3cda1b709c08ba"
+    },
+    {
+      "name": "objects-0038.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82800640,
+      "sha256": "7b69f1d218bd0c3bcbca6829fff9a0f86562ff3938a3a7a56870803cbca32a22"
+    },
+    {
+      "name": "objects-0039.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82964480,
+      "sha256": "7078c8a3ca90a777a7331035200aa3e7a65ab70c403662fa517ab7c846aee847"
+    },
+    {
+      "name": "objects-0040.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83200000,
+      "sha256": "830c09933bdc7fabca60d6911a717b892d2cca7ff4bb48651b835569690f1a1d"
+    },
+    {
+      "name": "objects-0041.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83609600,
+      "sha256": "3eaafe85dbd6004135097b682954de9e677f0ccd455e1ed5878f6320556b6d30"
+    },
+    {
+      "name": "objects-0042.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83087360,
+      "sha256": "05bffc0e07908dcad8fb16091fb87e5315863fcd2d77a8c1347544c8ba1ca754"
+    },
+    {
+      "name": "objects-0043.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82513920,
+      "sha256": "18aca39073e0940fd76a8c26d848e268abc1117b185b4287e5005d093f285578"
+    },
+    {
+      "name": "objects-0044.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83660800,
+      "sha256": "ff559ab0d619dee23fa8e2cedc43c9bd2a028b8101ab0c1a2759bc8f7e340858"
+    },
+    {
+      "name": "objects-0045.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83742720,
+      "sha256": "d5ee50d7927eb496c01decb6489f2713da28b5dd706b60201f6af5d55622a911"
+    },
+    {
+      "name": "objects-0046.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83384320,
+      "sha256": "2f2a9accb018f58d976927eb1cdde24ee266913acf06f51d3a7aeecc707cab1c"
+    },
+    {
+      "name": "objects-0047.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83496960,
+      "sha256": "f6495e08f681bec6a7021bcfc7be9b13a6582ef0f52fedd5e2a1eeb3bac22aa5"
+    },
+    {
+      "name": "objects-0048.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83210240,
+      "sha256": "9a94af7ca5b225326aa66c7e6e67cbd0e3c04a6e00f926f435b19b6c0a742c72"
+    },
+    {
+      "name": "objects-0049.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83640320,
+      "sha256": "a472a07b7ee07ecd92bffb21f0943b5aa986bd18233ea91684a7174a3f0e6f12"
+    },
+    {
+      "name": "objects-0050.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83128320,
+      "sha256": "6d5b594785b048f9cf0642f5491136967079da0baee630ae5c4d3e27eadae139"
+    },
+    {
+      "name": "objects-0051.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83005440,
+      "sha256": "af5bbb690f27e15e1ad46cf6c8d879140d8869af1de994514c65aa6d9c3123e2"
+    },
+    {
+      "name": "objects-0052.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83056640,
+      "sha256": "62d7db3863e8239cf095aa8f1e94bba9402bcb47a8ad28e530ed2ff0b9d4e97e"
+    },
+    {
+      "name": "objects-0053.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82657280,
+      "sha256": "d4c38293f40ff290076bff83c20fc30980e7f7d968955b5ab687a2c60f06fa84"
+    },
+    {
+      "name": "objects-0054.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 78049280,
+      "sha256": "5d8e5635e01c4ba52d2c0601bd8fefbcd14046ca40b1c255ea13902d9c2b41a6"
+    },
+    {
+      "name": "objects-0055.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82810880,
+      "sha256": "afe7894ade810d893721d5c65ed22d9504a2dbe623d1a46dc7da88a78198ce7e"
+    },
+    {
+      "name": "objects-0056.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83333120,
+      "sha256": "4327bd537bed671331df188d160fd4a458d208deb30e892d151a946bfe21bd01"
+    },
+    {
+      "name": "objects-0057.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81725440,
+      "sha256": "9e5806e2d2ec01ac554c7688197ff3f209b4430a2582a99b230ac2da94a14e3e"
+    },
+    {
+      "name": "objects-0058.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 80394240,
+      "sha256": "9a559651387571e7b3e16350f9554295d4078b1abe2d68bb2055691e3be4ce07"
+    },
+    {
+      "name": "objects-0059.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82626560,
+      "sha256": "45f028c372dfb6038ab5ead2e4bc079bac43652c81ff3fbe21bede680b7ad98c"
+    },
+    {
+      "name": "objects-0060.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83363840,
+      "sha256": "5e09bad151e6487f988ed746dfeda4b6d68f7bda3e94be4ebcfed7add423bc25"
+    },
+    {
+      "name": "objects-0061.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81049600,
+      "sha256": "1b0368486c242cbc3ebe1143aa5593cb414281fb386da8ab86772dd32b7aeb46"
+    },
+    {
+      "name": "objects-0062.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 73666560,
+      "sha256": "ec54751dc0e69099bf30c2982ca41161533732b6830aff425f596c23c76eb382"
+    },
+    {
+      "name": "objects-0063.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 75253760,
+      "sha256": "31772ad25a8481b059916d789d2053e574ac270a57d9aa326ffecc322dfacfd2"
+    },
+    {
+      "name": "objects-0064.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 59504640,
+      "sha256": "c97f493112af957125a28d36c1bff066602f9dd745c540c4c0b3824184310b31"
+    },
+    {
+      "name": "objects-0065.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82759680,
+      "sha256": "09ec5cd6502a44fafd99ef96af57cd097f04b3c1b767e7b932d042b4d8e2d9f6"
+    },
+    {
+      "name": "objects-0066.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 73891840,
+      "sha256": "683f226a92192b5f535b22108fd183ad0282f1468af9d0e7a1acb8908d2b92ad"
+    },
+    {
+      "name": "objects-0067.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81981440,
+      "sha256": "dd087c45a7c35228fdf9930341bed936b8ece8e6dde54a8953635c6d1214cb5d"
+    },
+    {
+      "name": "objects-0068.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 80855040,
+      "sha256": "b96d967a461391ca9e3c5204eeb987b4634d1325e0c76a23bf7422cd287ba369"
+    },
+    {
+      "name": "objects-0069.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81981440,
+      "sha256": "5b927cbf2ea701aacd7113c20a77104538bbdb19d53fa8233edc9b936fd99f9b"
+    },
+    {
+      "name": "objects-0070.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81807360,
+      "sha256": "54606eff3299db65f4f6f4898d4716153e480bab3e3e4a38f560afceffce097d"
+    },
+    {
+      "name": "objects-0071.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83793920,
+      "sha256": "861b0e41e83f3373ee4a7e4256c2741074b78286bd8fbfa25f42c11fe0492a45"
+    },
+    {
+      "name": "objects-0072.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 54456320,
+      "sha256": "8ef971e65b98e7afd50d16264aa4e1719bf7a4dccab6a9e0640a15e031d5b736"
+    },
+    {
+      "name": "objects-0073.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 66457600,
+      "sha256": "55b3b1374a51434eef420ddde18b1a9a030eab327da78df893328243ccbb1197"
+    },
+    {
+      "name": "objects-0074.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 53227520,
+      "sha256": "f7fc490974997dc3c6320c08793c25aaf8881197422c34dd76cc5feae00d2949"
+    },
+    {
+      "name": "objects-0075.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81213440,
+      "sha256": "f116467c11fe6351124c7e13cabb579a988f24a8e2b0be6c0de7c82d2fe38cf3"
+    },
+    {
+      "name": "objects-0076.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 61685760,
+      "sha256": "2b08aad0e531bc07a632250607656690ee5164a7e027e1e85f90454e96af33a2"
+    },
+    {
+      "name": "objects-0077.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 50012160,
+      "sha256": "56af670482ec000d3c8c339e83938576e6b17fc467169405334e982ec08061da"
+    },
+    {
+      "name": "objects-0078.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83476480,
+      "sha256": "455ef5b1bea361edd82f66e89ab8ff93624a51d466b2ba8c444053427ea0b6f2"
+    },
+    {
+      "name": "objects-0079.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 52715520,
+      "sha256": "1c024c2fb07916485ee3d148901500c2720b7e0b6d15b3510048264f7d7a90af"
+    },
+    {
+      "name": "objects-0080.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 60846080,
+      "sha256": "b4887325012ad644163b05e30dbae272bbccfe708a4b9b1718b1dc673b671653"
+    },
+    {
+      "name": "objects-0081.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 51220480,
+      "sha256": "16101c6cf868380aaaf08f952d7ad9166a3108601c0ce5eedeb9f1036e9f4077"
+    },
+    {
+      "name": "objects-0082.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83855360,
+      "sha256": "67baa48196b79b25111f974b269a27cdc82ee9ce46159aeffbe44d4e22d75048"
+    },
+    {
+      "name": "objects-0083.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 9707520,
+      "sha256": "aec7ed45d63e92f82ac964e34416361366d245b7f0a275b16f6d9c5bd07b64a9"
+    },
+    {
+      "name": "objects-0084.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 157491200,
+      "sha256": "0ee96bc1fd5d028e5bd015a13b9784c38257b1aa9bfe2916588410e93aaf3e17"
+    },
+    {
+      "name": "objects-0085.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 39413760,
+      "sha256": "816f9335ec724ff8e474cca6838a97bb00476393a23b39d272cf56e6beecd5f5"
+    },
+    {
+      "name": "objects-0086.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 56238080,
+      "sha256": "faabb525fda05d9c9c193d06bb206f3593c4d2708b7ca3deef7bec906f486ef2"
+    },
+    {
+      "name": "objects-0087.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83568640,
+      "sha256": "272149e418be5c2dce9c64530e7c3b9b98211e65e58c25bf3586217b000f4bb6"
+    },
+    {
+      "name": "objects-0088.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 76216320,
+      "sha256": "8dc72cdd425640fcb95344ebe09ac672260a317d1269b7ad1b3d76d637de40f0"
+    },
+    {
+      "name": "objects-0089.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82227200,
+      "sha256": "493d2f9e697026ba018b74cdfab8040d92abe64785516d261ea3cbdbf1af7e46"
+    },
+    {
+      "name": "objects-0090.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 59340800,
+      "sha256": "d91bd7b932a213ab592db9ed7adc516fe88e112909235e1d63beb7364038e8d4"
+    },
+    {
+      "name": "objects-0091.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 83671040,
+      "sha256": "1db0f179709a23543c230d19a3c18a448c279b72e5a1ec8d34f672f5506a30ad"
+    },
+    {
+      "name": "objects-0092.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 37642240,
+      "sha256": "024422041a6f963f6e390b2d05736ea95608c4ddfe43530586a411d16daf1c39"
+    },
+    {
+      "name": "objects-0093.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 82104320,
+      "sha256": "eb8a523c16237408836291985dcb1db753855691d34ae0d28784534fe6f059ca"
+    },
+    {
+      "name": "objects-0094.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 81152000,
+      "sha256": "32e0b62c100225cb598c5a26d15039b729086e9963593e1bbe7f65dad1b482d2"
+    },
+    {
+      "name": "objects-0095.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 75509760,
+      "sha256": "73f29b12645bdb84c7b1eaa2f2e3bba0d9792636ecbaf7897abf0a6e2c710e9d"
+    },
+    {
+      "name": "objects-0096.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 75509760,
+      "sha256": "69d0bbff42ad457c327896bd3f951d00c7cb911aac62b223c1ab1ee6473ab757"
+    },
+    {
+      "name": "objects-0097.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 75560960,
+      "sha256": "fd96a88b92ea801dfb42b707694d5c5480525f0948a1dc1627db5ff1414c1cdc"
+    },
+    {
+      "name": "objects-0098.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 50339840,
+      "sha256": "301bf4c3a610dfa458bf6cac652a952dd0bbd09933a345b22ff2eaf241d9c776"
+    },
+    {
+      "name": "objects-0099.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 327219200,
+      "sha256": "a250602036b968cc0defa2db5bcc8ff97a7954366d9d54b20e879158839ff32b"
+    },
+    {
+      "name": "objects-0100.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 16261120,
+      "sha256": "e9846e3222e567d0250676a6cfb59bea3b8191c7479a25eaeb259a2846ec45a2"
+    },
+    {
+      "name": "objects-0101.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 327249920,
+      "sha256": "e429dfb8ed8333c5270752118283b665baf668399bd743e7db468e8d0903ad9e"
+    },
+    {
+      "name": "objects-0102.tar",
+      "release": "snapshot-2026-10-12",
+      "size": 12584960,
+      "sha256": "d6874a772f8ce4b7abe155bef167017dea96f5428ed89173fae97a5553e5b462"
+    }
+  ],
+  "verification": "Every bundle remote state, size and SHA-256 matches the local inventory; release inventory SHA-256 matches exactly.",
+  "restoration_test": "Synthetic duplicate-path fixture plus three actual uploaded-bundle assets restored with exact SHA-256."
+}
