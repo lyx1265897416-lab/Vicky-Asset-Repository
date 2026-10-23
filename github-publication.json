@@ -1,9 +1,9 @@
 {
   "repository": "lyx1265897416-lab/Vicky-Asset-Repository",
-  "snapshot": "snapshot-2026-10-12",
-  "content_file_count": 26017,
-  "logical_bytes": 20676066867,
-  "gallery_asset_count": 4043,
+  "snapshot": "snapshot-2026-10-23",
+  "content_file_count": 27181,
+  "logical_bytes": 20007335433,
+  "gallery_asset_count": 4217,
   "bundles": [
     {
       "name": "objects-0001.tar",
@@ -402,34 +402,10 @@
       "sha256": "683f226a92192b5f535b22108fd183ad0282f1468af9d0e7a1acb8908d2b92ad"
     },
     {
-      "name": "objects-0067.tar",
-      "release": "snapshot-2026-10-12",
-      "size": 81981440,
-      "sha256": "dd087c45a7c35228fdf9930341bed936b8ece8e6dde54a8953635c6d1214cb5d"
-    },
-    {
-      "name": "objects-0068.tar",
-      "release": "snapshot-2026-10-12",
-      "size": 80855040,
-      "sha256": "b96d967a461391ca9e3c5204eeb987b4634d1325e0c76a23bf7422cd287ba369"
-    },
-    {
-      "name": "objects-0069.tar",
-      "release": "snapshot-2026-10-12",
-      "size": 81981440,
-      "sha256": "5b927cbf2ea701aacd7113c20a77104538bbdb19d53fa8233edc9b936fd99f9b"
-    },
-    {
       "name": "objects-0070.tar",
       "release": "snapshot-2026-10-12",
       "size": 81807360,
       "sha256": "54606eff3299db65f4f6f4898d4716153e480bab3e3e4a38f560afceffce097d"
-    },
-    {
-      "name": "objects-0071.tar",
-      "release": "snapshot-2026-10-12",
-      "size": 83793920,
-      "sha256": "861b0e41e83f3373ee4a7e4256c2741074b78286bd8fbfa25f42c11fe0492a45"
     },
     {
       "name": "objects-0072.tar",
@@ -460,12 +436,6 @@
       "release": "snapshot-2026-10-12",
       "size": 61685760,
       "sha256": "2b08aad0e531bc07a632250607656690ee5164a7e027e1e85f90454e96af33a2"
-    },
-    {
-      "name": "objects-0077.tar",
-      "release": "snapshot-2026-10-12",
-      "size": 50012160,
-      "sha256": "56af670482ec000d3c8c339e83938576e6b17fc467169405334e982ec08061da"
     },
     {
       "name": "objects-0078.tar",
@@ -616,8 +586,138 @@
       "release": "snapshot-2026-10-12",
       "size": 12584960,
       "sha256": "d6874a772f8ce4b7abe155bef167017dea96f5428ed89173fae97a5553e5b462"
+    },
+    {
+      "name": "objects-0001.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 81469440,
+      "sha256": "42706625e801a9f450bd2556417a88ba9209a4d83301b9f9e5eff4f1cc1c20d4"
+    },
+    {
+      "name": "objects-0002.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 82903040,
+      "sha256": "c93bdfa19889e5469eb308361dc64997b703188f00edd61333283d646a524c86"
+    },
+    {
+      "name": "objects-0003.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 83589120,
+      "sha256": "5c6fa6d5d332dff1449f16e9e8831cd6f03141e0dd1dd40373c9b3c3b76a0cee"
+    },
+    {
+      "name": "objects-0004.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 81377280,
+      "sha256": "a8aead47395fd2d1ce02c36c436193d6173db91babbf4990d73b8faaddda1d62"
+    },
+    {
+      "name": "objects-0005.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 83251200,
+      "sha256": "b51aeaf406ee85be94d900f4d0beb3d4a30bc89b4807cab3fdd9a69f5408338b"
+    },
+    {
+      "name": "objects-0006.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 83015680,
+      "sha256": "40a844f4b534ae84170fdcac67d47e1d79ad72499c23fe43aa6542a8b8e85295"
+    },
+    {
+      "name": "objects-0007.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 133724160,
+      "sha256": "e60bcd89ba859264e3d416f51a1405234cedd5c3cdf5d3f899eb6b36e53691e7"
+    },
+    {
+      "name": "objects-0008.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 83578880,
+      "sha256": "2f131901ee44afa22d098482e576dbb15e31cd091497540cb3afc202d8ecf067"
+    },
+    {
+      "name": "objects-0009.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 66416640,
+      "sha256": "b2954411ec66d542aaa877dfec5f0ac823d587320ab165cbfc9c816c337ebfe0"
+    },
+    {
+      "name": "objects-0010.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 72099840,
+      "sha256": "2d8c9eed61c6065c4821b7734c2f9d41b6cd5c27fe2119c85523691b01eb560a"
+    },
+    {
+      "name": "objects-0011.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 74106880,
+      "sha256": "5f487ca4bd03d269c82559a058f8be7f45313de541a2c055c6dc0f8683af2bb1"
+    },
+    {
+      "name": "objects-0012.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 83189760,
+      "sha256": "24e96964dd357902c1d3481fec3292045a96db11aca60646f3454f11d3527a1f"
+    },
+    {
+      "name": "objects-0013.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 62300160,
+      "sha256": "f435d8fb27ad0a67340ba0243e4b283e49b139f45ce692ba60c71e0788cbfa01"
+    },
+    {
+      "name": "objects-0014.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 73216000,
+      "sha256": "a53022d36b798a22defea5c3177624aa3e5d06bab077f7d33b340d12d090239b"
+    },
+    {
+      "name": "objects-0015.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 70164480,
+      "sha256": "a45649a7e51a73b71b75add0d197744474d5604739c3356b2c78090bbad56b40"
+    },
+    {
+      "name": "objects-0016.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 70051840,
+      "sha256": "9c77eab81bdfc703407d3eb400de6655e4f3e87574ef30ea5e009fc5f23b5818"
+    },
+    {
+      "name": "objects-0017.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 82821120,
+      "sha256": "8e6face88e420c5255cd385b0fb10584ef4ba1195d43e3bd1cc346c67c0cf5d6"
+    },
+    {
+      "name": "objects-0018.tar",
+      "release": "snapshot-2026-10-23",
+      "size": 6522880,
+      "sha256": "baad042a484570a1d620aaa10ff8cc77a1c118db01d2fd8ab5d449ceb60f9523"
     }
   ],
   "verification": "Every bundle remote state, size and SHA-256 matches the local inventory; release inventory SHA-256 matches exactly.",
-  "restoration_test": "Synthetic duplicate-path fixture plus three actual uploaded-bundle assets restored with exact SHA-256."
+  "restoration_test": {
+    "snapshot": "snapshot-2026-10-23",
+    "status": "passed",
+    "bundle": "objects-0009.tar",
+    "files": [
+      {
+        "path": "assets/voices/voice-character-casting-20261014/approved/C09-eleven.wav",
+        "sha256": "3e26c857259832bc973a24346ae12a50523cae059906900c2ec6704b4d1bba97",
+        "size": 1086702
+      },
+      {
+        "path": "assets/voices/voice-character-casting-20261014/approved/C09-gemini.wav",
+        "sha256": "72aa590d134366dfd1cc39152d0614349f2c89e0a820c221521cc7aabe2ccbac",
+        "size": 660558
+      },
+      {
+        "path": "assets/voices/voice-character-casting-20261014/approved/C11-eleven.wav",
+        "sha256": "c3b78b0bfb56c089105f2ca489ff468827576f2d2a7c7166a148f193e1c42fc4",
+        "size": 1058478
+      }
+    ],
+    "method": "Downloaded the private GitHub release bundle, verified its SHA-256, and restored three assets with exact size and SHA-256."
+  }
 }

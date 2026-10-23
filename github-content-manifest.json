@@ -253898,6 +253898,114 @@
       "size": 327249920,
       "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-baf959dc178aef0a4e26/objects-0101.tar",
       "asset_id": 634034168
+    },
+    "snapshot-2026-10-23/objects-0002.tar": {
+      "sha256": "c93bdfa19889e5469eb308361dc64997b703188f00edd61333283d646a524c86",
+      "size": 82903040,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0002.tar",
+      "asset_id": 668600392
+    },
+    "snapshot-2026-10-23/objects-0003.tar": {
+      "sha256": "5c6fa6d5d332dff1449f16e9e8831cd6f03141e0dd1dd40373c9b3c3b76a0cee",
+      "size": 83589120,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0003.tar",
+      "asset_id": 668600320
+    },
+    "snapshot-2026-10-23/objects-0001.tar": {
+      "sha256": "42706625e801a9f450bd2556417a88ba9209a4d83301b9f9e5eff4f1cc1c20d4",
+      "size": 81469440,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0001.tar",
+      "asset_id": 668600319
+    },
+    "snapshot-2026-10-23/objects-0004.tar": {
+      "sha256": "a8aead47395fd2d1ce02c36c436193d6173db91babbf4990d73b8faaddda1d62",
+      "size": 81377280,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0004.tar",
+      "asset_id": 668628847
+    },
+    "snapshot-2026-10-23/objects-0006.tar": {
+      "sha256": "40a844f4b534ae84170fdcac67d47e1d79ad72499c23fe43aa6542a8b8e85295",
+      "size": 83015680,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0006.tar",
+      "asset_id": 668629497
+    },
+    "snapshot-2026-10-23/objects-0005.tar": {
+      "sha256": "b51aeaf406ee85be94d900f4d0beb3d4a30bc89b4807cab3fdd9a69f5408338b",
+      "size": 83251200,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0005.tar",
+      "asset_id": 668628939
+    },
+    "snapshot-2026-10-23/objects-0008.tar": {
+      "sha256": "2f131901ee44afa22d098482e576dbb15e31cd091497540cb3afc202d8ecf067",
+      "size": 83578880,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0008.tar",
+      "asset_id": 668651470
+    },
+    "snapshot-2026-10-23/objects-0009.tar": {
+      "sha256": "b2954411ec66d542aaa877dfec5f0ac823d587320ab165cbfc9c816c337ebfe0",
+      "size": 66416640,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0009.tar",
+      "asset_id": 668655734
+    },
+    "snapshot-2026-10-23/objects-0010.tar": {
+      "sha256": "2d8c9eed61c6065c4821b7734c2f9d41b6cd5c27fe2119c85523691b01eb560a",
+      "size": 72099840,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0010.tar",
+      "asset_id": 668655806
+    },
+    "snapshot-2026-10-23/objects-0011.tar": {
+      "sha256": "5f487ca4bd03d269c82559a058f8be7f45313de541a2c055c6dc0f8683af2bb1",
+      "size": 74106880,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0011.tar",
+      "asset_id": 668677002
+    },
+    "snapshot-2026-10-23/objects-0013.tar": {
+      "sha256": "f435d8fb27ad0a67340ba0243e4b283e49b139f45ce692ba60c71e0788cbfa01",
+      "size": 62300160,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0013.tar",
+      "asset_id": 668686565
+    },
+    "snapshot-2026-10-23/objects-0012.tar": {
+      "sha256": "24e96964dd357902c1d3481fec3292045a96db11aca60646f3454f11d3527a1f",
+      "size": 83189760,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0012.tar",
+      "asset_id": 668681238
+    },
+    "snapshot-2026-10-23/objects-0014.tar": {
+      "sha256": "a53022d36b798a22defea5c3177624aa3e5d06bab077f7d33b340d12d090239b",
+      "size": 73216000,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0014.tar",
+      "asset_id": 668704995
+    },
+    "snapshot-2026-10-23/objects-0016.tar": {
+      "sha256": "9c77eab81bdfc703407d3eb400de6655e4f3e87574ef30ea5e009fc5f23b5818",
+      "size": 70051840,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0016.tar",
+      "asset_id": 668712290
+    },
+    "snapshot-2026-10-23/objects-0015.tar": {
+      "sha256": "a45649a7e51a73b71b75add0d197744474d5604739c3356b2c78090bbad56b40",
+      "size": 70164480,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0015.tar",
+      "asset_id": 668712204
+    },
+    "snapshot-2026-10-23/objects-0018.tar": {
+      "sha256": "baad042a484570a1d620aaa10ff8cc77a1c118db01d2fd8ab5d449ceb60f9523",
+      "size": 6522880,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0018.tar",
+      "asset_id": 668731147
+    },
+    "snapshot-2026-10-23/objects-0017.tar": {
+      "sha256": "8e6face88e420c5255cd385b0fb10584ef4ba1195d43e3bd1cc346c67c0cf5d6",
+      "size": 82821120,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0017.tar",
+      "asset_id": 668723420
+    },
+    "snapshot-2026-10-23/objects-0007.tar": {
+      "sha256": "e60bcd89ba859264e3d416f51a1405234cedd5c3cdf5d3f899eb6b36e53691e7",
+      "size": 133724160,
+      "download_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/download/untagged-689d612aa3c55bf521d6/objects-0007.tar",
+      "asset_id": 668741182
     }
   }
 }
