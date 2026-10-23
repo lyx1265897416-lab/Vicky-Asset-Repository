@@ -7,12 +7,12 @@ function audioAsset(item,kind=activeKind){
 const baseVoiceList=voiceList,baseBgmList=bgmList;
 voiceList=function(){return baseVoiceList().filter(v=>activeCollection==='trash'?isTrashed(audioAsset(v,'voice')):!isTrashed(audioAsset(v,'voice')))};
 bgmList=function(){return baseBgmList().filter(v=>activeCollection==='trash'?isTrashed(audioAsset(v,'bgm')):!isTrashed(audioAsset(v,'bgm')))};
-function batchList(){return activeKind==='voice'?voiceList().map(v=>audioAsset(v)):activeKind==='bgm'?bgmList().map(v=>audioAsset(v)):filtered()}
+function batchList(){return activeKind==='voice'?voiceList().map(v=>audioAsset(v)):activeKind==='bgm'?bgmList().map(v=>audioAsset(v)):activeKind==='video'?videoList().map(videoAsset):filtered()}
 selectedList=function(){return batchList().filter(a=>selectedAssets.has(favoriteKey(a)))};
 renderBulkBar=function(){
  const list=batchList(),allowed=new Set(list.map(favoriteKey));
  selectedAssets=new Set([...selectedAssets].filter(k=>allowed.has(k)));
- const count=selectedList().length,audio=isAudioLibrary(),b=document.getElementById('batch-mode');
+ const count=selectedList().length,audio=isAudioLibrary()||activeKind==='video',b=document.getElementById('batch-mode');
  b.hidden=false;b.textContent=selectionMode?'完成选择':'批量选择';b.setAttribute('aria-pressed',String(selectionMode));
  document.getElementById('bulk-bar').hidden=!selectionMode;
  document.querySelector('.batch-dock').hidden=!selectionMode;
@@ -37,6 +37,12 @@ renderControls=function(){
  }
  const tools=controls.querySelector('.navigation-tools'),recycle=tools.querySelector('.recycle-shortcut');
  const actions=document.createElement('div');actions.className='library-selection-tools';
+ for(const [edge,label] of [['top','↑ 置顶'],['bottom','↓ 置底']]){
+  const jump=document.createElement('button');jump.type='button';jump.id='library-scroll-'+edge;jump.className='library-scroll-button';jump.textContent=label;
+  jump.title=edge==='top'?'跳到页面顶部':'跳到当前素材列表底部';
+  jump.onclick=()=>window.scrollTo({top:edge==='top'?0:document.documentElement.scrollHeight,behavior:'instant'});
+  actions.append(jump);
+ }
  actions.append(batchModeButton);if(recycle)actions.append(recycle);
  if(isAudioLibrary()){
   const filters=document.createElement('div');filters.className='audio-filter-strip';
@@ -47,12 +53,22 @@ renderControls=function(){
 };
 const bulkGridBase=renderGrid;let lastBatchScope='';
 renderGrid=function(){
- const scope=JSON.stringify([activeKind,activeCollection,query,activeStyle,activeSpecies,activeCategory,activeCharacter,activeProject,activeReadiness,activeGender,voiceProject,voiceGender,voiceAge,voiceRole,voiceLanguage,voiceLicense,bgmProject,bgmCategory,bgmOrder]);
+ closeCardMenu();
+ const scope=JSON.stringify([activeKind,activeCollection,query,activeStyle,activeSpecies,activeCategory,activeCharacter,activeProject,activeReadiness,activeGender,voiceProject,voiceGender,voiceAge,voiceRole,voiceLanguage,voiceLicense,bgmProject,bgmCategory,bgmOrder,videoCategory]);
  if(scope!==lastBatchScope){selectedAssets.clear();lastBatchScope=scope}
  bulkGridBase();
  if(isAudioLibrary()){
   if(activeCollection==='trash')title.textContent='回收站 · '+kindLabels[activeKind];
   const items=batchList();
+  if(activeKind==='voice'){
+   grid.querySelectorAll('.voice-card').forEach((card,index)=>{
+    card.insertAdjacentHTML('beforeend',cardActions(items[index],index));
+    const footer=card.querySelector('.card-bottom');
+    footer.classList.add('voice-actions');
+    footer.prepend(card.querySelector('.voice-downloads'));
+   });
+   bindCardActions(items);
+  }
   grid.querySelectorAll('.voice-card,.bgm-card').forEach(card=>{
    const key=activeKind+':'+(card.dataset.voiceId||card.dataset.bgmId),item=items.find(a=>a.id===key);
    if(!item)return;card.classList.toggle('selected',selectedAssets.has(key));

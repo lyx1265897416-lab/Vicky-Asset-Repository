@@ -11898,6 +11898,545 @@
           "confirmed_on": "2026-09-28"
         }
       }
+    },
+    {
+      "id": "human.magnus-thorne-rugged-20261014",
+      "display_name_zh": "Magnus Thorne · 硬朗胡茬版",
+      "display_name_en": "Magnus Thorne — Rugged stubble",
+      "source_project": "dulci-magnus-thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "user_confirmed_portrait",
+      "gender": "male",
+      "age": 34,
+      "height_cm": 193,
+      "appearance": "34-year-old handsome mature man, deep warm bronze skin, broad angular rectangular face, pronounced brow ridge, thick dark brows, deep-set amber-brown eyes, strong straight slightly broad nose, defined medium-full lips, softly squared jaw, fine short dark moustache and jaw stubble, swept-back dense short black hair with loose forehead strands.",
+      "narrative_character": "Magnus Thorne",
+      "visual_variant": "rugged",
+      "identity_anchor": "assets/3d/magnus-thorne-20261014/rugged--identity.png",
+      "reference_assets": [
+        "assets/3d/magnus-thorne-20261014/rugged--identity.png",
+        "assets/3d/magnus-thorne-20261014/rugged--front.png",
+        "assets/3d/magnus-thorne-20261014/rugged--full_body.png",
+        "assets/3d/magnus-thorne-20261014/rugged--body_turnaround.png",
+        "assets/3d/magnus-thorne-20261014/rugged--head_angles.png",
+        "assets/3d/magnus-thorne-20261014/rugged--expression_grid.png"
+      ],
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-thorne-approved-20261014",
+        "note": "确认这两个形象，按 Vicky 角色库要求补齐相关图片后加入角色库",
+        "exact_source": "/Users/vicky/Library/Application Support/Codex-Second-Account/codex-home/generated_images/01a0c35e-066a-7d61-9774-ba1d937299e0/exec-ddb61eb5-1184-4bf9-ab0f-84131ddba5bb.png"
+      },
+      "generation_guardrails": [
+        "严格使用本版本母版锁定脸部、肤色、发型及胡茬状态，不混用另一版本。",
+        "193cm，高挑约8–9头身模特比例，保持正常头肩关系与优雅男性颈部，不恢复粗脖子或耸肩。",
+        "同一套黑色西装、炭灰衬衫、松领带与黑皮鞋，全身与三视图服装一致。",
+        "狼人为人形；不自行添加兽耳、獠牙、纹身或发光金瞳。"
+      ],
+      "view_assets": {
+        "instance": {
+          "path": "assets/3d/magnus-thorne-20261014/rugged--identity.png",
+          "status": "confirmed"
+        },
+        "front": {
+          "path": "assets/3d/magnus-thorne-20261014/rugged--front.png",
+          "status": "current_production"
+        },
+        "full_body": {
+          "path": "assets/3d/magnus-thorne-20261014/rugged--full_body.png",
+          "status": "current_production"
+        },
+        "body_turnaround": {
+          "path": "assets/3d/magnus-thorne-20261014/rugged--body_turnaround.png",
+          "status": "current_production"
+        },
+        "head_angles": {
+          "path": "assets/3d/magnus-thorne-20261014/rugged--head_angles.png",
+          "status": "current_production"
+        },
+        "expression_grid": {
+          "path": "assets/3d/magnus-thorne-20261014/rugged--expression_grid.png",
+          "status": "current_production"
+        }
+      }
+    },
+    {
+      "id": "human.magnus-thorne-refined-20261014",
+      "display_name_zh": "Magnus Thorne · 净面俊美版",
+      "display_name_en": "Magnus Thorne — Refined clean-shaven",
+      "source_project": "dulci-magnus-thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "user_confirmed_portrait",
+      "gender": "male",
+      "age": 34,
+      "height_cm": 193,
+      "appearance": "34-year-old handsome mature man, warm light bronze skin, balanced diamond-oval face, sculpted cheekbones, strong neatly defined brows, hooded expressive amber-brown eyes, straight refined nose, full finely shaped lips, defined angular jaw with rounded squared chin, completely clean-shaven, voluminous dry black hair brushed back with soft side-part and loose face-framing strands.",
+      "narrative_character": "Magnus Thorne",
+      "visual_variant": "refined",
+      "identity_anchor": "assets/3d/magnus-thorne-20261014/refined--identity.png",
+      "reference_assets": [
+        "assets/3d/magnus-thorne-20261014/refined--identity.png",
+        "assets/3d/magnus-thorne-20261014/refined--front.png",
+        "assets/3d/magnus-thorne-20261014/refined--full_body.png",
+        "assets/3d/magnus-thorne-20261014/refined--body_turnaround.png",
+        "assets/3d/magnus-thorne-20261014/refined--head_angles.png",
+        "assets/3d/magnus-thorne-20261014/refined--expression_grid.png"
+      ],
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-thorne-approved-20261014",
+        "note": "确认这两个形象，按 Vicky 角色库要求补齐相关图片后加入角色库",
+        "exact_source": "/Users/vicky/Library/Application Support/Codex-Second-Account/codex-home/generated_images/01a0c35e-066a-7d61-9774-ba1d937299e0/exec-11691482-b2b5-43ec-a229-b039fbfe77b7.png"
+      },
+      "generation_guardrails": [
+        "严格使用本版本母版锁定脸部、肤色、发型及胡茬状态，不混用另一版本。",
+        "193cm，高挑约8–9头身模特比例，保持正常头肩关系与优雅男性颈部，不恢复粗脖子或耸肩。",
+        "同一套黑色西装、炭灰衬衫、松领带与黑皮鞋，全身与三视图服装一致。",
+        "狼人为人形；不自行添加兽耳、獠牙、纹身或发光金瞳。"
+      ],
+      "view_assets": {
+        "instance": {
+          "path": "assets/3d/magnus-thorne-20261014/refined--identity.png",
+          "status": "confirmed"
+        },
+        "front": {
+          "path": "assets/3d/magnus-thorne-20261014/refined--front.png",
+          "status": "current_production"
+        },
+        "full_body": {
+          "path": "assets/3d/magnus-thorne-20261014/refined--full_body.png",
+          "status": "current_production"
+        },
+        "body_turnaround": {
+          "path": "assets/3d/magnus-thorne-20261014/refined--body_turnaround.png",
+          "status": "current_production"
+        },
+        "head_angles": {
+          "path": "assets/3d/magnus-thorne-20261014/refined--head_angles.png",
+          "status": "current_production"
+        },
+        "expression_grid": {
+          "path": "assets/3d/magnus-thorne-20261014/refined--expression_grid.png",
+          "status": "current_production"
+        }
+      }
+    },
+    {
+      "id": "human.magnus-heroines-complete-20261014-01",
+      "display_name_zh": "Magnus 女主 01 · 榛栗微光",
+      "display_name_en": "Magnus heroine 01",
+      "source_project": "magnus-heroines-complete-20261014",
+      "visual_family": "otome_2d5d_3d",
+      "species": "human",
+      "gender": "female",
+      "canonical_status": "user_confirmed_portrait",
+      "appearance": "24-year-old adult human woman. Chestnut-brown long soft waves with a natural side part, hazel-green eyes. Broad softly heart-shaped face, gently rounded cheekbones, low softly arched brows, slightly rounded upturned nose, medium full rose lips, small rounded chin. Warm ivory skin with very subtle freckles at the nose. Quiet warm closed-mouth half-smile, direct steady eyes showing inner resolve. Cream fine-knit cardigan worn normally over an opaque sage-green square-neck top, tiny brushed gold oval pendant and small gold studs. Natural understated makeup. Warm approachable everyday city woman, emotionally grounded rather than fragile or childlike.",
+      "current_outfit": "Sophisticated light contemporary romantic outfit: a fitted IVORY fine-knit CROPPED cardigan ending at the natural waist, neat shoulder seams, delicate small pearl buttons, worn open over the same sage square-neck camisole. A high-waisted sage-green silk SATIN bias-cut midi skirt, slim fluid drape skimming the hips and gently flaring, hem below the knee but well above ankle, subtle side slit only to knee. Ivory pointed-toe slingback pumps with a slim 5cm heel. No heavy ankle boots, no bulky long cardigan, no pleated volume. Same gold studs and oval pendant. Graceful 7.8-head adult proportions, slightly longer legs, natural waist, balanced shoulder width, elegant neck. This is gentle modern romantic fashion, not a conservative country outfit.",
+      "reference_assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-expression_grid.png"
+      ],
+      "identity_anchor": "assets/3d/magnus-heroines-complete-20261014/heroine-01-front.png",
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-heroines-complete-20261014",
+        "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+      },
+      "generation_guardrails": [
+        "保持已确认正面图的独立身份、五官、发型和肤色。",
+        "01、03使用最新优化全身造型；旧全身图不得作为生成入口。",
+        "白底乙游2.5D/3D；全身、三视图和表情保持同一角色。"
+      ]
+    },
+    {
+      "id": "human.magnus-heroines-complete-20261014-02",
+      "display_name_zh": "Magnus 女主 02 · 墨夜清醒",
+      "display_name_en": "Magnus heroine 02",
+      "source_project": "magnus-heroines-complete-20261014",
+      "visual_family": "otome_2d5d_3d",
+      "species": "human",
+      "gender": "female",
+      "canonical_status": "user_confirmed_portrait",
+      "appearance": "28-year-old adult human woman. Sleek black blunt jaw-length bob with a deep side part, dark brown narrow almond eyes. Long angular oval face, high sculpted cheekbones, broad straight brows, prominent slightly convex nose bridge, defined wide cupid-bow lips, strong softly squared jaw. Light olive complexion. A calm appraising direct gaze and a faint asymmetric closed-mouth smile. Tailored charcoal blazer worn over a fully opaque ivory silk crew-neck blouse, minimalist silver bar earrings. Refined modern professional, confident and independent, an intellectual equal to a powerful man. Subtle natural makeup, no glasses.",
+      "current_outfit": "The charcoal tailored blazer is hip-length over the ivory blouse. Add matching high-waisted charcoal straight-leg tailored trousers and black leather loafers. Tall slim adult physique, about 173 cm and 7.7 heads tall.",
+      "reference_assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-expression_grid.png"
+      ],
+      "identity_anchor": "assets/3d/magnus-heroines-complete-20261014/heroine-02-front.png",
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-heroines-complete-20261014",
+        "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+      },
+      "generation_guardrails": [
+        "保持已确认正面图的独立身份、五官、发型和肤色。",
+        "01、03使用最新优化全身造型；旧全身图不得作为生成入口。",
+        "白底乙游2.5D/3D；全身、三视图和表情保持同一角色。"
+      ]
+    },
+    {
+      "id": "human.magnus-heroines-complete-20261014-03",
+      "display_name_zh": "Magnus 女主 03 · 赤铜晴焰",
+      "display_name_en": "Magnus heroine 03",
+      "source_project": "magnus-heroines-complete-20261014",
+      "visual_family": "otome_2d5d_3d",
+      "species": "human",
+      "gender": "female",
+      "canonical_status": "user_confirmed_portrait",
+      "appearance": "25-year-old adult human woman. Copper-auburn shoulder-length loose curls, wispy asymmetrical fringe, blue-gray slightly hooded eyes. Compact oval face, wider cheeks, straight short nose with rounded tip, strong natural auburn brows, wider mouth with a distinctive fuller lower lip and subtle smile dimple. Fair peach skin with visible delicate freckles on nose and cheeks. Witty alert closed-mouth smile and confident playful gaze, clearly adult. Rust-red leather cropped jacket over a fully opaque ecru scoop-neck cotton shirt, small gold hoop earrings, no hairband. Contemporary creative city woman with lively courage, no childish styling.",
+      "current_outfit": "Fashion-forward contemporary city outfit: a sharply tailored BURNT-COPPER cropped leather biker jacket with defined shoulder seams and tapered waist, hem just above the waist, over the same fitted opaque ecru scoop-neck top tucked in. High-waisted charcoal structured A-line mini skirt, tasteful mid-thigh hem, subtle off-center wrap seam and small gunmetal buckle, no excessive straps. Sleek black knee-high fitted leather boots with almond-point toes and elegant 5cm heels. Bare knees, no tights. Keep original small gold hoops. Balanced graceful 7.8-head adult proportions with long legs, natural hips and waist, elegant neck, NOT oversized head, not extreme thinness. Contemporary spirited editorial fashion, not generic jeans and ankle boots.",
+      "reference_assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-expression_grid.png"
+      ],
+      "identity_anchor": "assets/3d/magnus-heroines-complete-20261014/heroine-03-front.png",
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-heroines-complete-20261014",
+        "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+      },
+      "generation_guardrails": [
+        "保持已确认正面图的独立身份、五官、发型和肤色。",
+        "01、03使用最新优化全身造型；旧全身图不得作为生成入口。",
+        "白底乙游2.5D/3D；全身、三视图和表情保持同一角色。"
+      ]
+    },
+    {
+      "id": "human.magnus-heroines-complete-20261014-04",
+      "display_name_zh": "Magnus 女主 04 · 琥珀暮色",
+      "display_name_en": "Magnus heroine 04",
+      "source_project": "magnus-heroines-complete-20261014",
+      "visual_family": "otome_2d5d_3d",
+      "species": "human",
+      "gender": "female",
+      "canonical_status": "user_confirmed_portrait",
+      "appearance": "29-year-old adult human woman. Deep espresso-brown thick natural curls falling to shoulders, asymmetric side part. Rich medium-brown skin with warm golden undertone. Wide oval face, strong cheekbones, broad straight nose with softly rounded tip, dark amber almond eyes, full deep rose-brown lips, substantial rounded jaw and elegant adult proportions. Relaxed self-assured direct gaze, soft closed-mouth knowing smile. Muted terracotta matte blouse with simple open collar, fully opaque and modest, delicate gold hoops and fine chain. Understated elegant contemporary city woman, warm and capable, no fantasy ornaments.",
+      "current_outfit": "The terracotta collared blouse is tucked into high-waisted ivory wide-leg tailored trousers, with a narrow cognac belt and brown closed-toe leather flats. Graceful natural adult physique, about 172 cm and 7.7 heads tall.",
+      "reference_assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-expression_grid.png"
+      ],
+      "identity_anchor": "assets/3d/magnus-heroines-complete-20261014/heroine-04-front.png",
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-heroines-complete-20261014",
+        "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+      },
+      "generation_guardrails": [
+        "保持已确认正面图的独立身份、五官、发型和肤色。",
+        "01、03使用最新优化全身造型；旧全身图不得作为生成入口。",
+        "白底乙游2.5D/3D；全身、三视图和表情保持同一角色。"
+      ]
+    },
+    {
+      "id": "human.magnus-heroines-complete-20261014-05",
+      "display_name_zh": "Magnus 女主 05 · 雾金月光",
+      "display_name_en": "Magnus heroine 05",
+      "source_project": "magnus-heroines-complete-20261014",
+      "visual_family": "otome_2d5d_3d",
+      "species": "human",
+      "gender": "female",
+      "canonical_status": "user_confirmed_portrait",
+      "appearance": "26-year-old adult human woman. Dark-rooted ash-blonde long straight hair tucked behind one ear, clean off-center part, gray-green deep-set eyes. Elongated diamond face, angular high cheekbones, straight fine brows, long straight nose, thin upper lip with fuller lower lip, slightly broad squared chin. Fair cool beige skin with subtle natural texture. Composed watchful closed-mouth expression, intelligent quiet confidence, not blank doll eyes. Dusty-blue fine-gauge turtleneck and a light taupe wool coat worn normally, tiny silver studs, no necklace. Refined understated modern urban woman, subtle cool makeup, no fantasy costume.",
+      "current_outfit": "The light taupe wool coat reaches the knees, worn open over the dusty-blue turtleneck. Add charcoal slim straight-leg trousers and taupe leather ankle boots with low block heels. Tall slim adult physique, about 175 cm and 7.8 heads tall.",
+      "reference_assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-expression_grid.png"
+      ],
+      "identity_anchor": "assets/3d/magnus-heroines-complete-20261014/heroine-05-front.png",
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-heroines-complete-20261014",
+        "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+      },
+      "generation_guardrails": [
+        "保持已确认正面图的独立身份、五官、发型和肤色。",
+        "01、03使用最新优化全身造型；旧全身图不得作为生成入口。",
+        "白底乙游2.5D/3D；全身、三视图和表情保持同一角色。"
+      ]
+    },
+    {
+      "id": "human.magnus-heroines-complete-20261014-06",
+      "display_name_zh": "Magnus 女主 06 · 青墨晚风",
+      "display_name_en": "Magnus heroine 06",
+      "source_project": "magnus-heroines-complete-20261014",
+      "visual_family": "otome_2d5d_3d",
+      "species": "human",
+      "gender": "female",
+      "canonical_status": "user_confirmed_portrait",
+      "appearance": "27-year-old adult East Asian human woman. Long glossy blue-black hair in a loose low ponytail with soft center-parted face-framing layers, dark warm brown elongated monolid eyes, an oval face with softly broad cheekbones and an understated squared chin. Straight low brows, medium-height straight nose with rounded tip, defined medium-width mauve lips, warm light beige skin with a small beauty mark beneath the left outer eye. Direct calm determined gaze and tiny closed-mouth smile. Deep muted teal silk button blouse worn normally with a modest neckline, small cream pearl drop earrings. Contemporary urban elegance, understated natural makeup. Clearly mature facial proportions, no ceremonial jewelry or traditional fantasy clothing.",
+      "current_outfit": "The deep teal silk blouse is tucked into a high-waisted black A-line midi skirt falling below the knees, and black leather ankle boots with low block heels. Slim natural adult physique, about 169 cm and 7.5 heads tall. Keep long dark hair in the existing loose low ponytail with face-framing layers, same pearl earrings.",
+      "reference_assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-expression_grid.png"
+      ],
+      "identity_anchor": "assets/3d/magnus-heroines-complete-20261014/heroine-06-front.png",
+      "confirmation": {
+        "status": "user_confirmed",
+        "date": "2026-10-14",
+        "batch": "magnus-heroines-complete-20261014",
+        "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+      },
+      "generation_guardrails": [
+        "保持已确认正面图的独立身份、五官、发型和肤色。",
+        "01、03使用最新优化全身造型；旧全身图不得作为生成入口。",
+        "白底乙游2.5D/3D；全身、三视图和表情保持同一角色。"
+      ]
+    },
+    {
+      "id": "human.magnus-magnus-doc-20261019",
+      "display_name_zh": "Magnus Thorne · 文档确认版",
+      "display_name_en": "Magnus Thorne — document edition",
+      "source_project": "Magnus Thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "document_current_selected_import",
+      "gender": "male",
+      "appearance": "A mature 34-year-old male pureblood werewolf in fully human form, 193 cm tall, deep warm bronze skin, broad angular rectangular face, strong brow ridge, thick dark eyebrows, deep-set dark brown eyes, a straight broad nose, defined medium-full lips, strong square jaw, short black moustache and jaw stubble. Thick black swept-back hair with separated forehead strands. Calm commanding closed-mouth expression. Black finely textured tailored three-piece wool suit, charcoal open-collar shirt, loosely knotted black silk tie, silver metal watch on left wrist, black tailored trousers and polished black Oxford shoes.",
+      "narrative_character": "Magnus Thorne",
+      "visual_variant": "magnus-doc-20261019",
+      "identity_anchor": "assets/3d/magnus-doc-20261019/magnus-portrait.png",
+      "reference_assets": [
+        "assets/3d/magnus-doc-20261019/magnus-portrait.png",
+        "assets/3d/magnus-doc-20261019/magnus-full-ratio-v3.png",
+        "assets/3d/magnus-doc-20261019/magnus-portrait-three-v1.png",
+        "assets/3d/magnus-doc-20261019/magnus-full-three-ratio-v2.png",
+        "assets/3d/magnus-doc-20261019/magnus-angles-v2.png",
+        "assets/3d/magnus-doc-20261019/magnus-expressions-v1.png"
+      ],
+      "confirmation": {
+        "status": "user_requested_document_import",
+        "date": "2026-10-19",
+        "note": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+        "evidence": "imports/magnus-confirmed-assets-20261019/confirmation.json"
+      },
+      "age": 34,
+      "height_cm": 193
+    },
+    {
+      "id": "human.heroine-magnus-doc-20261019",
+      "display_name_zh": "女主 · 雾金月光 · 文档确认版",
+      "display_name_en": "女主 · 雾金月光 — document edition",
+      "source_project": "Magnus Thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "document_current_selected_import",
+      "gender": "female",
+      "appearance": "An adult human woman visually about 26, tall slender natural 7.5-head proportions, cool fair beige skin, soft adult oval face with gently rounded chin, subtle cheekbone transitions, softly straight naturally feathered eyebrows, softly open gray-green eyes, a small softly contoured nose and natural rose lips with a gentle tender closed-mouth half-smile. Long ash-blonde hair with darker roots, side part and finely separated strands draping over chest. Silver stud earrings. Open knee-length finely textured taupe wool coat over a dusty blue-gray scoop-neck sleeveless fine vertically ribbed midi dress with a fitted waist and softly A-line midcalf skirt. Taupe ankle boots with modest block heels. Bare lower legs; no tights. Relaxed lowered shoulders and natural neck.",
+      "narrative_character": "女主 · 雾金月光",
+      "visual_variant": "magnus-doc-20261019",
+      "identity_anchor": "assets/3d/magnus-doc-20261019/heroine-portrait-v2.png",
+      "reference_assets": [
+        "assets/3d/magnus-doc-20261019/heroine-portrait-v2.png",
+        "assets/3d/magnus-doc-20261019/heroine-full-portrait-style-v6.png",
+        "assets/3d/magnus-doc-20261019/heroine-portrait-three-v1.png",
+        "assets/3d/magnus-doc-20261019/heroine-full-three-relaxed-v4.png",
+        "assets/3d/magnus-doc-20261019/heroine-angles-v1.png",
+        "assets/3d/magnus-doc-20261019/heroine-expressions-v1.png",
+        "assets/3d/heroine-short-dress-20261019/heroine-full-confirmed-20261019.png",
+        "assets/3d/heroine-short-dress-20261019/heroine-full-three-confirmed-20261019.png"
+      ],
+      "confirmation": {
+        "status": "user_requested_document_import",
+        "date": "2026-10-19",
+        "note": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+        "evidence": "imports/magnus-confirmed-assets-20261019/confirmation.json"
+      },
+      "age": 26
+    },
+    {
+      "id": "human.selene-magnus-doc-20261019",
+      "display_name_zh": "Selene Arkwright · 文档确认版",
+      "display_name_en": "Selene Arkwright — document edition",
+      "source_project": "Magnus Thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "document_current_selected_import",
+      "gender": "female",
+      "appearance": "An adult pureblood female werewolf aristocrat appearing about 30 in fully human form, warm light golden-beige skin with luminous peach undertone, long refined oval face, high narrow cheekbones, long straight nose, slightly hooded gray-green almond eyes, thin arched dark brows, muted rose cupid-bow lips and gently tapered adult chin. Dark chestnut hair in a loose low sculptural chignon with side-parted face-framing strands. Gold and emerald drop earrings. Elegant deep emerald satin floor-length long-sleeve gown with an open square neckline, gently structured puff shoulders, draped waist, long train and left leg slit. Gold left wrist cuff, dark delicate high-heeled shoes. Composed self-possessed assessing gaze, graceful slender 7.8-head model anatomy.",
+      "narrative_character": "Selene Arkwright",
+      "visual_variant": "magnus-doc-20261019",
+      "identity_anchor": "assets/3d/magnus-doc-20261019/selene-portrait-v2.png",
+      "reference_assets": [
+        "assets/3d/magnus-doc-20261019/selene-portrait-v2.png",
+        "assets/3d/magnus-doc-20261019/selene-full-ratio-v3.png",
+        "assets/3d/magnus-doc-20261019/selene-portrait-three-v1.png",
+        "assets/3d/magnus-doc-20261019/selene-full-three-ratio-v2.png",
+        "assets/3d/magnus-doc-20261019/selene-angles-v1.png",
+        "assets/3d/magnus-doc-20261019/selene-expressions-v1.png"
+      ],
+      "confirmation": {
+        "status": "user_requested_document_import",
+        "date": "2026-10-19",
+        "note": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+        "evidence": "imports/magnus-confirmed-assets-20261019/confirmation.json"
+      }
+    },
+    {
+      "id": "human.luca-magnus-doc-20261019",
+      "display_name_zh": "Luca Marlowe · 文档确认版",
+      "display_name_en": "Luca Marlowe — document edition",
+      "source_project": "Magnus Thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "document_current_selected_import",
+      "gender": "male",
+      "appearance": "An adult male werewolf executive assistant in fully human form, visually about 32, warm light beige skin, narrow rectangular-oval face, slim softly defined jaw, gently arched brows, alert hazel-brown eyes, moderately narrow straight nose, medium-thin lips and reserved attentive expression. Clean-shaven. Neat chestnut brown side-parted short hair, thin gunmetal rectangular eyeglasses with clear lenses. Slim elegant neck and naturally sloping shoulders. Midnight navy wool three-piece tailored business suit, white crisp shirt, neatly tied silver-gray tie, navy trousers, polished black dress shoes. Tall lean 8.5-head model silhouette.",
+      "narrative_character": "Luca Marlowe",
+      "visual_variant": "magnus-doc-20261019",
+      "identity_anchor": "assets/3d/magnus-doc-20261019/luca-portrait.png",
+      "reference_assets": [
+        "assets/3d/magnus-doc-20261019/luca-portrait.png",
+        "assets/3d/magnus-doc-20261019/luca-full-ratio-v3.png",
+        "assets/3d/magnus-doc-20261019/luca-portrait-three-v1.png",
+        "assets/3d/magnus-doc-20261019/luca-full-three-ratio-v2.png",
+        "assets/3d/magnus-doc-20261019/luca-angles-v2.png",
+        "assets/3d/magnus-doc-20261019/luca-expressions-v1.png"
+      ],
+      "confirmation": {
+        "status": "user_requested_document_import",
+        "date": "2026-10-19",
+        "note": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+        "evidence": "imports/magnus-confirmed-assets-20261019/confirmation.json"
+      }
+    },
+    {
+      "id": "human.harland-magnus-doc-20261019",
+      "display_name_zh": "Harland Royce · 文档确认版",
+      "display_name_en": "Harland Royce — document edition",
+      "source_project": "Magnus Thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "document_current_selected_import",
+      "gender": "male",
+      "appearance": "A visibly elderly male werewolf clan elder in fully human form, apparent human age late 60s. Distinguished weathered broad-long face, mature forehead creases, crow's feet and subtle under-eye bags, sunken cheeks, pronounced long straight nose, thinner lips, heavy hooded slate-gray eyes beneath silver eyebrows. Dense silver-gray hair neatly combed back with receding temples, trimmed short full silver beard and moustache. Calm authoritative unsmiling expression. Deep espresso brown knee-length wool overcoat over charcoal waistcoat and tailored trousers, ivory shirt, muted dark taupe tie, small antique bronze geometric lapel pin, brown leather dress shoes. Upright tall dignified lean frame; retain credible aged anatomy.",
+      "narrative_character": "Harland Royce",
+      "visual_variant": "magnus-doc-20261019",
+      "identity_anchor": "assets/3d/magnus-doc-20261019/harland-portrait.png",
+      "reference_assets": [
+        "assets/3d/magnus-doc-20261019/harland-portrait.png",
+        "assets/3d/magnus-doc-20261019/harland-full-ratio-v3.png",
+        "assets/3d/magnus-doc-20261019/harland-portrait-three-v1.png",
+        "assets/3d/magnus-doc-20261019/harland-full-three-ratio-v2.png",
+        "assets/3d/magnus-doc-20261019/harland-angles-v1.png",
+        "assets/3d/magnus-doc-20261019/harland-expressions-v1.png"
+      ],
+      "confirmation": {
+        "status": "user_requested_document_import",
+        "date": "2026-10-19",
+        "note": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+        "evidence": "imports/magnus-confirmed-assets-20261019/confirmation.json"
+      }
+    },
+    {
+      "id": "human.elias-magnus-doc-20261019",
+      "display_name_zh": "Elias Arkwright · 文档确认版",
+      "display_name_en": "Elias Arkwright — document edition",
+      "source_project": "Magnus Thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "document_current_selected_import",
+      "gender": "male",
+      "appearance": "An adult male human-form werewolf family negotiator with late-30s visual age, light olive skin, a long angular lean face, narrow strong square jaw, controlled straight brows, slightly deep-set gray-green eyes, long straight nose, high cheekbones, thin firm lips and completely clean-shaven skin. Short controlled side-parted dark chestnut hair, closely trimmed sides and subtle silver at temples. Calm disciplined direct gaze. Cool charcoal-gray double-breasted tailored suit over a matte black open-collar shirt without tie, dark fitted trousers, polished black leather shoes and restrained steel cuff details. Tall lean athletic 8.5-head fashion-model physique.",
+      "narrative_character": "Elias Arkwright",
+      "visual_variant": "magnus-doc-20261019",
+      "identity_anchor": "assets/3d/magnus-doc-20261019/elias-portrait.png",
+      "reference_assets": [
+        "assets/3d/magnus-doc-20261019/elias-portrait.png",
+        "assets/3d/magnus-doc-20261019/elias-full-ratio-v3.png",
+        "assets/3d/magnus-doc-20261019/elias-portrait-three-v1.png",
+        "assets/3d/magnus-doc-20261019/elias-full-three-ratio-v2.png",
+        "assets/3d/magnus-doc-20261019/elias-angles-v1.png",
+        "assets/3d/magnus-doc-20261019/elias-expressions-v1.png"
+      ],
+      "confirmation": {
+        "status": "user_requested_document_import",
+        "date": "2026-10-19",
+        "note": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+        "evidence": "imports/magnus-confirmed-assets-20261019/confirmation.json"
+      }
+    },
+    {
+      "id": "human.magnus-thorne-wolf-20261019",
+      "display_name_zh": "Magnus Thorne · 狼人形态",
+      "display_name_en": "Magnus Thorne — Wolf Form",
+      "source_project": "dulci-magnus-thorne",
+      "visual_family": "otome_2d5d_3d",
+      "canonical_status": "user_confirmed_portrait",
+      "gender": "male",
+      "age": 34,
+      "height_cm": 193,
+      "appearance": "Premium otome semi-realistic 2.5D/3D studio character render of Magnus Thorne, a 34-year-old 193cm athletic broad-shouldered adult man with tall 8–9 human-head model proportions excluding ears, mature angular bronze-skinned face, hazel brown eyes, strong brows, moustache and short jaw stubble. Short dense swept-back black hair and loose forehead strands. Two long charcoal wolf ears with black edges and grey inner fur, balanced moderate root spacing and gently inward tapered tips. Human face and body. Black tailored suit, charcoal shirt, loose black tie, black waistcoat, wristwatch and black Oxford shoes. Exactly one large fluffy dark grey-brown C-curved tail. White studio background, fine skin, fur, hair and fabric detail, soft neutral light, no text or watermarks. ",
+      "narrative_character": "Magnus Thorne",
+      "visual_variant": "wolf_form_v7_head",
+      "identity_anchor": "assets/3d/magnus-wolf-form-20261019/portrait.png",
+      "reference_assets": [
+        "assets/3d/magnus-wolf-form-20261019/portrait.png",
+        "assets/3d/magnus-wolf-form-20261019/full-body.png",
+        "assets/3d/magnus-wolf-form-20261019/face-three.png",
+        "assets/3d/magnus-wolf-form-20261019/body-three.png",
+        "assets/3d/magnus-wolf-form-20261019/head-angles.png",
+        "assets/3d/magnus-wolf-form-20261019/expressions.png"
+      ],
+      "confirmation": {
+        "status": "user_confirmed_portrait_and_authorized_completion",
+        "date": "2026-10-19",
+        "batch": "magnus-wolf-form-20261019",
+        "note": "胸像可以；确认补齐相关资产图然后加入文档和 Vicky 角色库。全身使用确认胸像头部等比合成。"
+      },
+      "generation_guardrails": [
+        "V7 胸像是头部唯一母版，禁止压扁头部、改发型或缩短耳朵。",
+        "保持胸像耳根间距、耳长和耳尖角度；正面头部只能等比缩放。",
+        "沿用人形成熟面部、原黑西装及8–9头身，保留单条 C 型蓬松尾巴。",
+        "仅本狼人形态添加狼耳和尾巴；人形版独立保留。"
+      ],
+      "view_assets": {
+        "front": {
+          "path": "assets/3d/magnus-wolf-form-20261019/portrait.png",
+          "status": "user_confirmed"
+        },
+        "full_body": {
+          "path": "assets/3d/magnus-wolf-form-20261019/full-body.png",
+          "status": "current_production"
+        },
+        "face_turnaround": {
+          "path": "assets/3d/magnus-wolf-form-20261019/face-three.png",
+          "status": "current_production"
+        },
+        "body_turnaround": {
+          "path": "assets/3d/magnus-wolf-form-20261019/body-three.png",
+          "status": "current_production"
+        },
+        "head_angles": {
+          "path": "assets/3d/magnus-wolf-form-20261019/head-angles.png",
+          "status": "current_production"
+        },
+        "expression_grid": {
+          "path": "assets/3d/magnus-wolf-form-20261019/expressions.png",
+          "status": "current_production"
+        }
+      },
+      "base_character_id": "human.magnus-thorne-rugged-20261014"
     }
   ],
   "planned_expansion": {
@@ -11916,7 +12455,7 @@
     "manifest": "gallery-manifest.json",
     "sync_script": "sync_role_assets.py",
     "build_script": "build_gallery.py",
-    "asset_count": 1800,
+    "asset_count": 4208,
     "policy": "仅收录明确确认、锁定或进入当前制作的资产；候选、历史版本和仍在优化的资产不进入图库。",
     "style_families": [
       "realistic_live_action",
@@ -12980,6 +13519,80 @@
         "assets/3d/black-cat-boss-wardrobe-v10-20260928/J0-base.png"
       ],
       "note": "用户确认：确认，加入角色库，然后开始生成视频剧集。确认 V10 当前24张服装三视图；关联现有角色，不覆盖原始身份母版。"
+    },
+    "magnus-thorne-approved-20261014": {
+      "status": "user_authorized_completion",
+      "confirmed_on": "2026-10-14",
+      "identity_count": 2,
+      "count": 12,
+      "assets": [
+        "assets/3d/magnus-thorne-20261014/rugged--identity.png",
+        "assets/3d/magnus-thorne-20261014/rugged--front.png",
+        "assets/3d/magnus-thorne-20261014/rugged--full_body.png",
+        "assets/3d/magnus-thorne-20261014/rugged--body_turnaround.png",
+        "assets/3d/magnus-thorne-20261014/rugged--head_angles.png",
+        "assets/3d/magnus-thorne-20261014/rugged--expression_grid.png",
+        "assets/3d/magnus-thorne-20261014/refined--identity.png",
+        "assets/3d/magnus-thorne-20261014/refined--front.png",
+        "assets/3d/magnus-thorne-20261014/refined--full_body.png",
+        "assets/3d/magnus-thorne-20261014/refined--body_turnaround.png",
+        "assets/3d/magnus-thorne-20261014/refined--head_angles.png",
+        "assets/3d/magnus-thorne-20261014/refined--expression_grid.png"
+      ],
+      "note": "确认这两个形象，按 Vicky 角色库要求补齐相关图片后加入角色库",
+      "evidence": "imports/magnus-thorne-approved-20261014/confirmation.json"
+    },
+    "magnus-heroines-complete-20261014": {
+      "status": "authorized_completion",
+      "confirmed_on": "2026-10-14",
+      "count": 30,
+      "assets": [
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-01-expression_grid.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-02-expression_grid.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-03-expression_grid.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-04-expression_grid.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-05-expression_grid.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-front.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-full_body.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-body_turnaround.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-head_angles.png",
+        "assets/3d/magnus-heroines-complete-20261014/heroine-06-expression_grid.png"
+      ],
+      "note": "把这个六个都按 Vicky 角色库格式要求补齐资产图片，然后加入角色库。01、03全身比例与服装按最新要求重新优化。"
+    },
+    "magnus-wolf-form-20261019": {
+      "status": "user_authorized_completion",
+      "confirmed_on": "2026-10-19",
+      "count": 6,
+      "assets": [
+        "assets/3d/magnus-wolf-form-20261019/portrait.png",
+        "assets/3d/magnus-wolf-form-20261019/full-body.png",
+        "assets/3d/magnus-wolf-form-20261019/face-three.png",
+        "assets/3d/magnus-wolf-form-20261019/body-three.png",
+        "assets/3d/magnus-wolf-form-20261019/head-angles.png",
+        "assets/3d/magnus-wolf-form-20261019/expressions.png"
+      ],
+      "note": "用户确认母版与合成方法，并授权补齐相关资产、加入文档与角色库。"
     }
   }
 }

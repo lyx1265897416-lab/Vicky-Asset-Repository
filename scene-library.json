@@ -2705,6 +2705,181 @@
           "all_drawings": "assets/scenes/black-cat-scene-atlas-20261011/scene-atlas-complete.zip"
         }
       ]
+    },
+    {
+      "id": "scene-meet-me-again-v4-s01",
+      "name": "今天再喜欢我一次 V4 · 院门与海边庭院",
+      "source_title": "今天再喜欢我一次 V4 · S01-original · 院门与海边庭院 · 场景原图 · 用户确认",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/meet-me-again-v4-approved-20261014/S01-original.png"
+      ],
+      "reference_region": "完整已确认场景原图；空间资料为概念推演，不代表几何一致性已验证。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "A sunlit coastal garden courtyard with an open low sage-green wooden gate, limestone boundary wall, rectangular blank plank sign on iron bracket, paved path leading to a sage glasshouse with pitched glass roof and wisteria. Attached cream stone cottage on left; neighboring small bakery with cream awning along left lane; sea and distant village to right; terracotta plants, bench and working table visible. No people or animals. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.",
+      "project": "meet-me-again-v4",
+      "project_zone_id": "S01",
+      "import_batch": "meet-me-again-v4-approved-20261014",
+      "approval_status": "confirmed"
+    },
+    {
+      "id": "scene-meet-me-again-v4-s02",
+      "name": "今天再喜欢我一次 V4 · 温室主厅与长桌",
+      "source_title": "今天再喜欢我一次 V4 · S02-original · 温室主厅与长桌 · 场景原图 · 用户确认",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/meet-me-again-v4-approved-20261014/S02-original.png"
+      ],
+      "reference_region": "完整已确认场景原图；空间资料为概念推演，不代表几何一致性已验证。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "Interior of a long rectangular sage metal and glass greenhouse, stone paving, cottage stone wall on left with doorway, wide clear glass windows to sea on right, aged oak long table with drawers and wooden cross-back chairs centered, nursery shelves around perimeter, small sage checkout counter near entry, pale bronze pendant lamps and restrained flowering vines. Empty environment. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.",
+      "project": "meet-me-again-v4",
+      "project_zone_id": "S02",
+      "import_batch": "meet-me-again-v4-approved-20261014",
+      "approval_status": "confirmed"
+    },
+    {
+      "id": "scene-meet-me-again-v4-s03",
+      "name": "今天再喜欢我一次 V4 · 温室水槽工作区",
+      "source_title": "今天再喜欢我一次 V4 · S03-original · 温室水槽工作区 · 场景原图 · 用户确认",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/meet-me-again-v4-approved-20261014/S03-original.png"
+      ],
+      "reference_region": "完整已确认场景原图；空间资料为概念推演，不代表几何一致性已验证。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "Greenhouse work nook in sage glass frames and cream stone, white apron-front ceramic utility sink in aged oak cabinet at left, aged brass tap and coiled dark green hose, towel rail and separate clothing hook above, open double sage doors to adjacent table workspace, terracotta plants, stone paving, sea visible through right glazing. Empty environment. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.",
+      "project": "meet-me-again-v4",
+      "project_zone_id": "S03",
+      "import_batch": "meet-me-again-v4-approved-20261014",
+      "approval_status": "confirmed"
+    },
+    {
+      "id": "scene-meet-me-again-v4-s04",
+      "name": "今天再喜欢我一次 V4 · 麦溪起居间与书桌",
+      "source_title": "今天再喜欢我一次 V4 · S04-original · 麦溪起居间与书桌 · 场景原图 · 用户确认",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/meet-me-again-v4-approved-20261014/S04-original.png"
+      ],
+      "reference_region": "完整已确认场景原图；空间资料为概念推演，不代表几何一致性已验证。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "Small cream limewashed stone cottage living and writing room. Oak desk with drawers under sage window overlooking low garden gate, linen curtain, brass desk lamp, wooden writing chair, cream sofa and sage cushions, small wooden coffee table and woven rug, botanical pictures and wooden shelves, glazed sage door toward attached greenhouse. Empty environment. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.",
+      "project": "meet-me-again-v4",
+      "project_zone_id": "S04",
+      "import_batch": "meet-me-again-v4-approved-20261014",
+      "approval_status": "confirmed"
+    },
+    {
+      "id": "scene-meet-me-again-v4-s05",
+      "name": "今天再喜欢我一次 V4 · 诺拉的咖啡露台",
+      "source_title": "今天再喜欢我一次 V4 · S05-original · 诺拉的咖啡露台 · 场景原图 · 用户确认",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/meet-me-again-v4-approved-20261014/S05-original.png"
+      ],
+      "reference_region": "完整已确认场景原图；空间资料为概念推演，不代表几何一致性已验证。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "A coastal bakery terrace close to camera: round slatted wood cafe table and two slatted folding chairs with cream cushions, stone paving, bakery cream stone facade and sage window with bread display at left beneath cream canvas awning. Flowers in terracotta pots and white climbing blossoms. Sage greenhouse and blue bay smaller in background right. No people or animals. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.",
+      "project": "meet-me-again-v4",
+      "project_zone_id": "S05",
+      "import_batch": "meet-me-again-v4-approved-20261014",
+      "approval_status": "confirmed"
+    },
+    {
+      "id": "scene-meet-me-again-v4-s06",
+      "name": "今天再喜欢我一次 V4 · 海边平缓步道",
+      "source_title": "今天再喜欢我一次 V4 · S06-original · 海边平缓步道 · 场景原图 · 用户确认",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/meet-me-again-v4-approved-20261014/S06-original.png"
+      ],
+      "reference_region": "完整已确认场景原图；空间资料为概念推演，不代表几何一致性已验证。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "A broad level pale stone walking path beside calm blue sea, curving toward a small cream coastal village, low limestone parapet at right, grasses olive foliage and small white wildflowers at left, old black simple lamp, distant headland, tiny sage glasshouse in distant village. No foreground courtyard, no people or animals. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.",
+      "project": "meet-me-again-v4",
+      "project_zone_id": "S06",
+      "import_batch": "meet-me-again-v4-approved-20261014",
+      "approval_status": "confirmed"
+    },
+    {
+      "id": "scene-magnus-doc-20261019-garage",
+      "name": "Magnus Thorne · 酒店 VIP 地下车库",
+      "source_title": "飞书文档现行场景",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/magnus-doc-20261019/MAG_GARAGE_scene_original_US_v1.png",
+        "assets/scenes/magnus-doc-20261019/MAG_GARAGE_scene_angles_US_v1.png",
+        "assets/scenes/magnus-doc-20261019/MAG_GARAGE_scene_architecture_US_v1.png",
+        "assets/scenes/magnus-doc-20261019/MAG_GARAGE_scene_3d_US_v1.png",
+        "assets/scenes/magnus-doc-20261019/MAG_GARAGE_scene_plan_US_v1.png"
+      ],
+      "reference_region": "文档原图与空间参考整张保留；概念图/平面图不代表实测建筑几何。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "One portrait 9:16 empty luxurious contemporary California hotel VIP underground garage, one black Mercedes-Maybach sedan centered in bay VIP 02 facing camera, blank adjacent bays, two square concrete-clad pillars, warm brushed metal wall and ceiling details, cool-neutral overhead strip lights and softly reflective gray concrete floor with white parking lines. Front California-style white plate has dark navy THORNE letters and small red California lettering. Realistic scale, headlights off, warm saddle-brown cabin glimpsed through glass, English ELEVATORS and EXIT signage only. Eye-level wide environment framing with a long foreground floor.",
+      "project": "Magnus Thorne",
+      "import_batch": "magnus-doc-20261019",
+      "approval_status": "user_requested_document_import"
+    },
+    {
+      "id": "scene-magnus-doc-20261019-car",
+      "name": "Magnus Thorne · Maybach 后排与车门",
+      "source_title": "飞书文档现行场景",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/magnus-doc-20261019/MAG_S02_v1.png"
+      ],
+      "reference_region": "文档原图与空间参考整张保留；概念图/平面图不代表实测建筑几何。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "One portrait 9:16 empty black luxury Maybach rear passenger compartment seen through its open right rear door, camera just outside doorway diagonally across two rear seats. Warm saddle-brown stitched leather backrests, cushions and door panel, center armrest folded up, seatbelts, black carpet, front passenger seatback in left foreground, correct four-door sedan topology. Cool-white garage ambient lighting with restrained warm cabin light, gray garage floor glimpsed outside. No people, champagne or oversized fantasy cabin.",
+      "project": "Magnus Thorne",
+      "import_batch": "magnus-doc-20261019",
+      "approval_status": "user_requested_document_import"
+    },
+    {
+      "id": "scene-magnus-doc-20261019-banquet",
+      "name": "Magnus Thorne · 楼上联姻宴会厅",
+      "source_title": "飞书文档现行场景",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/magnus-doc-20261019/MAG_S03_US_v1.png"
+      ],
+      "reference_region": "文档原图与空间参考整张保留；概念图/平面图不代表实测建筑几何。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "One portrait 9:16 empty luxury Southern California hotel ballroom at night, tall floor-to-ceiling glass showing Los Angeles urban night lights, cream and warm dark-metal contemporary architecture, polished marble floor, aligned round tables dressed in ivory linen, refined tableware and floral centerpieces, multiple warm crystal chandelier installations, cinematic but readable spatial depth. No guests, no staff or human reflections. Eye-level establishing view.",
+      "project": "Magnus Thorne",
+      "import_batch": "magnus-doc-20261019",
+      "approval_status": "user_requested_document_import"
+    },
+    {
+      "id": "scene-magnus-doc-20261019-estate",
+      "name": "Magnus Thorne · 城郊私人庄园",
+      "source_title": "飞书文档现行场景",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/magnus-doc-20261019/MAG_S04_v1.png"
+      ],
+      "reference_region": "文档原图与空间参考整张保留；概念图/平面图不代表实测建筑几何。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "One portrait 9:16 elegant secluded contemporary Southern California private estate at blue hour, partially open dark wrought-metal entrance gates in foreground, warm-lit pale stone villa beyond a long wet stone driveway, lush hedges and tall trees, restrained garden lamps and soft reflections on paving, dark blue cloudy evening sky. Refined high-end realistic game-CG architecture, no people or animals.",
+      "project": "Magnus Thorne",
+      "import_batch": "magnus-doc-20261019",
+      "approval_status": "user_requested_document_import"
+    },
+    {
+      "id": "scene-magnus-doc-20261019-office",
+      "name": "Magnus Thorne · 集团顶层办公室",
+      "source_title": "飞书文档现行场景",
+      "source_number": null,
+      "anchors": [
+        "assets/scenes/magnus-doc-20261019/MAG_S05_US_v1.png"
+      ],
+      "reference_region": "文档原图与空间参考整张保留；概念图/平面图不代表实测建筑几何。",
+      "style_family": "otome_2d5d_3d",
+      "brief": "One portrait 9:16 empty refined executive penthouse office in a Southern California port city in daytime, dark walnut built-in shelves at left with books and restrained objects, large desk and black leather executive chair, two guest chairs and a small lounge arrangement, broad floor-to-ceiling glass on right showing Long Beach harbor, container ships and distant hills. Warm wood, beige stone, subtle brushed metal, a few green plants, soft clear daylight and luxurious physically rendered materials. No people or human reflections.",
+      "project": "Magnus Thorne",
+      "import_batch": "magnus-doc-20261019",
+      "approval_status": "user_requested_document_import"
     }
   ]
 }

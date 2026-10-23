@@ -10,6 +10,7 @@ from character_standard import attach_standard
 from gallery_taxonomy import attach_taxonomy
 from voice_assets import attach_voices
 from bgm_assets import attach_bgm
+from video_assets import attach_videos
 from library_numbers import attach_numbers
 from scene_assets import attach_scenes
 
@@ -25,6 +26,7 @@ attach_standard(manifest, LIB)
 attach_taxonomy(manifest, LIB)
 attach_voices(manifest, LIB)
 attach_bgm(manifest, LIB)
+attach_videos(manifest, LIB)
 attach_numbers(manifest, LIB)
 attach_scenes(manifest, LIB)
 (LIB / 'gallery-manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
@@ -38,7 +40,7 @@ for asset in manifest['assets']:
     if g['source_type'] == 'derived_crop':
         date_text += '（母图生成日期）'
     target.write_text('\n'.join([asset['title'], '生图模型：' + g['model']['display_name'],
-        '生成日期：' + date_text, '时区：' + g.get('generation_timezone', '未知'),
+        '生成日期：' + date_text, '时区：' + (g.get('generation_timezone') or '未知'),
         '图像尺寸：' + str(g['dimensions']['width']) + ' × ' + str(g['dimensions']['height']),
         '提示词类型：' + kind, '提示词整理日期：' + g['prompt_prepared_on'], '',
         '文生图提示词：', g['text_to_image_prompt'], '', g['reproduction_note'], '',
@@ -52,7 +54,7 @@ html = r'''<!doctype html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Vicky 资产库 · 已确认资产图库</title>
 <style>
 :root{--bg:#f5f3ef;--panel:#fffdfa;--ink:#1f2422;--muted:#747a75;--line:#dfddd7;--accent:#8c5c48}
@@ -99,6 +101,8 @@ textarea:focus-visible,summary:focus-visible,a:focus-visible{outline:3px solid #
 <link rel="stylesheet" href="gallery-navigation.css?v=__ACTIONS_HASH__">
 <link rel="stylesheet" href="gallery-voices.css?v=20260928-expanded32">
 <link rel="stylesheet" href="gallery-bgm.css?v=20260929-web80">
+<link rel="stylesheet" href="gallery-videos.css?v=__ACTIONS_HASH__">
+<link rel="stylesheet" href="gallery-responsive.css?v=__RESPONSIVE_HASH__">
 </head>
 <body>
 <main class="shell">
@@ -112,7 +116,7 @@ textarea:focus-visible,summary:focus-visible,a:focus-visible{outline:3px solid #
 <div class="modal-toolbar"><span class="modal-heading" id="modal-position"></span><button class="nav" id="prev-image" aria-label="上一张图片" title="上一张图片（←）">←</button><button class="nav" id="next-image" aria-label="下一张图片" title="下一张图片（→）">→</button><button class="nav" id="prev" aria-label="上一张">‹</button><button class="nav" id="next" aria-label="下一张">›</button><button class="modal-favorite" id="modal-favorite" type="button" aria-pressed="false">☆ 收藏</button><button class="close" id="close" aria-label="关闭">×</button></div>
 <div class="modal-layout"><div class="modal-visual"><img id="modal-img" alt=""></div><section class="image-details" id="image-details">
 <section id="character-panel" class="character-panel" aria-label="同一角色的其他图片"></section><h2 id="detail-title"></h2><div class="detail-actions"><button id="detail-share">分享</button><button id="detail-download">下载原图</button><button class="danger" id="detail-delete">删除</button><button class="danger" id="detail-purge" hidden>彻底删除</button></div><dl class="generation-facts" id="generation-facts"></dl>
-<h3>文生图提示词</h3><div class="prompt-badge" id="prompt-kind"></div><div class="detail-small">完整英文提示词 · 可直接复制到生图工具</div>
+<h3>文生图提示词</h3><div class="prompt-badge" id="prompt-kind"></div><div class="detail-small">完整文生图提示词 · 可直接复制到生图工具</div>
 <textarea class="prompt-text" id="generation-prompt" aria-label="完整文生图提示词" readonly spellcheck="false"></textarea>
 <div class="prompt-actions"><button type="button" id="copy-prompt">复制文生图提示词</button><a id="download-record" download>下载生成记录 .txt</a></div><div class="copy-status" id="copy-status" role="status" aria-live="polite"></div>
 <p class="reproduction-note" id="reproduction-note"></p><details class="original-record" id="original-record"><summary>查看原始生成记录与来源</summary><div id="original-content"></div></details>
@@ -134,7 +138,7 @@ const completion=manifest.asset_standard.completion;
 document.getElementById('completion-summary').innerHTML=`<strong>角色素材配置 · 本轮 ${manifest.asset_standard.scope?.character_count||0} 位角色</strong><span>本轮新增 ${completion.generated_additions} 张 · 缺口已补 ${completion.available} / ${completion.initial_gaps} 项 · 尚余 ${completion.pending} 项</span><a href="${manifest.asset_standard.progress_path||'imports/role-completion-20260924/progress.json'}" download>下载补齐进度</a>`;
 const styleLabels={"all": "全部风格", "realistic_live_action": "真人写实", "cozy_photoreal_domestic": "居家写实", "otome_2d5d_3d": "乙游 2.5D / 3D", "cinematic_night": "电影夜景", "watercolor": "透明水彩", "oil_painting": "厚涂油画", "cel_animation": "赛璐璐动画", "clay_miniature": "黏土微缩", "paper_art": "层叠纸雕", "ink_wash": "水墨淡彩", "retro_poster": "复古旅行海报", "vintage_film": "复古胶片", "dreamy_3d": "梦幻3D"};
 const speciesLabels={all:'全部物种',prop:'道具物件',environment:'环境 / 空间',object:'服装 / 配饰',human:'人类',cat:'猫',dog:'狗',merfolk:'人鱼',mixed:'混合 / 双人'};
-const categoryLabels={all:'全部用途',prop:'道具图',full_body:'单人全身',expression_grid:'九宫格表情',head_angles:'头部多角度',identity:'身份',character_board:'角色板',face_turnaround:'脸部三视图',body_turnaround:'全身三视图',pov:'POV',outfit:'完整造型',costume:'服装',accessory:'配饰单品',style_reference:'风格参考',relationship:'关系',expression:'表情',pose:'动作姿态',detail:'身份细节'};
+const categoryLabels={storyboard:'分镜图',all:'全部用途',prop:'道具图',full_body:'单人全身',expression_grid:'九宫格表情',head_angles:'头部多角度',identity:'身份',character_board:'角色板',face_turnaround:'脸部三视图',body_turnaround:'全身三视图',pov:'POV',outfit:'完整造型',costume:'服装',accessory:'配饰单品',style_reference:'风格参考',relationship:'关系',expression:'表情',pose:'动作姿态',detail:'身份细节'};
 const FAVORITES_KEY='vicky-character-library:favorites:v1';
 const favoriteKey=a=>a.id||a.path;
 const assetURL=a=>a.path+'?v='+a.generation.asset_sha256.slice(0,12);
@@ -149,7 +153,7 @@ function readFavorites(){
 let favorites=readFavorites();
 const favoriteCount=()=>liveAssets().filter(a=>favorites.has(favoriteKey(a))).length;
 function btns(items,group,current){return items.map(([key,label])=>`<button data-group="${group}" data-value="${key}" aria-pressed="${current===key}" class="${current===key?'active':''}">${label}</button>`).join('')}
-function filtered(character=activeCharacter){const list=assets.filter(a=>{const hay=(a.title+' '+a.source+' '+a.category+' '+(a.scene_names||[]).join(' ')+' '+a.character_names.join(' ')+' '+a.view_label).toLowerCase();return kindMatches(a)&&sceneMatches(a)&&(activeCollection==='trash'?isTrashed(a):!isTrashed(a))&&(activeCollection!=='favorites'||favorites.has(favoriteKey(a)))&&(activeStyle==='all'||a.style_family===activeStyle)&&(activeSpecies==='all'||a.species===activeSpecies)&&(activeCategory==='all'||a.category===activeCategory)&&characterMatches(a,character)&&(!query||hay.includes(query.toLowerCase()))});return activeKind==='costume'?list.sort((a,b)=>a.library_number-b.library_number):list}
+function filtered(character=activeCharacter){const list=assets.filter(a=>{const hay=(a.title+' '+a.source+' '+a.category+' '+(a.scene_names||[]).join(' ')+' '+a.character_names.join(' ')+' '+a.view_label).toLowerCase();return kindMatches(a)&&sceneMatches(a)&&(activeCollection==='trash'?isTrashed(a):!isTrashed(a))&&(activeCollection!=='favorites'||favorites.has(favoriteKey(a)))&&(activeStyle==='all'||a.style_family===activeStyle)&&(activeSpecies==='all'||a.species===activeSpecies)&&(activeCategory==='all'||a.category===activeCategory)&&characterMatches(a,character)&&matchesAssetSearch(a,hay)});return list.sort((a,b)=>a.library_number-b.library_number)}
 function renderStats(){const current=liveAssets();const styles=new Set(current.map(a=>a.style_family)),species=new Set(current.map(a=>a.species));document.getElementById('policy-count').textContent=current.length;stats.innerHTML=`<div class="stat"><b>${current.length}</b><span>确认资产</span></div><div class="stat"><b>${styles.size}</b><span>风格分类</span></div><div class="stat"><b>${species.size}</b><span>物种分类</span></div><div class="stat"><b>${current.filter(a=>a.category==='identity').length}</b><span>身份资产</span></div>`}
 function starButton(a,index){const saved=favorites.has(favoriteKey(a));return `<button type="button" class="favorite-button" data-favorite-index="${index}" aria-pressed="${saved}" aria-label="${saved?'取消收藏':'收藏'}：${escapeHTML(a.title)}" title="${saved?'取消收藏':'收藏'}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 2.78 5.64L21 9.55l-4.5 4.39 1.06 6.2L12 17.21l-5.56 2.93 1.06-6.2L3 9.55l6.22-.91Z"/></svg></button>`}
 function renderGrid(){
@@ -229,10 +233,12 @@ window.addEventListener('storage',e=>{if(e.key!==FAVORITES_KEY&&e.key!==null)ret
 initGalleryActions();renderStats();render();initPermanentDelete();
 
 </script>
-<script src="gallery-voices.js?v=20260929-commercial-v1"></script>
-<script src="gallery-bgm.js?v=20260929-number-default"></script>
+<script src="gallery-voices.js?v=__ACTIONS_HASH__"></script>
+<script src="gallery-bgm.js?v=__ACTIONS_HASH__"></script>
+<script src="gallery-videos.js?v=__ACTIONS_HASH__"></script>
 <script src="gallery-bulk.js?v=__ACTIONS_HASH__"></script>
+<script src="gallery-responsive.js?v=__RESPONSIVE_HASH__"></script>
 </body>
 </html>'''
-(LIB / 'index.html').write_text(html.replace('__MANIFEST__', embedded).replace('__ACTIONS_HASH__', hashlib.sha256((LIB / 'gallery-bulk.js').read_bytes() + (LIB / 'gallery-actions.js').read_bytes() + (LIB / 'gallery-actions.css').read_bytes() + (LIB / 'gallery-characters.js').read_bytes() + (LIB / 'gallery-delete.js').read_bytes() + (LIB / 'gallery-navigation.js').read_bytes() + (LIB / 'gallery-navigation.css').read_bytes() + (LIB / 'gallery-wardrobe.js').read_bytes() + (LIB / 'gallery-scenes.js').read_bytes()).hexdigest()[:12]))
+(LIB / 'index.html').write_text(html.replace('__RESPONSIVE_HASH__', hashlib.sha256((LIB / 'gallery-responsive.css').read_bytes() + (LIB / 'gallery-responsive.js').read_bytes()).hexdigest()[:12]).replace('__MANIFEST__', embedded).replace('__ACTIONS_HASH__', hashlib.sha256((LIB / 'gallery-bulk.js').read_bytes() + (LIB / 'gallery-actions.js').read_bytes() + (LIB / 'gallery-actions.css').read_bytes() + (LIB / 'gallery-characters.js').read_bytes() + (LIB / 'gallery-delete.js').read_bytes() + (LIB / 'gallery-navigation.js').read_bytes() + (LIB / 'gallery-navigation.css').read_bytes() + (LIB / 'gallery-wardrobe.js').read_bytes() + (LIB / 'gallery-scenes.js').read_bytes() + (LIB / 'gallery-voices.js').read_bytes() + (LIB / 'gallery-bgm.js').read_bytes() + (LIB / 'gallery-videos.js').read_bytes() + (LIB / 'gallery-videos.css').read_bytes()).hexdigest()[:12]))
 print(f'built gallery with {len(manifest["assets"])} confirmed assets')

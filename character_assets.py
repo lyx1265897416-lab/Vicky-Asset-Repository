@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-VIEW_LABELS = {'prop':'道具图','full_body':'单人全身照','expression_grid':'九宫格表情','head_angles':'头部多角度','instance':'实例图','front':'正视图','face_turnaround':'脸部三视图','body_turnaround':'全身三视图','outfit':'完整造型','costume':'服装图','accessory':'配饰单品','expression':'表情图','pose':'动作图','detail':'细节图','character_board':'角色组图','relationship':'关系图','pov':'场景实例','style_reference':'风格参考'}
+VIEW_LABELS = {'storyboard':'分镜图','prop':'道具图','full_body':'单人全身照','expression_grid':'九宫格表情','head_angles':'头部多角度','instance':'实例图','front':'正视图','face_turnaround':'脸部三视图','body_turnaround':'全身三视图','outfit':'完整造型','costume':'服装图','accessory':'配饰单品','expression':'表情图','pose':'动作图','detail':'细节图','character_board':'角色组图','relationship':'关系图','pov':'场景实例','style_reference':'风格参考'}
 
 def attach_character_assets(manifest, root):
     root = Path(root)

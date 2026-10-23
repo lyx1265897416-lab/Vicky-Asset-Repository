@@ -18,3 +18,10 @@ __pycache__/
 # Local credentials are never repository content.
 .env
 .env.*
+
+# The hosted Site maintains its own source repository and ignored local runtime.
+/private-site/
+
+/mobile-site/
+
+/deployment/

@@ -8846,6 +8846,996 @@
         "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
       },
       "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。作者本曲页与 Using This Music 页明确 CC BY 4.0；原作 MP3（不含主题改编曲）。"
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_entrance_v2",
+      "asset_kind": "bgm",
+      "name": "他掌控全场 · 男主入场 · V2",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "一次性",
+        "V2"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second cinematic dark synth-pop cue,112 BPM, D minor. Immediately identifiable swaggering analog bass ostinato, muscular but controlled tight drums, low staccato strings, metallic pluck accents, clean electric-guitar octave replies. Stylish luxury city confidence and irresistible command, not villain horror. Start hook at0, bring crisp drum groove by4s, change bass inversion at12s, a one-beat stop at16s, fuller instrumentation and octave-string answer at17-32s. Final8s reduce percussion and leave a resolute short instrumental signature for dialogue. No long intro, no generic epic trailer booms.",
+        "music_length_ms": 40000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second cinematic dark synth-pop cue,112 BPM, D minor. Immediately identifiable swaggering analog bass ostinato, muscular but controlled tight drums, low staccato strings, metallic pluck accents, clean electric-guitar octave replies. Stylish luxury city confidence and irresistible command, not villain horror. Start hook at0, bring crisp drum groove by4s, change bass inversion at12s, a one-beat stop at16s, fuller instrumentation and octave-string answer at17-32s. Final8s reduce percussion and leave a resolute short instrumental signature for dialogue. No long intro, no generic epic trailer booms.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "985978fa091575a6",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_ENTRANCE_V2.mp3",
+          "sha256": "985978fa091575a6564859ea35323c1913c9ee993a95c48b9911ae9a5ad66eba",
+          "label": "文档原版 · V2",
+          "duration_seconds": 40.03,
+          "extension": ".mp3",
+          "bytes": 961388,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn0XDauVy0JDhNwAmjXqu9Lh",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/tension-v2/audio/MUS_MAGNUS_ENTRANCE_V2.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "985978fa091575a6",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；他掌控全场 · 男主入场。用途：实际入场或有依据的局面变化；不随每轮重新生成而重复入场配乐。素材设计节奏：0–4秒低音标识；4–16秒节奏锁定；16秒断拍；17–32秒完整气场；尾段留台词。时码为设计意图，须回听确认。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn0XDauVy0JDhNwAmjXqu9Lh",
+      "source_revision": 1619,
+      "source_block_id": "doxcn0XDauVy0JDhNwAmjXqu9Lh",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "Technical decode/level checks passed; no independent listening approval; arc timestamps are design intent.",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": null,
+        "gain_db": null,
+        "duration_seconds": 40.0,
+        "source_duration_seconds": null
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_proximity_v2",
+      "asset_kind": "bgm",
+      "name": "再靠近一点 · 暧昧拉扯 · V2",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "一次性",
+        "V2"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second scene cue. Slow-burning electro-R&B / trip-hop at82 BPM in D minor, warm rounded saturated bass riff, syncopated rim click and kick, intimate muted electric guitar with short delay and sultry bowed cello counterline. An original five-note motif returns but changes its last note as an unanswered question. First2s establish pulse. 8s add granular upper shimmer; 16s brief one-beat withdrawal then a closer thicker bass response; 24s guitar and cello intertwine, 30s expressive rising strings; 36-40s withdraw to an unresolved soft chord tail. Push-pull seduction through space and timing, no lounge jazz, elevator music or huge percussion.",
+        "music_length_ms": 40000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second scene cue. Slow-burning electro-R&B / trip-hop at82 BPM in D minor, warm rounded saturated bass riff, syncopated rim click and kick, intimate muted electric guitar with short delay and sultry bowed cello counterline. An original five-note motif returns but changes its last note as an unanswered question. First2s establish pulse. 8s add granular upper shimmer; 16s brief one-beat withdrawal then a closer thicker bass response; 24s guitar and cello intertwine, 30s expressive rising strings; 36-40s withdraw to an unresolved soft chord tail. Push-pull seduction through space and timing, no lounge jazz, elevator music or huge percussion.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "1f987122498c030d",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_PROXIMITY_V2.mp3",
+          "sha256": "1f987122498c030d6618962fbfdff735bc21e861363661f95d3cd43f290a7fb8",
+          "label": "文档原版 · V2",
+          "duration_seconds": 40.03,
+          "extension": ".mp3",
+          "bytes": 961388,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnPit3TTer4wjGN4xofDplDg",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/tension-v2/audio/MUS_MAGNUS_PROXIMITY_V2.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "1f987122498c030d",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；再靠近一点 · 暧昧拉扯。用途：当前允许范围内的近距离互动，不自动新增接触。素材设计节奏：0–8秒低音问答；8–16秒加律动；16秒留白；17–30秒更近；末段悬而未决。时码仅为设计意图，按实际听审区间适配。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnPit3TTer4wjGN4xofDplDg",
+      "source_revision": 1619,
+      "source_block_id": "doxcnPit3TTer4wjGN4xofDplDg",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "Technical decode/level checks passed; no independent listening approval; arc timestamps are design intent.",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": null,
+        "gain_db": null,
+        "duration_seconds": 40.0,
+        "source_duration_seconds": null
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_confrontation_v2",
+      "asset_kind": "bgm",
+      "name": "别替我决定 · 对峙升级 · V2",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "一次性",
+        "V2"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second dramatic hybrid string and dark electronic cue at104 BPM, D minor with brief chromatic upper-neighbor tension. Precisely articulated repeating cello figure, insistent restrained kick, clipped low piano chord responses, ticking percussion and rising viola countermelody. 0-8s contained confrontation; 8-20s rhythmic layers accumulate and harmony tightens; 20s sudden beat of near silence for a decisive line; 21-33s forceful return with octave low strings and rhythmic displacement; 33-40s unresolved uneasy sustained chord with a short pulse underneath. Tension must evolve, not stay flat. No gunshots, horror shrieks, enormous trailer hits or constant cymbal wash.",
+        "music_length_ms": 40000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second dramatic hybrid string and dark electronic cue at104 BPM, D minor with brief chromatic upper-neighbor tension. Precisely articulated repeating cello figure, insistent restrained kick, clipped low piano chord responses, ticking percussion and rising viola countermelody. 0-8s contained confrontation; 8-20s rhythmic layers accumulate and harmony tightens; 20s sudden beat of near silence for a decisive line; 21-33s forceful return with octave low strings and rhythmic displacement; 33-40s unresolved uneasy sustained chord with a short pulse underneath. Tension must evolve, not stay flat. No gunshots, horror shrieks, enormous trailer hits or constant cymbal wash.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "110e8d011a7bf166",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_CONFRONTATION_V2.mp3",
+          "sha256": "110e8d011a7bf16655e7351d02ec37a8db88a1ea351161a3b613928b8ebc55e6",
+          "label": "文档原版 · V2",
+          "duration_seconds": 40.03,
+          "extension": ".mp3",
+          "bytes": 961388,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcntlLbbiibRC75e23iZ3TF7y",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/tension-v2/audio/MUS_MAGNUS_CONFRONTATION_V2.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "110e8d011a7bf166",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；别替我决定 · 对峙升级。用途：当前实际发生的婚约争执、家族施压或对峙；女主单纯表达边界、暂停或纠正不自动触发。设计节奏：低弦重复→短弦加速→留白→压迫回归→未解决尾音，实际适配须听审。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcntlLbbiibRC75e23iZ3TF7y",
+      "source_revision": 1619,
+      "source_block_id": "doxcntlLbbiibRC75e23iZ3TF7y",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "Technical decode/level checks passed; no independent listening approval; arc timestamps are design intent.",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": null,
+        "gain_db": null,
+        "duration_seconds": 40.0,
+        "source_duration_seconds": null
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_revelation_v2",
+      "asset_kind": "bgm",
+      "name": "原来是你 · 命定揭示 · V2",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "一次性",
+        "V2"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. A12-second once-only recognition reveal. Start a pulsing low cello and delicate dissonant piano cluster, ascending string harmonics at3-5s, momentary rhythmic suspension around5s, then a luminous emotionally charged extended string chord at6s with deep rounded bass support and a newly clear original piano motif. Hold wonder and dangerous attraction through9s, then a natural3-second ringing decay. A meaningful romantic discovery, neither jump scare nor triumphant victory fanfare. No sound-effect whooshes or booms.",
+        "music_length_ms": 12000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. A12-second once-only recognition reveal. Start a pulsing low cello and delicate dissonant piano cluster, ascending string harmonics at3-5s, momentary rhythmic suspension around5s, then a luminous emotionally charged extended string chord at6s with deep rounded bass support and a newly clear original piano motif. Hold wonder and dangerous attraction through9s, then a natural3-second ringing decay. A meaningful romantic discovery, neither jump scare nor triumphant victory fanfare. No sound-effect whooshes or booms.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "38fca2a0eb7130f1",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_REVELATION_V2.mp3",
+          "sha256": "38fca2a0eb7130f13aa68acd630c7c5e604812e13c5809d40dd7ad17af227314",
+          "label": "文档原版 · V2",
+          "duration_seconds": 12.02,
+          "extension": ".mp3",
+          "bytes": 289196,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnGdQ2fmSe4b6YFkHbcNKHmh",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/tension-v2/audio/MUS_MAGNUS_REVELATION_V2.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "38fca2a0eb7130f1",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；原来是你 · 命定揭示。用途：当前实际新发生的识别或秘密披露，一次性绑定具体揭示实例。男主既已识别的事实不重播首次发现；与 RECOGNITION 不重复触发同一揭示。素材设计节奏：0–3秒脉冲；3–5秒上行；5秒停顿；6–9秒揭示；9–12秒余韵。时码为设计意图，按真实音频确认。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnGdQ2fmSe4b6YFkHbcNKHmh",
+      "source_revision": 1619,
+      "source_block_id": "doxcnGdQ2fmSe4b6YFkHbcNKHmh",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "Technical decode/level checks passed; no independent listening approval; arc timestamps are design intent.",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": null,
+        "gain_db": null,
+        "duration_seconds": 12.0,
+        "source_duration_seconds": null
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_restraint_v1",
+      "asset_kind": "bgm",
+      "name": "克制与未解疑问 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "可循环",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Sparse low sustained strings, very quiet soft rounded electronic pulses, minimal felt piano playing the motif. Suspended attraction and self-control, dignified midnight city tension. Stable instrumentation and dynamics throughout, no intro, no outro, no big ending; sustain continuous texture through boundaries.",
+        "music_length_ms": 36000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Sparse low sustained strings, very quiet soft rounded electronic pulses, minimal felt piano playing the motif. Suspended attraction and self-control, dignified midnight city tension. Stable instrumentation and dynamics throughout, no intro, no outro, no big ending; sustain continuous texture through boundaries.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "09aa41163230b3a5",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_RESTRAINT_V1.mp3",
+          "sha256": "09aa41163230b3a5f0c30c110209c9bfda3e4209c0aefef9707b201a478d43c0",
+          "label": "文档原版 · V1",
+          "duration_seconds": 32.04,
+          "extension": ".mp3",
+          "bytes": 769580,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#KlKzdoKanoGkNWxhnJfcl9TEnib",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/MUS_MAGNUS_RESTRAINT_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "09aa41163230b3a5",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；循环底声｜克制｜稀疏低弦与轻电子脉冲；开场或疑问未解时调用 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#KlKzdoKanoGkNWxhnJfcl9TEnib",
+      "source_revision": 1619,
+      "source_block_id": "KlKzdoKanoGkNWxhnJfcl9TEnib",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": true,
+        "loop_crossfade_seconds": 4,
+        "gain_db": 0.87,
+        "duration_seconds": 32.0,
+        "source_duration_seconds": 36.024
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_surrender_v2",
+      "asset_kind": "bgm",
+      "name": "这次不退开 · 亲密释放 · V2",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "一次性",
+        "V2"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second emotionally intense romantic cinematic alt-pop instrumental,88 BPM, D minor moving toward F major add9 without becoming sugary. Echoed clean electric guitar, warm close felt piano, sensual deep bass, soft but definite kick/snare groove, expressive wide legato strings. Start memorable guitar motif within2s; 8-16s drums and bass draw closer; 16-23s rising string countermelody and harmonic suspense; brief beat drop at24s,25-34s heartfelt expansive chord release and full guitar answer;34-40s gentle warm unresolved afterglow. Real push-to-release arc for a mutually chosen intimate moment. Passionate but never bombastic, no vocals or choir.",
+        "music_length_ms": 40000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second emotionally intense romantic cinematic alt-pop instrumental,88 BPM, D minor moving toward F major add9 without becoming sugary. Echoed clean electric guitar, warm close felt piano, sensual deep bass, soft but definite kick/snare groove, expressive wide legato strings. Start memorable guitar motif within2s; 8-16s drums and bass draw closer; 16-23s rising string countermelody and harmonic suspense; brief beat drop at24s,25-34s heartfelt expansive chord release and full guitar answer;34-40s gentle warm unresolved afterglow. Real push-to-release arc for a mutually chosen intimate moment. Passionate but never bombastic, no vocals or choir.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "3b381ba674a76cc4",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_SURRENDER_V2.mp3",
+          "sha256": "3b381ba674a76cc471e27e093c110249d2f42b26e59a6908474a0d9ebb225151",
+          "label": "文档原版 · V2",
+          "duration_seconds": 40.03,
+          "extension": ".mp3",
+          "bytes": 961388,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn3ThWzurHw63INBtIMFqlzp",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/tension-v2/audio/MUS_MAGNUS_SURRENDER_V2.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "3b381ba674a76cc4",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；这次不退开 · 亲密释放。用途：当前相互意愿成立且已允许的亲近或情绪释放，不因选曲自动推进亲吻或确认关系；改向后重新评估。素材设计节奏：8秒内建立心跳律动；中段靠近；24秒短停；25秒和声打开；尾段回落。时码为设计意图，须听审适配。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn3ThWzurHw63INBtIMFqlzp",
+      "source_revision": 1619,
+      "source_block_id": "doxcn3ThWzurHw63INBtIMFqlzp",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "Technical decode/level checks passed; no independent listening approval; arc timestamps are design intent.",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": null,
+        "gain_db": null,
+        "duration_seconds": 40.0,
+        "source_duration_seconds": null
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_conflict_v1",
+      "asset_kind": "bgm",
+      "name": "婚约争执与家族压力 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "可循环",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Quiet tight short cello/viola ostinato in eighth-notes, restrained low electronic pulse, four-note motif in low strings. Controlled outside pressure and political confrontation, never action trailer or combat. Stable dynamics, no intro/outro, no percussion hits; continuous texture through boundaries.",
+        "music_length_ms": 36000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Quiet tight short cello/viola ostinato in eighth-notes, restrained low electronic pulse, four-note motif in low strings. Controlled outside pressure and political confrontation, never action trailer or combat. Stable dynamics, no intro/outro, no percussion hits; continuous texture through boundaries.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "a836ea3eb9143342",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_CONFLICT_V1.mp3",
+          "sha256": "a836ea3eb91433425e8304dbe512962230d979edb7054d132d10f94294fb0116",
+          "label": "文档原版 · V1",
+          "duration_seconds": 32.04,
+          "extension": ".mp3",
+          "bytes": 769580,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#DxlddWYgboEfnVxlMmtcZzConNg",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/MUS_MAGNUS_CONFLICT_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "a836ea3eb9143342",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；循环底声｜外部压力｜短弦节奏与低脉冲；婚约争执或家族施压时调用 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#DxlddWYgboEfnVxlMmtcZzConNg",
+      "source_revision": 1619,
+      "source_block_id": "DxlddWYgboEfnVxlMmtcZzConNg",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": true,
+        "loop_crossfade_seconds": 4,
+        "gain_db": -5.92,
+        "duration_seconds": 32.0,
+        "source_duration_seconds": 36.024
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-amb_garage_v1",
+      "asset_kind": "bgm",
+      "name": "地下车库环境 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "环境底声",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "环境底声",
+        "可循环",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "Seamlessly looping quiet underground luxury parking garage ambience. Subtle broad ventilation hum, distant steady electrical air handling, spacious concrete room tone. Empty at night. Stable understated stereo bed, no people, voices, music, footsteps, car doors, engine starts, alarms or abrupt events. Natural field recording, low rumble controlled.",
+        "duration": 22,
+        "loop": true,
+        "prompt_influence": 0.65
+      },
+      "prompt": "Seamlessly looping quiet underground luxury parking garage ambience. Subtle broad ventilation hum, distant steady electrical air handling, spacious concrete room tone. Empty at night. Stable understated stereo bed, no people, voices, music, footsteps, car doors, engine starts, alarms or abrupt events. Natural field recording, low rumble controlled.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "c5c39b2822f4660d",
+          "path": "assets/bgm/magnus-doc-20261019/AMB_GARAGE_V1.mp3",
+          "sha256": "c5c39b2822f4660da3576dd06187a475bd6fa01c4ff030b5e1e8c6820b5694fe",
+          "label": "文档原版 · V1",
+          "duration_seconds": 20.04,
+          "extension": ".mp3",
+          "bytes": 481580,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnCDFynzKygWoViLKYFq0Rig",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/AMB_GARAGE_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "c5c39b2822f4660d",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；循环底声｜地下车库｜安静通风底声与混凝土空间感 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnCDFynzKygWoViLKYFq0Rig",
+      "source_revision": 1619,
+      "source_block_id": "doxcnCDFynzKygWoViLKYFq0Rig",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": true,
+        "loop_crossfade_seconds": 2,
+        "gain_db": 11.37,
+        "duration_seconds": 20.0,
+        "source_duration_seconds": 22.0
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-amb_car_interior_v1",
+      "asset_kind": "bgm",
+      "name": "静止车内环境 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "环境底声",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "环境底声",
+        "可循环",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "Seamlessly looping ambience inside a parked luxury sedan, engine switched OFF. Soft enclosed cabin room tone with very faint air conditioning, distant outside garage muffled by closed windows. Constant quiet intimate background, no driving, voices, breathing, music, seat movement, seatbelt or door sounds, no sudden events.",
+        "duration": 22,
+        "loop": true,
+        "prompt_influence": 0.65
+      },
+      "prompt": "Seamlessly looping ambience inside a parked luxury sedan, engine switched OFF. Soft enclosed cabin room tone with very faint air conditioning, distant outside garage muffled by closed windows. Constant quiet intimate background, no driving, voices, breathing, music, seat movement, seatbelt or door sounds, no sudden events.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "e0da1cb868250e4f",
+          "path": "assets/bgm/magnus-doc-20261019/AMB_CAR_INTERIOR_V1.mp3",
+          "sha256": "e0da1cb868250e4f50aeaaa88af2964449042ae49bc57da94205d8e06bbd3952",
+          "label": "文档原版 · V1",
+          "duration_seconds": 20.04,
+          "extension": ".mp3",
+          "bytes": 481580,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4gjkmrF57dKNXJknEF1Y8e",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/AMB_CAR_INTERIOR_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "e0da1cb868250e4f",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；循环底声｜车内｜静止车辆、发动机关闭时的封闭车厢与轻空调底声 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4gjkmrF57dKNXJknEF1Y8e",
+      "source_revision": 1619,
+      "source_block_id": "doxcn4gjkmrF57dKNXJknEF1Y8e",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": true,
+        "loop_crossfade_seconds": 2,
+        "gain_db": 6.59,
+        "duration_seconds": 20.0,
+        "source_duration_seconds": 22.0
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-mus_magnus_trust_v1",
+      "asset_kind": "bgm",
+      "name": "放松交流与信任 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "剧情配乐",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "剧情配乐",
+        "可循环",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/music-v2.5",
+      "parameters": {
+        "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Warm intimate felt piano clearly states the same D-F-E-A motif sparsely, gentle sustained strings, D minor add9 moving through Bbmaj7 and Fadd9 with restrained hopeful warmth. Tender relief and equal mutual trust, no melodramatic climax. Stable calm dynamics, no intro/outro, continuous texture through boundaries.",
+        "music_length_ms": 36000,
+        "force_instrumental": true,
+        "output_format": "mp3_48000_192"
+      },
+      "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Warm intimate felt piano clearly states the same D-F-E-A motif sparsely, gentle sustained strings, D minor add9 moving through Bbmaj7 and Fadd9 with restrained hopeful warmth. Tender relief and equal mutual trust, no melodramatic climax. Stable calm dynamics, no intro/outro, continuous texture through boundaries.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "753d534d0782dc9f",
+          "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_TRUST_V1.mp3",
+          "sha256": "753d534d0782dc9f15d224deed90c7c51e2128840dd951e394bddf520d044e3d",
+          "label": "文档原版 · V1",
+          "duration_seconds": 32.04,
+          "extension": ".mp3",
+          "bytes": 769580,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#L4dUd2IwLotN5Wxlp2Wcv6sWn3F",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/MUS_MAGNUS_TRUST_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "753d534d0782dc9f",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；循环底声｜交流缓和｜温暖钢琴与柔和弦乐；实际放松、互信后调用 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#L4dUd2IwLotN5Wxlp2Wcv6sWn3F",
+      "source_revision": 1619,
+      "source_block_id": "L4dUd2IwLotN5Wxlp2Wcv6sWn3F",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": true,
+        "loop_crossfade_seconds": 4,
+        "gain_db": -5.17,
+        "duration_seconds": 32.0,
+        "source_duration_seconds": 36.024
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-sfx_footsteps_v1",
+      "asset_kind": "bgm",
+      "name": "皮鞋脚步 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "动作音效",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "动作音效",
+        "一次性",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "Isolated foley: six measured adult leather dress-shoe steps walking on polished concrete, calm heavy male gait at one step per second, alternating heels and soles. Close clean recording with only a subtle short garage reflection. Distinct separate steps with quiet gaps and natural decay. No speech, music, breathing, ambient drone or extra scuffs.",
+        "duration": 6,
+        "loop": false,
+        "prompt_influence": 0.65
+      },
+      "prompt": "Isolated foley: six measured adult leather dress-shoe steps walking on polished concrete, calm heavy male gait at one step per second, alternating heels and soles. Close clean recording with only a subtle short garage reflection. Distinct separate steps with quiet gaps and natural decay. No speech, music, breathing, ambient drone or extra scuffs.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "d840e824bc1b2a3d",
+          "path": "assets/bgm/magnus-doc-20261019/SFX_FOOTSTEPS_V1.mp3",
+          "sha256": "d840e824bc1b2a3db379407d2e872b3fe33dbd03a7d4b55f1bbb9a98c3ab5dad",
+          "label": "文档原版 · V1",
+          "duration_seconds": 6.02,
+          "extension": ".mp3",
+          "bytes": 145196,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn2rRN4lAxWZx5iK8ykKQSPf",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/SFX_FOOTSTEPS_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "d840e824bc1b2a3d",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；一次性｜脚步｜皮鞋踏在混凝土地面；仅在鞋、地面与动作匹配时选用对应区间，一步不播放整串脚声，同一动作跨镜头不重复触发。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn2rRN4lAxWZx5iK8ykKQSPf",
+      "source_revision": 1619,
+      "source_block_id": "doxcn2rRN4lAxWZx5iK8ykKQSPf",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": 0,
+        "gain_db": 3.492,
+        "duration_seconds": 6.0,
+        "source_duration_seconds": 6.0
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-sfx_cloth_v1",
+      "asset_kind": "bgm",
+      "name": "大衣衣料摩擦 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "动作音效",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "动作音效",
+        "一次性",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "Isolated close foley of one gentle movement of a wool coat sleeve brushing smooth dress fabric, then coming to rest. Soft textured fabric rustle, intimate subtle natural touch, short quiet lead-in and full decay. No skin slaps, zippers, tearing, breath, voices, heartbeat, music or ambience. Clean quiet studio recording.",
+        "duration": 4,
+        "loop": false,
+        "prompt_influence": 0.65
+      },
+      "prompt": "Isolated close foley of one gentle movement of a wool coat sleeve brushing smooth dress fabric, then coming to rest. Soft textured fabric rustle, intimate subtle natural touch, short quiet lead-in and full decay. No skin slaps, zippers, tearing, breath, voices, heartbeat, music or ambience. Clean quiet studio recording.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "42285d5d1664763a",
+          "path": "assets/bgm/magnus-doc-20261019/SFX_CLOTH_V1.mp3",
+          "sha256": "42285d5d1664763a15d2a62f9bd363fd01e110c30b97390eae9c352112495d8f",
+          "label": "文档原版 · V1",
+          "duration_seconds": 4.03,
+          "extension": ".mp3",
+          "bytes": 97388,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4aMPrmQ5EvZZFwQceTMRT2",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/SFX_CLOTH_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "42285d5d1664763a",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；一次性｜衣料｜大衣袖口与裙装轻摩擦；匹配当前服装材质、实际接触和转身动作后选用对应区间，不固定套用于所有服装或每次接触。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4aMPrmQ5EvZZFwQceTMRT2",
+      "source_revision": 1619,
+      "source_block_id": "doxcn4aMPrmQ5EvZZFwQceTMRT2",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": 0,
+        "gain_db": 4.949,
+        "duration_seconds": 4.0,
+        "source_duration_seconds": 4.0
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-sfx_car_door_open_v1",
+      "asset_kind": "bgm",
+      "name": "车门开启 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "动作音效",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "动作音效",
+        "一次性",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "One isolated luxury sedan door opening from outside: a small precise handle and latch click, then soft rubber seal release and smooth restrained hinge movement, ending open. Single action, short quiet lead-in, natural decay. Clean close foley, no door closing, engine, alarm, footsteps, voices, music or ambient hum.",
+        "duration": 3,
+        "loop": false,
+        "prompt_influence": 0.65
+      },
+      "prompt": "One isolated luxury sedan door opening from outside: a small precise handle and latch click, then soft rubber seal release and smooth restrained hinge movement, ending open. Single action, short quiet lead-in, natural decay. Clean close foley, no door closing, engine, alarm, footsteps, voices, music or ambient hum.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "886b0dd7611a3a59",
+          "path": "assets/bgm/magnus-doc-20261019/SFX_CAR_DOOR_OPEN_V1.mp3",
+          "sha256": "886b0dd7611a3a59acfb8fe63ab6506c45460079bfae1301ae33b64c981e20d0",
+          "label": "文档原版 · V1",
+          "duration_seconds": 3.02,
+          "extension": ".mp3",
+          "bytes": 73196,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnHenIMmNmnRXaH8c5HFaaxc",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/SFX_CAR_DOOR_OPEN_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "886b0dd7611a3a59",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；一次性｜车门开｜门把、锁扣与密封条释放 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnHenIMmNmnRXaH8c5HFaaxc",
+      "source_revision": 1619,
+      "source_block_id": "doxcnHenIMmNmnRXaH8c5HFaaxc",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": 0,
+        "gain_db": -4.634,
+        "duration_seconds": 3.0,
+        "source_duration_seconds": 3.0
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-sfx_car_door_close_v1",
+      "asset_kind": "bgm",
+      "name": "车门关闭 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "动作音效",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "动作音效",
+        "一次性",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "One isolated luxury sedan door closing gently but securely: a smooth short movement, one deep cushioned thump and precise latch click, then complete natural decay. Single closing action, not repeated or slammed. Clean close foley, no opening, engine, alarm, footsteps, speech, music or ambience.",
+        "duration": 3,
+        "loop": false,
+        "prompt_influence": 0.65
+      },
+      "prompt": "One isolated luxury sedan door closing gently but securely: a smooth short movement, one deep cushioned thump and precise latch click, then complete natural decay. Single closing action, not repeated or slammed. Clean close foley, no opening, engine, alarm, footsteps, speech, music or ambience.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "8b71aa77211bed32",
+          "path": "assets/bgm/magnus-doc-20261019/SFX_CAR_DOOR_CLOSE_V1.mp3",
+          "sha256": "8b71aa77211bed325458adf04327f0db74c8ea47a9b4726cf80a5b42de1a4286",
+          "label": "文档原版 · V1",
+          "duration_seconds": 3.02,
+          "extension": ".mp3",
+          "bytes": 73196,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnzeAXgMevZAK6GgQviWryEh",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/SFX_CAR_DOOR_CLOSE_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "8b71aa77211bed32",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；一次性｜车门关｜关门低响与锁扣落定 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnzeAXgMevZAK6GgQviWryEh",
+      "source_revision": 1619,
+      "source_block_id": "doxcnzeAXgMevZAK6GgQviWryEh",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": false,
+        "loop_crossfade_seconds": 0,
+        "gain_db": -6.105,
+        "duration_seconds": 3.0,
+        "source_duration_seconds": 3.0
+      }
+    },
+    {
+      "id": "magnus-doc-20261019-amb_fireplace_room_v1",
+      "asset_kind": "bgm",
+      "name": "壁炉室环境 · V1",
+      "project": "Magnus Thorne",
+      "project_id": "magnus-thorne-document",
+      "category": "环境底声",
+      "episodes": [],
+      "tags": [
+        "Magnus Thorne",
+        "文档确认版",
+        "环境底声",
+        "可循环",
+        "V1"
+      ],
+      "status": "confirmed",
+      "model": "elevenlabs/sound-effects-v2",
+      "parameters": {
+        "prompt": "Seamless loop of a quiet elegant sitting room with a small real wood fireplace. Gentle warm irregular fine crackles and soft fire movement at middle distance, subtle indoor room tone. Restrained and intimate, not roaring bonfire. No loud pops, voices, breathing, music, footsteps, wind or outdoor insects. Stable stereo ambience.",
+        "duration": 22,
+        "loop": true,
+        "prompt_influence": 0.65
+      },
+      "prompt": "Seamless loop of a quiet elegant sitting room with a small real wood fireplace. Gentle warm irregular fine crackles and soft fire movement at middle distance, subtle indoor room tone. Restrained and intimate, not roaring bonfire. No loud pops, voices, breathing, music, footsteps, wind or outdoor insects. Stable stereo ambience.",
+      "source_records": [
+        "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+        "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+      ],
+      "variants": [
+        {
+          "id": "8c03c2e2ce2dc4be",
+          "path": "assets/bgm/magnus-doc-20261019/AMB_FIREPLACE_ROOM_V1.mp3",
+          "sha256": "8c03c2e2ce2dc4be3511a86575607dcd3969f9e8fb48415428c7a32942e0eafc",
+          "label": "文档原版 · V1",
+          "duration_seconds": 20.04,
+          "extension": ".mp3",
+          "bytes": 481580,
+          "sources": [
+            "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn6SOyl0yaN708U29YKaVU6d",
+            "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/AMB_FIREPLACE_ROOM_V1.mp3"
+          ],
+          "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+          "decode_check": "passed"
+        }
+      ],
+      "default_variant": "8c03c2e2ce2dc4be",
+      "confirmation": {
+        "date": "2026-10-19",
+        "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+      },
+      "provenance_note": "原文档音频逐字节保留；循环底声｜壁炉室｜轻壁炉燃烧与室内底声 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn6SOyl0yaN708U29YKaVU6d",
+      "source_revision": 1619,
+      "source_block_id": "doxcn6SOyl0yaN708U29YKaVU6d",
+      "generation_date": null,
+      "generation_date_note": "未取得可核实生成时间戳。",
+      "imported_on": "2026-10-19",
+      "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+      "production_processing": {
+        "loop": true,
+        "loop_crossfade_seconds": 2,
+        "gain_db": 15.24,
+        "duration_seconds": 20.0,
+        "source_duration_seconds": 22.0
+      }
     }
   ]
 }

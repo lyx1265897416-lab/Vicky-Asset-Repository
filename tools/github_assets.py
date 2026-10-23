@@ -9,7 +9,8 @@ ROOT = Path(__file__).resolve().parents[1]
 REPO = 'lyx1265897416-lab/Vicky-Asset-Repository'
 MANIFEST = ROOT / 'github-content-manifest.json'
 CACHE = ROOT / '.github-transfer'
-EXCLUDED = {'.git', '.github-transfer', '.voice-runtime', '.voice-runtime312', '__pycache__', '.DS_Store', '.gallery-publish.lock'}
+EXCLUDED = {'.git', '.github-transfer', '.voice-runtime', '.voice-runtime312', '__pycache__', '.DS_Store', '.gallery-publish.lock',
+            'private-site', 'mobile-site', 'deployment'}
 SOURCE_DIRS = {'tools'}
 LIMIT = 80 * 1024 * 1024
 
@@ -41,7 +42,12 @@ def prepare(tag):
     previous = json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}
     prior_objects = previous.get('objects', {})
     files, objects, local_sources = {}, {}, {}
-    paths = sorted(p for p in ROOT.rglob('*') if p.is_file() and eligible(p))
+    paths = []
+    for directory, directories, names in os.walk(ROOT):
+        directories[:] = [name for name in directories if eligible(Path(directory) / name)]
+        paths.extend(Path(directory) / name for name in names
+                     if eligible(Path(directory) / name) and (Path(directory) / name).is_file())
+    paths.sort()
     for i, p in enumerate(paths):
         rel = p.relative_to(ROOT).as_posix()
         if rel == MANIFEST.name: continue

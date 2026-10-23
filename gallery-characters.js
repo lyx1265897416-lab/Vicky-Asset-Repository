@@ -1,5 +1,5 @@
 // Explicit character identities; shared boards do not merge their members.
-let activeCharacter='all',activeProject='all',activeReadiness='all',groupByCharacter=true,detailCharacter=null;
+let activeCharacter='all',activeProject='all',activeReadiness='all',groupByCharacter=false,detailCharacter=null;
 const projectLabels={'the_ninth_inning':'第九局以后','mii-takes-care-of-you':'今天不要上班，咪养你','off-script / KISS ME FOR REAL':'OFF SCRIPT · KISS ME FOR REAL','the-sea-princes-almost-bride':'海王子的准新娘','3d-white-34-20260923':'白底 3D 角色 · 34 组','3d-front-17-20260923':'白底 3D 角色 · 17 组','front-id-32-20260923':'白底女角色 · 32 组','white-portraits-24-20260922':'白底女角色 · 24 组','male-white-portraits-31-v2-20260923':'男角色 · 31 组','male-white-portraits-23-v2-20260923':'男角色第二版 · 23 组','western-male-white-28-v3-20260923':'欧美男角色 · 28 组','research-white-27-20260923':'调研角色 · 27 组','research-character-batch-20260922':'原创调研角色'};
 function roleComplete(c){return manifest.asset_standard.slots.every(s=>assets.some(a=>!isTrashed(a)&&a.character_ids.length===1&&a.character_ids[0]===c.id&&(s.views.includes(a.view_type)||(a.verified_slots||[]).includes(s.key))))}
 function roleInScope(c){return genderMatches(c)&&(activeProject==='all'||c.project===activeProject)&&(activeReadiness==='all'||(activeReadiness==='complete'?roleComplete(c):!roleComplete(c)))}
@@ -18,7 +18,7 @@ function bindCharacterControls(){
  document.getElementById('group-characters').onclick=()=>{groupByCharacter=!groupByCharacter;selectedAssets.clear();render()};
 }
 function characterGridHTML(list,card){
- grid.classList.toggle('character-grouped',(groupByCharacter&&activeKind==='character')||activeKind==='scene');
+ grid.classList.toggle('character-grouped',groupByCharacter&&activeKind==='character');
  if(activeKind==='scene')return sceneGridHTML(list,card);
  if(!groupByCharacter||activeKind!=='character')return list.map(card).join('');
  const groups=manifest.characters.filter(roleInScope).map(c=>({id:c.id,name:c.name,items:list.filter(a=>a.character_ids.includes(c.id))})).filter(g=>g.items.length&&(activeCharacter==='all'||activeCharacter===g.id));

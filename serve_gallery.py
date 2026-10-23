@@ -1,6 +1,7 @@
 """Run the local gallery with a persistent, same-origin deletion API."""
 import argparse
 import json
+import re
 import subprocess
 import sys
 import threading
@@ -22,7 +23,45 @@ class GalleryHandler(SimpleHTTPRequestHandler):
         path=unquote(urlsplit(self.path).path).lstrip('/')
         if path=='api/library-state':return self.json_response(200,{'permanent_delete':True,'deleted_ids':sorted(completed_deleted_keys(self.server.root))})
         if path in deleted_keys(self.server.root):return self.send_error(410,'Image permanently deleted')
+        if path.startswith('assets/videos/') and path.endswith('.mp4'):
+            return self.send_video(path)
         return super().do_GET()
+    def send_video(self,path,head=False):
+        target=(self.server.root/path).resolve()
+        if not target.is_relative_to(self.server.root/'assets/videos') or not target.is_file():
+            return self.send_error(404)
+        size=target.stat().st_size;start=0;end=size-1
+        value=self.headers.get('Range')
+        if value:
+            match=re.fullmatch(r'bytes=(\d*)-(\d*)',value)
+            if not match or not any(match.groups()):
+                self.send_response(416);self.send_header('Content-Range',f'bytes */{size}');self.end_headers();return
+            left,right=match.groups()
+            if left:
+                start=int(left);end=min(int(right),size-1) if right else size-1
+            else:
+                start=max(0,size-int(right))
+            if start>end or start>=size:
+                self.send_response(416);self.send_header('Content-Range',f'bytes */{size}');self.end_headers();return
+        self.send_response(206 if value else 200)
+        self.send_header('Content-Type','video/mp4');self.send_header('Accept-Ranges','bytes')
+        self.send_header('Content-Length',str(end-start+1))
+        if value:self.send_header('Content-Range',f'bytes {start}-{end}/{size}')
+        self.end_headers()
+        if head:return
+        try:
+            with target.open('rb') as source:
+                source.seek(start);remaining=end-start+1
+                while remaining:
+                    chunk=source.read(min(262144,remaining))
+                    if not chunk:break
+                    self.wfile.write(chunk);remaining-=len(chunk)
+        except (BrokenPipeError,ConnectionResetError):pass
+    def do_HEAD(self):
+        if not self.local_host():return self.send_error(403)
+        path=unquote(urlsplit(self.path).path).lstrip('/')
+        if path.startswith('assets/videos/') and path.endswith('.mp4'):return self.send_video(path,head=True)
+        return super().do_HEAD()
     def do_POST(self):
         if self.path!='/api/permanently-delete':return self.json_response(404,{'error':'接口不存在'})
         host=self.headers.get('Host','')

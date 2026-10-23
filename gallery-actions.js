@@ -12,9 +12,9 @@ function selectedList(){return filtered().filter(a=>selectedAssets.has(favoriteK
 function toggleImageSelection(index){const k=favoriteKey(assets[index]);selectedAssets.has(k)?selectedAssets.delete(k):selectedAssets.add(k);renderGrid()}
 function toggleSelectionMode(){selectionMode=!selectionMode;selectedAssets.clear();closeCardMenu();renderGrid()}
 function renderBulkBar(){const list=filtered();const allowed=new Set(list.map(favoriteKey));selectedAssets=new Set([...selectedAssets].filter(k=>allowed.has(k)));const count=selectedList().length;document.getElementById('bulk-purge').hidden=activeCollection!=='trash';document.getElementById('bulk-purge').disabled=!count;document.getElementById('empty-trash').hidden=activeCollection!=='trash';document.getElementById('empty-trash').disabled=!assets.some(isTrashed);const b=document.getElementById('batch-mode');b.textContent=selectionMode?'完成选择':'批量选择';b.setAttribute('aria-pressed',String(selectionMode));document.getElementById('bulk-bar').hidden=!selectionMode;document.getElementById('bulk-count').textContent=`已选 ${count} 张 · 当前结果 ${list.length} 张`;document.getElementById('bulk-all').textContent=count===list.length&&list.length?'取消全选':'全选当前结果';document.getElementById('bulk-all').disabled=!list.length;['bulk-share','bulk-download','bulk-delete'].forEach(id=>document.getElementById(id).disabled=!count);document.getElementById('bulk-delete').textContent=activeCollection==='trash'?'批量恢复':'批量删除';document.getElementById('bulk-delete').classList.toggle('danger',activeCollection!=='trash');grid.classList.toggle('selecting',selectionMode);document.body.classList.toggle('selection-active',selectionMode)}
-function cardActions(a,index){return `<div class="card-bottom"><button class="detail-link" data-detail-index="${index}">${a.category==='outfit'?'展开服装与配饰 ↗':'详情与提示词 ↗'}</button><button class="more-button" data-more-index="${index}" aria-label="更多操作：${escapeHTML(a.title)}" aria-expanded="false" aria-controls="card-menu-${index}" aria-haspopup="menu"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="6" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="18" cy="12" r="1.6"/></svg></button></div><div class="card-menu" id="card-menu-${index}" role="menu" hidden><button role="menuitem" data-action="share" data-asset-index="${index}">分享</button><button role="menuitem" data-action="download" data-asset-index="${index}">下载文件</button><button role="menuitem" class="${isTrashed(a)?'':'danger'}" data-action="${isTrashed(a)?'restore':'delete'}" data-asset-index="${index}">${isTrashed(a)?'恢复':'删除'}</button>${isTrashed(a)?`<button role="menuitem" class="danger" data-action="purge" data-asset-index="${index}">彻底删除</button>`:''}</div>`}
+function cardActions(a,index){return `<div class="card-bottom">${a.media_type==='audio'?'':`<button class="detail-link" data-detail-index="${index}">${a.category==='outfit'?'展开服装与配饰 ↗':'详情与提示词 ↗'}</button>`}<button class="more-button" data-more-index="${index}" aria-label="更多操作：${escapeHTML(a.title)}" aria-expanded="false" aria-controls="card-menu-${index}" aria-haspopup="menu"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="6" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="18" cy="12" r="1.6"/></svg></button></div><div class="card-menu" id="card-menu-${index}" role="menu" hidden><button role="menuitem" data-action="share" data-asset-index="${index}">分享</button><button role="menuitem" data-action="download" data-asset-index="${index}">下载文件</button><button role="menuitem" class="${isTrashed(a)?'':'danger'}" data-action="${isTrashed(a)?'restore':'delete'}" data-asset-index="${index}">${isTrashed(a)?'恢复':'删除'}</button>${isTrashed(a)&&!['audio','video'].includes(a.media_type)?`<button role="menuitem" class="danger" data-action="purge" data-asset-index="${index}">彻底删除</button>`:''}</div>`}
 function closeCardMenu(restoreFocus=false){if(openMenuIndex<0)return;const i=openMenuIndex;document.getElementById('card-menu-'+i)?.setAttribute('hidden','');grid.querySelector(`[data-more-index="${i}"]`)?.setAttribute('aria-expanded','false');openMenuIndex=-1;if(restoreFocus)grid.querySelector(`[data-more-index="${i}"]`)?.focus()}
-function bindCardActions(){openMenuIndex=-1;grid.querySelectorAll('[data-more-index]').forEach(b=>b.onclick=e=>{e.stopPropagation();const i=Number(b.dataset.moreIndex),wasOpen=openMenuIndex===i;closeCardMenu();if(!wasOpen){openMenuIndex=i;document.getElementById('card-menu-'+i).hidden=false;b.setAttribute('aria-expanded','true');document.querySelector(`#card-menu-${i} button`).focus()}});grid.querySelectorAll('[data-action]').forEach(b=>b.onclick=e=>{e.stopPropagation();const a=assets[Number(b.dataset.assetIndex)];closeCardMenu();if(b.dataset.action==='share')openShare([a]);if(b.dataset.action==='download')downloadAssets([a]);if(b.dataset.action==='delete')setTrashed([a],true);if(b.dataset.action==='restore')setTrashed([a],false);if(b.dataset.action==='purge')requestPermanentDelete([a])});grid.querySelectorAll('[data-select-index]').forEach(b=>{b.onclick=e=>e.stopPropagation();b.onchange=()=>{const index=Number(b.dataset.selectIndex);toggleImageSelection(index);grid.querySelector(`[data-select-index="${index}"]`)?.focus()}});renderBulkBar()}
+function bindCardActions(items=assets){openMenuIndex=-1;grid.querySelectorAll('[data-more-index]').forEach(b=>b.onclick=e=>{e.stopPropagation();const i=Number(b.dataset.moreIndex),wasOpen=openMenuIndex===i;closeCardMenu();if(!wasOpen){openMenuIndex=i;document.getElementById('card-menu-'+i).hidden=false;b.setAttribute('aria-expanded','true');document.querySelector(`#card-menu-${i} button`).focus()}});grid.querySelectorAll('[data-action]').forEach(b=>b.onclick=e=>{e.stopPropagation();const a=items[Number(b.dataset.assetIndex)];closeCardMenu();if(b.dataset.action==='share')openShare([a]);if(b.dataset.action==='download')downloadAssets([a]);if(b.dataset.action==='delete')setTrashed([a],true);if(b.dataset.action==='restore')setTrashed([a],false);if(b.dataset.action==='purge')requestPermanentDelete([a])});grid.querySelectorAll('[data-select-index]').forEach(b=>{b.onclick=e=>e.stopPropagation();b.onchange=()=>{const index=Number(b.dataset.selectIndex);toggleImageSelection(index);grid.querySelector(`[data-select-index="${index}"]`)?.focus()}});renderBulkBar()}
 function downloadURL(url,name){const a=document.createElement('a');a.href=url;a.download=name;document.body.append(a);a.click();a.remove()}
 function safeFileName(a,index=0){const name=a.path.split('/').pop().replace(/[^\p{L}\p{N}._-]/gu,'_');return `${String(index+1).padStart(3,'0')}-${name}`}
 async function imageFile(a,index){const response=await fetch(assetURL(a));if(!response.ok)throw Error('文件读取失败：'+a.title);const blob=await response.blob();return new File([blob],safeFileName(a,index),{type:blob.type||'image/png'})}
@@ -30,22 +30,23 @@ function supportsShare(data){try{return typeof navigator.share==='function'&&(!n
 function linkScopeNote(){const h=location.hostname.toLowerCase();if(location.protocol==='file:'||h==='localhost'||h.endsWith('.localhost')||/^127\./.test(h)||h==='[::1]')return '这是本机素材链接，仅这台电脑可打开。发给他人请选择分享文件。';if(/^10\.|^192\.168\.|^172\.(1[6-9]|2\d|3[01])\./.test(h)||h.endsWith('.local'))return '这是局域网素材链接，需要对方连接同一网络且可访问图库。';return '复制的是所选素材的直接链接；对方需要有访问该地址的权限。'}
 function openShare(items){
  if(!items.length)return;
+ document.querySelectorAll('video').forEach(v=>v.pause());
  shareToken++;shareAssets=[...items];shareFiles=[];shareClipboardBlob=null;shareBusy=false;
  document.getElementById('share-title').textContent=items.length===1?'分享素材':`分享 ${items.length} 项素材`;
- document.getElementById('share-preview').innerHTML=items.slice(0,8).map(a=>a.media_type==='audio'?`<span class="audio-share-name">♫ ${escapeHTML(a.title)}</span>`:`<img src="${escapeHTML(assetURL(a))}" alt="${escapeHTML(a.title)}">`).join('');
+ document.getElementById('share-preview').innerHTML=items.slice(0,8).map(a=>['audio','video'].includes(a.media_type)?`<span class="audio-share-name">${a.media_type==='video'?'▶':'♫'} ${escapeHTML(a.title)}</span>`:`<img src="${escapeHTML(assetURL(a))}" alt="${escapeHTML(a.title)}">`).join('');
  document.getElementById('share-links').value=items.map(imageShareURL).join('\n');
  document.getElementById('share-copy-link').textContent=items.length===1?'复制素材链接':`复制 ${items.length} 个素材链接`;
  const linksSupported=supportsShare(shareLinkPayload(items));
  document.getElementById('share-link-native').disabled=!linksSupported;
  document.getElementById('share-link-note').textContent=linkScopeNote()+(!linksSupported?' 当前浏览器不支持系统分享，可复制链接。':'');
- const audio=items[0].media_type==='audio';
- document.getElementById('share-file-title').textContent=audio?'分享音频':'分享图片';
- document.getElementById('share-native').textContent=audio?'分享音频到…':'分享图片到…';
- document.getElementById('share-download').textContent=audio?'下载音频':'下载原图';
+ const audio=items[0].media_type==='audio',video=items[0].media_type==='video';
+ document.getElementById('share-file-title').textContent=audio?'分享音频':video?'分享视频':'分享图片';
+ document.getElementById('share-native').textContent=audio?'分享音频到…':video?'分享视频到…':'分享图片到…';
+ document.getElementById('share-download').textContent=audio?'下载音频':video?'下载原视频':'下载原图';
  document.getElementById('share-retry').textContent='重新加载文件';
  document.getElementById('share-native').disabled=true;
  const copyButton=document.getElementById('share-copy-image');
- copyButton.hidden=items.length!==1||items[0].media_type==='audio';copyButton.disabled=true;
+ copyButton.hidden=items.length!==1||['audio','video'].includes(items[0].media_type);copyButton.disabled=true;
  document.getElementById('share-image-note').textContent='通过系统分享面板选择微信等应用；可用应用由设备决定。';
  document.getElementById('share-retry').hidden=true;
  document.getElementById('share-progress').textContent='正在加载文件…';
@@ -67,13 +68,14 @@ async function prepareShare(){
   const nativeSupported=typeof navigator.canShare==='function'&&supportsShare({files});
   document.getElementById('share-native').disabled=!nativeSupported;
   document.getElementById('share-image-note').textContent=nativeSupported?'打开系统分享面板后选择微信等应用；若列表中没有微信，可复制图片后到微信粘贴。':'当前浏览器不支持直接调起文件分享。可复制图片后到微信等应用粘贴，或下载文件发送。';
-  if(files.length===1&&items[0].media_type!=='audio'&&navigator.clipboard?.write&&typeof ClipboardItem!=='undefined'){
+  if(files.length===1&&!['audio','video'].includes(items[0].media_type)&&navigator.clipboard?.write&&typeof ClipboardItem!=='undefined'){
    try{const blob=await clipboardPNG(files[0]);if(token!==shareToken)return;shareClipboardBlob=blob;document.getElementById('share-copy-image').disabled=false}catch(e){/* Original file sharing and download still work. */}
   }
   if(token!==shareToken)return;
   document.getElementById('share-progress').textContent='';
+  if(items[0]?.media_type==='video')document.getElementById('share-image-note').textContent=nativeSupported?'通过系统分享面板发送所选原视频。':'当前浏览器不支持系统文件分享，可复制链接或下载视频后发送。';
   if(items[0]?.media_type==='audio')document.getElementById('share-image-note').textContent=nativeSupported?'通过系统分享面板发送所选音频文件。':'当前浏览器不支持系统文件分享，可下载音频后发送。';
-  if(items[0]?.media_type!=='audio'&&!nativeSupported&&!shareClipboardBlob)document.getElementById('share-image-note').textContent='当前浏览器不支持系统分享或复制图片。请下载文件后在微信等应用中选择发送。';
+  if(!['audio','video'].includes(items[0]?.media_type)&&!nativeSupported&&!shareClipboardBlob)document.getElementById('share-image-note').textContent='当前浏览器不支持系统分享或复制图片。请下载文件后在微信等应用中选择发送。';
  }catch(e){if(token===shareToken){document.getElementById('share-progress').textContent='文件加载失败，仍可复制链接，或重新加载文件。';document.getElementById('share-retry').hidden=false}}
  finally{if(token===shareToken)shareBusy=false}
 }

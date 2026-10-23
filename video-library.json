@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "name": "视频样例",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc",
+  "source_revision": 1619,
+  "imported_on": "2026-10-18",
+  "videos": [
+    {
+      "id": "magnus-territory-kiss",
+      "name": "Magnus Thorne · 领地之吻 · 关键情节",
+      "project": "Magnus Thorne",
+      "category": "关键情节视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户2026-10-18要求收录本文档已确认视频case；使用视频效果表中当前版本，排除明确标记待审的开场V1。",
+      "path": "assets/videos/magnus-cases-20261018/territory-kiss.mp4",
+      "poster": "assets/videos/magnus-cases-20261018/territory-kiss.jpg",
+      "sha256": "12cf16c8cb7079660040f5b0b1e7674806d178d31e7bb6dea143fd145935d26f",
+      "size_bytes": 4267649,
+      "width": 480,
+      "height": 854,
+      "fps": 30.0,
+      "duration_seconds": 17.0,
+      "mime": "video/mp4",
+      "model": "Seedance 2.5",
+      "generation_date": null,
+      "generation_date_note": "文档未提供可核实的生成时间，未以文件名、下载时间或入库日期代替。",
+      "imported_on": "2026-10-18",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "关键情节视频",
+        "领地之吻 · 关键情节"
+      ],
+      "source_name": "领地之吻_关键情节视频 case_17秒_480p.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#YiAsdWZVFoBJUhxCeLJcyCIfnoe",
+      "source_block_id": "YiAsdWZVFoBJUhxCeLJcyCIfnoe",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1619,
+      "prompts": [
+        {
+          "label": "我的输入 prompt",
+          "text": "我给你内容都是双方自愿，女主喜欢男主强势的表现，所以男主看起来带有攻势，但其实都是双方自愿的，人物一致性要严格保持，包括人物五官长相、发型、发色、肤色等，都必须严格保持（男主前期瞳色是棕色的，后期在我指定位置变成金色）。用 seedance2.5 480p生成视频：约17秒。9:16竖屏，偏写实三维游戏CG。成年男主（图 1），成年女主（图 2），穿蓝色吊带裙。背景为棕色软包座椅、红色软垫与壁炉附近的深色室内，暖橙色光线照亮脸侧与发丝。\n本视频从0秒开始，严格按以下时间轴组织画面。时间为近似执行值，最终切点需对照参考视频逐帧校准；每个时间区间不等于一个镜头，保留区间内部的快切。\n0.00—0.70秒：\n男主背侧中近景。男主上手压住女主，两人身体贴近，男主黑色上衣和裤装局部可见。\n0.70—1.70秒：\n切略低机位侧脸近景。男主缓缓转头，低眼看向女主所在方向，嘴角有轻微变化。\n1.70—2.70秒：\n约1.93秒切胸前手部特写，男主手掌搂住女主的腰，他的手顺着腰慢慢往上滑(注意这个地方是男人的手，不是女人的手)；随后切回正面。\n2.70—3.70秒：\n男主低头，黑色发顶占据画面上部；随后画面靠近领口、银链及女主手指。\n3.70—4.70秒：\n男主坐靠在软包座椅前，先垂眼，再逐渐抬起视线，表情变化保持小幅。\n4.70—5.70秒：\n延续正面近景。男主看向镜头，嘴唇轻微开合；女主的手逐渐靠近他的脸侧。\n5.70—6.70秒：\n女主手掌贴住男主脸颊，他顺着触碰轻轻偏头，目光停在镜头附近。\n6.70—6.90秒：\n保留面部继续靠近的短瞬间。\n6.90—7.60秒：\n暖色失焦光晕中显出男主近景，女主的手搭在他肩上；随后切双人侧脸。\n7.60—8.60秒：\n两人快速接吻，女主手指停在男主脸侧，额发与女主头发部分重叠，双方眼睑闭合。\n8.60—9.60秒：\n切脖颈侧近景，男主低头靠近女主脖子侧，一只手扶住她的肩背。\n9.60—10.60秒：\n先呈现女主后背与男主扶在腰背的手，随后切较完整的双人拥抱，女主双臂环住他的肩颈。\n10.60—11.60秒：\n前段延续拥抱；约10.93秒切第一人称正面近景，男主先闭眼后抬眼，女主前臂分列两侧。\n11.60—12.60秒：\n切倾斜的双人中近景，男主俯身、女主后倾；约12.17秒快切手掌撑在红色软垫上的局部。\n12.60—13.60秒：\n手指在红色软垫上弯曲、收紧；约12.83秒切男主快速低头埋进女主肩侧的近景。\n13.60—14.60秒：\n男主逐步抬脸，眉眼微收（瞳孔变为金色，从这个时间节点之后，男主的瞳色都是保持金色），视线转向镜头。\n14.60—15.60秒：\n男主低头靠近女主抬起的手，嘴唇接近指节，交握的手停在脸侧，银链随俯身自然垂落。\n15.60—15.73秒：\n保留手与侧脸接触的最后短暂停留，直接结束，不加入环境镜头。\n15.70—17.00秒：\n展示环境光影空间，暧昧氛围，擦出火花，暗喻手法。\n声音与BGM：\n将对应镜头的原版BGM预先按此顺序剪接，从本视频0.00秒同步播放；6.90秒为两个取用片段的拼接点。保持亲吻、后倾、手掌撑住软垫及抬眼镜头与源音乐的相对位置，不统一慢放，不另加音乐重音，不改变原曲音色、速度或音高。若使用原片混音，同时保留其中已有的对白和音效。英文配音的音色参考：男主的声音低沉，略显沙哑，胸腔里有明显的共鸣。他说话的速度不紧不慢，几乎没有停顿，听起来像是在下结论，不喜欢冗长的解释。对于下属、长辈和商业对手，他的句子简短，命令性很强，经常使用陈述性措辞来解决问题。 和你在一起时，他会故意压低声音，软化语气，尽管效果并不总是温和。因为不断地压抑欲望和信息素，他的声音反而变得更紧更粗，仿佛下一秒就会破裂。当他第一次见到你时，他时而命令你，时而哄骗你，告诉你不要动，同时又担心他会吓到你。当失控或嫉妒时，他说话会更直接，气喘吁吁，喉咙里发出低沉的咆哮，他的称呼方式会变成占有欲词，比如“我的”、“宝贝”和“乖一点”。他很少开玩笑，甚至他偶尔的温柔也像是通过咬紧牙关强行克制的。\n男主英文台词：Do you think you can escape my territory? You are mine… Do you understand? From the moment you appeared before me, you became mine.",
+          "block_id": "ICpJdyqfkoc4i0xh0p6cn6dqn3d"
+        },
+        {
+          "label": "视频结果反推 prompt",
+          "text": "这是根据用户认可的最终成片重构的完整复用提示词，不是声称该视频由一条提示词直接生成。生成模型具有随机性；单靠文字不能保证逐帧相同。最接近本成片的用法，是同时提供最终成片、两张人物参考图、男性手部修正关键帧和最终音轨。需要完全相同的结果时，直接使用保存在 Downloads 中的最终 MP4。\n\n【输入绑定】\n视频参考：领地之吻_关键情节视频 case_17秒_480p.mp4。它是动作、构图、切点、镜头运动、表演节奏和光照的最高优先级依据。\n图1：图1_男主.png，只用于男主身份与外观。\n图2：图2_女主.png，只用于女主身份与外观。\n图3：男性手部_修正关键帧.png，只用于扶腰特写中男主手掌、手指、指甲、肤色与皮肤细节。\n音频：最终完整音轨.m4a，为最终采用的英文男声与原片分离音乐混音，直接使用，不重生成。\n以上图片与音频位于 Downloads/领地之吻_复用素材。\n\n【生成与交付】\n使用 Seedance 2.5，480p，9:16 竖屏，约17秒，偏写实三维游戏CG。目标交付文件为480×854、30fps、17.000秒。该交付帧率不代表生成模型原生帧率。\n以最终成片为视频编辑参考，逐镜保持其已有内容，不增删镜头，不统一慢放。人物参考中的正面、侧面、背面是同一个人的不同视角，不是额外角色。无字幕、文字、水印或片尾卡。\n\n【人物一致性】\n只有一名成年男主和一名成年女主。两人的靠近、拥抱和亲吻均为自愿，女主主动回应，男主强势但克制。\n男主严格匹配图1：暖棕色皮肤，棱角清晰的脸部和下颌，挺直鼻梁，浓黑眉毛，短黑胡须及小胡子。黑色头发向后梳起，有自然蓬松纹理，额前仅少量细碎发丝；保持发际线、长度、梳向与轮廓，不能变银发、白发、灰发或厚齐刘海。黑色上衣、浅色裤装、银链，沿用视频内实际造型。\n男主双眼虹膜在0.00—13.60秒前保持棕色；从13.60秒起变为金色，之后持续金色。瞳孔仍为黑色，巩膜保持正常，不能提前变色或变成整颗发光眼球。\n女主严格匹配图2：白皙肤色，灰绿色眼睛，原参考的脸型、鼻形、唇形、发际线和耳钉。长发侧分、自然微卷，底色始终为浅灰棕色／深金棕色，带柔和米棕色发丝。所有可见发根、头顶、侧面、背面、阴影处和运动中的发丝都维持同一发色身份，不出现黑发、深黑褐发、灰白发或橙红发；暖光只能改变明暗与反光，不能更换发色。黑色露肩服装与视频一致。\n扶腰特写中的手属于男主：匹配图3的成年男性手，掌面宽厚，手指结实，指节、肌腱与适量青筋自然可见，短而自然的偏方形指甲，暖棕肤色与男主一致。保持五指结构和自然握扶姿势；不要纤细女性手、尖长指甲、美甲、多指、断指或关节变形。女主触碰脸颊、环抱肩颈的手仍属于女主，不混淆手臂归属。\n\n【场景与影像】\n棕色软包座椅、红色软垫、壁炉附近的深色室内。暖橙色火光沿面颊、鼻梁、发丝和肩部形成轮廓光，暗部保留层次，皮肤、织物、银链和发丝具有写实CG材质。沿用参考成片的浅景深、近景压缩感和局部失焦光晕。动作自然、连续，微表情幅度小，有触碰后的反应和呼吸起伏；不要僵硬摆拍或夸张表情。\n\n【最终成片时间轴】\n以下区间依据最终采用版本整理。内部快切、动作相位和机位运动以视频参考逐帧为准，不把每个区间机械地做成一个镜头。\n0.00—约0.97秒：背侧双人中近景，两人贴近，男主黑色上衣与浅色裤装局部可见，女主主动环抱回应。\n约0.97—1.80秒：略低机位的男主侧脸近景，缓缓转头、低眼看向女主，嘴角细微变化。\n1.80—2.37秒：男主男性手部扶腰特写，宽厚手掌贴在女主黑色服装覆盖的腰侧，顺原动作轻微移动；手的身份、体格、五指和短指甲明确。\n2.37—3.70秒：回到男主正面与领口局部，低头时黑色发顶进入画面，保留银链、领口和女主手指的内部快切。\n3.70—5.17秒：男主坐靠软包座椅，先垂眼后逐渐抬眼，表情克制，嘴唇轻微变化。\n5.17—6.90秒：女主手掌触碰男主脸颊，他顺着触碰轻轻偏头，目光停在镜头附近，保留面部继续靠近的短暂瞬间。\n6.90—约7.43秒：暖色失焦光晕与男主近景，女主手搭在肩侧，然后切双人侧脸。\n约7.43—8.27秒：短暂亲吻，女主主动回应，双方闭眼，女主手指靠近男主脸侧，额发与浅灰棕长发自然重叠。\n8.27—9.40秒：沿用最终成片已经收紧的颈侧特写，画面集中在男主下半张脸、女主颈侧、肩部及扶住肩背的手。保持现有近距离取景，不拉远回到原来的黑发根部问题构图。\n9.40—9.77秒：女主背面长发近景，完整显示浅灰棕／深金棕色头发与发丝纹理。\n9.77—10.50秒：双人拥抱，男主手扶腰背，女主双臂环住他的肩颈。\n10.50—10.90秒：男主正面近景，闭眼与抬眼的微小变化，女主前臂在画面两侧形成包围。\n10.90—11.60秒：保留女主前臂、长发、肩部与男主脸侧的连续近景和内部快速取景变化。\n11.60—12.10秒：沿用最终成片收紧后的倾斜双人近景，男主俯身、女主后倾并回应，保留双臂与侧脸接触。不要拉远露出原构图的黑发区域。\n12.10—约12.63秒：手掌撑住红色软垫的特写，手指自然弯曲、收紧，保持指节结构、支撑关系和受力。\n约12.63—13.60秒：切回男主低头靠近女主肩侧，然后逐渐抬脸；黑色发丝、脸型与胡须保持一致，虹膜在13.60秒前仍为棕色。\n13.60—14.27秒：男主抬脸，眉眼微收，视线转向镜头；从此时起虹膜保持金色。\n14.27—15.73秒：男主低头靠近女主抬起的手，嘴唇接近指节，交握的手停在脸侧，银链随俯身自然垂落，保留最后短暂停留。\n15.73—17.00秒：壁炉附近的暖色光影、室内空间与细小火星，以环境暗喻情绪余韵，不加入额外人物动作或新剧情。\n\n【声音】\n优先直接使用最终完整音轨.m4a，从视频0秒同步，不生成新对白，不保留原片中文人声，不添加女声台词或新的语气词。音乐的时间位置、速度和音高不变，6.90秒保持原有音乐片段拼接位置，不另加音乐重音。\n全部可辨识台词仅为成年男主以下四句，词序完整、不能删改：\n“Do you think you can escape my territory? You are mine… Do you understand? From the moment you appeared before me, you became mine.”\n若必须另做配音：参考原视频男声的胸腔共鸣、轻微沙哑、气息和情绪递进，声音更低沉、成熟稳重。作为一整段约15秒的英文表演生成，自然连读，句内重音和音高有起伏，低声说话但不是全程耳语，避免平板朗读、播报腔、夸张咆哮或额外喘息音。\n第一句是带把握的轻声试探，重音落在“escape”和“my territory”；“You are mine”更柔和贴近、强调“mine”，留短暂气息；“Do you understand?”是安静的确认，语调有细微上扬；最后一句从轻声自然推进，在“you became mine”形成克制的情绪高潮，以温暖、低沉、坚定的尾音收住。\n最终采用的人声是连续表演，整体从视频0.25秒开始放入，不按每个单词硬切。重制时优先复用现有英文男声文件，避免声线与节奏漂移。\n\n【验收】\n以最终视频为对照，检查所有切点前后和女主出镜帧，确保无女主黑发闪帧、身份漂移、男主灰发、棕金虹膜时间错误、扶腰手女性化、异常手指、皮肤或衣服被局部修正误改、音轨被重新生成等问题。保持最终成片17秒与既有剪辑节奏。\n",
+          "block_id": "SU3ndKl3zo73dexHk1tccNg2nrc"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-cases-20261018/reuse-2.zip",
+        "name": "领地之吻_复用素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-territory-kiss.txt",
+      "playback": {
+        "path": "assets/videos/magnus-cases-20261018/territory-kiss.web.mp4",
+        "sha256": "1f0bafd33894740e74d20ea9a4275af05793a802e42cc3d12d55c2c708fdd4a1",
+        "size_bytes": 3940554,
+        "mime": "video/mp4",
+        "note": "原文件H.264 4:4:4；网页播放副本转换为H.264 Main yuv420p，AAC原音轨直接复制，原MP4下载字节保持不变。",
+        "metadata": {
+          "ffmpeg_version": "7.1 built with Apple clang version 13.1.6 (clang-1316.0.21.2.5)",
+          "codec": "h264",
+          "pix_fmt": "yuv420p(progressive)",
+          "audio_codec": "aac",
+          "fps": 30.0,
+          "source_size": [
+            480,
+            854
+          ],
+          "size": [
+            480,
+            854
+          ],
+          "rotate": 0,
+          "duration": 17.0
+        }
+      }
+    },
+    {
+      "id": "magnus-territory-kiss-blue-dress",
+      "name": "Magnus Thorne · 领地之吻 · 蓝色吊带裙版",
+      "project": "Magnus Thorne",
+      "category": "关键情节视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户2026-10-18要求收录本文档已确认视频case；使用视频效果表中当前版本，排除明确标记待审的开场V1。",
+      "path": "assets/videos/magnus-cases-20261018/territory-kiss-blue-dress.mp4",
+      "poster": "assets/videos/magnus-cases-20261018/territory-kiss-blue-dress.jpg",
+      "sha256": "906e273b64cc7e9c6b22a21ccf53ee117a5d51bf2108c35743c28ce2a4bc990d",
+      "size_bytes": 4946951,
+      "width": 480,
+      "height": 854,
+      "fps": 30.0,
+      "duration_seconds": 17.0,
+      "mime": "video/mp4",
+      "model": "Seedance 2.5",
+      "generation_date": null,
+      "generation_date_note": "文档未提供可核实的生成时间，未以文件名、下载时间或入库日期代替。",
+      "imported_on": "2026-10-18",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "关键情节视频",
+        "领地之吻 · 蓝色吊带裙版"
+      ],
+      "source_name": "领地之吻_蓝色细罗纹吊带裙版_关键情节视频case_17秒_480p.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnocsHJRBmjUbvnXLZL1y4Lb",
+      "source_block_id": "doxcnocsHJRBmjUbvnXLZL1y4Lb",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1619,
+      "prompts": [
+        {
+          "label": "我的输入 prompt",
+          "text": "我给你内容都是双方自愿，女主喜欢男主强势的表现，所以男主看起来带有攻势，但其实都是双方自愿的，人物一致性要严格保持，包括人物五官长相、发型、发色、肤色等，都必须严格保持（男主前期瞳色是棕色的，后期在我指定位置变成金色）。用 seedance2.5 480p生成视频：约17秒。9:16竖屏，偏写实三维游戏CG。成年男主（图 1），成年女主（图 2），穿蓝色吊带裙（图2脱掉外套的效果）。背景为棕色软包座椅、红色软垫与壁炉附近的深色室内，暖橙色光线照亮脸侧与发丝。\n本视频从0秒开始，严格按以下时间轴组织画面。时间为近似执行值，最终切点需对照参考视频逐帧校准；每个时间区间不等于一个镜头，保留区间内部的快切。\n0.00—0.70秒：\n男主背侧中近景。男主上手压住女主，两人身体贴近，男主黑色上衣和裤装局部可见。\n0.70—1.70秒：\n切略低机位侧脸近景。男主缓缓转头，低眼看向女主所在方向，嘴角有轻微变化。\n1.70—2.70秒：\n约1.93秒切胸前手部特写，男主手掌搂住女主的腰，他的手顺着腰慢慢往上滑；随后切回正面。\n2.70—3.70秒：\n男主低头，黑色发顶占据画面上部；随后画面靠近领口、银链及女主手指。\n3.70—4.70秒：\n男主坐靠在软包座椅前，先垂眼，再逐渐抬起视线，表情变化保持小幅。\n4.70—5.70秒：\n延续正面近景。男主看向镜头，嘴唇轻微开合；女主的手逐渐靠近他的脸侧。\n5.70—6.70秒：\n女主手掌贴住男主脸颊，他顺着触碰轻轻偏头，目光停在镜头附近。\n6.70—6.90秒：\n保留面部继续靠近的短瞬间。\n6.90—7.60秒：\n暖色失焦光晕中显出男主近景，女主的手搭在他肩上；随后切双人侧脸。\n7.60—8.60秒：\n两人快速接吻，女主手指停在男主脸侧，额发与女主头发部分重叠，双方眼睑闭合。\n8.60—9.60秒：\n切脖颈侧近景，男主低头靠近女主脖子侧，一只手扶住她的肩背。\n9.60—10.60秒：\n先呈现女主后背与男主扶在腰背的手，随后切较完整的双人拥抱，女主双臂环住他的肩颈。\n10.60—11.60秒：\n前段延续拥抱；约10.93秒切第一人称正面近景，男主先闭眼后抬眼，女主前臂分列两侧。\n11.60—12.60秒：\n切倾斜的双人中近景，男主俯身、女主后倾；约12.17秒快切手掌撑在红色软垫上的局部。\n12.60—13.60秒：\n手指在红色软垫上弯曲、收紧；约12.83秒切男主快速低头埋进女主肩侧的近景。\n13.60—14.60秒：\n男主逐步抬脸，眉眼微收（瞳孔变为金色，从这个时间节点之后，男主的瞳色都是保持金色），视线转向镜头。\n14.60—15.60秒：\n男主低头靠近女主抬起的手，嘴唇接近指节，交握的手停在脸侧，银链随俯身自然垂落。\n15.60—15.73秒：\n保留手与侧脸接触的最后短暂停留，直接结束，不加入环境镜头。\n15.70—17.00秒：\n展示环境光影空间，暧昧氛围，擦出火花，暗喻手法。\n声音与BGM：\n将对应镜头的原版BGM预先按此顺序剪接，从本视频0.00秒同步播放；6.90秒为两个取用片段的拼接点。保持亲吻、后倾、手掌撑住软垫及抬眼镜头与源音乐的相对位置，不统一慢放，不另加音乐重音，不改变原曲音色、速度或音高。若使用原片混音，同时保留其中已有的对白和音效。英文配音的音色参考：男主的声音低沉，略显沙哑，胸腔里有明显的共鸣。他说话的速度不紧不慢，几乎没有停顿，听起来像是在下结论，不喜欢冗长的解释。对于下属、长辈和商业对手，他的句子简短，命令性很强，经常使用陈述性措辞来解决问题。 和你在一起时，他会故意压低声音，软化语气，尽管效果并不总是温和。因为不断地压抑欲望和信息素，他的声音反而变得更紧更粗，仿佛下一秒就会破裂。当他第一次见到你时，他时而命令你，时而哄骗你，告诉你不要动，同时又担心他会吓到你。当失控或嫉妒时，他说话会更直接，气喘吁吁，喉咙里发出低沉的咆哮，他的称呼方式会变成占有欲词，比如“我的”、“宝贝”和“乖一点”。他很少开玩笑，甚至他偶尔的温柔也像是通过咬紧牙关强行克制的。\n男主英文台词：Do you think you can escape my territory? You are mine… Do you understand? From the moment you appeared before me, you became mine.",
+          "block_id": "CgX3dqPK5oEu6TxqQttcJq5inYc"
+        },
+        {
+          "label": "视频结果反推 prompt",
+          "text": "使用 Seedance 2.5，480p，9:16竖屏，约17秒，偏写实的高质量三维游戏CG。\n\n以视频1为最终视觉和剪辑参考，复现其镜头顺序、构图、机位、人物动作、动作幅度、镜头内部快切、切点、照明与情绪节奏。图片1锁定男主身份，图片2锁定女主身份，图片3锁定女主服装。人物身份和服装以图片为准；镜头、动作和时间节奏以视频1为准。不要自由增加剧情或镜头。\n\n【人物与关系】\n两位角色均为成年人。双方自愿亲近，女主主动回应男主的触碰与拥抱。男主表现强势但动作有分寸；女主神态放松、主动靠近、抚摸他的脸，并环抱他的肩颈。通过双方的主动回应表现亲密关系。\n\n男主：\n严格保持图片1的脸型、五官比例、鼻梁、浓眉、胡须、发际线、发型、发色和肤色。\n暖棕肤色，黑色向后梳起的层次短发，额前有少量自然垂落的发丝，短胡须和胡髭。穿黑色衬衫及黑色裤装，佩戴银色项链。\n0.00—13.60秒眼睛保持棕色；从13.60秒抬脸段开始，虹膜变为金色，之后所有可见眼睛的镜头都保持金色。仅改变虹膜颜色，不改变眼睛形状与人物身份。\n\n女主：\n严格保持图片2的脸型、五官、灰绿色眼睛、白皙肤色、发际线、长发长度、侧分方向和自然微卷层次。\n头发全程为参考图中的浅灰棕色、接近深金色的长发。发根、头顶、后脑、颈侧短发及长发末端属于同一种发色。\n暗光镜头仍能辨认出浅灰棕发丝，不出现黑发、黑色发根、突然变深的整块头发、红发或不同颜色的接发。暖光可以产生金棕色轮廓光，但不能改变头发的固有颜色。\n\n【服装连续性——最高优先级】\n女主全程穿图片3中同一件蓝色细罗纹吊带连衣裙：\n低饱和雾蓝色，完整不透明的哑光针织面料，细密、连续、均匀的竖向罗纹，两根窄细肩带，简洁圆弧领口。\n\n正面、侧面、后背、腰部特写和拥抱镜头必须保持相同的蓝色、材质、罗纹密度、肩带宽度和领口设计。\n衣料随身体动作自然产生轻微褶皱，纹理跟随布料弯曲，不能漂移、融化或变换方向。\n\n裙面干净均匀：\n没有白色亮斑、浅色斑点、花纹、亮片、闪粉、污渍或缎面反光。\n不能变成丝绸裙、光滑缎面裙、抹胸裙、无肩带裙、露肩裙或宽肩带裙。\n肩带被头发或手臂遮挡时保持合理遮挡，不能在无遮挡的肩部突然消失。\n保留正常柔和的明暗层次，不把裙子处理成没有纹理的平面色块。\n\n【场景与摄影】\n棕色软包座椅、红色软垫，靠近壁炉的深色室内。\n整体照明偏暗，暖橙色壁炉侧光轻轻照亮脸侧、手背和发丝边缘。\n保持暗部层次、自然肤色、柔和光线衰减和浅景深。避免过曝、明亮摄影棚光和大面积橙色泛光。\n摄影机位置、景别、倾斜角度和运动遵循视频1。\n保留原有快切，不把整段统一处理为慢动作。\n\n【动作与剪辑】\n以下时间用于定位，实际切点和区间内部快切严格跟随视频1：\n\n0.00—约0.97秒：\n男主背侧双人中近景。男主黑色背部占据画面主要位置，两人贴近；女主主动环抱他的肩颈。可见女主浅灰棕色长发和蓝色细肩带。\n\n约0.97—1.93秒：\n略低机位的男主侧脸近景。男主缓慢转头，低眼看向女主，嘴角只有细微变化。表演克制，避免夸张挑眉或大幅摆头。\n\n1.93—2.50秒：\n腰侧手部特写。\n画面中的手明确属于男主：暖棕肤色、宽掌、较粗的手指、自然指关节和肌腱、短而整洁的自然指甲，手腕连续连接黑色衬衫袖口。\n\n男主手掌贴在女主完整不透明的蓝色裙料外侧，从腰侧连续向上滑动；手腕和袖口同步上移，手指自然微弯。\n在这段短镜头内，上滑动作必须清楚可见，幅度与视频1相当。\n不能静止摆姿势，不能只动手指，不能换成女性纤细的手，不能出现长指甲或多余手指。\n\n此镜头保持偏暗的暖侧光，手部结构和细罗纹仍清晰可见。蓝色裙料保持哑光，不出现亮斑。\n\n2.50—3.70秒：\n依次跟随参考呈现男主正面、低头、黑色发顶，以及领口、银链和女主手指的近景。保留内部切镜，项链随身体动作自然下垂。\n\n3.70—5.70秒：\n男主坐靠在棕色软包座椅前，先垂眼，再逐渐抬起视线。表情变化小而连贯。\n女主的手逐渐靠近他的脸侧。\n\n5.70—6.90秒：\n女主手掌贴住男主脸颊，男主顺着触碰轻轻偏头，视线停在女主或镜头附近。保留最后继续靠近的短瞬间。\n\n6.90—7.60秒：\n暖色失焦光晕过渡到男主近景，女主的手搭在他肩上，随后切双人侧脸。\n\n7.60—8.53秒：\n双方短暂接吻，眼睑自然闭合。\n女主手指停在男主脸侧，双方头发自然接触和遮挡。\n女主头发仍保持浅灰棕色，不能与男主黑发混成同一颜色。\n\n8.53—9.63秒：\n脖颈侧近景。男主低头靠近女主颈侧，一只手扶住她的肩背。\n女主颈侧、发根和后脑保持浅灰棕色细发丝，不出现黑色发块。\n动作轻而连续，保持参考视频的构图和节奏。\n\n9.63—10.10秒：\n女主后背与男主扶在腰背的手。\n蓝色细罗纹裙的背面材质、细肩带和颜色与腰部特写一致；女主长发保持浅灰棕色。\n\n10.10—10.93秒：\n较完整的双人拥抱，女主双臂环住男主肩颈。\n清楚保留可见的蓝色细肩带，裙面为干净的哑光细竖纹，不出现浅色亮斑、花纹或缎面质感。\n\n10.93—11.60秒：\n跟随视频1快切到第一人称男主正面近景，男主先闭眼再抬眼，女主前臂位于两侧。保留参考中的短暂过渡画面。\n\n11.60—12.17秒：\n倾斜的双人中近景。男主俯身，女主自然后倾，双方身体和手臂有合理支撑。\n女主蓝色细罗纹吊带裙保持相同款式。\n\n12.17—12.83秒：\n手掌撑在红色软垫上的特写。手指自然弯曲、收紧，软垫产生轻微真实形变。\n\n12.83—13.60秒：\n男主快速低头靠近女主肩侧，保持参考的动作方向与速度。\n\n13.60—14.60秒：\n男主逐渐抬脸，眉眼微收，视线转向镜头。\n此时虹膜变为金色，之后保持金色，不再变回棕色。\n\n14.60—15.73秒：\n男主低头靠近女主抬起的手，嘴唇接近指节。交握的手停在脸侧，银链随俯身自然垂落。\n保留最后手与侧脸接触的短暂停留。\n\n15.73—17.00秒：\n切到壁炉火焰与暖色环境光影，以火光和空间氛围收尾。持续时间和构图跟随视频1，不增加人物动作或新剧情。\n\n【声音】\n声音以视频1的定版音轨为准。\n保留当前英文男声表演、背景音乐、环境声和音效的相对位置、音量关系、速度与音高。\n不要重新编曲，不额外添加音乐重音，不加入中文对白，不加入字幕或画面文字。\n\n男主英文台词必须逐字为：\n“Do you think you can escape my territory? You are mine… Do you understand? From the moment you appeared before me, you became mine.”\n\n如必须重新生成配音：\n使用成年男性低沉、成熟、略带沙哑和胸腔共鸣的声音。\n表演有自然呼吸、连贯情绪和细微语气变化，避免机械朗读、逐词停顿和刻意播音腔。\n第一句是贴近对方的低声反问；“You are mine…”语气笃定、低而有重量；“Do you understand?”短促但克制；最后一句连贯、稳重，句尾自然收低。\n保留温柔与强势并存的情绪，不吼叫，不夸张喘息。\n亲吻镜头中可以延续画外对白，不强迫角色一边亲吻一边做说话口型。\n\n【逐镜检查要求】\n人物五官、肤色、发型与身份不漂移。\n女主浅灰棕长发不变成黑发，男主黑发不变色。\n女主始终是同一件蓝色哑光细罗纹吊带裙。\n裙面无白斑、闪粉、花纹、异常反光或材质切换。\n男主腰部特写中的手必须连续上滑，黑色袖口与手腕连接正确。\n双手解剖、人物接触、头发遮挡、项链运动和软垫形变合理。\n13.60秒前男主棕色虹膜，之后保持金色。\n保持17秒、9:16、480p，以及视频1的剪辑节奏和暗暖光效果。",
+          "block_id": "Yu9rdBS47oeudJxKQcJcjxJLn0c"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-cases-20261018/reuse-3.zip",
+        "name": "领地之吻_蓝色细罗纹吊带裙版_复用素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-territory-kiss-blue-dress.txt"
+    },
+    {
+      "id": "magnus-office-control",
+      "name": "Magnus Thorne · 冷静掌控 · 顶层办公室",
+      "project": "Magnus Thorne",
+      "category": "状态参考视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户2026-10-18要求收录本文档已确认视频case；使用视频效果表中当前版本，排除明确标记待审的开场V1。",
+      "path": "assets/videos/magnus-cases-20261018/office-control.mp4",
+      "poster": "assets/videos/magnus-cases-20261018/office-control.jpg",
+      "sha256": "279f477d5db7692ae0875392887fbea5357b0d0b816a0a9fd9affaf0f5497fd3",
+      "size_bytes": 3050746,
+      "width": 480,
+      "height": 852,
+      "fps": 24.0,
+      "duration_seconds": 6.05,
+      "mime": "video/mp4",
+      "model": "未明确披露（制作包保留实际作业记录）",
+      "generation_date": null,
+      "generation_date_note": "文档未提供可核实的生成时间，未以文件名、下载时间或入库日期代替。",
+      "imported_on": "2026-10-18",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "状态参考视频",
+        "冷静掌控 · 顶层办公室"
+      ],
+      "source_name": "01_冷静掌控_顶层办公室_表演新版_480p.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnvwZA2GMJtWRvYqihv63LNd",
+      "source_block_id": "doxcnvwZA2GMJtWRvYqihv63LNd",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1619,
+      "prompts": [
+        {
+          "label": "01 顶层办公室｜生成 prompt",
+          "text": "冷静掌控｜顶层办公室\nA six-second dramatic scene in portrait 9:16, realistic refined 3D game CG. Use the reference for the exact adult Magnus Thorne identity, face, black hair, bronze skin, beard, black suit and physical environment. Preserve its restrained matte lighting and fabric/skin detail. BOTH irises remain DARK BROWN in every frame, no gold, yellow or glowing eyes: this is an ordinary plot scene, not the established climax. Natural human motion with decisive starts, real momentum, and soft settling. His thought and action continue through the spoken line; face, hands and torso do not take turns performing separate commands. React to the scene partner, not to a photography session. Economical purposeful gestures, asymmetrical weight, eyes leading a turn naturally. No prolonged neutral stare, no evenly paced head rotation, no repeated nod/blink cycle, no rigid puppet shoulders, no slow motion. One coherent shot. Keep hands anatomically connected and objects physically stable. All dialogue in fluent natural English, one male speaker, no additional words. Mature low chest baritone, lightly husky conversational tone with changing stress and expressive intention; not artificial TTS, monotone whisper or trailer voice. Speech must flow naturally and lip-sync. Generate matching ambience and synchronized action sounds; no background music, no subtitles, no text, no watermark. The offscreen visitor has just tried to renegotiate. Magnus already knows his answer. He closes the folder briskly and begins saying \"The terms are final\" WHILE the cover is still settling, glancing up at the visitor before his chin follows. On 'final' his palm releases its pressure and he pushes the closed folder a short distance toward the visitor, without losing eye contact. A small almost impatient breath leads directly into \"We're done here.\" He eases back into the chair as he finishes, one shoulder settling before the other; the desk hand comes naturally to rest rather than staying in a posed gesture. His lips press briefly after the last word, gaze follows the visitor just off lens and then flicks once toward the exit. Calm certainty, a slight flash of impatience, no frowning mask or broad smile. The decisive folder action is quick, the conclusion conversational, the last live reaction brief. Start movement immediately, speak within the first second, complete speech by roughly 4 seconds, no long silent prelude or frozen end pose. Camera holds visitor eye level with restrained handheld human presence, no theatrical push-in. Sounds: cover and paper contact, subtle sleeve scrape and chair settling over quiet daytime office air and distant harbor hush.",
+          "block_id": "doxcn07zLZ1RR5BqWSzYBNY3kmh"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-cases-20261018/reuse-4.zip",
+        "name": "Magnus_四场景最新版本_含港口V6_复用素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-office-control.txt"
+    },
+    {
+      "id": "magnus-car-side-seat",
+      "name": "Magnus Thorne · 同排邻座 · 车内回应",
+      "project": "Magnus Thorne",
+      "category": "状态参考视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户2026-10-18要求收录本文档已确认视频case；使用视频效果表中当前版本，排除明确标记待审的开场V1。",
+      "path": "assets/videos/magnus-cases-20261018/car-side-seat.mp4",
+      "poster": "assets/videos/magnus-cases-20261018/car-side-seat.jpg",
+      "sha256": "b912b9d110bd3fdd0b0927636c7dcfe4767edce4fb1e721600f35f7aa2771ac5",
+      "size_bytes": 2083673,
+      "width": 480,
+      "height": 852,
+      "fps": 24.0,
+      "duration_seconds": 6.05,
+      "mime": "video/mp4",
+      "model": "未明确披露（制作包保留实际作业记录）",
+      "generation_date": null,
+      "generation_date_note": "文档未提供可核实的生成时间，未以文件名、下载时间或入库日期代替。",
+      "imported_on": "2026-10-18",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "状态参考视频",
+        "同排邻座 · 车内回应"
+      ],
+      "source_name": "02_车内_邻座侧向视角_新台词_V5_480p.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnginkqWfyj9q91ph7bdhzBf",
+      "source_block_id": "doxcnginkqWfyj9q91ph7bdhzBf",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1619,
+      "prompts": [
+        {
+          "label": "02 车内邻座｜生成 prompt",
+          "text": "车内｜同排邻座视角｜沉稳强势回应\nSix-second single continuous shot, portrait 9:16, refined realistic 3D game CG. Match the exact input adult Magnus identity, black swept hair, bronze skin, beard, black tailored suit and matte subdued lighting. Brown eyes always, no gold. TRUE SIDE-BY-SIDE rear-seat camera: the woman occupies the RIGHT rear seat, Magnus the LEFT rear seat on the SAME row. Camera is the woman's eyes, looking directly SIDEWAYS to his RIGHT side profile. Initial nose and chest point to vehicle front, SCREEN LEFT. Keep his torso facing the windshield all along. Camera never moves forward, never orbits, never turns this into a front-seat interview. Only Magnus is visible, no additional people, no visible woman/body/hair/reflection. The woman's questioning silence is the trigger. He knows she has many questions and confidently decides when they will be answered. He begins speaking immediately while his head turns toward her at his right, his body still facing forward. EXACT dialogue, fluent English: \"I'll answer your questions—in time. For now, stay here with me.\" Deliver the first clause as a clear promise, 'in time' as a brief firm boundary, then 'For now, stay here with me' as a low definite instruction, NOT a tentative plea, not sugary reassurance or invitation. Mature steady chest baritone, slightly husky and resonant, understated authority, natural connected phrases and real emotional intention. No excessive pauses, no theatrical villain growl, no robotic TTS, no added words. Whole line should fit naturally in about five seconds, begin within first half-second. His eyes find the LENS where the woman beside him sits, jaw and brow settle into calm certainty. A slight controlled lean of the near shoulder, then a composed attentive gaze expecting her response. No broad smile, no ingratiating eyebrow dance or repeated nodding. Lips and face move naturally with speech; grounded shoulders and breathing, not a frozen doll. Keep the exact side-on seat/shoulder geometry and tan leather door/window/headrest from the reference even as his head turns three-quarter toward the lens. No touching or reaching. Quiet cabin ventilation, light leather/sleeve rustle, no music, subtitles or text.",
+          "block_id": "doxcn7DVCQSRZnVlUN6Ja9SSY5g"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-cases-20261018/reuse-4.zip",
+        "name": "Magnus_四场景最新版本_含港口V6_复用素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-car-side-seat.txt"
+    },
+    {
+      "id": "magnus-harbor-protection",
+      "name": "Magnus Thorne · 近身保护 · 港口 V6",
+      "project": "Magnus Thorne",
+      "category": "状态参考视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户2026-10-18要求收录本文档已确认视频case；使用视频效果表中当前版本，排除明确标记待审的开场V1。",
+      "path": "assets/videos/magnus-cases-20261018/harbor-protection.mp4",
+      "poster": "assets/videos/magnus-cases-20261018/harbor-protection.jpg",
+      "sha256": "2d61b463e2a56815c6d32674effe315c830803926c7b54a4b20c51a5e62f8880",
+      "size_bytes": 971258,
+      "width": 480,
+      "height": 852,
+      "fps": 24.0,
+      "duration_seconds": 6.08,
+      "mime": "video/mp4",
+      "model": "Seedance 2.5",
+      "generation_date": null,
+      "generation_date_note": "文档未提供可核实的生成时间，未以文件名、下载时间或入库日期代替。",
+      "imported_on": "2026-10-18",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "状态参考视频",
+        "近身保护 · 港口 V6"
+      ],
+      "source_name": "03_港口_近身保护_角色一致性修订_V6_480p.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnfWLyj51ZYTBBZROdml2VBb",
+      "source_block_id": "doxcnfWLyj51ZYTBBZROdml2VBb",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1619,
+      "prompts": [
+        {
+          "label": "03 港口近身保护｜最终局部编辑 prompt",
+          "text": "港口｜近身抬臂保护｜角色面部一致性修订\nTargeted final skin-tone and facial-identity refinement of this existing harbor video. Reference image1 is the final same-angle identity frame approved in direction by the user with a SLIGHTLY DEEPER BRONZE complexion. Reference image2 is the original exact male front/profile/back master. Preserve the corrected man's identity from these images. Whenever he turns to the camera, closely match image1's exact face shape, eyes/brows/nose/jaw, dark moustache and short beard, black hair and loose forehead strands. Crucially deepen only the natural SKIN ALBEDO by one small tonal step, matching image1: warm bronze/tan face, ear and neck, consistent through the whole head turn. Keep same skin undertone, normal pores, matte response and readable shadows. Do not darken his suit, sky, warehouse, environment or overall exposure. Do not make skin orange, red, gray, dirty, patchy or very dark. No shifting skin tone during motion, no pale face when he looks back. Retain source expressions, head motion, exact pose/timing/lip articulation and natural speaking movement; do not freeze the reference pose or paste a static face. Keep first-person camera close behind him, raised right ARM exiting screen right, hand/fingers entirely OUTSIDE frame, back torso toward viewer, no new people or hands, empty harbor, identical framing and action. Brown eyes only. Preserve original audio exactly, do not regenerate voice, foley or music. Same duration and 9:16 portrait, no added text or subtitles. Only the man's head/visible skin appearance is to be refined; all other image regions and motion should be preserved.",
+          "block_id": "doxcnBzpWbSbRqgTvHX2PtarUmd"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-cases-20261018/reuse-4.zip",
+        "name": "Magnus_四场景最新版本_含港口V6_复用素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-harbor-protection.txt"
+    },
+    {
+      "id": "magnus-terrace-reassurance",
+      "name": "Magnus Thorne · 克制放柔 · 庄园露台",
+      "project": "Magnus Thorne",
+      "category": "状态参考视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户2026-10-18要求收录本文档已确认视频case；使用视频效果表中当前版本，排除明确标记待审的开场V1。",
+      "path": "assets/videos/magnus-cases-20261018/terrace-reassurance.mp4",
+      "poster": "assets/videos/magnus-cases-20261018/terrace-reassurance.jpg",
+      "sha256": "c5fafc63f6a49a1fd04c0c28daca19fe341c1543ff0670ebfad32c2660035161",
+      "size_bytes": 2218543,
+      "width": 480,
+      "height": 852,
+      "fps": 24.0,
+      "duration_seconds": 6.04,
+      "mime": "video/mp4",
+      "model": "未明确披露（制作包保留实际作业记录）",
+      "generation_date": null,
+      "generation_date_note": "文档未提供可核实的生成时间，未以文件名、下载时间或入库日期代替。",
+      "imported_on": "2026-10-18",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "状态参考视频",
+        "克制放柔 · 庄园露台"
+      ],
+      "source_name": "04_克制放柔_庄园露台_表演新版_480p.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnsSQ1xIwiDNh6Y6vicwmlrh",
+      "source_block_id": "doxcnsSQ1xIwiDNh6Y6vicwmlrh",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1619,
+      "prompts": [
+        {
+          "label": "04 庄园露台｜生成 prompt",
+          "text": "克制放柔｜庄园露台\nA six-second dramatic scene in portrait 9:16, realistic refined 3D game CG. Use the reference for the exact adult Magnus Thorne identity, face, black hair, bronze skin, beard, black suit and physical environment. Preserve its restrained matte lighting and fabric/skin detail. BOTH irises remain DARK BROWN in every frame, no gold, yellow or glowing eyes: this is an ordinary plot scene, not the established climax. Natural human motion with decisive starts, real momentum, and soft settling. His thought and action continue through the spoken line; face, hands and torso do not take turns performing separate commands. React to the scene partner, not to a photography session. Economical purposeful gestures, asymmetrical weight, eyes leading a turn naturally. No prolonged neutral stare, no evenly paced head rotation, no repeated nod/blink cycle, no rigid puppet shoulders, no slow motion. One coherent shot. Keep hands anatomically connected and objects physically stable. All dialogue in fluent natural English, one male speaker, no additional words. Mature low chest baritone, lightly husky conversational tone with changing stress and expressive intention; not artificial TTS, monotone whisper or trailer voice. Speech must flow naturally and lip-sync. Generate matching ambience and synchronized action sounds; no background music, no subtitles, no text, no watermark. The guest opposite has just admitted they don't know what to say. Magnus responds directly, already lowering his cup in an ordinary relaxed motion, and says \"You're safe here\" before the cup reaches the saucer. The cup lands once with a soft clink, fingers release it and his hand withdraws naturally, not in separate ceremonial steps. His eyes stay on the guest; the brows soften as he realizes the reassurance is landing, a small warm exhale almost becomes a smile then settles. He leans a little closer from the hips while saying \"Take your time\", with gentle conviction and no sugary performance. After the words, he briefly glances toward the cup to give the guest breathing room, then returns his attention; one corner of the mouth warms slightly, no full grin or prolonged smile pose. Relaxation should be visible in his shoulders and hand, not just his lips. Brisk casual cup movement, intimate flowing line, a short generous pause: uneven, alive rhythm. First line begins within about the first second, finish speaking around 3.8 seconds and leave a brief thoughtful aftermath. Stable seated-guest camera, no constant dramatic dolly. Quiet breeze and sparse dripping from the eaves, subtle ceramic and sleeve sounds. Keep the approved soft neutral matte face, subdued house light and dark stone table without oily golden shine.",
+          "block_id": "doxcn0pFNekmr5gHg0HTdjalwhd"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-cases-20261018/reuse-4.zip",
+        "name": "Magnus_四场景最新版本_含港口V6_复用素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-terrace-reassurance.txt"
+    },
+    {
+      "id": "magnus-territory-kiss-user-final-20261020",
+      "name": "Magnus Thorne · 领地之吻 · 用户终剪版",
+      "project": "Magnus Thorne",
+      "category": "关键情节视频",
+      "status": "confirmed",
+      "confirmation_basis": "用户明确指定10月20日.mp4为结果视频，并于2026-10-20要求加入Vicky资产库的视频样例。",
+      "path": "assets/videos/magnus-user-final-20261020/10月20日.mp4",
+      "poster": "assets/videos/magnus-user-final-20261020/poster.jpg",
+      "sha256": "cfe79a58d927f825c06ff4d19603655a69ab17d99d6c5dff953690980216bf30",
+      "size_bytes": 133715238,
+      "width": 1080,
+      "height": 1922,
+      "fps": 30.0,
+      "duration_seconds": 85.611973,
+      "mime": "video/mp4",
+      "model": "Seedance 2.5（制作流程）＋后期剪辑／配音；用户终剪",
+      "generation_date": null,
+      "generation_date_note": "分镜生成、口型与声音修订后由用户再次剪辑；未将入库日期或文件名当作原始生成时间。原制作目标480p，终剪文件实际为1080×1922。",
+      "imported_on": "2026-10-20",
+      "tags": [
+        "乙游2.5D/3D",
+        "已确认",
+        "关键情节视频",
+        "领地之吻",
+        "用户终剪",
+        "10月20日",
+        "蓝色吊带裙",
+        "英文对白"
+      ],
+      "source_name": "10月20日.mp4",
+      "source_local_path": "/Users/vicky/Interactive storyline/output/firelight-independent-153s-20261019/revision-v17-earlier-dialogue/10月20日.mp4",
+      "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnKuXbv8SoVSov3k9usT2eYe",
+      "source_block_id": "doxcnKuXbv8SoVSov3k9usT2eYe",
+      "source_document_id": "ERQ5d0jl7ol15OxhMxhcG479nFd",
+      "source_revision": 1837,
+      "prompts": [
+        {
+          "label": "我的输入 prompt",
+          "text": "使用 Seedance 2.5 进行纯文生视频，480p，9:16竖屏，完整时长85.61秒，从0秒开始。偏写实的三维游戏CG。仅依据下面的完整文字生成人物、场景、镜头、表演与声音；不需要上传参考视频、角色图片或音频。\n\n人物与服装：\n男主：34岁左右的成年男性，宽肩、结实而修长的体型。暖棕肤色，棱角分明的脸、清楚的下颌线、挺直鼻梁、浓黑眉、略深的眼窝、短胡须和整洁胡髭；头发为蓬松而向后梳的黑色层次短发，额前少量发丝垂到眉侧。前半段棕色虹膜；53.50秒眼部特写开始睁眼时露出金色虹膜，之后持续金色。穿同一件黑色长袖敞领衬衫、黑色长裤、黑色腰带，戴一条中等粗细的银链；不出现西装外套或领带。手掌宽厚、手指结实、指节清楚、短自然指甲、暖棕色皮肤，手腕与黑袖口连贯。\n女主：25岁左右的成年女性，白皙肤色，柔和椭圆脸、灰绿色杏眼、自然浅棕眉、精巧挺直的鼻形、饱满但不夸张的浅粉唇，银色小耳钉。长发侧分、长度至背部中下段，自然微卷，底色为浅灰棕色／深金棕色，带米棕色细发丝；发根、背面和阴影处属于同一发色，不能变黑、红或灰白。身形自然纤细，头身比例稳定。全程一件低饱和雾蓝色细罗纹吊带连衣裙：两根窄肩带、简洁浅圆弧领口、完整不透的哑光针织布料、细密竖纹、贴合但不勒紧，站立时裙摆固定在膝上约10厘米。没有外套、袖子、腰带、蕾丝、亮片、花纹或开衩。各机位都保留同一领口、肩带宽度、蓝色、织纹与裙长。\n\n场景与光线：\n夜晚的深色室内。窄走廊使用深棕木饰面和暖色壁灯，尽头通向有壁炉的休息区。休息区有深棕皮革软包座椅、暗红织物软垫、深色窗帘和木质家具。暖橙色侧光照亮人物脸侧、发丝和手背，另一侧保持柔和阴影；壁炉只产生轻微暖色起伏，不形成强烈闪烁。整体偏暗而有层次，皮肤、发丝、衣料和银链细节清楚，无美颜塑料皮肤。写实三维游戏CG，近景以50—85mm等效视感为主，中景为35—50mm视感；浅景深，背景灯光虚化。\n两位主角均为成年人，互相自愿亲近。男主外表强势，动作克制、支撑可靠；女主主动环抱、触脸、靠近与回应。以动作后的自然反应表现关系，不用僵硬摆拍或夸张表情。\n\n本视频严格按以下时间轴组织。时间是成片目标值；相邻区间首尾相接，不重叠，不把全部段落做成一条长镜头。\n\n0.00—2.73秒：托抱进入室内\n背侧跟随中景。男主穿黑色衬衫与黑裤，双臂分别承托女主背部和膝后，抱着她沿暗木走廊向软包座椅走。女主双臂环住他的颈后，浅灰棕长发垂在他的背侧，蓝色裙摆覆盖大腿。\n\n2.73—5.73秒：行走中的侧脸\n硬切略低机位的男主三分之二侧脸近景。暖光扫过鼻梁与脸侧，他先低眼看怀中的女主，再略转头看前方，嘴角轻微放松。\n\n5.73—6.57秒：被抱着移动的视角\n短切朝上的斜构图，走廊壁灯和深色墙面进入画面，女主自然垂下的脚部从上缘掠过。\n\n6.57—8.67秒：接近座椅\n切回背侧双人中景，男主仍托抱女主，走到棕色软包座椅前。女主环颈的手位接续开头，长发在背部轻晃。\n\n8.67—9.27秒：领口短插镜\n快切男主下颌、颈部与敞开的黑色领口，银链贴近锁骨又因身体转动稍稍离开。\n\n9.27—11.80秒：侧脸转向对视\n接男主侧脸近景，他把视线从侧前方移回女主，缓缓转成较正面的角度。眉间略收，头部微低。\n\n11.80—16.97秒：近距离开口\n切更紧的面部特写，男主凝视女主，13.20—15.39秒说：“Look at me. Tell me what you want.” 说完仍看着她，嘴唇自然合拢，留短暂等待。\n\n16.97—20.33秒：女主手停在胸前\n切上半身近景，女主白皙手掌贴在男主上胸口，指尖停在银链下方。他垂眼看接触位置，再抬眼看她。18.40秒起说：“Keep your hand there. I like it.”\n\n20.33—21.90秒：向后坐稳\n男主屈膝向后坐入棕色软包座椅，肩部和头部下降，仍托住女主；女主顺势靠近，不突然悬空。\n\n21.90—23.97秒：腰带与衣料过渡\n快速局部取景掠过男主黑衬衫下摆、腰带与黑色裤装，再移回胸前和银链；女主膝部短暂出现在下缘。\n\n23.97—26.70秒：触碰打断话语\n正面近景，女主手掌仍停在男主胸前。他先低头，抬眼时嘴角略动，24.10秒起说：“I had something to say. Then you touched me.”\n\n26.70—27.87秒：顺着触脸偏头\n女主的手从胸前抬到男主脸颊，他顺着掌心微微偏头，目光仍停在女主方向。画面逐渐变暗。\n\n27.87—29.93秒：第一次停顿\n完整黑场，暂不显示人物或补充动作。\n\n29.93—32.47秒：侧脸轻吻\n双人侧脸近景：男主坐着抬脸，女主主动俯身，手指轻贴他脸侧；两人靠近后短暂接吻，双眼自然闭合。\n\n32.47—34.53秒：反侧近景延续\n切另一侧更近的角度，接续同一次亲吻，女主前臂环在男主肩颈，头发遮住少量侧脸，两人随后微微分开。\n\n34.53—38.00秒：男主扶持手部\n切女主蓝裙覆盖的身侧与男主扶持的手。宽厚的暖棕色男性手掌从裙料外侧调整到她大腿外侧，随她靠近重新承托，五指自然分开再贴稳。\n\n38.00—39.73秒：手部镜头后的黑场\n切黑场，保留短暂节奏停顿。\n\n39.73—42.83秒：抬眼询问\n第一人称面部近景。男主先垂眼，随后抬眼看女主，双眉略收；女主手仍在他胸前。他说：“You don’t want me to go?”\n\n42.83—43.97秒：短黑场\n画面保持全黑约1.14秒。\n\n43.97—46.00秒：靠近肩颈\n切双人侧面近景。男主低头靠近女主肩颈，女主主动偏头并靠向他，男主一只宽厚的手扶住她肩背。\n\n46.00—48.23秒：发丝后的拥抱\n镜头转到女主背侧，浅灰棕长发占据画面一侧，露出蓝色肩带、男主闭眼的部分侧脸和扶在肩背的男性手。\n\n48.23—50.67秒：完整双人拥抱\n切较完整的双人中近景。女主在男主面前俯身，双臂环住他的颈后；男主双手托住她腰背，抬脸与她短暂对视和亲近。\n\n50.67—53.50秒：眼睑闭合特写\n切暗处的单眼极近特写，黑色额发形成上方阴影，眼睑先闭合，再开始微微松开。51.30秒起画外声：“Say my name again. Just like that.”\n\n53.50—55.70秒：睁眼显出金瞳\n同一单眼特写，眼睑从一条缝缓缓睁开，首次露出的虹膜呈金色；目光最后稳定在女主方向。\n\n55.70—59.30秒：拥抱中调整支撑\n切双人身侧与背部的连续近景。男主先把扶持的手稳在女主腰背，女主环住他的肩颈；两人一起调整角度，蓝裙与长发从前景掠过。\n\n59.30—61.87秒：侧面后倾\n切倾斜的侧面双人中景，男主支撑着女主缓缓后倾至座椅与红色软垫上，随后俯身靠近。\n\n61.87—65.80秒：金瞳正面对视\n切女主视点的男主正面近景。他俯身到她面前，先垂眼，再抬起金色眼睛直视她，眉间略紧，随后缓缓放松。\n\n65.80—69.70秒：台词前置的触脸镜头\n延续近景，女主手掌触碰男主脸侧，他先短暂闭眼，顺着触碰偏头，再抬眼。66.90—69.60秒说：“Let’s not waste the time we have before dawn.”\n\n69.70—73.10秒：较长黑场停顿\n画面保持完整黑场3.40秒，作为两段近距离互动之间的停顿。\n\n73.10—74.97秒：低头后重新抬眼\n黑场后切男主面部近景，他先低头闭眼，再抬起金色眼睛看向女主；眉头轻收，嘴唇即将开口。\n\n74.97—78.00秒：低机位说完最后一句\n切略低的第一人称中近景，女主弯曲的膝部在画面下缘，男主在她面前，继续同一句台词；女主手抬到他的脸侧。\n\n78.00—80.83秒：膝侧支撑与裙摆\n画面轻微下移，男主暖棕色宽手轻扶女主膝侧，拇指与其余手指在两侧自然贴合；蓝色细罗纹裙摆在膝上，女主膝部位置稳定。\n\n80.83—82.10秒：短暂抬眼承接\n镜头回到男主上半身，他从低头状态抬眼看女主，停一个呼吸，再开始向下俯身。\n\n82.10—84.87秒：靠近膝侧收尾\n侧面近景，男主低头，额头与脸侧轻靠近女主膝侧，嘴唇短暂轻贴膝侧后停住，扶持的手保持稳定。\n\n84.87—85.61秒：暗下结束\n保持最后构图，快速而柔和地淡出；约85.07秒起为全黑，85.61秒结束。\n\n声音与BGM：\n全片只有一名成年男主说英文，不加入女主台词或中文人声。男声使用自然、成熟、偏低音的胸腔共鸣，略沙哑，贴近对方时压低音量而保留清晰咬字；低沉不等于全程耳语或拖慢。短句有结论感，句内自然连读，句尾轻收；避免播报腔、逐词停顿、机器人语调、夸张低吼或额外喘息。以如下时间窗生成完整句子，句子不可吞词、重复或移到别处。镜头可见嘴部时逐音节同步；嘴部未入镜的画外声仍来自场景中的男主。亲吻时不安排说话。\n0.05—2.70秒：\"Call me yours. I want to hear it.\"（男主背对镜头，画外声）。\n13.20—15.39秒：\"Look at me. Tell me what you want.\"（正面面部特写，口型同步）。\n18.40—20.75秒：\"Keep your hand there. I like it.\"（胸前手部与男主近景，尾音接坐下镜头）。\n24.10—27.50秒：\"I had something to say. Then you touched me.\"（男主近景连续说完）。\n34.60—38.55秒：\"I’m trying to take this slowly. You’re making that difficult.\"（男性扶持手部镜头，尾音跨入黑场）。\n39.73—42.83秒：\"You don’t want me to go?\"（抬眼正面近景，口型同步）。\n51.30—54.00秒：\"Say my name again. Just like that.\"（单眼特写，嘴部不入镜的画外声）。\n66.90—69.60秒：\"Let’s not waste the time we have before dawn.\"（触脸近景内开口并结束）。\n74.73—77.92秒：\"Ask me to stay. You won’t have to ask twice.\"（抬眼开始，接低机位连续说完）。\n音乐生成要求：一条无歌词、低音量的暖暗氛围配乐贯穿全片，低音持续音与疏落的柔和钢琴音构成缓慢推进，情绪从克制靠近到亲近后安静下来；不要欢快舞曲、预告片重鼓或戏剧性爆点。对白出现时音乐自然让位，结束后平缓恢复。黑场中音乐继续，不重起、不变调。衣料摩擦、轻脚步、皮革及软垫承重声、极轻的壁炉底声跟随动作，音效不遮住人声，片尾一起收束。\n\n连续性与排除项：\n始终只有这两位成年人，双方放松且主动回应。镜头之间保持同一张脸、发际线、胡须、肤色、体格、服装和饰物。只有男主虹膜按指定节点变金，黑发全程不变。女主浅灰棕长发和蓝色吊带裙前后完全连续，裙摆不会忽长忽短；光照不能把服装改为紫色或灰白。\n双手归属清楚、五指结构正确，男主扶持手为宽厚暖棕色男性手，女主触脸手为白皙女性手；人物接触、支撑与重心遵循因果。避免肢体穿模、额外手臂、项链穿过手指、脸部粘连、皮肤拉伸和运动忽停忽快。\n画面从零生成完整场景，不带游戏界面元素。全片不出现字幕、文字、姓名、标识、水印、点选按钮、圆形点击提示、透明补丁、马赛克、矩形色带、局部模糊遮挡或修补闪烁。允许浅景深和自然运动模糊，但脸、手、膝部不能出现固定糊块。\n只保留时间轴中列出的黑场。动作自然实时推进，不统一慢放、不重复低头或重复抱起，不增补抓扶手的穿帮插镜。结束后不补环境镜头或片尾卡。",
+          "block_id": "doxcn3K1JJBtnGKKXYDMurXuu6g"
+        },
+        {
+          "label": "视频结果反推 prompt",
+          "text": "使用 Seedance 2.5 进行纯文生视频，480p，9:16竖屏，完整时长85.61秒，从0秒开始。偏写实的三维游戏CG。仅依据下面的完整文字生成人物、场景、镜头、表演与声音；不需要上传参考视频、角色图片或音频。\n\n【创作目标】\n两位主角均为成年人，互相自愿亲近。男主外表强势，动作克制、支撑可靠；女主主动环抱、触脸、靠近与回应。以动作后的自然反应表现关系，不用僵硬摆拍或夸张表情。用托抱入室、坐下对视、主动亲吻、拥抱与金瞳抬眼推进情绪，最终在膝侧的温柔靠近中暗下结束。下列时间、构图和动作均已展开为独立文字，不使用“跟随视频”的省略指令。\n\n【人物与关系】\n男主：34岁左右的成年男性，宽肩、结实而修长的体型。暖棕肤色，棱角分明的脸、清楚的下颌线、挺直鼻梁、浓黑眉、略深的眼窝、短胡须和整洁胡髭；头发为蓬松而向后梳的黑色层次短发，额前少量发丝垂到眉侧。前半段棕色虹膜；53.50秒眼部特写开始睁眼时露出金色虹膜，之后持续金色。穿同一件黑色长袖敞领衬衫、黑色长裤、黑色腰带，戴一条中等粗细的银链；不出现西装外套或领带。手掌宽厚、手指结实、指节清楚、短自然指甲、暖棕色皮肤，手腕与黑袖口连贯。\n女主：25岁左右的成年女性，白皙肤色，柔和椭圆脸、灰绿色杏眼、自然浅棕眉、精巧挺直的鼻形、饱满但不夸张的浅粉唇，银色小耳钉。长发侧分、长度至背部中下段，自然微卷，底色为浅灰棕色／深金棕色，带米棕色细发丝；发根、背面和阴影处属于同一发色，不能变黑、红或灰白。身形自然纤细，头身比例稳定。全程一件低饱和雾蓝色细罗纹吊带连衣裙：两根窄肩带、简洁浅圆弧领口、完整不透的哑光针织布料、细密竖纹、贴合但不勒紧，站立时裙摆固定在膝上约10厘米。没有外套、袖子、腰带、蕾丝、亮片、花纹或开衩。各机位都保留同一领口、肩带宽度、蓝色、织纹与裙长。\n\n【场景与摄影】\n夜晚的深色室内。窄走廊使用深棕木饰面和暖色壁灯，尽头通向有壁炉的休息区。休息区有深棕皮革软包座椅、暗红织物软垫、深色窗帘和木质家具。暖橙色侧光照亮人物脸侧、发丝和手背，另一侧保持柔和阴影；壁炉只产生轻微暖色起伏，不形成强烈闪烁。整体偏暗而有层次，皮肤、发丝、衣料和银链细节清楚，无美颜塑料皮肤。写实三维游戏CG，近景以50—85mm等效视感为主，中景为35—50mm视感；浅景深，背景灯光虚化。\n同一空间以背侧跟随、女主第一人称近景、双人侧脸和局部支撑镜头交替；第一人称中的女主手臂从画面下方或两侧自然进入，人物距离与受力不因切镜重置。\n\n【动作与剪辑：逐段执行】\n\n0.00—2.73秒｜托抱进入室内\n背侧跟随中景。男主穿黑色衬衫与黑裤，双臂分别承托女主背部和膝后，抱着她沿暗木走廊向软包座椅走。女主双臂环住他的颈后，浅灰棕长发垂在他的背侧，蓝色裙摆覆盖大腿。\n摄影机在男主背后略偏左，随两三步步伐轻缓起伏；肩、前臂与女主重量同步移动，头发与裙摆稍迟半拍摆动。她把身体自然靠向他，面部大部分遮挡。0.05秒起男主画外声：“Call me yours. I want to hear it.” 2.70秒前说完。\n\n2.73—5.73秒｜行走中的侧脸\n硬切略低机位的男主三分之二侧脸近景。暖光扫过鼻梁与脸侧，他先低眼看怀中的女主，再略转头看前方，嘴角轻微放松。\n女主前臂从画面边缘搭在肩颈，黑衬衫敞领与银链在下缘。棕色虹膜清楚，面部不过度磨皮。镜头保持被抱者的近距离高度，背景壁灯缓慢横移；没有新台词。\n\n5.73—6.57秒｜被抱着移动的视角\n短切朝上的斜构图，走廊壁灯和深色墙面进入画面，女主自然垂下的脚部从上缘掠过。\n视角随一次步伐略倾斜后回稳；脚踝、小腿与身体运动方向一致，不凭空伸出额外肢体。保留不到一秒的过渡，不拉长成环境空镜。\n\n6.57—8.67秒｜接近座椅\n切回背侧双人中景，男主仍托抱女主，走到棕色软包座椅前。女主环颈的手位接续开头，长发在背部轻晃。\n镜头向前跟随，座椅和红色软垫逐渐在下方出现，壁炉暖光来自侧后方。男主减慢最后一步，准备转身坐下；此时仍站立，不跳切成另一次抱起。\n\n8.67—9.27秒｜领口短插镜\n快切男主下颌、颈部与敞开的黑色领口，银链贴近锁骨又因身体转动稍稍离开。\n用浅景深保留链节形状与衬衫纹理，女主前臂仍横在肩后。镜头只有一次短暂下移，不扫描身体，不出现文字。\n\n9.27—11.80秒｜侧脸转向对视\n接男主侧脸近景，他把视线从侧前方移回女主，缓缓转成较正面的角度。眉间略收，头部微低。\n镜头位于女主眼睛高度，缓慢接近，脸部从三分之二侧面过渡到近正面；一束黑色额发落在眉侧。让眼睛先找到对方，再转头，不机械匀速摆头。\n\n11.80—16.97秒｜近距离开口\n切更紧的面部特写，男主凝视女主，13.20—15.39秒说：“Look at me. Tell me what you want.” 说完仍看着她，嘴唇自然合拢，留短暂等待。\n50—85mm等效近景观感，避免广角鼻部变形；瞳色为棕色。第一句短而笃定，第二句压低声音；重音落在“look”和“want”。嘴唇、下颌随英语音节自然活动，句末才出现一点几乎看不出的笑意，不在整段反复眨眼或点头。\n\n16.97—20.33秒｜女主手停在胸前\n切上半身近景，女主白皙手掌贴在男主上胸口，指尖停在银链下方。他垂眼看接触位置，再抬眼看她。18.40秒起说：“Keep your hand there. I like it.”\n手掌属于女主，皮肤与前臂连续；银链不穿过手指。男主语气放柔，肩部略松，开口清楚。该句持续到20.75秒，下一镜嘴部离开画面后允许声音自然接过去。\n\n20.33—21.90秒｜向后坐稳\n男主屈膝向后坐入棕色软包座椅，肩部和头部下降，仍托住女主；女主顺势靠近，不突然悬空。\n先降低重心，再让椅垫承重，最后上半身稍回弹。20.75秒前接完“I like it.”；不重启整句话。红色软垫轻微下陷，银链随下降晃动一次。\n\n21.90—23.97秒｜腰带与衣料过渡\n快速局部取景掠过男主黑衬衫下摆、腰带与黑色裤装，再移回胸前和银链；女主膝部短暂出现在下缘。\n所有裤装保持纯黑，腰带固定在腰部，不漂移。以小幅下摇再抬回完成坐姿交代，保留短插镜的节奏。衬衫自然形成褶皱，衣物不变形或换色。\n\n23.97—26.70秒｜触碰打断话语\n正面近景，女主手掌仍停在男主胸前。他先低头，抬眼时嘴角略动，24.10秒起说：“I had something to say. Then you touched me.”\n第一句像承认原先有话要说；“Then you touched me”略轻、略带无奈的亲近感，保持同一成熟男声。视线回到她脸上，语音自然流到下一镜，整句27.50秒前结束。\n\n26.70—27.87秒｜顺着触脸偏头\n女主的手从胸前抬到男主脸颊，他顺着掌心微微偏头，目光仍停在女主方向。画面逐渐变暗。\n完成上一句尾音后嘴唇合拢；偏头由女主触碰引发，不先转头等手。27.60秒后快速压暗，到27.87秒进入完全黑场，不添加转场文字。\n\n27.87—29.93秒｜第一次停顿\n完整黑场，暂不显示人物或补充动作。\n保持音乐与极低的室内底声连续，无对白、无喘息表演、无闪字或按钮。29.93秒直接切入下一画面。\n\n29.93—32.47秒｜侧脸轻吻\n双人侧脸近景：男主坐着抬脸，女主主动俯身，手指轻贴他脸侧；两人靠近后短暂接吻，双眼自然闭合。\n女主位于画面右侧，男主左侧较低，嘴唇接触前各有一个细小偏头以避开鼻尖，接触后只有自然的小幅调整。浅灰棕长发与黑发分属两人，衣服完整；这一段没有台词。\n\n32.47—34.53秒｜反侧近景延续\n切另一侧更近的角度，接续同一次亲吻，女主前臂环在男主肩颈，头发遮住少量侧脸，两人随后微微分开。\n用头部接触点匹配切镜，肩颈手位保持连续，不让女主突然交换座位。发丝产生正常遮挡，脸和手不能融在一起；仅轻微呼吸和衣料声。\n\n34.53—38.00秒｜男主扶持手部\n切女主蓝裙覆盖的身侧与男主扶持的手。宽厚的暖棕色男性手掌从裙料外侧调整到她大腿外侧，随她靠近重新承托，五指自然分开再贴稳。\n手掌、粗指节、短指甲、前臂与黑色袖口明确属于男主；皮肤颜色与男主脸部一致。蓝裙保持同一细罗纹与裙长，衣料只产生受力褶皱。34.60秒起男主画外声：“I’m trying to take this slowly. You’re making that difficult.” 画面中不显示说话嘴部。\n\n38.00—39.73秒｜手部镜头后的黑场\n切黑场，保留短暂节奏停顿。\n上句画外声延续到38.55秒结束，之后只剩音乐与室内底声。不要因为有人声就在黑场内补画人物，也不突然切断配乐。\n\n39.73—42.83秒｜抬眼询问\n第一人称面部近景。男主先垂眼，随后抬眼看女主，双眉略收；女主手仍在他胸前。他说：“You don’t want me to go?”\n声音从低处起，句尾有克制的询问感，重音在“want”和“go”，不凶狠吼叫。头部逐渐靠近镜头一点，眼睛保持棕色；说完嘴唇合拢，42.83秒切黑。\n\n42.83—43.97秒｜短黑场\n画面保持全黑约1.14秒。\n无新对白。音乐维持同一曲调和音色，不添加突兀重音。\n\n43.97—46.00秒｜靠近肩颈\n切双人侧面近景。男主低头靠近女主肩颈，女主主动偏头并靠向他，男主一只宽厚的手扶住她肩背。\n画面集中在两人侧脸、肩部与支撑的前臂，蓝色细肩带始终连在裙身上。动作是轻柔贴近与拥抱，不出现咬伤、束缚或挣扎。两人脸部相接后停一下，不安排说话。\n\n46.00—48.23秒｜发丝后的拥抱\n镜头转到女主背侧，浅灰棕长发占据画面一侧，露出蓝色肩带、男主闭眼的部分侧脸和扶在肩背的男性手。\n镜头沿肩线小幅移动；头发在触碰后顺势垂落，男主手指轻微收拢但不抓痛。黑发与浅灰棕发保持清楚的颜色边界，女主背面衣料与正面相同。\n\n48.23—50.67秒｜完整双人拥抱\n切较完整的双人中近景。女主在男主面前俯身，双臂环住他的颈后；男主双手托住她腰背，抬脸与她短暂对视和亲近。\n让女主的蓝色吊带裙、男主黑衬衫及托扶手臂同时入镜。女主主动向他靠近，他以腰背的支撑回应；身体重量有着落。两人分开一点时保留呼吸间隙，不循环重复亲吻。\n\n50.67—53.50秒｜眼睑闭合特写\n切暗处的单眼极近特写，黑色额发形成上方阴影，眼睑先闭合，再开始微微松开。51.30秒起画外声：“Say my name again. Just like that.”\n构图只保留眉、眼睑、睫毛和部分鼻梁，嘴部完全不入镜。睫毛、眼皮和皮肤具有细节；51.30—54.00秒的声音连贯，后半句接到下一段。此时不显示红色或发光眼睛。\n\n53.50—55.70秒｜睁眼显出金瞳\n同一单眼特写，眼睑从一条缝缓缓睁开，首次露出的虹膜呈金色；目光最后稳定在女主方向。\n约53.50秒开始露出金色虹膜，54.10秒左右睁开至清楚可见。瞳孔仍为黑色、巩膜正常，只让虹膜变金；黑发与皮肤都不变色。54.00秒前结束“Just like that.”，随后安静对视。从此后所有可见眼睛持续金色。\n\n55.70—59.30秒｜拥抱中调整支撑\n切双人身侧与背部的连续近景。男主先把扶持的手稳在女主腰背，女主环住他的肩颈；两人一起调整角度，蓝裙与长发从前景掠过。\n先承托、再转身、再降低重心，所有动作在一个方向上继续。镜头贴近肩背轻微跟随，保留被衣料自然挡住的短瞬间；不独立插入抓椅扶手的特写，不增加第三只手。\n\n59.30—61.87秒｜侧面后倾\n切倾斜的侧面双人中景，男主支撑着女主缓缓后倾至座椅与红色软垫上，随后俯身靠近。\n女主的背部先接触椅垫，再由男主前臂分担重量；女主双臂仍环颈。镜头轻微跟随倾斜但不翻转，壁炉和暗木家具保持空间方向。裙摆随坐姿产生合理褶皱，长度不突然改变。\n\n61.87—65.80秒｜金瞳正面对视\n切女主视点的男主正面近景。他俯身到她面前，先垂眼，再抬起金色眼睛直视她，眉间略紧，随后缓缓放松。\n银链从敞领处自然下垂。女主前臂从画面两侧进入，手搭在他的肩颈；男主视线对着女主，不游离看画面外。保留真实呼吸和一两次自然眨眼，无台词。\n\n65.80—69.70秒｜台词前置的触脸镜头\n延续近景，女主手掌触碰男主脸侧，他先短暂闭眼，顺着触碰偏头，再抬眼。66.90—69.60秒说：“Let’s not waste the time we have before dawn.”\n这句在触脸过程内开始，不能拖到后面的黑场。语气低而坚定，整句连读，嘴型与每个英语音节一致，重音在“time”和“dawn”。说完后缓缓合唇，女主掌心仍在脸侧；69.70秒进入黑场。\n\n69.70—73.10秒｜较长黑场停顿\n画面保持完整黑场3.40秒，作为两段近距离互动之间的停顿。\n上一句已经说完，不重播、不新增台词，不补画黑场内动作。只让低音量配乐与房间底声延续。\n\n73.10—74.97秒｜低头后重新抬眼\n黑场后切男主面部近景，他先低头闭眼，再抬起金色眼睛看向女主；眉头轻收，嘴唇即将开口。\n先完成一次抬眼与对焦，再开口，74.73秒开始最后一句：“Ask me to stay. You won’t have to ask twice.” 眼神有等待回应的温度，强势来自确定语气，不做夸张邪笑。\n\n74.97—78.00秒｜低机位说完最后一句\n切略低的第一人称中近景，女主弯曲的膝部在画面下缘，男主在她面前，继续同一句台词；女主手抬到他的脸侧。\n第一句在切镜前已开始，切后接续语音与口型，不重复首词。约77.92秒前完整说完“You won’t have to ask twice.”；说话时男主不贴住女主身体，面部与嘴唇清楚可见。金瞳保持。\n\n78.00—80.83秒｜膝侧支撑与裙摆\n画面轻微下移，男主暖棕色宽手轻扶女主膝侧，拇指与其余手指在两侧自然贴合；蓝色细罗纹裙摆在膝上，女主膝部位置稳定。\n手腕从黑色袖口连续伸出，不使用纤细白皙女性手。手掌短暂调整后放稳，不挤压拉扯裙料；女主裙摆设计仍是站立时膝上约10厘米，姿势只改变褶皱。无对白。\n\n80.83—82.10秒｜短暂抬眼承接\n镜头回到男主上半身，他从低头状态抬眼看女主，停一个呼吸，再开始向下俯身。\n这一段只有一次抬眼、一次俯身起势，接到后面，不插入另一个重复低头镜头。银链随上身运动自然摆动，男主一只手继续在女主膝侧支撑。\n\n82.10—84.87秒｜靠近膝侧收尾\n侧面近景，男主低头，额头与脸侧轻靠近女主膝侧，嘴唇短暂轻贴膝侧后停住，扶持的手保持稳定。\n保持成年双方自愿且衣着完整的温柔亲近；不把镜头移向裙内、不延伸到未描述的动作。女主膝部、蓝色裙摆和男主手的空间关系不跳动，画面只有自然呼吸和细小发丝运动。\n\n84.87—85.61秒｜暗下结束\n保持最后构图，快速而柔和地淡出；约85.07秒起为全黑，85.61秒结束。\n音乐和室内底声同步轻柔收束，不加片尾文字、标志、环境镜头或新的对白。\n\n【声音与口型】\n全片只有一名成年男主说英文，不加入女主台词或中文人声。男声使用自然、成熟、偏低音的胸腔共鸣，略沙哑，贴近对方时压低音量而保留清晰咬字；低沉不等于全程耳语或拖慢。短句有结论感，句内自然连读，句尾轻收；避免播报腔、逐词停顿、机器人语调、夸张低吼或额外喘息。以如下时间窗生成完整句子，句子不可吞词、重复或移到别处。镜头可见嘴部时逐音节同步；嘴部未入镜的画外声仍来自场景中的男主。亲吻时不安排说话。\n0.05—2.70秒：\"Call me yours. I want to hear it.\"（男主背对镜头，画外声）。\n13.20—15.39秒：\"Look at me. Tell me what you want.\"（正面面部特写，口型同步）。\n18.40—20.75秒：\"Keep your hand there. I like it.\"（胸前手部与男主近景，尾音接坐下镜头）。\n24.10—27.50秒：\"I had something to say. Then you touched me.\"（男主近景连续说完）。\n34.60—38.55秒：\"I’m trying to take this slowly. You’re making that difficult.\"（男性扶持手部镜头，尾音跨入黑场）。\n39.73—42.83秒：\"You don’t want me to go?\"（抬眼正面近景，口型同步）。\n51.30—54.00秒：\"Say my name again. Just like that.\"（单眼特写，嘴部不入镜的画外声）。\n66.90—69.60秒：\"Let’s not waste the time we have before dawn.\"（触脸近景内开口并结束）。\n74.73—77.92秒：\"Ask me to stay. You won’t have to ask twice.\"（抬眼开始，接低机位连续说完）。\n音乐生成要求：一条无歌词、低音量的暖暗氛围配乐贯穿全片，低音持续音与疏落的柔和钢琴音构成缓慢推进，情绪从克制靠近到亲近后安静下来；不要欢快舞曲、预告片重鼓或戏剧性爆点。对白出现时音乐自然让位，结束后平缓恢复。黑场中音乐继续，不重起、不变调。衣料摩擦、轻脚步、皮革及软垫承重声、极轻的壁炉底声跟随动作，音效不遮住人声，片尾一起收束。\n\n【连续性与逐镜检查】\n始终只有这两位成年人，双方放松且主动回应。镜头之间保持同一张脸、发际线、胡须、肤色、体格、服装和饰物。只有男主虹膜按指定节点变金，黑发全程不变。女主浅灰棕长发和蓝色吊带裙前后完全连续，裙摆不会忽长忽短；光照不能把服装改为紫色或灰白。\n双手归属清楚、五指结构正确，男主扶持手为宽厚暖棕色男性手，女主触脸手为白皙女性手；人物接触、支撑与重心遵循因果。避免肢体穿模、额外手臂、项链穿过手指、脸部粘连、皮肤拉伸和运动忽停忽快。\n画面从零生成完整场景，不带游戏界面元素。全片不出现字幕、文字、姓名、标识、水印、点选按钮、圆形点击提示、透明补丁、马赛克、矩形色带、局部模糊遮挡或修补闪烁。允许浅景深和自然运动模糊，但脸、手、膝部不能出现固定糊块。\n只保留时间轴中列出的黑场。动作自然实时推进，不统一慢放、不重复低头或重复抱起，不增补抓扶手的穿帮插镜。结束后不补环境镜头或片尾卡。\n检查所有切点前后的手位、坐姿、发色、裙摆、银链方向及眼色；黑场时长和台词位置按上表执行。",
+          "block_id": "doxcnz8GEwfp3dv2oXos8BztsBg"
+        }
+      ],
+      "reuse_pack": {
+        "path": "assets/videos/magnus-user-final-20261020/领地之吻_用户终剪_文生视频提示词与素材.zip",
+        "name": "领地之吻_用户终剪_文生视频提示词与素材.zip"
+      },
+      "record_download": "metadata/video-records/magnus-territory-kiss-user-final-20261020.txt",
+      "prompt_revision": {
+        "date": "2026-10-20",
+        "mode": "text-to-video",
+        "basis": "按用户终剪85.611973秒重新编写的独立文字提示词；非历史生成调用原文。",
+        "segments": 35,
+        "dialogue_lines": 9
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "id": "garage-opening",
+      "reason": "用户于2026-10-19明确选择“只加入其余6个已确认case”；车库开场V1不收录。",
+      "path": "assets/videos/magnus-cases-20261018/garage-opening.mp4",
+      "decision": "excluded_by_user",
+      "decision_date": "2026-10-19"
+    }
+  ]
+}

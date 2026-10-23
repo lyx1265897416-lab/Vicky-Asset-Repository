@@ -49,11 +49,18 @@
 
 .library-selection-tools{display:flex;align-items:center;gap:10px;margin-left:auto;flex-shrink:0}
 .library-sticky .library-selection-tools #batch-mode{margin-left:0}
-.audio-filter-strip{display:contents}
+.library-sticky .audio-filter-strip{display:flex;align-items:center;gap:10px;flex:1 1 0;min-width:0;overflow-x:auto;scrollbar-width:thin}
+.audio-filter-strip>*{flex-shrink:0}
 @media(max-width:700px){
  .library-sticky .navigation-tools,.library-sticky .controls .voice-tools,.library-sticky .controls .bgm-tools{flex-wrap:wrap;overflow:visible;row-gap:7px}
  .library-selection-tools{gap:4px;margin-left:auto}
  .library-sticky .navigation-tools .recycle-shortcut{display:inline-flex;align-items:center}
- .audio-filter-strip{display:flex;align-items:center;gap:5px;flex:1 1 100%;overflow-x:auto;min-width:0;padding-bottom:3px}
+ .library-sticky .audio-filter-strip{gap:5px;flex:1 1 100%;padding-bottom:3px}
  .audio-filter-strip>*{flex-shrink:0}
 }
+
+/* Voice cards use the same menu and centered dots as image cards. */
+.voice-actions{align-items:flex-end;width:100%;padding-top:0}
+.voice-actions .voice-downloads{margin-top:0;flex:1;min-width:0}
+.voice-card .card-menu{right:20px;bottom:58px}
+@media(max-width:700px){.voice-card .card-menu{right:16px;bottom:54px}}

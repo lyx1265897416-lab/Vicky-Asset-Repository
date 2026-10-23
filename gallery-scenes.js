@@ -3,10 +3,8 @@ let activeScene='all',detailScene=null;
 const sceneOrder=['scene_original','scene_3d','scene_architecture','scene_plan','scene_angles'];
 function sceneMatches(a){return activeKind!=='scene'||activeScene==='all'||a.scene_ids?.includes(activeScene)}
 function sceneGroups(list){const q=query.trim().toLowerCase(),all=manifest.scenes||[],named=q?all.filter(s=>s.name.toLowerCase().includes(q)):[];return (named.length?named:all).map(s=>({...s,items:list.filter(a=>a.scene_ids?.includes(s.id)).sort((a,b)=>sceneOrder.indexOf(a.scene_view)-sceneOrder.indexOf(b.scene_view))})).filter(s=>s.items.length&&(activeScene==='all'||activeScene===s.id))}
-function sceneGridHTML(list,card){
- const groups=sceneGroups(list),known=new Set(list.filter(a=>a.scene_ids?.some(id=>(manifest.scenes||[]).some(s=>s.id===id))));
- return groups.map(s=>`<section class="character-group scene-group" data-scene-group="${escapeHTML(s.id)}" aria-label="${escapeHTML(s.name)}"><header><h3>${escapeHTML(s.name)}</h3><span>${s.items.length} 张 · ${sceneOrder.slice(1).filter(v=>s.items.some(a=>a.scene_view===v)).length} / 4 类空间图</span></header><div class="character-group-grid">${s.items.map(card).join('')}</div></section>`).join('')+list.filter(a=>!known.has(a)).map(card).join('');
-}
+// Keep the main gallery in global number order; scene relations remain in details.
+function sceneGridHTML(list,card){return list.map(card).join('')}
 function sceneRelated(id){return assets.filter(a=>a.asset_kind==='scene'&&a.scene_ids?.includes(id)&&!isTrashed(a)).sort((a,b)=>sceneOrder.indexOf(a.scene_view)-sceneOrder.indexOf(b.scene_view))}
 function sceneDetailEntries(){return sceneGroups(filtered()).flatMap(s=>s.items.map(asset=>({asset,role:null,scene:s.id})))}
 function moveScene(delta){

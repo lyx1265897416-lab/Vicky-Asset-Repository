@@ -1,0 +1,116 @@
+/* Shared responsive layer. Keep last in build_gallery.py; used by the hosted
+   Worker too, so every new asset release inherits the same device layouts. */
+html{-webkit-text-size-adjust:100%;scroll-padding-top:210px}
+.shell,.library-sticky,.controls,.navigation-main,.navigation-tools,.image-details{min-width:0}
+.card h3,.character-panel-heading strong,.character-view span,.footer{overflow-wrap:anywhere}
+.navigation-main>.search{min-width:0}
+button,a,input,select,textarea{-webkit-tap-highlight-color:transparent}
+.modal-layout{min-height:0}
+.modal-toolbar .close{flex-shrink:0}
+.navigation-panel{scrollbar-gutter:stable}
+@media (pointer:coarse){
+ .favorite-button,.more-button{width:44px;height:44px;flex-basis:44px}
+ .card-menu button,.detail-link,.voice-downloads a,.bgm-links a{min-height:44px;display:inline-flex;align-items:center}
+ .card-menu button{display:flex}
+ .thumb .select-image{width:32px;height:32px;top:48px}
+ .character-view{min-height:44px}
+}
+@media(max-width:900px){
+ .navigation-main{flex-wrap:wrap}
+ .library-kinds{flex-basis:100%;scroll-padding-inline:6px;overscroll-behavior-x:contain}
+ .navigation-main>.search{flex:1 1 100%;max-width:none;width:100%}
+ .navigation-tools{flex-wrap:wrap}
+ .modal-layout{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+}
+@media(max-width:700px){
+ html{scroll-padding-top:240px}
+ .shell{padding:18px max(12px,env(safe-area-inset-right)) max(32px,env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left))}
+ .top{display:flex;align-items:center;gap:12px}.top>.eyebrow{display:none}
+ .top h1{font-size:26px}.top .eyebrow{font-size:10px}
+ .library-overview>summary{min-height:36px;display:flex;align-items:center}
+ .library-sticky{padding-top:env(safe-area-inset-top)}
+ .library-sticky .controls{padding:6px 0}
+ .navigation-main{display:flex;gap:6px;margin-bottom:6px}
+ .library-kinds{margin:0;gap:4px;padding-bottom:3px;scrollbar-width:thin}
+ .controls .kind-tab{padding:10px 12px;min-height:44px;font-size:14px}
+ .controls .search{font-size:16px;height:44px;padding:10px 13px;min-width:0}
+ .library-sticky .navigation-tools{gap:6px;row-gap:6px}
+ .controls .navigation-tools button,.controls .gender-control select,.controls .voice-filter,.controls .bgm-tools select{height:auto;min-height:44px;font-size:13px;padding:9px 10px}
+ .controls .gender-control select,.controls select{font-size:16px;max-width:115px}
+ .controls .navigation-tools button{flex-shrink:0}
+ .gender-control{margin:0}.gender-control>span{display:none}
+ .navigation-tools>.nav-divider{display:none}
+ .collection-switch{gap:4px}
+ .library-selection-tools{flex:0 0 auto;margin-left:0;gap:6px}
+ .library-sticky .navigation-tools #batch-mode{margin-left:0}
+ .navigation-tools .wardrobe-tabs{flex-basis:100%;order:2;overflow-x:auto;gap:5px}
+ .controls .wardrobe-tabs button{font-size:13px;padding:9px 12px}
+ .library-sticky .audio-filter-strip{width:100%;flex-basis:100%;gap:6px;overscroll-behavior-x:contain}
+ .library-sticky .audio-filter-strip select{max-width:180px;font-size:16px;min-height:44px}
+ .library-sticky .audio-filter-strip button{font-size:13px}
+ .navigation-panel{right:0;left:0;width:100%;padding:14px;max-height:55dvh}
+ .controls .panel-title button{min-width:44px;min-height:44px}
+ .navigation-panel button{min-height:44px;font-size:13px}
+ .navigation-panel .filter-row{align-items:center;gap:6px}
+ .navigation-panel .character-filter select{width:100%;flex-basis:100%;font-size:16px;min-height:44px}
+ .panel-footer{position:sticky;bottom:-14px;background:var(--panel);padding:12px 0}
+ .batch-dock{flex-wrap:wrap}
+ .batch-dock .bulk-bar{flex-basis:100%;gap:6px}
+ .batch-dock .bulk-bar button{min-height:44px;padding:9px 10px}
+ .grid,.character-group-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+ .meta{padding:10px}.meta h3{font-size:13px;line-height:1.5}
+ .card{border-radius:13px}.card-bottom{gap:5px}
+ .card .library-number{top:8px;left:8px;font-size:12px;padding:3px 7px}
+ .favorite-button{right:5px;top:5px;width:44px;height:44px}
+ .more-button{width:44px;height:44px;flex-basis:44px}
+ .detail-link{min-height:44px;display:inline-flex;align-items:center;padding-top:0}
+ .section-heading{gap:8px}.section-heading h2{font-size:18px}
+ .section .note{line-height:1.6}
+ #grid.voice-grid,#grid.bgm-grid{grid-template-columns:minmax(0,1fr)}
+ .voice-card,.bgm-card{padding:48px 16px 16px}
+ .voice-card h3,.bgm-card h3{font-size:17px}
+ .voice-player{flex-wrap:wrap;gap:8px}
+ .voice-play{min-height:44px;min-width:72px}
+ .voice-seek{flex:1 1 90px;width:auto;min-width:60px;height:32px}
+ .voice-time{font-size:12px}
+ .bgm-card select,.voice-filter{font-size:16px;min-height:44px}
+ .voice-downloads a,.bgm-links a,.bgm-copy-credit{min-height:44px;display:inline-flex;align-items:center}
+ .share-dialog{width:calc(100vw - 20px);max-height:calc(100dvh - 24px);padding:16px;margin:auto;overscroll-behavior:contain}
+ .share-dialog button{min-height:44px}.share-dialog textarea,.bgm-credit{font-size:16px}
+ .share-dialog header button{min-width:44px}
+ .action-toast{bottom:calc(16px + env(safe-area-inset-bottom));overflow-wrap:anywhere}
+}
+@media(max-width:800px){
+ .modal{padding:0}
+ .modal-inner{width:100%;height:100dvh;max-height:100dvh;border-radius:0;display:flex;flex-direction:column}
+ .modal-toolbar{height:auto;flex-shrink:0;display:grid;grid-template-columns:repeat(4,44px) minmax(0,1fr) 44px;gap:4px;padding:6px max(8px,env(safe-area-inset-right)) 6px max(8px,env(safe-area-inset-left));padding-top:calc(6px + env(safe-area-inset-top))}
+ .modal-heading{grid-column:1/6;grid-row:1;max-width:none;width:100%;font-size:12px;line-height:1.5}
+ .modal-toolbar .close{grid-column:6;grid-row:1;width:44px;height:44px}
+ .modal-toolbar .nav{width:44px;height:44px;grid-row:2}
+ .modal-toolbar .modal-favorite{grid-row:2;grid-column:5/7;min-height:44px;padding:6px 8px;justify-self:end;max-width:100%;white-space:nowrap}
+ .modal-layout{display:block;width:100%;flex:1;min-height:0;height:auto;overflow-y:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+ .modal-visual{height:48dvh;min-height:180px;padding:10px}
+ .image-details{padding:16px max(16px,env(safe-area-inset-right)) calc(24px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left));overflow:visible}
+ .image-details h2{font-size:19px}
+ .character-panel-heading{flex-wrap:wrap}
+ .character-panel-heading button{min-height:44px;padding:4px 0}
+ .character-panel-heading strong{flex:1 1 180px}
+ .character-views{max-height:260px;overscroll-behavior:contain}
+ .role-slots{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .detail-actions button,.prompt-actions button,.prompt-actions a{min-height:44px;font-size:13px}
+ .prompt-text{font-size:16px;height:230px}
+ .generation-facts{grid-template-columns:68px minmax(0,1fr)}
+}
+/* Landscape phones retain room for the image and scroll details independently. */
+@media(max-height:540px) and (min-width:600px){
+ .library-sticky{position:relative;top:auto}
+ .modal{padding:0}.modal-inner{height:100dvh;max-height:100dvh;width:100%;border-radius:0;display:flex;flex-direction:column}
+ .modal-toolbar{display:flex;flex-shrink:0;height:auto;min-height:56px;padding:6px max(10px,env(safe-area-inset-right)) 6px max(10px,env(safe-area-inset-left))}
+ .modal-heading{max-width:none;flex:1;font-size:12px}
+ .modal-toolbar .nav,.modal-toolbar .close{width:44px;height:44px}
+ .modal-toolbar .modal-favorite{min-height:44px}
+ .modal-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);flex:1;min-height:0;height:auto;overflow:hidden}
+ .modal-visual{height:100%;min-height:0;padding:10px}
+ .image-details{height:100%;overflow:auto;padding:14px}
+}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}.thumb img{transition:none}}
