@@ -1,0 +1,88 @@
+{
+  "id": "web-scott-red",
+  "asset_kind": "bgm",
+  "name": "Red",
+  "original_title": "Red",
+  "artist": "Scott Buckley",
+  "origin": "web",
+  "project": "网络精选 · Scott Buckley",
+  "project_id": "web-scott",
+  "episodes": [],
+  "category": "动作紧张",
+  "tags": [
+    "动作紧张",
+    "暗黑",
+    "管弦电子",
+    "无吟唱"
+  ],
+  "status": "confirmed",
+  "model": null,
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-web-20260929/evidence/web-scott-red.json",
+    "imports/bgm-web-20260929/download-records/web-scott-red.json",
+    "imports/bgm-web-20260929/evidence/research-notes.json",
+    "imports/bgm-web-20260929/evidence/cc-by-4.html"
+  ],
+  "variants": [
+    {
+      "id": "e9efef772d0a5527",
+      "track_id": "web-scott-red",
+      "path": "assets/bgm/web-20260929/web-scott-red/original.mp3",
+      "bytes": 8528691,
+      "sha256": "e9efef772d0a5527ded1950ded577caf6cabd9d84a8d5ed19b2d40a057a564bd",
+      "extension": ".mp3",
+      "label": "无吟唱版",
+      "duration_seconds": 213.16,
+      "source": "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/10/sb_red_altmix.mp3",
+      "sources": [
+        "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/10/sb_red_altmix.mp3"
+      ],
+      "decode_check": "passed",
+      "decoded_seconds": 213.12,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 320 kb/s",
+      "http_content_length": 8528691,
+      "http_content_type": "audio/mpeg",
+      "final_url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2018/10/sb_red_altmix.mp3",
+      "checked_on": "2026-09-29",
+      "http_headers": {
+        "last-modified": "Thu, 11 Oct 2018 20:02:21 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "8528691",
+        "content-type": "audio/mpeg",
+        "date": "Tue, 29 Sep 2026 12:08:04 GMT",
+        "server": "Apache"
+      }
+    }
+  ],
+  "default_variant": "e9efef772d0a5527",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "可商用 · 需署名",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.scottbuckley.com.au/library/using-this-music/",
+    "track_url": "https://www.scottbuckley.com.au/library/red/",
+    "checked_on": "2026-09-29",
+    "basis": "作者本曲页与 Using This Music 页明确 CC BY 4.0；原作 MP3（不含主题改编曲）。",
+    "attribution": "\"Red\" by Scott Buckley — released under CC-BY 4.0. www.scottbuckley.com.au\nSource: https://www.scottbuckley.com.au/library/red/\nLicense: https://creativecommons.org/licenses/by/4.0/\nVersion: official alternative mix (no vocals).",
+    "usage_notes": [
+      "免费商用须署名：保留作者、曲名、来源和 CC BY 4.0 链接；若剪辑、循环或改编，请说明改动。",
+      "YouTube 须将署名放在视频简介中。作者另要求配合影像等媒体使用；勿单独转售或上传音乐流媒体，勿登记 Content ID / 音频指纹。"
+    ],
+    "content_id_note": "未在 YouTube 简介署名可能收到作者的 Content ID 认领；补全后按作者申诉指引处理。"
+  },
+  "popularity": {
+    "tier": "风格补齐",
+    "priority": 22,
+    "basis": "用于补齐曲风和剧情场景，未宣称高热。",
+    "source_url": "https://www.scottbuckley.com.au/library/red/",
+    "checked_on": "2026-09-29"
+  },
+  "credit_download": "assets/bgm/web-20260929/web-scott-red/CREDITS.txt",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
+  },
+  "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。作者本曲页与 Using This Music 页明确 CC BY 4.0；原作 MP3（不含主题改编曲）。"
+}

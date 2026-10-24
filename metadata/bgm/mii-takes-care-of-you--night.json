@@ -1,0 +1,148 @@
+{
+  "id": "mii-takes-care-of-you--night",
+  "asset_kind": "bgm",
+  "name": "晚安时分",
+  "project": "今天不要上班，咪养你",
+  "project_id": "mii-takes-care-of-you",
+  "episodes": [
+    "EP001"
+  ],
+  "tags": [
+    "夜晚",
+    "安抚"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original instrumental intimate sleepy nighttime domestic underscore, 66 BPM, sparse felt piano with warm muted nylon guitar harmonics. Tender quiet home, tired little kitten being cared for. Very spacious, minimal soft melody, no dramatic crescendo, no music box shrillness, no vocals or voices, gentle resolved ending.",
+    "music_length_ms": 60000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original instrumental intimate sleepy nighttime domestic underscore, 66 BPM, sparse felt piano with warm muted nylon guitar harmonics. Tender quiet home, tired little kitten being cared for. Very spacious, minimal soft melody, no dramatic crescendo, no music box shrillness, no vocals or voices, gentle resolved ending.",
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--night/projects/mii-takes-care-of-you/视频制作-v2.6/music/night-request.json",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--night/projects/mii-takes-care-of-you/视频制作-v2.6/music/night-result.json",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--night/projects/mii-takes-care-of-you/视频制作-v2.6/scripts/render_music.py",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--night/projects/mii-takes-care-of-you/视频制作-v2.7/scripts/refine_music.py",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--night/projects/mii-takes-care-of-you/视频制作-v2.12/scripts/audio_fix.py"
+  ],
+  "variants": [
+    {
+      "track_key": "mii-takes-care-of-you--night",
+      "key": "night",
+      "family": "mii-takes-care-of-you",
+      "name": "晚安时分",
+      "tags": [
+        "夜晚",
+        "安抚"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.6/music/night.mp3",
+      "sources": [
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v27/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-test/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/revision-v26/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v35-check/music/night.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.6/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v33-check/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v31-check/music/night.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.7/mobile-preview/public/interactive-v27/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v34-check/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-check/music/night.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v26/music/night.mp3"
+      ],
+      "sha256": "92fb9abf2227df949829f244e297132df78b6e81c199bda095317b35655dda05",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "92fb9abf2227df94",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--night/92fb9abf2227df94.mp3",
+      "bytes": 1440621
+    },
+    {
+      "track_key": "mii-takes-care-of-you--night",
+      "key": "night",
+      "family": "mii-takes-care-of-you",
+      "name": "晚安时分",
+      "tags": [
+        "夜晚",
+        "安抚"
+      ],
+      "label": "循环剪辑 · V32",
+      "duration_seconds": 42.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.12/music/night-v32.mp3",
+      "sources": [
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v27/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-test/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.12/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v35-check/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v33-check/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v31-check/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.7/mobile-preview/public/interactive-v27/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v34-check/music/night-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-check/music/night-v32.mp3"
+      ],
+      "sha256": "253242087d622467628282d0ab0a465f680627fe51c89239e37a4be035b23b81",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "253242087d622467",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--night/253242087d622467.mp3",
+      "bytes": 1009196
+    },
+    {
+      "track_key": "mii-takes-care-of-you--night",
+      "key": "night",
+      "family": "mii-takes-care-of-you",
+      "name": "晚安时分",
+      "tags": [
+        "夜晚",
+        "安抚"
+      ],
+      "label": "混音配乐片段 · WAV",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.7/audio/bgm-night.wav",
+      "sources": [
+        "projects/mii-takes-care-of-you/视频制作-v2.7/audio/bgm-night.wav"
+      ],
+      "sha256": "84ddaaf73bbd7be807796f7125dade7587db5ec207701be96606a3e17d9489d7",
+      "extension": ".wav",
+      "decode_check": "passed",
+      "id": "84ddaaf73bbd7be8",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--night/84ddaaf73bbd7be8.wav",
+      "bytes": 11524686
+    },
+    {
+      "track_key": "mii-takes-care-of-you--night",
+      "key": "night",
+      "family": "mii-takes-care-of-you",
+      "name": "晚安时分",
+      "tags": [
+        "夜晚",
+        "安抚"
+      ],
+      "label": "连续配乐循环 · WAV",
+      "duration_seconds": 47.0,
+      "audio_description": "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.7/audio/loop-night.wav",
+      "sources": [
+        "projects/mii-takes-care-of-you/视频制作-v2.7/audio/loop-night.wav"
+      ],
+      "sha256": "528c771e6104a1b22e2ecafd7aba587b4cb01204816ee0897b8870b1c5d95c51",
+      "extension": ".wav",
+      "decode_check": "passed",
+      "id": "528c771e6104a1b2",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--night/528c771e6104a1b2.wav",
+      "bytes": 9024078
+    }
+  ],
+  "default_variant": "92fb9abf2227df94",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

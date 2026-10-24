@@ -1,0 +1,21 @@
+﻿12 · 赤茶·发带 · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1199 × 1312
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Premium semi-realistic 2.5D/3D head-and-shoulder turnaround of one young adult woman. Six-view head-and-shoulder identity turnaround, exactly 2 rows x 3 columns of the SAME young adult female CG character bright white studio background, thin white gutters. Row1: exact straight front, three-quarter view facing left, three-quarter view facing right. Row2: strict 90 degree left-facing profile, strict 90 degree right-facing profile, straight back of head. Same head size and eye-level camera throughout; full hairstyle top with margins. Preserve her softly rounded oval face, gently full cheeks, short rounded chin, blue-gray eyes, freckles, small nose and peach lips. Copper auburn long layered wavy hair, dusty pink headband bow on her anatomical left (viewer-right in frontal view), tiny brass clip next to it, no switching side as she turns. Cream cardigan and dusty pink tee with silver round pendant at neckline. Same calm neutral expression all views, no face stretching or identity drift. Use premium semi-realistic 2.5D/3D romance-game texture, fine hair strands, low-sheen skin, bright soft neutral studio light. No text, labels, arrows or extra people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-12--head_angles.json
+
+实际带参考图生成提示词
+Six-view head-and-shoulder identity turnaround, exactly 2 rows x 3 columns of the SAME young adult female CG character in the reference, bright white studio background, thin white gutters. Row1: exact straight front, three-quarter view facing left, three-quarter view facing right. Row2: strict 90 degree left-facing profile, strict 90 degree right-facing profile, straight back of head. Same head size and eye-level camera throughout; full hairstyle top with margins. Preserve her softly rounded oval face, gently full cheeks, short rounded chin, blue-gray eyes, freckles, small nose and peach lips. Copper auburn long layered wavy hair, dusty pink headband bow on her anatomical left (viewer-right in frontal view), tiny brass clip next to it, no switching side as she turns. Cream cardigan and dusty pink tee with silver round pendant at neckline. Same calm neutral expression all views, no face stretching or identity drift. Match original premium semi-realistic 2.5D/3D romance-game texture, fine hair strands, low-sheen skin, bright soft neutral studio light. No text, labels, arrows or extra people.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-12--head_angles.json

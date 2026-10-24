@@ -1,0 +1,22 @@
+﻿原创3D角色28组 · 正面平视证件照 · 22 · 清璃仙姬
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Create one original fictional adult character in premium Chinese otome semi-realistic 3D CG, luminous smooth skin with subtle microtexture, detailed groomed hair and finely rendered fabric and metal. A single centered frontal eye-level ID portrait, upright head, zero yaw/pitch/roll, eyes looking straight at camera, level shoulders, calm neutral closed mouth. Vertical 1024 x 1536 pixels, 2:3 aspect ratio, head-and-shoulders to chest crop, complete hair and head ornaments inside frame with white headroom. Pure white #FFFFFF background, bright neutral soft frontal studio lighting with balanced fill, clear facial features. No hands, scenery, text, watermark, borders or additional subjects. Character design: Adult WOMAN age 27, elegant fantasy immortal. Long dark chestnut hair half-up with soft side-parted wisps, jade-gray almond eyes. Distinct adult oval face, longer midface, gently broad cheeks, straight subtly wide nose, tapered rounded jaw, medium arched brows, full rose lips. Luminous warm porcelain skin. Original delicate silver crown with asymmetric aqua crystal sprays, fine dangling earrings, ivory and pale-aqua fantasy gown with modest structured bodice and elegant translucent shoulder drapes, silver filigree necklace. Entire crown visible; arms relaxed down, no T-pose. Dignified serene expression.
+
+独立文字提示词由已确认角色描述与本次正面照构图重建，未进行纯文字复现相似度验证；严格锁定身份请结合本图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-front-id-26-20260925/originals/character-22-front.png
+
+实际正面平视编辑提示词
+Use case: identity-preserve. Input image is the sole identity and clothing reference: an already approved original fictional adult 3D character. Produce ONE new front-facing eye-level ID portrait of THIS EXACT SAME CHARACTER. Preserve precise facial identity, eye shape and color, nose, lips, jaw, skin tone, hairstyle, hair color, ears, accessories, costume and premium Chinese otome semi-realistic 3D CG rendering. Do not redesign or beautify into a different person. Camera directly in front at eye height: zero yaw, pitch and roll, upright head, both eyes level and looking directly forward, symmetric frontal shoulders. Calm neutral closed mouth. Composition: exactly 1024x1536 pixels, portrait 2:3, clean head-and-shoulders ID photograph framing, crop around upper chest below clavicles. Entire hairstyle plus any hat, crown, animal ears or ornaments must be completely inside canvas, with about 8 percent blank space above the topmost point. Center the face on the vertical axis. Face from brow to chin should have a consistent apparent scale throughout the series; enlarge framing only as necessary to fit unusually tall ornaments. No hands in frame. Background completely solid pure white #FFFFFF with no gray gradient, vignette, scenery or props. Bright neutral soft frontal studio lighting and gentle balanced fill, clear unobstructed facial features, high detail hair and fabric, smooth luminous skin with subtle texture, dimensional refined CG, not live-action photo. No text, number, logo, watermark, border, collage, additional views or additional subjects. Only change camera angle, framing and neutral expression as needed; retain the approved character's identity and design.
+Identity details to preserve: Adult WOMAN age 27, elegant fantasy immortal. Long dark chestnut hair half-up with soft side-parted wisps, jade-gray almond eyes. Distinct adult oval face, longer midface, gently broad cheeks, straight subtly wide nose, tapered rounded jaw, medium arched brows, full rose lips. Luminous warm porcelain skin. Original delicate silver crown with asymmetric aqua crystal sprays, fine dangling earrings, ivory and pale-aqua fantasy gown with modest structured bodice and elegant translucent shoulder drapes, silver filigree necklace. Entire crown visible; arms relaxed down, no T-pose. Dignified serene expression.
+
+生成依据：
+metadata/evidence/3d-front-id-26-20260925-22.json

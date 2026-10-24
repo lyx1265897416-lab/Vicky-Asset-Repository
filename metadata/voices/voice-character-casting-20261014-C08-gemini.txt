@@ -1,0 +1,51 @@
+﻿38岁女声 · 沉着的机长 · Gemini 3.8 Flash
+项目：角色设定选角 · 2026-10-14
+角色：沉着的机长
+年龄设计：38岁（角色目标）
+身份用途：职场
+音色标签：平稳扎实，低中音有分量
+模型：google/gemini-3.8-flash/text-to-speech
+入库依据：用户在 vicky-character-shortlist.json 中将 C08-gemini 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-character-casting-20261014/audio/C08-gemini.wav
+试听/下载文件SHA256：19bbea15b4f0384fb3a28aa7c63782f8e3ca75c8b379c7603694bf95997de1b1
+原始音频（保留）：assets/voices/voice-character-casting-20261014/original/C08-gemini.wav
+原始SHA256：af8a48fce0d8db05968a02fdff36f0678f9089c36bbe176e47fbd467162abbfb
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.63 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-character-casting-20261014-C08-gemini-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.29秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：15.52秒
+
+试听台词：
+Nice job. You caught it early. No, look at me, that wasn't luck. You checked twice when something felt wrong. That's what I needed you to do. Now, take a breath. We've got this.
+
+声音描述：
+性格：经验丰富、简洁、镇定。场景：关掉广播后私下安抚新人。
+An experienced captain speaking privately to a nervous junior after a successful check. Unhurried earned confidence, gentle correction and genuine reassurance. No radio filtering.
+固定预设 Gacrux 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Nice job. You caught it early. No, look at me. That wasn't luck. You checked twice when something felt wrong. That's what I needed you to do. Now, take a breath. We've got this.
+
+已有生成参数：
+{
+  "text": "Nice job. You caught it early. No, look at me, that wasn't luck. You checked twice when something felt wrong. That's what I needed you to do. Now, take a breath. We've got this.",
+  "voice": "Gacrux",
+  "style_instructions": "An experienced captain speaking privately to a nervous junior after a successful check. Unhurried earned confidence, gentle correction and genuine reassurance. No radio filtering."
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Gacrux",
+  "provider": "Google",
+  "official_url": "https://ai.google.dev/gemini-api/docs/speech-generation",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-character-casting-20261014/confirmation.json
+imports/voice-character-casting-20261014/jobs/C08-gemini.json
+imports/voice-character-casting-20261014/evidence/roles.json
+imports/voice-character-casting-20261014/evidence/qa.json
+imports/voice-character-casting-20261014/evidence/batch-plan.json

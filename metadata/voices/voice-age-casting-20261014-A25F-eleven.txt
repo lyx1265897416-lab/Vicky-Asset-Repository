@@ -1,0 +1,52 @@
+﻿25岁女声 · 先开玩笑再表达支持 · Eleven v4
+项目：双模型年龄选角 · 2026-10-14
+角色：先开玩笑再表达支持
+年龄设计：25岁（角色目标）
+身份用途：通用剧情角色
+音色标签：先开玩笑再表达支持
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-age-shortlist.json 中将 A25F-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-age-casting-20261014/audio/A25F-eleven.mp3
+试听/下载文件SHA256：053071a414dd7cac5607d665d3121d418e4718b7616c2790a694497f76d8b496
+原始音频（保留）：assets/voices/voice-age-casting-20261014/original/A25F-eleven.mp3
+原始SHA256：079dcdac00075e265a8f02c841830f5d3f826e40d7b317ce6218656260e5a80b
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-21.23 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-age-casting-20261014-A25F-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.19秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：10.48秒
+
+试听台词：
+Well, your boss sounds delightful. Sorry. Bad time for jokes. Give me your phone. We're ordering something greasy, and you're telling me what actually happened.
+
+声音描述：
+Comforting a close friend after a bad day; begin with gentle humor, then reveal practical genuine care. Relaxed unpolished conversation.。
+Comforting a close friend after a bad day; begin with gentle humor, then reveal practical genuine care. Relaxed unpolished conversation. Read each sentence once.
+固定预设 Matilda 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Well, your boss sounds delightful. Sorry, bad time for jokes. Give me your phone. We're ordering something greasy, and you're telling me what actually happened.
+
+已有生成参数：
+{
+  "text": "[dryly] Well, your boss sounds delightful. Sorry. Bad time for jokes. Give me your phone. We're ordering something greasy, and you're telling me what actually happened.",
+  "voice_id": "Matilda",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Matilda",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-age-casting-20261014/confirmation.json
+imports/voice-age-casting-20261014/jobs/A25F-eleven.json
+imports/voice-age-casting-20261014/evidence/roles.json
+imports/voice-age-casting-20261014/evidence/qa.json
+imports/voice-age-casting-20261014/evidence/batch-plan.json

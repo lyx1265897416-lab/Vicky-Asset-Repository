@@ -1,0 +1,23 @@
+﻿白底角色24组 · 01 · 浅金发奶油开衫 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1114 × 1412
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 557:706 (approximately 0.789:1), target canvas 1114 × 1412 pixels.
+
+Create one independent photorealistic studio portrait on a completely seamless pure white #FFFFFF background. Bright soft frontal light, balanced fill, low contrast, faint optical halation, natural pores and fine facial hair, detailed real cotton and knit fabric, realistic 50mm perspective, both eyes sharp and background clean. No room, scenery, props, gradient, vignette, frame, collage, text, branding or watermark. Keep the entire hairstyle inside the frame with a small white margin. One fictional young adult woman, approximately 18–22 years old, with long light honey-blonde hair half tied back with wispy bangs, fair pink skin, large blue-gray eyes, soft thin brows, small rounded nose, heart-oval face, rosy lips and an open gentle smile; ivory textured button cardigan over a delicate cream floral top; head slightly tilted and shoulders angled. Frame a close head-and-shoulders to mid-torso portrait, both shoulders visible, gaze toward camera, subject large in frame; retain the specifically described head angle and pose. Clean lightly flushed natural skin and light everyday makeup, no heavy eyeliner or glossy beauty retouching.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/white-portraits-24-20260922/originals/character-01.png
+
+生成工具记录的提示词（可能依赖参考图）
+Generate one wholly original 18-year-old female high-school character, loosely echoing the bright blonde, blue-eyed, soft friendly portrait mood of reference image 1 only. New face and identity, pale honey-blonde hair with wispy bangs, light blue-gray eyes, cream knit cardigan. Pure white seamless studio background, centered head-and-shoulders portrait, bright high-key exposure, soft frontal light, low shadow, natural skin texture, subtle halation, 50mm shallow depth of field. No text, no logo, no watermark, no copied facial features or exact outfit.
+
+生成依据：
+metadata/evidence/exec-655282c1-6fe7-4ec9-b186-d1af9d093b25.json

@@ -1,0 +1,21 @@
+﻿服装39组 · 07 · 奶油亨利衫条纹阔裤 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Garments: Ivory long-sleeve soft cotton Henley with short button placket and pushed-up sleeves, charcoal fine-pinstripe extremely wide fluid trousers and white gray low-top sneakers. Show one front-facing assembled outfit using hollow invisible-mannequin display, natural volume but absolutely no body, skin, head, hands, legs, visible mannequin or stand. Exclude ALL detachable accessories: bags, hats, eyeglasses, belts, watches, jewelry and handheld props. Integral garment trims remain. Show hollow inner neck and cuffs. 
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户39张服装参考 · 参考 7
+
+原始生成提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Garments: Ivory long-sleeve soft cotton Henley with short button placket and pushed-up sleeves, charcoal fine-pinstripe extremely wide fluid trousers and white gray low-top sneakers. Show one front-facing assembled outfit using hollow invisible-mannequin display, natural volume but absolutely no body, skin, head, hands, legs, visible mannequin or stand. Exclude ALL detachable accessories: bags, hats, eyeglasses, belts, watches, jewelry and handheld props. Integral garment trims remain. Show hollow inner neck and cuffs. Reference image 1 supplies garment design only; do not copy person, pose, collage or background.
+
+生成依据：
+imports/wardrobe-39-20260928/events/look-07.json

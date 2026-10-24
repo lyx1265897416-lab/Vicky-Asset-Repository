@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 019 · 棕色翻袖衬衫与拼腰黑裤 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Brown collared shirt with white inner collar and wide rolled white cuffs; black wide-leg trousers with contrasting gray angled waistband panels and turned-up hems; brown shoes.. Add ONLY these accessories: A narrow plain black necktie, tied neatly at the shirt collar.; Black smooth leather belt with simple silver rectangular buckle, complete belt shown in a loose oval.; A silver trouser key chain with hook, short linked chain, key-shaped metal charms and a narrow brown leather tassel, shown detached as one accessory.; A medium dark brown soft leather handbag with two short rounded handles and slightly slouchy body.. Use each accessory once. Neckties are tied with one knot and the narrow tail hidden; for sweater layers tuck the long tail under the sweater. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记2-图1 整图
+
+原始生成提示词：
+Edit this exact outfit product image. Preserve every garment, color, cut, shoes, bag and trouser chain and white background. Fix ONLY the necktie: it must be ONE black necktie tied neatly with a single small knot centered beneath the white shirt collar. No two separate dangling strips or two ties. The tie's broad front tail hangs centered on the shirt, its narrow rear tail fully hidden behind it. Keep hollow empty garments, no skin, head, body or mannequin. Full outfit uncropped.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/complete-019-v2.json
+imports/wardrobe-xhs-5-20260930/source-02.json

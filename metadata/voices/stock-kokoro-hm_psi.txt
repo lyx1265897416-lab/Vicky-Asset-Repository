@@ -1,0 +1,58 @@
+﻿Psi · 印地语男声
+项目：商用现成音色 · Kokoro 多语种
+角色：hm_psi
+年龄设计：官方未标注
+身份用途：通用选角
+音色标签：印地语 · 固定预设
+模型：hexgrad/Kokoro-82M
+入库依据：按用户要求检索并补充商用现成音色；这是入库授权，不代表用户逐条听选。
+原始样音：https://huggingface.co/hexgrad/Kokoro-82M/resolve/f3ff3571791e39611d31c381e3a41a3af07b4987/voices/hm_psi.pt
+试听/下载文件SHA256：a0ce9895b971b04cf42304b7ded6f4380c12e069bf77c03145efed632ae54e0a
+原始音频（保留）：assets/voices/commercial-20260929/stock-kokoro-hm_psi.wav
+原始SHA256：9812f2cbdf86169ea2a13f7d666dc21c420a8b7fcbd14aa2442aebd271a0a802
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.07 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/stock-kokoro-hm_psi-d179bf8f0ebef21e6dec.json
+去除开头等待：0.37秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.365秒；总计去除：0.735秒
+当前试听时长：9.84秒
+
+试听台词：
+आराम से बताइए। हमारे पास अभी समय है। पहले मुझे बताइए कि क्या हुआ था, फिर हम मिलकर सोचेंगे कि आगे क्या करना चाहिए।
+
+声音描述：
+官方固定预设；同语种使用相同通用对白便于比较。身份、年龄、个性未由官方定义，按具体剧本试听选角。
+
+自动台词检查：
+台词来自本项目；此样音尚未做母语者逐字审听。
+
+
+已有生成参数：
+{
+  "preset": "hm_psi",
+  "revision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+  "speed": 1,
+  "voice_path": "voice-models/kokoro/Kokoro-82M/voices/hm_psi.pt",
+  "voice_sha256": "2f0f055cea4f1083f4ef127ece48d71606347f6557dbb961c0ca5740a2da485b"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "hm_psi",
+  "provider": "Kokoro / hexgrad",
+  "official_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "commercial_license": {
+    "name": "Apache 2.0",
+    "commercial_use": true,
+    "checked_on": "2026-09-29",
+    "record": "imports/commercial-voices-20260929/LICENSE-NOTICE.txt",
+    "summary": "允许商业使用。再分发模型/预设时保留许可证及归属通知、标示修改；训练数据署名随批次归档。"
+  },
+  "reuse_note": "已保存模型及预设，可离线用相同版本与 preset ID 生成新台词；不需把样音上传为声音克隆参考。",
+  "quality_note": "官方训练数据综合质量估计 C；不是音色热度、人工试听打分或排名。"
+}
+确认记录：imports/commercial-voices-20260929/authorization.json
+imports/commercial-voices-20260929/receipts/stock-kokoro-hm_psi.json
+imports/commercial-voices-20260929/research/Kokoro-82M-api.json
+imports/commercial-voices-20260929/LICENSE-NOTICE.txt

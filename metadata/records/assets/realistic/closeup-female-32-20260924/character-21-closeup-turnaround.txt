@@ -1,0 +1,23 @@
+﻿白底女角色32组 · 特写三视图 · 21 · 正面/正侧面/背面 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1880 × 836
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Create a photorealistic character turnaround sheet of one fictional adult woman. Dark brown hair in two long thick braids with a softly tousled crown and face-framing strands, fair olive skin, gray-green eyes, broad dark brows, soft oval face, pink lips, muted olive crewneck knit. Wide horizontal 1880 x 836 canvas with three equal view areas. Left: exact frontal view looking directly at the camera. Center: exact 90-degree profile with nose pointing to image right. Right: exact 180-degree rear view with no face visible. Same identity, hairstyle, hair color, clothing and accessories in all views. Eye-level camera, upright head, aligned crown and chin heights, identical head scale, complete hairstyle and head-and-upper-chest framing. Pure white seamless background, bright soft balanced studio lighting with minimal shadows, natural skin texture and fine hairs, realistic 50mm perspective. Neutral relaxed expression and closed lips. Hair must retain physically consistent placement over the shoulders in all three angles. Two braids hang over the front of both shoulders onto the chest. From behind show only braid roots wrapping forward; no full braids hang down the back. The rear sweater is unobstructed. No text, numbers, labels, borders, separators, watermark, props, hands or full body.
+
+依据已确认成图、原角色资料及修正要求重建独立文生图提示词，未进行纯文字重生成相似度验证；严格保持身份时需结合此成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/closeup-female-32-20260924/originals/character-21-closeup-turnaround.png
+
+原始生成提示词：
+Use case: precise-object-edit / identity-preserve. Edit the supplied three-view portrait sheet of fictional character 21. Make ONE targeted correction ONLY IN THE RIGHTMOST BACK VIEW: both long braids are draped FORWARD over the shoulders and lie on the FRONT of her chest, exactly as shown in the front and side views. In the back view the long hanging braid lengths MUST be hidden behind the shoulders and torso. Remove the two long vertical braids currently hanging down over the sweater back. Show only the scalp braiding and short braid roots at the lower sides of the head naturally curving OUTWARD and FORWARD around either side of the neck, disappearing in front of the shoulders. The rear nape, the rear collar, and the entire green knit upper back should be clearly visible and unobstructed by long braids. No braid ends or hair elastics visible on the back. Do not shorten the actual hairstyle or turn the braids into buns: they remain long but are physically on the chest and occluded from the rear camera.
+Preserve the LEFT FRONT panel and CENTER 90-DEGREE PROFILE panel exactly, including facial identity, expression, hair, pose, clothing, scale and framing. Preserve the right back panel's head orientation, crown hairstyle, hair color, anatomy and sweater texture except for the corrected braid placement. Keep same three equally sized panels, exact 9:4 wide layout, pure white backdrop, high-realism natural skin texture, bright soft studio light, low shadows, no text or borders. Match original resolution 1881 x 836 as closely as supported. Deliver one corrected triptych, not additional variants.
+
+生成依据：
+metadata/evidence/closeup-female-32-20260924/21.json
+imports/closeup-female-32-20260924/records/21.json

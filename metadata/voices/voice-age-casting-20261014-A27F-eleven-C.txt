@@ -1,0 +1,52 @@
+﻿27岁女声 · 藏在理性里的担心 · Eleven v4
+项目：双模型年龄选角 · 2026-10-14
+角色：藏在理性里的担心
+年龄设计：27岁（角色目标）
+身份用途：通用剧情角色
+音色标签：藏在理性里的担心
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-age-shortlist.json 中将 A27F-eleven-C 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-age-casting-20261014/audio/A27F-eleven-C.mp3
+试听/下载文件SHA256：464d068ca4659d73cb4dd948cf37b00b775b056b035a941e98d97f42081bf692
+原始音频（保留）：assets/voices/voice-age-casting-20261014/original/A27F-eleven-C.mp3
+原始SHA256：72a5639a6208424f3c83cd3ac136f8bd1a80e6c6985583c3743e220ea74fb38d
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-21.7 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-age-casting-20261014-A27F-eleven-C-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：9.2秒
+
+试听台词：
+Hey. When did you last get some sleep? You don't have to finish this tonight. Close the laptop. Just for a minute. I brought you something to eat.
+
+声音描述：
+Quiet practical concern; a clipped opening softens as affection becomes clear. Address one person nearby. Subtle changes in emphasis, no scolding caricature.。
+Quiet practical concern; a clipped opening softens as affection becomes clear. Address one person nearby. Subtle changes in emphasis, no scolding caricature. Read each sentence once.
+固定预设 Sarah 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Hey, when did you last get some sleep? You don't have to finish this tonight. Close the laptop. Just for a minute. I brought you something to eat.
+
+已有生成参数：
+{
+  "text": "[gently firm] Hey. When did you last get some sleep? You don't have to finish this tonight. Close the laptop. Just for a minute. I brought you something to eat.",
+  "voice_id": "Sarah",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Sarah",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-age-casting-20261014/confirmation.json
+imports/voice-age-casting-20261014/jobs/A27F-eleven-C.json
+imports/voice-age-casting-20261014/evidence/roles.json
+imports/voice-age-casting-20261014/evidence/qa.json
+imports/voice-age-casting-20261014/evidence/batch-plan.json

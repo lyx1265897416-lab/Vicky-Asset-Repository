@@ -1,0 +1,21 @@
+﻿Kellan Brooks · 单人全身照 · 用户确认独立入库
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+One photorealistic single full-length front-facing portrait of a handsome 18-year-old young man, full tousled chestnut short hair, hazel olive eyes, faint nose freckles, straight delicate nose, softly angular youthful jaw, natural pink lips, clean-shaven. Slim athletic tall fashion-model build, natural head size relative to shoulders, long legs balanced with torso, normal neck. Relaxed almost upright head with slight natural tilt and direct gaze. Both hands in trouser pockets. Open matte black blouson with elastic cuffs and hem over a light heather-gray pullover hoodie and white undershirt. Cream very wide cargo trousers, large flap thigh pockets, natural cloth folds and silver waist keyring. Ivory chunky trainers. Full hair and shoe soles visible with ample side margins, centered subject filling about 90 percent of a vertical 2:3 frame. Bright cream-white seamless studio with faint warm-gray floor, soft diffuse daylight, gentle warm-neutral color, natural skin pores and realistic fabric details, low contrast. No collage, text, labels, extra people, pinhead proportions, elongated neck or unnaturally stretched limbs.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Library/Application Support/Codex-Second-Account/codex-home/generated_images/01a0c35e-066a-7d61-9774-ba1d937299e0/exec-a9a616f5-260b-411d-8b83-30921dc4acb7.png
+
+实际带参考图生成提示词
+Use case: identity-preserve. Generate ONE single full-length photograph of Kellan, the same youthful male character in these references. Image 1 is the authoritative BODY PROPORTIONS, outfit and relaxed pose reference: use ONLY its leftmost LOOK 1 man. Image 2 is the authoritative face identity reference: preserve that exact face, hazel olive eyes, small nose freckles, youthful softly angular jaw, natural lips, clean-shaven cheeks and tousled chestnut hair. Produce one standalone image, NOT a collage or turnaround. Most important: faithfully match image 1 leftmost man's head-to-shoulder size, torso-to-leg balance and natural handsome fashion-model silhouette. Do not use a tiny pinhead or unnaturally stretched skinny limbs. A tall, slim athletic 18-year-old with relaxed slightly broad shoulders, normal neck and long legs. Maintain the actual reference proportions instead of exaggerating a numerical head ratio. Outfit exactly the first look: open matte black blouson with elastic cuffs and hem, light heather-gray pullover hoodie, white undershirt, cream very wide cargo trousers with natural drape and large thigh pockets, silver keyring at waistband, ivory chunky low-profile trainers. Both hands casually tucked into trouser pockets, relaxed near-front stance, head almost upright with a very slight natural tilt, direct gaze and quiet friendly expression. The entire hair, both shoulders, hands/pocket area and complete shoes must be inside frame with clean margins. Single centered subject filling about 90% of a portrait 2:3 frame, bright cream-white seamless studio and faint warm-gray floor, soft diffuse daylight, natural skin and fabric texture, subtle warm-neutral film color, low contrast, no dark cinematic grading, no CG, no text, no labels, no border, no extra people. Preserve youthful beauty and face identity, do not make him older or change haircut.
+
+生成依据：
+imports/kellan-proportion-20260929/event.json

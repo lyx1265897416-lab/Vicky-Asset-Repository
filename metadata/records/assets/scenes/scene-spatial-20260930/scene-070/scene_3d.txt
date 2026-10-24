@@ -1,0 +1,26 @@
+﻿多题材场景60组 · 22 · 星际档案与陨石实验室 · 三维图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-01
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 多题材场景60组 · 22 · 星际档案与陨石实验室.
+Environment:  A bright orbital geology laboratory with a central oval workbench, carefully arranged mineral samples in small clear sealed containers, pale oak drawers, ivory scientific instruments, and a side porthole showing an asteroid field as distant rocks. No biological specimens. Clear foreground aisle and tactile practical set, quiet discovery rather than sterile hospital.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent elevated three-quarter axonometric cutaway / dollhouse image. Remove roof and selected foreground walls to expose the connected spatial volume, floor levels, entrances, furniture and surroundings. Outdoor locations use an elevated terrain model. Clear layered depth, white presentation margin, no inset pictures.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-070--scene_3d.png
+
+参考图辅助生成事件提示词
+Edit this cutaway of a spacecraft meteorite laboratory. Preserve exactly its round room footprint, central island, equipment, perimeter workbenches, doors and large porthole position. Remove ALL terrestrial exterior scenery: sea, water, trees, grass, rocks and landscape paths. Isolate the room on a clean pure white background like a spacecraft cutaway model. Outside the round porthole show black outer space with tiny stars and distant asteroids. Keep interior warm ivory and oak. No people, animals or new objects.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-070--scene_3d.json
+previews/scene-spatial-20260930/visual-review.json

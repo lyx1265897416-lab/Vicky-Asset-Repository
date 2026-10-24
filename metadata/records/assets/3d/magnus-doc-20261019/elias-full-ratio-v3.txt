@@ -1,0 +1,23 @@
+﻿Elias Arkwright · 文档确认版 · 单人全身
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-19
+
+文生图提示词：
+Create one image of An adult male human-form werewolf family negotiator with late-30s visual age, light olive skin, a long angular lean face, narrow strong square jaw, controlled straight brows, slightly deep-set gray-green eyes, long straight nose, high cheekbones, thin firm lips and completely clean-shaven skin. Short controlled side-parted dark chestnut hair, closely trimmed sides and subtle silver at temples. Calm disciplined direct gaze. Cool charcoal-gray double-breasted tailored suit over a matte black open-collar shirt without tie, dark fitted trousers, polished black leather shoes and restrained steel cuff details. Tall lean athletic 8.5-head fashion-model physique. Premium semi-realistic adult otome romance-game 2.5D/3D character render with finely sculpted facial planes, dimensional eyes, individually resolved dry hair strands, subtle natural skin microtexture, physically credible wool and silk. Clean white seamless studio background, broad soft neutral frontal illumination, refined high-detail materials, no color cast, no text, labels, logo, watermark, UI, extra people, wolf ears or fangs. One front-facing standing full-length figure with entire hair to shoe soles visible and a narrow comfortable white margin, long-lens eye-level camera without foreshortening, relaxed arms down and feet uncrossed. Tall natural elegant model proportions: men approximately 8.5-8.8 heads tall, women approximately 7.5-7.8 heads tall; preserve age and build differences.
+
+独立文生图提示词依据最终图及可核实制作记录整理；实际制作使用参考图或编辑，纯文字无法保证同脸或逐像素复现。严格身份/空间连续性请同时使用本张原图。
+
+
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#JMpodWNi1o49OmxAy9oc4Oann6g
+
+原始带参考图生成或编辑提示词（制作记录）
+CORRECT BODY PROPORTIONS substantially, not a subtle cosmetic change. Ref1 is identity/rendering master. Ref2 is costume and pose only; its oversized head and compressed body are explicitly WRONG and must change. Rebuild the same adult as a tall runway-model figure with a visibly SMALLER head relative to body, long legs, lifted waist, naturally sized hands and shoes, elongated but believable anatomy. Preserve facial feature relationships exactly while reducing the WHOLE HEAD size relative to body. Do NOT just stretch the canvas or make the person skinnier. Neutral eye-level long-lens orthographic-like view, camera not looking down, no foreshortening. One full-body FRONT standing figure, hair and soles visible, soft white studio, premium sharp otome2.5D/3D material fidelity from portrait. Portrait2:3. MALE target8.8 HEADS TALL, between8and9. Reduce whole head scale relative to body by about20%, crown-to-chin approximately one8.8th of crown-to-floor height. Long elegant legs, crotch approximately48% down from crown, naturally broad shoulders about2.7 head widths, compact upper torso, high waist, no long low-waist jacket. Keep clean-shaven angular face, chestnut hair, cool charcoal six-button double-breasted SHORT high-hip suit jacket, black open-neck shirt without tie, left silver watch, black shoes. Lean athletic build. Both arms down, relaxed shoulders, feet naturally planted, front view. Preserve existing costume and identity, show proportion correction clearly.
+
+生成依据：
+imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/source/character-map.json
+imports/magnus-confirmed-assets-20261019/provenance/feishu-character-design-20261016/turnaround-ratio-records.json

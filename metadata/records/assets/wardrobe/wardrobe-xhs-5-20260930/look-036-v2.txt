@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 036 · 深灰条纹针织叠穿 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. Charcoal fine horizontal striped crewneck sweater over white pointed collar shirt, black draped wide-leg trousers, black shoes.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记2-图18 整图
+
+原始生成提示词：
+Edit this white-background hollow outfit. Completely remove the black necktie knot between white shirt collar points. Show plain white shirt there. Preserve gray striped sweater, white shirt collar, trousers, shoes, empty hollow structure, lighting, framing. No accessories.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/look-036-v2.json
+imports/wardrobe-xhs-5-20260930/source-02.json

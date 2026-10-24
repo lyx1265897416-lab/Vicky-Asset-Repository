@@ -1,0 +1,21 @@
+﻿Magnus 女主 01 · 榛栗微光 · 全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-14
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. Landscape 3:2 sheet of three equally sized full standing figures: front, true 90-degree left-facing profile, true 180-degree rear. Entire hair and shoes visible. Same height and outfit across views. Coherent physical hair routing. Character design: 24-year-old adult human woman. Chestnut-brown long soft waves with a natural side part, hazel-green eyes. Broad softly heart-shaped face, gently rounded cheekbones, low softly arched brows, slightly rounded upturned nose, medium full rose lips, small rounded chin. Warm ivory skin with very subtle freckles at the nose. Quiet warm closed-mouth half-smile, direct steady eyes showing inner resolve. Cream fine-knit cardigan worn normally over an opaque sage-green square-neck top, tiny brushed gold oval pendant and small gold studs. Natural understated makeup. Warm approachable everyday city woman, emotionally grounded rather than fragile or childlike. Current outfit (supersedes any conflicting clothing above): Sophisticated light contemporary romantic outfit: a fitted IVORY fine-knit CROPPED cardigan ending at the natural waist, neat shoulder seams, delicate small pearl buttons, worn open over the same sage square-neck camisole. A high-waisted sage-green silk SATIN bias-cut midi skirt, slim fluid drape skimming the hips and gently flaring, hem below the knee but well above ankle, subtle side slit only to knee. Ivory pointed-toe slingback pumps with a slim 5cm heel. No heavy ankle boots, no bulky long cardigan, no pleated volume. Same gold studs and oval pendant. Graceful 7.8-head adult proportions, slightly longer legs, natural waist, balanced shoulder width, elegant neck. This is gentle modern romantic fashion, not a conservative country outfit.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-01-body_turnaround.png
+
+实际生成提示词
+Use case: identity-preserve. Image 1 is the approved adult female FACE IDENTITY. Image 2 is the current FULL BODY COSTUME AND PROPORTIONS authority. Create the exact same woman in the identical outfit and jewelry. One premium otome 2.5D/3D character full-body three-view turnaround sheet, 1536x1024 landscape, pure white background, neutral studio lighting, no text, borders, scenery or props. Three equally spaced separate standing figures: LEFT true front facing camera, CENTER true 90 degree profile facing screen RIGHT, RIGHT true back 180 degrees with no face visible. All three from complete hair top to both shoe soles, with white margins. Identical scale, skull heights, waist, knee, ankle levels across views. Use long-lens undistorted perspective. Arms naturally down and slightly apart, hands visible. Maintain the flattering adult proportions of image 2. Same exact hemline, sleeves, closures, shoes, jewelry and hair placement from all views. Hair must rotate physically; no front strands duplicated on back, no ears visible through hair, and back must reflect actual front hairstyle. Do not add layers or change garments. Match the image 2 outfit exactly including these design notes: Sophisticated light contemporary romantic outfit: a fitted IVORY fine-knit CROPPED cardigan ending at the natural waist, neat shoulder seams, delicate small pearl buttons, worn open over the same sage square-neck camisole. A high-waisted sage-green silk SATIN bias-cut midi skirt, slim fluid drape skimming the hips and gently flaring, hem below the knee but well above ankle, subtle side slit only to knee. Ivory pointed-toe slingback pumps with a slim 5cm heel. No heavy ankle boots, no bulky long cardigan, no pleated volume. Same gold studs and oval pendant. Graceful 7.8-head adult proportions, slightly longer legs, natural waist, balanced shoulder width, elegant neck. This is gentle modern romantic fashion, not a conservative country outfit.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-01-body_turnaround.json

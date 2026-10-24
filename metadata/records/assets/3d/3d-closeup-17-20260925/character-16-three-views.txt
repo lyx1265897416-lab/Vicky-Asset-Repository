@@ -1,0 +1,21 @@
+﻿白底3D角色17组 16 · 赤金长发公子 · 特写三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Create a premium realistic-stylized 3D character modeling reference sheet, a horizontal 3:1 triptych with three equally scaled head-and-shoulder portraits of the same character: exact front, exact 90-degree right-facing profile, and exact 180-degree rear. Camera at eye height, upright head, neutral pose, complete hairstyle visible, upper chest crop. Pure white background, soft neutral studio lighting, fine individual hair strands, subtle skin microtexture, dimensional facial modeling, physically based fabric and metal. No text, labels, borders, UI or watermark. An adult man with long warm chestnut hair half tied into a high knot with an ornate clasp, amber gold eyes, pale warm skin, refined softly angular face, straight brows and restrained rose lips. Copper and gold embroidered fantasy robes over a dark high collar with a silver clasp, subtle fur-edged detailing. Calm warm expression. Half-up golden crown fastening retained; loose chestnut lengths form a broad continuous curtain over the back, covering ears and nape. 
+
+独立文字提示词按已确认成图及角色设定重建，未经纯文生图复现验证；严格同脸请结合原身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/3d-three-views-17-20260923/revisions-hair-placement-v3/character-16-three-views-v3.png
+
+最终实际生成／编辑提示词
+Use case: precise-object-edit / identity-preserve. Edit this existing three-view sheet with exactly three close-up portraits in the same positions: front, exact 90-degree profile facing right, exact rear. Preserve premium realistic-stylized 3D character quality, precise face and age, costume, jewelry, colors, pure white background, landscape 3:1 layout and eye-level camera. Preserve the entire FRONT panel unchanged. Correct hair placement and physical occlusion, do not simply blur or erase. No text, UI or extra panels. Correct RIGHT BACK hair distribution: retain the gold crown and half-up fastening, but all the loose chestnut lengths fall freely and broadly across the back, forming a dense natural continuous hair curtain. Spread them over both shoulder blades and the upper back down to the lower frame edge; the narrow central tail should not expose broad areas of red-gold back clothing on either side. Only small extreme outer shoulder tips of the outfit may peek out. No ears or nape visible, no exposed central costume, no separate front/chest strands duplicated on rear shoulders, no distinct narrow extra ponytail pasted on top of a second sheet of hair. Keep coherent volume and natural straight textured strands flowing from the half-up crown into the loose rear lengths. Preserve the entire front and side panels.
+
+生成依据：
+metadata/evidence/3d-closeup-17-20260925/character-16.json

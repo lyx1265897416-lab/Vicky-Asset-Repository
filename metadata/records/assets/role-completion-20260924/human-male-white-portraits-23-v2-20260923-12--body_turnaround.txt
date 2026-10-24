@@ -1,0 +1,21 @@
+﻿男角色第二版 12 · 端正可靠 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic studio character asset. A 29-year-old East Asian man with a close crew cut and translucent smoke-gray rectangular glasses, plain black tee, solid everyday build. Facial features: long trapezoid face with heavier lower jaw, close-set hooded eyes, fine high arched brows, long broad-bridge nose, narrow mouth with full lower lip, slight chin cleft and uneven skin texture. Neutral friendly gaze. charcoal straight denim and black low-top sneakers. Three-panel full-body turnaround sheet. LEFT strict FRONT, CENTER exact90degree SIDE facing image-left, RIGHT exact180degree BACK. Same man, same outfit, same tall natural8.3-head proportions and long legs in all three panels. Neutral upright posture, relaxed arms, level head. Entire hair to soles included with generous margins; identical scale and baseline. Horizontal3:2 canvas, three equal columns. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-12--body_turnaround.json
+
+实际带参考图生成提示词
+Use attached full-body portrait to preserve exact identity, hair, age, proportions and outfit. Keep hands outside pockets. Photorealistic studio character asset. A 29-year-old East Asian man with a close crew cut and translucent smoke-gray rectangular glasses, plain black tee, solid everyday build. Facial features: long trapezoid face with heavier lower jaw, close-set hooded eyes, fine high arched brows, long broad-bridge nose, narrow mouth with full lower lip, slight chin cleft and uneven skin texture. Neutral friendly gaze. charcoal straight denim and black low-top sneakers. Three-panel full-body turnaround sheet. LEFT strict FRONT, CENTER exact90degree SIDE facing image-left, RIGHT exact180degree BACK. Same man, same outfit, same tall natural8.3-head proportions and long legs in all three panels. Neutral upright posture, relaxed arms, level head. Entire hair to soles included with generous margins; identical scale and baseline. Horizontal3:2 canvas, three equal columns. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-12--body_turnaround.json

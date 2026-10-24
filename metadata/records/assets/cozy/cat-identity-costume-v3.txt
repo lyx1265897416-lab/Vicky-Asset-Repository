@@ -1,0 +1,27 @@
+﻿Mii · confirmed current identity
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-17
+时区：America/Los_Angeles
+图像尺寸：1094 × 1437
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1094:1437 (approximately 0.761:1), target canvas 1094 × 1437 pixels.
+
+One vertical full-body photographic animal portrait of a compact realistic golden-orange shorthaired tabby cat with a very round head, small upright triangular ears, broad ivory cheeks and muzzle, ivory chest, round dark olive eyes with large black pupils and bright catchlights, tiny pink triangular nose, closed small mouth, long white whiskers, plush dense fur with faint orange stripes, short true feline limbs, rounded paws and a striped tail curling to its side. It sits upright naturally with both forepaws together on a rug, looking at the viewer with its head subtly tilted. It wears a short natural cream linen apron with neck strap and a rectangular front pocket bearing a small muted-blue fish appliqué; no other clothing. Full ears, paws and curved tail visible. Camera at cat eye level, cat centered and large in frame. Scene: a bright warm cream living room with natural morning window light, soft ivory shag rug, cream upholstered sofa at the right, pale oak furniture and an out-of-focus leafy houseplant near a sheer-curtained window at the left. Soft real fur, neutral ivory-white color balance, warm gentle highlights, subtle fine grain and believable depth of field; no illustration, plastic 3D, lettering or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：projects/mii-takes-care-of-you/角色设计/images/cat-identity-costume-v3.png
+
+生成工具记录的提示词（可能依赖参考图）
+Use case: precise-object-edit.
+Input: the supplied seated golden kitten photograph is the sole edit target.
+Make a localized realistic garment-fit correction ONLY around the apron, armpits and inner upper forelegs. Currently the apron appears pasted on the OUTSIDE of the two forelegs. Correct the layering: the kitten's two upper front legs must sit IN FRONT OF and visibly overlap the apron side edges. At BOTH armpits the cream fabric recedes behind the furry upper foreleg, wrapping snugly around the torso toward the back. Upper foreleg fur must occlude a clearly visible strip of each apron side, especially the lower side corners. The apron central pocket panel lies against the chest BETWEEN the two front legs, not across the outer surfaces of the legs. Add realistic compression folds leading toward the tucked side fabric, subtle contact shadows where fur presses on fabric, and a few soft fur tufts overlapping the seam. Give it convincing three-dimensional dressed construction rather than a flat rectangular bib pasted on fur.
+Keep the short apron hem at its current height well above the paws. Keep the small square pocket and blue fish applique fully readable and the same cream woven fabric, simple shoulder straps and overall design. Preserve the original leg positions and natural feline anatomy, paws on the rug. Only allow tiny local changes to fur overlap necessary for the garment fit.
+Preserve EXACTLY the cat's face, eye shape, head tilt, cute expression, golden and white fur markings, body proportions, tail, camera framing, warm soft morning light, background interior and rounded white border. No new objects, no human hands, no text, no collage. Output one corrected photograph.
+
+生成依据：
+metadata/evidence/exec-ee42885c-b0ae-476a-a92f-a0b484fcf983.json

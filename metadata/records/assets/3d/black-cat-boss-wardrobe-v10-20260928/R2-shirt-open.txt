@@ -1,0 +1,21 @@
+﻿Rhys · 黑猫互动剧 · 白衬衫内搭 · 解下领带 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+A clean white studio landscape full-body character turnaround, front, exact side profile and rear views at equal height and baseline, premium semi-realistic 3D rendering, no labels or watermark. Adult man with tousled deep brown hair, gray eyes, refined jaw, two black feline ears and exactly one long dark tail per view, tall 8–9 head model proportions with long legs and complete waist. Wardrobe: White shirt · tie removed. Keep exactly the garments, shoes, layering and accessories represented in the confirmed asset; use the associated reference for fidelity.
+
+文生图描述据确认造型整理；身份一致性以确认图片为准。原始图生图提示词另存，未验证纯文本复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/assets/3d/black-cat-boss-wardrobe-v10-20260928/R2-shirt-open.png
+
+原始生成提示词：
+Use case: identity-preserve. Edit the supplied THREE-VIEW CHARACTER SHEET. Preserve exactly same Rhys face, hair, two cat ears, single long tail per view, tall 8.5–9 head fashion model anatomy, full waist and long legs, all three poses and framing, white studio and premium 3D rendering. No text/no logos. Remove the black leather jacket AND black necktie in all three views. Reveal white long-sleeve shirt with top two buttons casually open, sleeves rolled neatly below elbows. Shirt stays loosely tucked. Keep identical faded charcoal jeans, belt, silver chain, choker, Derby shoes.
+
+生成依据：
+imports/black-cat-boss-wardrobe-v10-20260928/evidence/R2-shirt-open.json

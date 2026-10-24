@@ -1,0 +1,23 @@
+﻿Kellan Brooks · confirmed face anchor
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-21
+时区：America/Los_Angeles
+图像尺寸：1375 × 1144
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 125:104 (approximately 1.202:1), target canvas 1375 × 1144 pixels.
+
+Create a four-panel casting board with thin white dividers, arranged 2 by 2. Top-left: close-up of Kellan, an 18-year-old boy with fair lightly freckled skin, hazel olive-green almond eyes, soft straight brown eyebrows, tousled voluminous ash-brown waves falling over the forehead, a slim softly defined jaw, straight medium-length narrow nose, natural rose lips with a fuller lower lip, clean-shaven youthful face and slender athletic build. He wears a gray hoodie under a navy-and-cream varsity jacket, rests one hand in his hair and gives a subtle closed-mouth smile. Top-right: Aria, a 17-year-old girl with fair lightly freckled skin, large gray-blue eyes, soft dark eyebrows, delicate oval face, small straight nose, full natural rose lips, long chestnut-brown hair loosely parted near the center, black rectangular eyeglasses and small gold hoop earrings. She wears a white-collar shirt and deep green knit sweater, leans her cheek into one palm and looks toward the lens. Bottom-left: extreme close-up of the girl’s blue-gray eye behind the black eyeglass rim, skin pores and freckles in focus. Bottom-right: shoulder-up two-shot of the same pair leaning their heads close together, gentle relaxed smiles. Soft bright window background blurred into ivory, identical identities throughout, natural teen warmth. No captions or logos. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/the_ninth_inning/cast_variant_A.png
+
+生成工具记录的提示词（可能依赖参考图）
+Use the four supplied images as reference images for the target's youthful European facial proportions, hair movement, eye emphasis, wardrobe mood, and soft cinematic texture. Create Variant A, an original two-lead casting board, not an exact copy of any real person. Four panels: handsome white European-American male teen, 17-18, boyish face, tousled ash-brown hair, olive-green eyes, soft brows, youthful jaw, relaxed smile, gray hoodie and navy varsity jacket; beautiful white European-American female teen, 17-18, long dark brown hair, large blue-gray eyes, delicate oval face, soft natural lips, black rectangular glasses, white collar and dark green sweater; one extreme eye close-up; one bright two-shot. High-key pale ivory background and soft warm window light, bright exposure, low contrast, creamy highlights, realistic skin microtexture, subtle freckles, gentle diffusion, 50mm portrait photography, youthful not mature, no heavy makeup. Use the reference images for facial mood and camera texture but create a distinct original identity. Avoid older-looking adults, sharp fashion-model posing, plastic skin, East Asian facial features, K-pop styling, exaggerated cheekbones, dark moody lighting, teal-orange, HDR, illustration, anime, 3D, text, logos.
+
+生成依据：
+metadata/evidence/exec-20296c4a-f830-4401-bd68-ffd1349b1214.json

@@ -1,0 +1,56 @@
+{
+  "id": "black-cat-boss--quiet-connection",
+  "asset_kind": "bgm",
+  "name": "安静的靠近",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [],
+  "tags": [
+    "亲密",
+    "信任"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original restrained intimate romantic drama underscore, 64 bpm felt piano and soft warm cello harmonics, very sparse nylon guitar texture, no drums, no swelling blockbuster strings. Gradual vulnerable trust, an honest pause on a rooftop, warm quiet attraction. 90 seconds smooth emotional continuity with plenty of silence between notes; gentle fade-ready tail. Instrumental only no voice, no imitation of any named composer or show score.",
+    "music_length_ms": 90000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original restrained intimate romantic drama underscore, 64 bpm felt piano and soft warm cello harmonics, very sparse nylon guitar texture, no drums, no swelling blockbuster strings. Gradual vulnerable trust, an honest pause on a rooftop, warm quiet attraction. 90 seconds smooth emotional continuity with plenty of silence between notes; gentle fade-ready tail. Instrumental only no voice, no imitation of any named composer or show score.",
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--quiet-connection/concepts/black-cat-boss/production-v5/music-jobs/quiet-connection.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--quiet-connection/concepts/black-cat-boss/production-v5/produce_music.py"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--quiet-connection",
+      "key": "quiet-connection",
+      "family": "black-cat-boss",
+      "name": "安静的靠近",
+      "tags": [
+        "亲密",
+        "信任"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "concepts/black-cat-boss/production-v5/music/quiet-connection.mp3",
+      "sources": [
+        "concepts/black-cat-boss/production-v5/music/quiet-connection.mp3"
+      ],
+      "sha256": "38ecff4d7cc2fc2d8e97e4caa893235e1e7b9cf5121149f572389a6c0fbe80c9",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "38ecff4d7cc2fc2d",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--quiet-connection/38ecff4d7cc2fc2d.mp3",
+      "bytes": 2160621
+    }
+  ],
+  "default_variant": "38ecff4d7cc2fc2d",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

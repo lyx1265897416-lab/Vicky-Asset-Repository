@@ -1,0 +1,58 @@
+﻿Dora · 西班牙语女声
+项目：商用现成音色 · Kokoro 多语种
+角色：ef_dora
+年龄设计：官方未标注
+身份用途：通用选角
+音色标签：西班牙语 · 固定预设
+模型：hexgrad/Kokoro-82M
+入库依据：按用户要求检索并补充商用现成音色；这是入库授权，不代表用户逐条听选。
+原始样音：https://huggingface.co/hexgrad/Kokoro-82M/resolve/f3ff3571791e39611d31c381e3a41a3af07b4987/voices/ef_dora.pt
+试听/下载文件SHA256：1c6e47114b725db4a456752e7f6e7a69e5ad560b1f5d3761e9a4e0e41de12edf
+原始音频（保留）：assets/voices/commercial-20260929/stock-kokoro-ef_dora.wav
+原始SHA256：d216ae8cf4f0dcd090537a246b890d85dc6577e2e238d627123abf434e5be053
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.12 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/stock-kokoro-ef_dora-d60c00c588f064d27bba.json
+去除开头等待：0.08秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.02秒；总计去除：0.1秒
+当前试听时长：7.3秒
+
+试听台词：
+Tómate tu tiempo. Todavía podemos arreglar las cosas. Cuéntame qué pasó y juntos decidiremos cuál será el siguiente paso.
+
+声音描述：
+官方固定预设；同语种使用相同通用对白便于比较。身份、年龄、个性未由官方定义，按具体剧本试听选角。
+
+自动台词检查：
+台词来自本项目；此样音尚未做母语者逐字审听。
+
+
+已有生成参数：
+{
+  "preset": "ef_dora",
+  "revision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+  "speed": 1,
+  "voice_path": "voice-models/kokoro/Kokoro-82M/voices/ef_dora.pt",
+  "voice_sha256": "d9d69b0f8a2b87a345f269d89639f89dfbd1a6c9da0c498ae36dd34afcf35530"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "ef_dora",
+  "provider": "Kokoro / hexgrad",
+  "official_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "commercial_license": {
+    "name": "Apache 2.0",
+    "commercial_use": true,
+    "checked_on": "2026-09-29",
+    "record": "imports/commercial-voices-20260929/LICENSE-NOTICE.txt",
+    "summary": "允许商业使用。再分发模型/预设时保留许可证及归属通知、标示修改；训练数据署名随批次归档。"
+  },
+  "reuse_note": "已保存模型及预设，可离线用相同版本与 preset ID 生成新台词；不需把样音上传为声音克隆参考。",
+  "quality_note": "官方未提供此预设的独立热度或质量评分；作为语言/声线覆盖补充。"
+}
+确认记录：imports/commercial-voices-20260929/authorization.json
+imports/commercial-voices-20260929/receipts/stock-kokoro-ef_dora.json
+imports/commercial-voices-20260929/research/Kokoro-82M-api.json
+imports/commercial-voices-20260929/LICENSE-NOTICE.txt

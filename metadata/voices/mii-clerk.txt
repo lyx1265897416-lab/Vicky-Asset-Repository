@@ -1,0 +1,47 @@
+﻿杂货店店员 · 温暖对话声线
+项目：今天不要上班，咪养你
+角色：杂货店店员
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-speech-tts-2.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。现行v34沿用的角色对白；店员两种造型共用一个音色，按一条收录。
+原始样音：/Users/vicky/Interactive storyline/projects/mii-takes-care-of-you/视频制作-v2.10/audio/clerk-help.mp3
+试听/下载文件SHA256：6f6c0ed3155ee7ceaa544219e467181c6b4243063a298517766837944a4cb123
+原始音频（保留）：assets/voices/production-20260928/mii-clerk.mp3
+原始SHA256：7ddc8eb3fac4dc8c490580eba4e5ac7b31ac9eb52374e005bde491b855fe6366
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.26 LUFS；真实峰值：-5.99 dBTP
+响度处理记录：metadata/voice-loudness/mii-clerk-f078b70f1d6a3f31ce76.json
+去除开头等待：0.25秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.204秒；总计去除：0.454秒
+当前试听时长：3.05秒
+
+试听台词：
+Here you go. What a thoughtful little helper!
+
+声音描述：
+A warm friendly adult female American grocery clerk speaking gently to a tiny kitten customer, natural conversational rhythm, smile in voice, not an announcer. No music, no added words.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "text": "Here you go. What a thoughtful little helper!",
+  "voice": "mabel_en_zh",
+  "pitch": 0,
+  "speed": 0.98,
+  "language": "en",
+  "sample_rate": 48000,
+  "output_format": "mp3",
+  "voice_instruction": "A warm friendly adult female American grocery clerk speaking gently to a tiny kitten customer, natural conversational rhythm, smile in voice, not an announcer. No music, no added words."
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/mii-clerk/clerk-help-tts.json
+imports/production-voices-20260928/source-records/mii-clerk/manifest.json

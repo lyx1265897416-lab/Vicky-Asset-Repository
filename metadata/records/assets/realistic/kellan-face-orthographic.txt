@@ -1,0 +1,23 @@
+﻿Kellan Brooks · confirmed level-eye face turnaround
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1375 × 1144
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 125:104 (approximately 1.202:1), target canvas 1375 × 1144 pixels.
+
+Make a 2 by 2 facial turnaround sheet of one consistent fictional person. Kellan, an 18-year-old boy with fair lightly freckled skin, hazel olive-green almond eyes, soft straight brown eyebrows, tousled voluminous ash-brown waves falling over the forehead, a slim softly defined jaw, straight medium-length narrow nose, natural rose lips with a fuller lower lip, clean-shaven youthful face and slender athletic build. Gray hoodie collar visible. Top-left full straight-on eye-level face, chin level and both eyes horizontally aligned; top-right true 90-degree profile facing right; bottom-left opposite 90-degree profile facing left; bottom-right three-quarter portrait. Equal head scale from full hair crown to upper chest, relaxed closed lips, steady neutral gaze, consistent skull and nasal contour across all views. Plain pale cream background, thin white dividers and tiny discreet view labels. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/the_ninth_inning/v2_trendy/kellan_face_orthographic.png
+
+生成工具记录的提示词（可能依赖参考图）
+Use case: photorealistic-natural. Asset type: identity reference sheet. Use the supplied image as the strict identity reference for Kellan, specifically the upper-left male portrait. Create a clean orthographic facial close-up sheet with four equal panels: exact full frontal eye-level portrait, exact left 90-degree profile, exact right 90-degree profile, and exact 3/4 view. Kellan must keep the same youthful European-American face, tousled gray-brown hair, olive-green eyes, natural freckles, soft youthful jawline, same brow/nose/lip proportions. Keep head upright, eyes on a perfectly horizontal level, camera at eye height, no chin up or down, no perspective distortion, no smile changes between panels, no hairstyle changes. Pale warm-cream background, soft frontal daylight, low contrast, natural skin microtexture, realistic live-action teen drama character bible photography. Show head and shoulders only, no clothing redesign, no text except tiny technical view labels, no logos, no mature face, no Asian facial features, no anime, no illustration, no 3D render, no beauty retouching.
+
+生成依据：
+metadata/evidence/exec-2efce0e9-368a-4953-a0b9-d259f9b0f0f2.json

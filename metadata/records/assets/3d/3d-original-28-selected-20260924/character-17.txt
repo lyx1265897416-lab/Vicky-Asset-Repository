@@ -1,0 +1,23 @@
+﻿原创3D角色28组 17 · 绒耳暮歌 · 正面平视
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Use case: stylized-concept. Generate ONE original adult character for a coordinated 28-character premium romantic 3D CG collection. Style: high-end Chinese otome game / animated cinematic character modeling, subtly idealized sculpted facial anatomy, luminous smooth translucent skin with fine restrained microtexture, soft subsurface scattering, beautiful detailed eyes, individually groomed wispy hair strands, finely rendered fabric/metal. Clearly polished dimensional CG rather than a real-person photograph. NOT gritty, no coarse pores, no plastic doll sheen, no outlines. Scene: solid PURE WHITE #FFFFFF seamless background. Lighting: bright soft neutral frontal studio light with balanced fill, delicate facial modeling shadows, subtle luminous bloom, no dramatic darkness or colored backdrop. Composition: EXACT 1024x1536 portrait 2:3. A single centered frontal eye-level character, head upright shoulders level, looking at viewer; waist-up to lower chest portrait. Entire hair, head ornaments and shoulders visible with 8% blank white margin above topmost hair or ears. Same camera distance, head including hair around 40% of canvas height. 85mm-like perspective. Relaxed arms down, hands outside frame. Design a clearly new identity, not a replica of any known game character or reference portrait: specific distinct eye shape, nose, lips, jaw and proportions described below are crucial. All adults. No text, brands, watermarks, signature, frames, labels, collage or additional people.
+Character design: Adult male feline fantasy humanoid age 24. Medium dusty-lavender tousled layered hair, two natural aubergine fur cat ears fully visible. Blue-violet eyes, soft rectangular face, thick straight low brows, pronounced round cheek planes, short wide nose, defined full lips and square-soft chin. Pale rose ivory skin. Burgundy textured blazer with dark lapel, pale striped shirt and loosely knotted plum tie. Slightly pouty but mature composed expression; adult proportions.
+Final composition requirement: uniform pure white background; complete hairstyle and ornaments or animal ears fully visible; at least 90 pixels of clear white space above the tallest point, centered frontal eye-level portrait, shoulders and upper torso visible. Bright neutral soft frontal studio lighting.
+
+已保留本次确认原图与实际生成记录；文字提示词未经复现验证，严格保持身份请使用本张身份母版。 本张经过白底或留白修订，独立提示词由原始角色描述与最终构图要求重建。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-original-28-selected-20260924/originals/character-17.png
+
+实际最终编辑提示词
+Edit the provided original 3D male cat-eared character portrait. Keep exactly this newly designed face, identity, lavender hair, feline ears, burgundy suit, expression, fabric detail, and premium 3D render style. Change the dark gradient background to a completely uniform pure WHITE (#FFFFFF) seamless background everywhere outside the character; remove dark vignette and halo. Use bright neutral soft studio frontal light and gentle facial shading to match a white-background character catalog. Pull camera back about 12 percent to show the ENTIRE top of both furry ears and hair with at least 90 pixels of empty WHITE space above them. Center straight-on eye-level portrait, shoulders and upper torso visible. Final canvas exactly 1024x1536. No text, no borders, no additional people. Do not redesign face or clothing.
+
+生成依据：
+metadata/evidence/3d-original-28-selected-20260924-17.json

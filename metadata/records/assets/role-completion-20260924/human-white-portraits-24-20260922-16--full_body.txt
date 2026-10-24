@@ -1,0 +1,21 @@
+﻿白底角色 16 · 深色长发白色立领 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic character asset of one young adult woman age18–22 with very long glossy black-brown hair with center part, fair skin, dark gray-brown eyes, straight delicate brows, softly oval face, small narrow nose and rose lips, wearing high-neck ivory blouse with subtle pleats and lightly puffed shoulders and fine silver drop earrings, high-waisted dove-gray ankle-length flowing skirt and pearl-gray low block-heel shoes. One independent single full-body front portrait. Tall slender natural7.8-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-16--full_body.json
+
+实际带参考图生成提示词
+Use reference as exact identity source, preserve her specific face, hair and upper garments. Straighten head instead of reproducing tilt. Photorealistic character asset of one young adult woman age18–22 with very long glossy black-brown hair with center part, fair skin, dark gray-brown eyes, straight delicate brows, softly oval face, small narrow nose and rose lips, wearing high-neck ivory blouse with subtle pleats and lightly puffed shoulders and fine silver drop earrings, high-waisted dove-gray ankle-length flowing skirt and pearl-gray low block-heel shoes. One independent single full-body front portrait. Tall slender natural7.8-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-white-portraits-24-20260922-16--full_body.json

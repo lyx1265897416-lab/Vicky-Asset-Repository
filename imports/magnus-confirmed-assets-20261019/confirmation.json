@@ -1,0 +1,73 @@
+{
+  "request": "把文档中其他我确认的角色资产也加入 Vicky 资产库（角色图、场景图、角色音、背景音等）",
+  "date": "2026-10-19",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc",
+  "source_revision": 1619,
+  "scope_interpretation": "按文档现行素材归档，排除文档明确待试听定版或候选项。制作当时的未审标签保存在来源，不据此冒充逐条新听审。",
+  "excluded": [
+    {
+      "kind": "voice",
+      "id": "vo_luca_english_v2",
+      "name": "VO_LUCA_English_V2.mp3",
+      "token": "DTPMbkAyGo67I4xtLuIcmHX5nme",
+      "size": 382508,
+      "block_id": "doxcnftToyVDdKyWaLDe6EyRanf",
+      "section": "sound",
+      "row_texts": [
+        "Luca Marlowe",
+        "VO_LUCA · V2",
+        "温暖清晰的中低男声，利落可靠；自然连读与轻重音，前段简洁汇报，后段温和安抚。V2 为重新演绎样音，待试听定版。",
+        "试听 · VO_LUCA_English_V2"
+      ],
+      "reason": "文档明确待试听定版"
+    },
+    {
+      "kind": "voice",
+      "id": "vo_harland_english_v2",
+      "name": "VO_HARLAND_English_V2.mp3",
+      "token": "UIZdbnSi1oacPhxmhbkcqwIqnLf",
+      "size": 483884,
+      "block_id": "doxcn54SVh233kr3DZqqAl8Fmnb",
+      "section": "sound",
+      "row_texts": [
+        "Harland Royce",
+        "VO_HARLAND · V2",
+        "六十多岁长者的成熟低男声，厚实稳健、轻微岁月颗粒；有分量但不虚弱、不过度沙哑。V2 为重新演绎样音，待试听定版。",
+        "试听 · VO_HARLAND_English_V2"
+      ],
+      "reason": "文档明确待试听定版"
+    },
+    {
+      "kind": "bgm",
+      "id": "mus_magnus_hook_v2",
+      "name": "MUS_MAGNUS_HOOK_V2.mp3",
+      "token": "KKl4bTsElogMaQx0sE4cjkHQnDc",
+      "size": 361196,
+      "block_id": "doxcnrphxyYtKDT4d4NCAMt2LLh",
+      "section": "sound",
+      "row_texts": [
+        "MUS_MAGNUS_HOOK · V2",
+        "叙事开场候选 · 素材长 15 秒；按当前剧情适配。用途：当前确有匹配结构的开场，不强制先吻后问或“2小时前”转场。素材设计节奏：0–3秒低频；3–7秒加层；7秒抽空；8–13秒释放；14–15秒悬停。上述为设计意图，实际重音与可用区间须听审，不作为当前节点固定时码。",
+        "试听 · MUS_MAGNUS_HOOK_V2"
+      ],
+      "reason": "文档明确候选，未作已确认资产处理"
+    },
+    {
+      "kind": "bgm",
+      "id": "mus_magnus_recognition_v1",
+      "name": "MUS_MAGNUS_RECOGNITION_V1.mp3",
+      "token": "YpzbbUwFxoJkdfxJlVecYhaXnNd",
+      "size": 193580,
+      "block_id": "Uji6dmuH4oOeSNxpj6pcd2f5nEf",
+      "section": "sound",
+      "row_texts": [
+        "MUS_MAGNUS_RECOGNITION · V1",
+        "一次性｜识别／揭示候选｜短暂弦乐泛音变化；只用于当前实际新增的识别实例。已成立的识别事实不重新触发，与 REVELATION 对同一揭示只选一次，打断后按已听进度处理。",
+        "试听 · MUS_MAGNUS_RECOGNITION_V1"
+      ],
+      "reason": "文档明确候选，未作已确认资产处理"
+    }
+  ],
+  "original_bytes_preserved": true,
+  "new_generation": false
+}

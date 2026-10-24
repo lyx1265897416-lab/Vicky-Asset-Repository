@@ -1,0 +1,21 @@
+﻿咪 / 年糕 / tteokbokki · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-12
+时区：America/Los_Angeles
+图像尺寸：1230 × 1278
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-12
+
+文生图提示词：
+Photorealistic feline nine-expression reference sheet of small round-faced golden-orange shorthaired tabby cat, plush cheeks, delicate orange forehead stripes, ivory muzzle, chin and chest, large round dark olive eyes with dark pupils, small pink triangular nose, fine white whiskers and pink inner ears. Clothing: white cotton sailor cap with navy band between visible ears, powder-blue cotton sailor shirt, navy collar with two white stripes, navy sleeve cuffs, small white buttons and navy fitted cat trousers with tail opening. EXACT 3 by 3 grid of nine equal head-and-shoulders closeups, same identity and eye color in every cell, complete hair or ears and hat with margin. Nine natural feline states: attentive ears up, relaxed soft eyes, slow blink, curious small head tilt, alert wide eyes, sleepy half-shut eyes, small meow with natural cat mouth, concerned ears slightly sideways, playful single-eye wink with viewer-left eye fully closed and viewer-right eye wide open. Anatomically real cat face, no human lips, grin, eyebrows or teeth. cream-white seamless studio background, broad diffuse warm daylight, soft shadows. Natural fine fur, clear eyes and real fabric texture. Thin white gutters, no text, captions, other people or extra panels.
+
+按更新后的九宫格整理独立文生图提示词；纯文字未验证近乎一致。实际修改用旧九宫格作参考，仅将指定重复表情改为 wink。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/animal-mii-nian-gao--expression_grid.json
+
+实际局部 wink 编辑提示词（依赖原九宫格）
+Use case: identity-preserve. Edit target: the supplied sailor-outfit cat 3x3 expression sheet. Make a localized edit ONLY to the face in the BOTTOM-RIGHT panel (row3 column3), whose two closed eyes repeat the top-right expression. Replace that duplicated closed-eye expression with a clearly readable playful single-eye WINK: the eye on the VIEWER LEFT is completely closed in one smooth natural eyelid curve, while the eye on VIEWER RIGHT is fully wide open, round, with the original dark-olive iris, pupil and bright catchlight; mouth gently closed, original feline muzzle and cheeks. It must unmistakably be one eye shut and one eye open, not two squints or both closed. Preserve the same round cat identity, ivory muzzle, pink nose, fur markings, white whiskers, white/navy sailor hat and blue sailor collar. Keep every other panel visually unchanged, exact 3x3 grid, divider positions, composition, exposure, cream background and photographic fur texture unchanged. No labels, text or extra panels. Output the entire edited nine-panel sheet at the original aspect ratio, not just the wink panel.
+
+生成依据：
+imports/mii-wink-revision-20261012/events/sailor.json

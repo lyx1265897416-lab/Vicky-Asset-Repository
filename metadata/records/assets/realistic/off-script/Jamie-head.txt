@@ -1,0 +1,23 @@
+﻿Jamie Reed · confirmed neutral face turnaround
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 3:2 (approximately 1.500:1), target canvas 1536 × 1024 pixels.
+
+Landscape 3:2 three-panel photographic head identity turnaround, equal-width panels separated by fine vertical white lines. One fictional adult Jamie, age 21, with fair lightly freckled skin, tousled chestnut short waves, hazel eyes, delicate youthful cheek volume, straight slim nose, softly defined narrow jaw and naturally full rose lips. Left panel exact 90-degree profile looking left; center panel perfectly front-facing at eye level, upright head, level eyes and balanced shoulders; right panel opposite 90-degree profile looking right. One consistent skull, nose, chin, eyes, hairline and head scale through all rotations. Entire hair crown to upper chest visible in each panel. Neutral closed mouth, relaxed brows, no smile or flirtatious expression, no glasses or hat. Visible collar: gray hoodie. 85mm lens perspective, sharp face and gentle background separation. Plain matte cool-gray studio wall and gray floor, soft cool blue-gray daylight and even fill, subtle fine film grain, real pores, fine facial hair, matte skin and real fabric weave. Photographic live-action casting reference, no stylized 3D, no wax skin, heavy retouching, strong warm tint, drama lighting, text, labels or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/off-script/character-design/turnaround-v3/images/Jamie-head.png
+
+生成工具记录的提示词（可能依赖参考图）
+Create a high resolution LANDSCAPE 3:2 three-panel photographic identity turnaround sheet of precisely this SAME fictional adult actor Jamie Reed, age21. This original portrait is the sole identity authority: retain his delicate youthful bone structure, softly defined slim jaw (NOT Theo's broad angular jaw), natural chestnut tousled hair and hairline, exact hazel eyes, nose length/tip, lips, cheek volume and ears. ONLY change angle, neutral expression, clothing collar and backdrop. EXACTLY THREE equally wide panels left to right: LEFT PANEL exact 90-degree LEFT-facing profile (nose points to left page edge); CENTER PANEL perfectly straight FRONT at EYE LEVEL, head upright without yaw/tilt/pitch, both ears balanced and eyes level, passport-photo composition; RIGHT PANEL exact 90-degree RIGHT-facing profile (nose points to right page edge). Side portraits must match the central face's nasal contour, chin projection, jaw depth and ears; NEVER turn him into another actor. All 3 panels same apparent head size, top of hair and upper chest included, ample space in front of nose, same lens85mm, closed relaxed lips, NO smile, NO parted mouth, brows relaxed, neither angry nor seductive, awake natural eyes. Grey hoodie at shoulders, no jacket collar. Flat neutral matte cool grey real studio background, soft cool blue-grey daylight, balanced fill so facial structure readable, realistic pores and fine facial hair, understated fine grain, skin not plastic/ceramic, no oily gloss, no 3D/anime/beauty filter. No dramatic shadows, no warm bokeh over faces. Technical actor casting identity reference, high detail, not pose montage. No text, captions, labels, watermark. Output one coherent three-panel image.
+
+生成依据：
+metadata/evidence/exec-79962c7e-67e1-4b0e-b922-b7446614dd78.json

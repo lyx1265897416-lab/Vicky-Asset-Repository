@@ -1,0 +1,22 @@
+﻿电影场景第1批 · 04 · 山间旅馆的午后大厅
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: original small Alpine grand hotel lobby circa 1930, viewed level on central axis. Cream limestone columns, softly faded blush plaster, warm walnut reception desk to right side, paired modest staircases rising at far back to a bright mezzanine, wide skylight above providing soft milky daylight. Oatmeal carpet with a muted dusty rose border, understated antique brass fixtures, pale marble counter with one small brass bell and a closed guest book. At left a luggage trolley carries two modest tan cases, hints of a journey but absolutely no staff or guests. Establish balanced layered depth, original room geometry with open central floor, intimate not gigantic. Research inspiration: Grand Budapest Hotel's geometric organization and tactile period design, reinterpreted in quieter cream, warm brown, pale dusty pink, no saturated reds or purple. Emotion: arrival at a hotel full of secrets.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/film-scenes-20260928/images/04-alpine-hotel.png
+
+生成事件提示词
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: original small Alpine grand hotel lobby circa 1930, viewed level on central axis. Cream limestone columns, softly faded blush plaster, warm walnut reception desk to right side, paired modest staircases rising at far back to a bright mezzanine, wide skylight above providing soft milky daylight. Oatmeal carpet with a muted dusty rose border, understated antique brass fixtures, pale marble counter with one small brass bell and a closed guest book. At left a luggage trolley carries two modest tan cases, hints of a journey but absolutely no staff or guests. Establish balanced layered depth, original room geometry with open central floor, intimate not gigantic. Research inspiration: Grand Budapest Hotel's geometric organization and tactile period design, reinterpreted in quieter cream, warm brown, pale dusty pink, no saturated reds or purple. Emotion: arrival at a hotel full of secrets.
+
+生成依据：
+imports/film-scenes-01-20260928/events/04.json
+previews/film-scenes-20260928/verification.json

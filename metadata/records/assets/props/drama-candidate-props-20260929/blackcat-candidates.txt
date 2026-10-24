@@ -1,0 +1,22 @@
+﻿捡到的黑猫 · 备选道具 · 照护、诊所与同居生活
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: product-mockup. Create a NEW high-resolution prop asset catalog board with exactly 12 separate cells arranged 4 columns by 3 rows. These are candidate props for future drama production. Each listed object or coherent set goes in one cell, in row-major order. 1 freestanding folding threepanel privacy screen, light oak frame tightly woven cream fabric, no room; 2 low matte sage litter tray with clean pale litter and matching slotted scoop; 3 small wooden pet grooming brush with metal bristles; 4 small stainless kibble measuring scoop with a few dry pellets; 5 short sisal scratching post on ivory square base; 6 three soft felt toy balls muted blue cream rust; 7 low veterinary pet weighing scale wide curved white tray and simple dark display; 8 dark charcoal veterinary stethoscope neatly coiled; 9 small cream kraft zip pouch of cat treats with simple paw symbol no words; 10 short oak wall hook rail with three dark metal hooks freestanding product view; 11 plain antique brass letter opener with rounded handle no magical symbols; 12 stack of natural brown coffee filters and black reusable pour-over filter cone. Photoreal contemporary cozy apartment props with cream, sage, slateblue and natural oak. Subtle wear, no ornate fantasy added. FULLY OPAQUE PURE WHITE seamless backgrounds, RGB not transparency. Soft neutral studio illumination, faint contact shadows, natural tactile materials, no oily highlights. Every item fully visible and wholly contained inside its cell with generous white margin. No people, hands, bodies, mannequins, rooms, brand logos, watermarks or cell labels. No extra objects. Landscape 4:3 canvas. Maintain consistent photographic catalog tone throughout.
+
+本批为新设计的备选道具，基于剧本场景和合理制作需求；不代表已出镜或剧情已定稿。格序从左到右、从上到下。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-candidates-20260929/blackcat-candidates.png
+
+原始生成提示词：
+Use case: product-mockup. Create a NEW high-resolution prop asset catalog board with exactly 12 separate cells arranged 4 columns by 3 rows. These are candidate props for future drama production. Each listed object or coherent set goes in one cell, in row-major order. 1 freestanding folding threepanel privacy screen, light oak frame tightly woven cream fabric, no room; 2 low matte sage litter tray with clean pale litter and matching slotted scoop; 3 small wooden pet grooming brush with metal bristles; 4 small stainless kibble measuring scoop with a few dry pellets; 5 short sisal scratching post on ivory square base; 6 three soft felt toy balls muted blue cream rust; 7 low veterinary pet weighing scale wide curved white tray and simple dark display; 8 dark charcoal veterinary stethoscope neatly coiled; 9 small cream kraft zip pouch of cat treats with simple paw symbol no words; 10 short oak wall hook rail with three dark metal hooks freestanding product view; 11 plain antique brass letter opener with rounded handle no magical symbols; 12 stack of natural brown coffee filters and black reusable pour-over filter cone. Photoreal contemporary cozy apartment props with cream, sage, slateblue and natural oak. Subtle wear, no ornate fantasy added. FULLY OPAQUE PURE WHITE seamless backgrounds, RGB not transparency. Soft neutral studio illumination, faint contact shadows, natural tactile materials, no oily highlights. Every item fully visible and wholly contained inside its cell with generous white margin. No people, hands, bodies, mannequins, rooms, brand logos, watermarks or cell labels. No extra objects. Landscape 4:3 canvas. Maintain consistent photographic catalog tone throughout.
+
+生成依据：
+imports/drama-candidate-props-20260929/evidence/blackcat-candidates.json
+imports/drama-candidate-props-20260929/approval.json

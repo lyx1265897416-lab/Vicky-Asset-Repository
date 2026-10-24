@@ -1,0 +1,21 @@
+﻿Rhys · 黑猫互动剧 · 燕麦棕西装 · 黑色切尔西靴 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+A clean white studio landscape full-body character turnaround, front, exact side profile and rear views at equal height and baseline, premium semi-realistic 3D rendering, no labels or watermark. Adult man with tousled deep brown hair, gray eyes, refined jaw, two black feline ears and exactly one long dark tail per view, tall 8–9 head model proportions with long legs and complete waist. Wardrobe: Oat-tan suit · black Chelsea boots. Reference 3: loose elegant warm oat-tan textured tailored suit, fine irregular wool/linen weave, open single-breasted two-button jacket, relaxed natural shoulder, paired high-waisted matching wide-leg pleated trousers and narrow black leather belt with silver buckle. Black thin-gauge long-sleeve crewneck knit underneath tucked in. BLACK POLISHED LEATHER CHELSEA BOOTS almond toe, restrained heel. NO glass or extra props. Keep full natural waist and long leg silhouette. Tail comes through tailored concealed slit and is separate from jacket panels.
+
+文生图描述据确认造型整理；身份一致性以确认图片为准。原始图生图提示词另存，未验证纯文本复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/assets/3d/black-cat-boss-wardrobe-v10-20260928/R4-tan.png
+
+原始生成提示词：
+Use case: identity-preserve. Create a polished premium semi-realistic 3D character wardrobe TURNAROUND on clean white seamless studio background, matching input1's rendering texture exactly. Output ONE high-resolution landscape sheet with THREE evenly-spaced full-body views: strict frontal eye-level, exact left-side profile facing left, straight back. Same adult man Rhys in all three views, same clothes, same scale and ground line, relaxed arms with normal five-finger hands. INPUT1 is BODY/IDENTITY TURNAROUND MASTER; INPUT2 is FACE IDENTITY MASTER; INPUT3 is CLOTHING DESIGN ONLY, never copy its model face. Preserve gray eyes, deep espresso-brown tousled hair and refined face. Preserve tall lean male fashion-model anatomy 8.5–9 anatomical heads, counting skull crown-to-chin without hair or cat ears; small head, full long waist, long thighs and lower legs; do not enlarge head or squat body. Exactly TWO black feline ears and ONE anatomically attached long dark furry tail PER VIEW, emerging at rear sacrum through a tailored clothing opening, falling naturally to lower calf with gentle tip curve, never wrapping limbs or duplicating. Full feet and ears inside frame with margins. Clear neutral soft studio lighting, consistent skin and fabric color between all views. Do not add words, letters, labels, logos or watermark. Anatomically natural human face and hands, same character style as input1, no anime/photographic style drift. Reference 3: loose elegant warm oat-tan textured tailored suit, fine irregular wool/linen weave, open single-breasted two-button jacket, relaxed natural shoulder, paired high-waisted matching wide-leg pleated trousers and narrow black leather belt with silver buckle. Black thin-gauge long-sleeve crewneck knit underneath tucked in. BLACK POLISHED LEATHER CHELSEA BOOTS almond toe, restrained heel. NO glass or extra props. Keep full natural waist and long leg silhouette. Tail comes through tailored concealed slit and is separate from jacket panels.
+
+生成依据：
+imports/black-cat-boss-wardrobe-v10-20260928/evidence/R4-tan.json

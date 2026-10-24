@@ -1,0 +1,22 @@
+﻿人鱼王子的假新娘 · 备选道具 · 近岸出行与王庭生活
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: product-mockup. Create a NEW high-resolution prop asset catalog board with exactly 12 separate cells arranged 4 columns by 3 rows. These are candidate props for future drama production. Each listed object or coherent set goes in one cell, in row-major order. 1 folded cream coastal nautical chart with fictional blue shoreline and simple route lines, no readable text; 2 small practical brass pocket marine compass; 3 rolltop waterproof drybag in muted teal; 4 compact black yellow waterproof handheld marine radio; 5 clear silicone diving mask and pair short navy swim fins as one set; 6 neatly coiled light natural marine rope; 7 compact mustard yellow lifevest with black straps and buckles empty with no mannequin; 8 delicate silver seal stamp with simple wave motif and a few lavender wax pellets, explicitly mundane seal tool not magic item; 9 silver framed oval shell-pattern hand mirror reflecting only pale white studio; 10 small pearlwhite hinged jewelry case with pale blue velvet interior empty; 11 paper food tray with two wooden skewers of lightly grilled market snack pieces, no hands; 12 oval warmwhite paper market lantern with dark metal hanging hook, soft faint glow. Realistic tactile fantasy-drama product rendering, contemporary marine equipment mixed with delicate silver and pearl royal household objects. Palette pale blue silver ivory muted teal mustard. No invented magical powers or glowing runes. FULLY OPAQUE PURE WHITE seamless backgrounds, RGB not transparency. Soft neutral studio illumination, faint contact shadows, natural tactile materials, no oily highlights. Every item fully visible and wholly contained inside its cell with generous white margin. No people, hands, bodies, mannequins, rooms, brand logos, watermarks or cell labels. No extra objects. Landscape 4:3 canvas. Maintain consistent photographic catalog tone throughout.
+
+本批为新设计的备选道具，基于剧本场景和合理制作需求；不代表已出镜或剧情已定稿。格序从左到右、从上到下。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-candidates-20260929/sea-candidates.png
+
+原始生成提示词：
+Use case: product-mockup. Create a NEW high-resolution prop asset catalog board with exactly 12 separate cells arranged 4 columns by 3 rows. These are candidate props for future drama production. Each listed object or coherent set goes in one cell, in row-major order. 1 folded cream coastal nautical chart with fictional blue shoreline and simple route lines, no readable text; 2 small practical brass pocket marine compass; 3 rolltop waterproof drybag in muted teal; 4 compact black yellow waterproof handheld marine radio; 5 clear silicone diving mask and pair short navy swim fins as one set; 6 neatly coiled light natural marine rope; 7 compact mustard yellow lifevest with black straps and buckles empty with no mannequin; 8 delicate silver seal stamp with simple wave motif and a few lavender wax pellets, explicitly mundane seal tool not magic item; 9 silver framed oval shell-pattern hand mirror reflecting only pale white studio; 10 small pearlwhite hinged jewelry case with pale blue velvet interior empty; 11 paper food tray with two wooden skewers of lightly grilled market snack pieces, no hands; 12 oval warmwhite paper market lantern with dark metal hanging hook, soft faint glow. Realistic tactile fantasy-drama product rendering, contemporary marine equipment mixed with delicate silver and pearl royal household objects. Palette pale blue silver ivory muted teal mustard. No invented magical powers or glowing runes. FULLY OPAQUE PURE WHITE seamless backgrounds, RGB not transparency. Soft neutral studio illumination, faint contact shadows, natural tactile materials, no oily highlights. Every item fully visible and wholly contained inside its cell with generous white margin. No people, hands, bodies, mannequins, rooms, brand logos, watermarks or cell labels. No extra objects. Landscape 4:3 canvas. Maintain consistent photographic catalog tone throughout.
+
+生成依据：
+imports/drama-candidate-props-20260929/evidence/sea-candidates.json
+imports/drama-candidate-props-20260929/approval.json

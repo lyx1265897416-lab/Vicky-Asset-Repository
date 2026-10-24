@@ -1,0 +1,21 @@
+﻿调研白底女角色27组 · 参考30 · 栗棕半扎发刺绣白裙 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one standalone photorealistic female character portrait. Brown hair loosely half tied back in long soft waves, fair warm skin, hazel eyes, gently arched brows and peach-pink lips. White romantic dress with puff sleeves, gathered neckline and floral embroidered bodice. Nearly frontal shoulders, gentle head tilt, softly parted lips, attentive direct gaze. Single person on a seamless pure white background, vertical composition with the entire head visible and breathing space above the hair. Bright soft frontal studio daylight, low-contrast natural shadows, natural detailed skin and individual hair strands, restrained makeup, subtle halation, realistic 50mm perspective, coherent cream-white and warm-brown color grading. Upper-body portrait; retain visible clothing texture and natural folds. No text, watermark, logo, collage, border, other people, scenery, plastic skin, illustration or CGI rendering.
+
+根据已确认成图重建独立文生图提示词；未进行纯文字重生成相似度验证，严格保持身份时需结合此成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/research-white-27-20260923/originals/ref-30-white.png
+
+原始生成提示词：
+Generate a NEW single-person photorealistic character portrait on a COMPLETELY SOLID PURE WHITE (#FFFFFF) BACKGROUND. WHITE BACKGROUND IS MANDATORY, edge-to-edge behind the subject, no dark corners or gradient. This is one standalone portrait, no collage or panels. First input is visual inspiration for hair and outfit only: invent a new fictional face, do not reproduce reference pixels or exact facial identity. Second input sets the approved soft bright photographic lighting and white background only. Use high-key neutral daylight, broad soft frontal illumination, minimal shadows, fine natural skin texture, subtle halation, 50mm perspective. Young appearance consistent with source; no arbitrary ethnicity changes. No illustration, CGI, plastic skin, dark color grading, heavy makeup, text, badges, logos or watermark. Fully clothed mid-torso casting portrait, whole head with white margin. Character direction: Brown half-up hair with delicate twists, expressive dark eyes and distinct new fictional face; ivory embroidered floral square-neck blouse with soft puff sleeves; warm attentive expression, not the source actress. Final requirement: flat PURE WHITE background with no text anywhere. Design a clearly original new face; do not preserve celebrity likeness. Image 1 is inspiration, not a background replacement target.
+
+生成依据：
+metadata/evidence/exec-637b9bda-e5c2-4338-8693-6a97a032a551.json

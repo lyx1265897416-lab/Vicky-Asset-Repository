@@ -1,0 +1,45 @@
+﻿洛温 · M1 温柔清澈
+项目：今天，再喜欢我一次
+角色：洛温 / Rowan
+年龄设计：角色27岁
+身份用途：男主角
+音色标签：温柔清澈
+模型：ElevenLabs 官方音色（原始样音模型版本未披露）
+入库依据：用户曾明确选择并要求入库，保留入库授权；随后反馈本剧对白试配不适配，已改用新视频作为选角参考。
+原始样音：https://storage.googleapis.com/eleven-public-prod/database/workspace/1da06ea679a54975ad96a2221fe6530d/voices/i4HXzul6RlNsGaCMidOt/27ff9ac6-08b9-460a-b6a0-0f17f15e8d74.mp3
+试听/下载文件SHA256：e04278dacd80207bc819ab8efc20c0bdc19d2b067d05cb795f39c1724a1164c0
+原始音频（保留）：assets/voices/confirmed-20260930/meet-me-again-rowan-m1.mp3
+原始SHA256：6a6ce59e9975af48f8019bf7b00cc457d8ffbf6308040e0b2e53e7b8fdfd750d
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.27 LUFS；真实峰值：-2.44 dBTP
+响度处理记录：metadata/voice-loudness/meet-me-again-rowan-m1-eb93094a169492577641.json
+去除开头等待：0.07秒；处理后有效声音起点：0.12秒
+缩短过长静音：6处；去除结尾空白：0.0秒；总计去除：5.1秒
+当前试听时长：24.941秒
+
+试听台词：
+官方选角样音（非本剧台词，逐字稿未核实）
+
+声音描述：
+官方描述：20 多岁男声，中性美式口音，轻柔、清晰，日常对话节奏。 官方名称：The Supportive Best Friend
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "voice_id": "i4HXzul6RlNsGaCMidOt"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "i4HXzul6RlNsGaCMidOt",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/voice-library/caring",
+  "reuse_note": "使用 ElevenLabs voice_id，不替换为近似音色。Waku 请求本轮因余额不足未执行；官方页面已试读。",
+  "quality_note": "官方样音与剧中试配分开保存。"
+}
+确认记录：imports/meet-me-again-voices-20260930/approval-evidence.json
+imports/meet-me-again-voices-20260930/sources.json

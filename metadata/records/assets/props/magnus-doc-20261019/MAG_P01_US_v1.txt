@@ -1,0 +1,23 @@
+﻿Magnus Thorne · 黑色 Maybach · 车辆前后视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-19
+
+文生图提示词：
+Create one standalone production asset reference. A portrait 9:16 clean white product board with two equal stacked three-quarter views of the exact same black modern Mercedes-Maybach luxury four-door sedan: front three-quarter above, rear three-quarter below. Glossy black body, chrome vertical grille and trim, realistic wheels, warm saddle-brown leather glimpsed in windows. Physically mounted white California vanity plates with dark navy THORNE and small red California lettering on both front and rear. Studio floor contact shadow, premium detailed realistic 3D game-asset look, no human occupants, captions or logos added to the board.
+
+独立文生图提示词依据最终图及可核实制作记录整理；实际制作使用参考图或编辑，纯文字无法保证同脸或逐像素复现。严格身份/空间连续性请同时使用本张原图。
+
+
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#I0YodqRAaoXi6qxRQiwcUI1GnJf
+
+原始带参考图生成或编辑提示词（制作记录）
+Edit the provided asset image ONLY for United States localization and vehicle license plate continuity. Keep its PORTRAIT9:16 framing, exact black Maybach car identity/body shape/wheels/brown leather, architecture, camera, light, clean realistic3D game render, and all existing object positions. Add a plausible premium personalized California-style passenger vehicle license plate to EVERY visible FRONT or REAR license-plate mounting recess on this same car: white reflective rectangular plate, dark navy uppercase SIX-character text exactly 'THORNE', small red script 'California' above. This is a fictional story vanity plate. Readable straight typography, physically mounted and correctly perspective-warped; front plate under grille and rearplate centered in trunk recess, modest real-world US12x6inch proportions. Do NOT put a plate on side doors, hood, wheels or glass; do NOT move a car just to show plate. No extra symbols, no different letters betweenviews. Every clearly readable 'LIFTS' sign must become exact English 'ELEVATORS', including any diagramlabels. EXIT stays EXIT. Retain English-only text, no added overlays or watermarks.  Whitebackground vehicle board, TWO stacked views SAMEcar. Upper frontthreequarter: white California THORNEplate in existingblankfrontplatearea. Lower rearthreequarter: identical California THORNEplate in reartrunklicenserecess. This is the most legible plate reference; exactsixcharactersT H O R N E. Don't change exterior shape or rims, camera, lighting, spacing.
+
+生成依据：
+imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/source/character-map.json
+imports/magnus-confirmed-assets-20261019/provenance/magnus-us-localization-20261016/manifest.json

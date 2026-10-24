@@ -1,0 +1,29 @@
+﻿男角色31组 · 特写三视图 · 29 · 黑发冷峻 · 正面/正侧面/背面 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1881 × 836
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+White European man with inky-black medium layered swept-back hair and two loose forehead strands, pale blue-gray eyes, cool dramatic romantic charm, black matte high-collar leather jacket. Facial features: broad oval face rather than a narrow sculpted face, shorter midface, round-ended substantial chin, gently curved medium brows, slightly wider eye spacing, short straight nose with rounded tip, wide mouth with full lower lip. Fair neutral skin, natural beauty, no resemblance to any reference face.
+
+Create one photorealistic head-and-upper-shoulders character turnaround sheet of this one fictional adult man, landscape approximately 9:4. Exactly three equally spaced matching views in a horizontal row: left true straight-on frontal direct gaze, center exact 90-degree profile with nose toward image right, right symmetric true 180-degree rear view with no face visible. Camera at eye level, upright neutral head, relaxed closed lips, complete hair silhouette and small white headroom. Same head magnification, crown level, identity, hair color and texture, accessories and clothing across all views. Natural adult cranial shape and balanced head-neck-shoulder proportions. Seamless opaque pure white background, bright soft balanced studio lighting, minimal shadows, natural skin pores and fine hair detail, subtle halation, 50mm perspective, gently shallow depth of field with face and hair crisp. No text, labels, borders, watermark, hands, props or full body.
+
+依据角色身份描述与已确认成图重建独立文生图提示词，未进行纯文字复现验证；严格保持身份需结合已确认成图。侧面及背面由正面身份合理生成。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/closeup-male-31-20260924/originals/character-29-closeup-turnaround.png
+
+最终图生图编辑提示词
+Use case: identity-preserve.
+Input: the supplied approved fictional adult male portrait is the sole identity authority.
+Create ONE photorealistic character head turnaround sheet of this exact same man with THREE close-up views in one horizontal row. Left = true straight-on frontal face (0 degrees); middle = exact 90-degree side profile with nose pointing toward image RIGHT; right = exact 180-degree rear view showing the back of his head and neck, no face visible.
+Layout: landscape 2304 x 1024 pixels, three equal 768 x 1024 columns on a seamless pure white #FFFFFF background, no dividing lines or text. Each view is a tight head-and-upper-shoulder portrait at identical magnification: full hair silhouette, small white headroom, top of head at same height across all three views, eyes and chin aligned across frontal/profile, consistent neck length, bottom crop at upper chest. Keep heads clearly separated with generous white gutters. All cameras at eye level, upright head, zero pitch or roll. In profile and rear views the shoulders and torso rotate with the head. The exact side profile shows only one eye and a clean nose/lips/chin silhouette, NOT a three-quarter face. Rear view is symmetrical, not a rear three-quarter.
+Preserve this specific man's facial proportions, bone structure, eyes, brow shape, nose, lips, jaw, age, skin tone, freckles/moles, facial hair, hair color/texture/cut, accessories and clothing. Frontal view must look unmistakably like the input. Build plausible consistent side and rear anatomy from the supplied frontal identity, maintain haircut length and volume, do not invent a different person. Neutral relaxed closed lips.
+Photorealistic natural skin pores and fine hair detail, bright soft frontal studio lighting adapted evenly to each camera, minimal shadows, subtle halation, natural 50mm lens perspective with no wide-angle distortion, shallow depth of field while face and hair remain crisp. High realism and believable human appearance.
+Only these three views of ONE character. No labels, letters, watermark, border, props, hands, waist, full body, overlapping heads, gray background, gradient, illustration or stylized 3D. Do not crop the top or back of the hair.
+
+生成依据：
+metadata/evidence/closeup-male-31-20260924/29.json

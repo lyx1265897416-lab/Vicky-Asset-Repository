@@ -1,0 +1,22 @@
+﻿服装8图 · 006 · 黑色束腰阔腿套装 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Black deep-V long-sleeve blouse and flowing black wide-leg tailored trousers, black pointed heels. No detachable scarf or corset belt.. Add ONLY these accessories: long thin black neck scarf; wide structured black corset waist belt; black structured trapezoid tote; black rectangular oversized sunglasses; pair of silver sculptural earrings; small dark pendant on fine silver necklace. Closed inventory: use each listed item exactly once and add no other objects.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装8图 · 图1 下排右
+
+原始生成提示词：
+Create one complete photorealistic hollow outfit product photo, pure white seamless background, soft studio light, portrait 2:3. Image1 is the exact clothing ensemble, preserve it; image2 bottom-right is the styling reference. Add ONLY these accessories: long thin black neck scarf; wide structured black corset waist belt; black structured trapezoid tote; black rectangular oversized sunglasses; pair of silver sculptural earrings; small dark pendant on fine silver necklace. Closed inventory, each item once. No body, skin, hair, hands, person or visible mannequin. Empty blouse sleeves and neckline. Fully uncropped with margins, bag beside garment, neck scarf at empty neck and corset belt at waist. No additional objects or text.
+
+生成依据：
+imports/wardrobe-8-20260930/events/complete-006.json
+imports/wardrobe-8-20260930/source-01.json

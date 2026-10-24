@@ -1,0 +1,52 @@
+﻿温柔知性但有边界 · Eleven v4
+项目：角色表演试听 · 2026-10-14
+角色：温柔知性但有边界
+年龄设计：32岁（角色目标）
+身份用途：通用剧情角色
+音色标签：温柔知性但有边界
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-performance-shortlist.json 中将 P10-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-performance-20261014/audio/P10-eleven.mp3
+试听/下载文件SHA256：0106fe01c3fd42f9526ae9371c5bf8f68463270ad08594adcdd7f0097eba1a14
+原始音频（保留）：assets/voices/voice-performance-20261014/original/P10-eleven.mp3
+原始SHA256：c04c573ad3a9d501737bdd449f5eb109f7627604f62d5db9b3a57a5003d8e1f0
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.0 LUFS；真实峰值：-3.38 dBTP
+响度处理记录：metadata/voice-loudness/voice-performance-20261014-P10-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.08秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：13.44秒
+
+试听台词：
+Hey, look at me. You don't have to explain it all right now. Sit down. I'll make some tea. But tomorrow... we talk. Properly. I can help you, but I can't keep pretending this is okay.
+
+声音描述：
+先安抚，再坚定表达底线。
+Comforting her partner after a difficult night, then setting a necessary boundary. Warm practical opening, a thoughtful beat before tomorrow, final sentence caring but absolutely firm.
+固定预设 Sarah 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Hey, look at me. You don't have to explain it all right now. Sit down. I'll make some tea. But tomorrow, we talk. Properly. I can help you, but I can't keep pretending this is okay.
+
+已有生成参数：
+{
+  "text": "[reassuring] Hey, look at me. You don't have to explain it all right now. Sit down. I'll make some tea. [gently firm] But tomorrow... we talk. Properly. I can help you, but I can't keep pretending this is okay.",
+  "voice_id": "Sarah",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Sarah",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-performance-20261014/confirmation.json
+imports/voice-performance-20261014/jobs/P10-eleven.json
+imports/voice-performance-20261014/evidence/roles.json
+imports/voice-performance-20261014/evidence/qa.json
+imports/voice-performance-20261014/evidence/production-notes.json

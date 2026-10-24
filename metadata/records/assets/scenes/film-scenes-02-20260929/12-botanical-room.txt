@@ -1,0 +1,26 @@
+﻿电影场景第2批 · 12 · 植物标本与药草准备室
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: photorealistic-natural. Create ONE original cinematic environment photograph, full-bleed landscape 1536x1024, no collage or text. Vicky taste: luminous high-key exposure preserving texture, cream-white/pale-gray/warm-brown base, restrained pastel accents; broad diffused frontal/window fill and low-contrast shadows, fine tactile natural material imperfections, light film grain and subtle halation. A believable emotionally specific film location, not a sterile property advertisement or plastic CGI render. Natural 40-50mm eye-level perspective, believable scale, layered space, moderate depth of field keeping the environment legible. No fisheye. Strict pure environment: absolutely no people, humans, hands, body parts, silhouettes, distant walkers, human reflections, portraits, mannequins, humanoid statues, animals, birds, insects, fish or sentient plants. No screen faces, logos, watermarks, captions or readable signage. Create original composition inspired by researched film-set principles, not a film screenshot. 
+Scene: An original old academy botanical preparation room adjoining a greenhouse, chalky cream walls, large frosted window, pale oak wall drawers and shallow wooden shelves of amber glass bottles with blank labels, dried lavender and ivory flowers tied above workbench. A simple brass balance, open botanical pages showing leaves only, empty ceramic mortar. Door at right looks toward bright fern planting. Camera eye level from threshold, workbench to left and clear center, gentle mysterious scholarly feel but luminous and welcoming. No skulls, insects, animals, taxidermy, specimen bodies or humanoid plants.
+Research direction: 维多利亚铸铁温室与植物教学空间，原创植物不含生物角色; original reinterpretation, retain Vicky lighting rather than copying the movie's color grading.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/film-scenes-02-20-20260928/images/12-botanical-room.png
+
+生成事件提示词
+Use case: photorealistic-natural. Create ONE original cinematic environment photograph, full-bleed landscape 1536x1024, no collage or text. Vicky taste: luminous high-key exposure preserving texture, cream-white/pale-gray/warm-brown base, restrained pastel accents; broad diffused frontal/window fill and low-contrast shadows, fine tactile natural material imperfections, light film grain and subtle halation. A believable emotionally specific film location, not a sterile property advertisement or plastic CGI render. Natural 40-50mm eye-level perspective, believable scale, layered space, moderate depth of field keeping the environment legible. No fisheye. Strict pure environment: absolutely no people, humans, hands, body parts, silhouettes, distant walkers, human reflections, portraits, mannequins, humanoid statues, animals, birds, insects, fish or sentient plants. No screen faces, logos, watermarks, captions or readable signage. Create original composition inspired by researched film-set principles, not a film screenshot. 
+Scene: An original old academy botanical preparation room adjoining a greenhouse, chalky cream walls, large frosted window, pale oak wall drawers and shallow wooden shelves of amber glass bottles with blank labels, dried lavender and ivory flowers tied above workbench. A simple brass balance, open botanical pages showing leaves only, empty ceramic mortar. Door at right looks toward bright fern planting. Camera eye level from threshold, workbench to left and clear center, gentle mysterious scholarly feel but luminous and welcoming. No skulls, insects, animals, taxidermy, specimen bodies or humanoid plants.
+Research direction: 维多利亚铸铁温室与植物教学空间，原创植物不含生物角色; original reinterpretation, retain Vicky lighting rather than copying the movie's color grading.
+
+生成依据：
+imports/film-scenes-02-20260929/events/12.json
+previews/film-scenes-02-20-20260928/verification.json

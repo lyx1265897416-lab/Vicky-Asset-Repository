@@ -1,0 +1,29 @@
+﻿第九局以后 · 六人表情 · Mara 新身份 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1375 × 1144
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 125:104 (approximately 1.202:1), target canvas 1375 × 1144 pixels.
+
+Create a six-character expression contact sheet, 3 columns by 2 rows of character sections, each section contains six equal headshots arranged 3 across by 2 down. Sections ordered: Kellan, Aria, Yuna / Theo, Mara, June. Add only a small name above each section. CAST IDENTITIES, keep each person visually distinct: Kellan, an 18-year-old boy with fair lightly freckled skin, hazel olive-green almond eyes, soft straight brown eyebrows, tousled voluminous ash-brown waves falling over the forehead, a slim softly defined jaw, straight medium-length narrow nose, natural rose lips with a fuller lower lip, clean-shaven youthful face and slender athletic build.
+Aria, a 17-year-old girl with fair lightly freckled skin, large gray-blue eyes, soft dark eyebrows, delicate oval face, small straight nose, full natural rose lips, long chestnut-brown hair loosely parted near the center, black rectangular eyeglasses and small gold hoop earrings.
+Yuna, a 17-year-old girl with fair warm skin, a short honey-blonde side-parted bob with tousled waves, gray-green eyes, a softly angular jaw, straight small nose and natural pink lips; composed and observant.
+Theo, a 17-year-old slim boy with fair freckled skin, dense short copper-auburn curls, green-brown eyes, a narrow youthful face, straight slender nose and a lightly playful closed-mouth expression; clean-shaven.
+Mara, an 18-year-old girl with warm light olive-beige skin, scattered freckles across cheeks and nose, hazel-green almond eyes, thick dark softly arched brows, distinct cheekbones, full natural lips, a softly oval-square jaw, and long voluminous ash-brown waves parted in the center. Her hair has fine warm highlights, her face is youthful and she has no glasses.
+June, a 38-year-old woman with warm fair skin, hazel eyes, a softly oval face with fine adult expression lines, chestnut-brown hair in a loose updo with face-framing strands, natural lips, warm steady gaze and small earrings.
+Within each section show the same individual with: neutral calm, soft smile, suspicious look, nervousness, restrained anger and emotionally resolved expression. Kellan gray hoodie, Aria black glasses and green sweater/white collar, Yuna burgundy blazer/white shirt, Theo gray hoodie and headphones, Mara red raincoat, June cream knit with gray-blue apron. Matching head scale, hair crown through upper chest, no clipping. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/the_ninth_inning/character_expression_sheets.png
+
+生成工具记录的提示词（可能依赖参考图）
+Edit only the bottom-middle Mara expression cell in the supplied six-character expression sheet. Replace all Mara expressions with the strict new Mara identity from the supplied orthographic sheet: youthful 18-year-old girl, warm light olive-beige skin, hazel-green eyes, thicker dark brows, prominent cheekbones, fuller natural lips, softly oval-square jaw, long voluminous ash-brown wavy center-parted hair, no glasses. Keep six expression slots and the existing cell layout: calm, soft smile, suspicious, nervous, angry, emotionally resolved. Mara must be clearly different from Aria: no black rectangular glasses, no gray-blue eyes, no straight chestnut hair. Keep Kellan, Aria, Yuna, Theo and June cells completely unchanged. Preserve bright pale cream studio light, labels and natural skin texture, no logos, no extra text.
+
+生成依据：
+metadata/evidence/exec-7bec65f2-1264-42fa-a0d5-633f7ebb10d8.json

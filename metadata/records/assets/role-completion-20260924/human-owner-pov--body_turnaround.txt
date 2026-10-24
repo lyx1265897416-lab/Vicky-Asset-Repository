@@ -1,0 +1,21 @@
+﻿主人 / 玩家 POV · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic full-body three-view turnaround of a young adult woman with fair skin, long tousled dark-blonde waves, pale blue-gray eyes, soft oval face, small straight nose and natural rose lips. Mist powder-blue cotton pajama shirt with white piping, notched collar, white buttons and chest pocket, matching straight pajama trousers, barefoot, no jewelry. Three equal vertical panels: exact FRONT, exact LEFT SIDE, exact BACK. Natural slender7.7-head proportion and long legs, same body height and same person across views. Upright level head, shoulders balanced, arms relaxed at sides, full hair and all toes visible with margin. Warm ivory seamless studio background, diffuse bright morning daylight, low-contrast open shadows, natural pores and cotton creases, no text or other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-owner-pov--body_turnaround.json
+
+实际带参考图生成提示词
+Create character-production body turnaround using attached identity and pajama reference exactly. Do not retain crossed ankles or head tilt. Photorealistic full-body three-view turnaround of a young adult woman with fair skin, long tousled dark-blonde waves, pale blue-gray eyes, soft oval face, small straight nose and natural rose lips. Mist powder-blue cotton pajama shirt with white piping, notched collar, white buttons and chest pocket, matching straight pajama trousers, barefoot, no jewelry. Three equal vertical panels: exact FRONT, exact LEFT SIDE, exact BACK. Natural slender7.7-head proportion and long legs, same body height and same person across views. Upright level head, shoulders balanced, arms relaxed at sides, full hair and all toes visible with margin. Warm ivory seamless studio background, diffuse bright morning daylight, low-contrast open shadows, natural pores and cotton creases, no text or other people.
+
+生成依据：
+imports/role-completion-20260924/events/human-owner-pov--body_turnaround.json

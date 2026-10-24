@@ -1,0 +1,22 @@
+﻿男角色23组 · 特写三视图 · 07 · 安静书卷气 · 正面/正侧面/背面 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+East Asian adult man with a slender long face, tousled black hair, thick black rounded-square glasses and dark eyes, wearing a charcoal tee. Create a standalone photorealistic close-up character turnaround triptych on a 1536 x 1024 pixel horizontal canvas. Show exactly three matching views of this one fictional adult man, arranged left to right: perfectly frontal direct gaze; true 90-degree profile with the nose pointing toward image right; exact rear view showing the back of the hairstyle, ears, nape and upper shoulders, with no face visible. Keep identical facial identity, hairstyle, glasses and clothing across all views. Camera at eye level, head upright, neutral relaxed closed lips, head-and-upper-shoulders crop, entire hairstyle visible with roughly 8% top margin. Three equal-width view areas with aligned crown and chin height and consistent head scale. Pure white seamless background, bright soft balanced studio lighting, minimal shadows, realistic natural skin pores and fine hairs, subtle halation, 50mm perspective, sharp face and gently shallow depth of field. Preserve realistic individual asymmetry. No text, labels, watermarks, borders, props, hands or full body.
+
+依据已确认成图及原角色资料重建独立文生图提示词，未进行纯文字重生成相似度验证；严格保持身份时需结合此成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/closeup-male-23-20260923/originals/character-07-closeup-turnaround.png
+
+原始生成提示词：
+Use case: identity-preserve. Create ONE photorealistic close-up character turnaround triptych of the SAME approved fictional adult male shown in the input. Input image is the sole identity authority; preserve exact facial structure, proportions, eyes, nose, lips, jaw, age, skin tone, asymmetry, hairstyle/hairline, glasses if present, and clothing. Do not redesign, beautify or replace the person. Output a wide 3:2 image, 1536x1024 pixels, three equally sized vertical view areas arranged horizontally on a seamless pure white #FFFFFF background. LEFT: perfectly frontal face, direct gaze. CENTER: exact 90-degree left-side profile, nose points toward image RIGHT, only one eye visible, ear naturally visible, no three-quarter angle. RIGHT: exact 180-degree rear view, back of head, hair, ears, nape and upper shoulders, absolutely no face visible. These are three camera views of one consistent head, not three different people. All three views at identical eye-level camera height and identical head scale, upright with no tilt; crown and chin/nape levels aligned. Tight head-and-upper-shoulders framing, whole hairstyle visible, ~8% top margin, upper chest crop, no waist, hands or full body. Front and side lips relaxed closed, neutral expression. Side and back anatomy inferred coherently from this character's approved face, hair and clothing. Bright soft balanced studio illumination adapted to each view, very low shadows, natural unretouched skin pores and fine hairs, subtle halation, photorealistic real-life texture, 50mm perspective with minimal distortion, eyes sharp, gentle shallow depth of field. Clothing and glasses consistently rotate with the head/body across views. No added accessories, text, numbers, labels, borders, separator lines, watermark, gray background or dramatic lighting. EXACTLY THREE views in requested order: FRONT, TRUE PROFILE, BACK.
+
+生成依据：
+metadata/evidence/closeup-male-23-20260923.json
+imports/closeup-male-23-20260923/generation-record.json

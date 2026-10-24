@@ -1,0 +1,21 @@
+﻿完整造型 · 28 · 藏蓝Polo阔腿装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. One complete styled outfit, photorealistic product catalog image, portrait 2:3, pure white seamless background, soft studio light. Invisible hollow clothing with no person, body, skin or visible mannequin. Clothing: Fitted short-sleeve dark navy polo with crisp white pointed collar and white V placket, faded pale-blue extra-wide jeans, black white canvas low-top sneakers. No logo.  Accessories: One burgundy woven necktie with thin diagonal ivory and charcoal stripes, loosely knotted, full length visible. ; One burgundy leather blank card holder keychain with a small bronze key charm, no readable text. ; One silver double-drape trouser chain with small metal clip ends, no other objects. ; One dark brown almost-black leather belt with aged oval brass buckle, gently coiled.  All attachable accessories worn naturally on the ensemble at realistic scale. Unattachable tiny accessories arranged adjacent to the ensemble. Full uncropped framing, no text, logos or watermark.
+
+依据已入库服装和独立配饰合成完整无人造型。精确单品请从套装详情打开原始服装与配饰图。
+
+
+来源：服装31组 · 参考 28 · 已入库服装与配饰组合
+
+原始生成提示词：
+Use case: precise-object-edit. Change only the burgundy card-holder location: remove the long burgundy shoulder strap and move the small red card-holder with brass key to hang directly from a jeans belt loop near the hip, at natural small keychain scale. No bag and no shoulder strap. Keep the navy white-collar fitted polo, brown-black belt, waistband burgundy striped tie, silver jeans chain, very wide pale denim jeans, black white sneakers, pure white background, soft light and full 2:3 framing unchanged. No person, body or mannequin.
+
+生成依据：
+imports/wardrobe-complete-31-20260928/events/complete-28.json

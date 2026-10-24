@@ -1,0 +1,97 @@
+{
+  "id": "web-kevin-usuan1100208",
+  "asset_kind": "bgm",
+  "name": "Heartbreaking",
+  "original_title": "Heartbreaking",
+  "artist": "Kevin MacLeod",
+  "origin": "web",
+  "project": "网络精选 · Kevin MacLeod",
+  "project_id": "web-kevin",
+  "episodes": [],
+  "category": "悲伤抒情",
+  "tags": [
+    "悲伤抒情",
+    "钢琴",
+    "失落",
+    "离别"
+  ],
+  "status": "confirmed",
+  "model": null,
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-web-20260929/evidence/web-kevin-usuan1100208.json",
+    "imports/bgm-web-20260929/download-records/web-kevin-usuan1100208.json",
+    "imports/bgm-web-20260929/evidence/incompetech-pieces.json",
+    "imports/bgm-web-20260929/evidence/incompetech-sample.html",
+    "imports/bgm-web-20260929/evidence/kevin-faq.html",
+    "imports/bgm-web-20260929/evidence/cc-by-4.html",
+    "imports/bgm-web-20260929/evidence/research-notes.json"
+  ],
+  "variants": [
+    {
+      "id": "b888fa087b580959",
+      "track_id": "web-kevin-usuan1100208",
+      "path": "assets/bgm/web-20260929/web-kevin-usuan1100208/original.mp3",
+      "bytes": 3947252,
+      "sha256": "b888fa087b580959d5bd49e61340b44dc0b9f85cd3b4c2d35042d47edea77ae8",
+      "extension": ".mp3",
+      "label": "官方原始 MP3",
+      "duration_seconds": 96.05,
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heartbreaking.mp3",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heartbreaking.mp3"
+      ],
+      "decode_check": "passed",
+      "decoded_seconds": 96.03999999999999,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 320 kb/s",
+      "http_content_length": 3947252,
+      "http_content_type": "application/octet-stream",
+      "final_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heartbreaking.mp3",
+      "checked_on": "2026-09-29",
+      "http_headers": {
+        "Date": "Tue, 29 Sep 2026 12:00:14 GMT",
+        "Server": "Apache/2.4.56 (Debian)",
+        "Last-Modified": "Sun, 15 Feb 2015 14:09:33 GMT",
+        "ETag": "\"3c3af4-50f2104d5a140\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "3947252",
+        "Link": "https://incompetech.com/.well-known/openapi.yaml; rel=\"describedby\"",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0",
+        "Content-Disposition": "attachment",
+        "Connection": "close",
+        "Content-Type": "application/octet-stream"
+      }
+    }
+  ],
+  "default_variant": "b888fa087b580959",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "可商用 · 需署名",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://incompetech.com/music/royalty-free/faq.html",
+    "track_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100208",
+    "checked_on": "2026-09-29",
+    "basis": "官方当前曲目页模板及 FAQ；ISRC USUAN1100208",
+    "attribution": "\"Heartbreaking\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100208",
+    "usage_notes": [
+      "免费商用须署名：保留作者、曲名、来源和 CC BY 4.0 链接；若剪辑、循环或改编，请说明改动。"
+    ],
+    "content_id_note": "许可不保证平台自动识别零误报；保留官方来源与署名，遇申诉按平台流程提供依据。"
+  },
+  "popularity": {
+    "tier": "风格补齐",
+    "priority": 72,
+    "basis": "用于补齐曲风和剧情场景，未宣称高热。",
+    "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100208",
+    "checked_on": "2026-09-29"
+  },
+  "credit_download": "assets/bgm/web-20260929/web-kevin-usuan1100208/CREDITS.txt",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
+  },
+  "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。官方当前曲目页模板及 FAQ；ISRC USUAN1100208"
+}

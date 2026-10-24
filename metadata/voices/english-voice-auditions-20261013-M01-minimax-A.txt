@@ -1,0 +1,49 @@
+﻿清冷威严男 · MiniMax
+项目：英文音色选角 · 2026-10-13
+角色：清冷威严男
+年龄设计：32–40岁（设计方向）
+身份用途：通用剧情角色
+音色标签：清冷威严男
+模型：minimax/voice-design
+入库依据：用户通过附件 vicky-voice-shortlist.json 选中 M01-minimax-A，并明确要求“这些加入音色库”。
+原始样音：/Users/vicky/Interactive storyline/output/english-voice-auditions-20261013/audio/M01-minimax-A.mp3
+试听/下载文件SHA256：1b8bf006e63a5712c51968f6bc6d233f22f5f2d574e6fd3a1b57cc17b3aa9db3
+原始音频（保留）：assets/voices/confirmed-20261013/english-voice-auditions-20261013-M01-minimax-A.mp3
+原始SHA256：d0fe5ab481e1bb7093fca2df7e2c2dcdf27e0e380c9319a873b70191b07451b3
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.16 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/english-voice-auditions-20261013-M01-minimax-A-fd5dd2aeb66fed87f6eb.json
+去除开头等待：0.02秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.3299秒；总计去除：0.3499秒
+当前试听时长：10.61秒
+
+试听台词：
+Stay here. Look at me. Whatever happens beyond that door, you have my word. I will handle it. Now, tell me the truth.
+
+声音描述：
+MiniMax Voice Design 根据英文文字描述创建的音色；保留 custom_voice_id，后续新台词复用尚待验证。
+Native American English. Adult male, 32–40. Studio quality. Resonant low baritone, smooth dark chest resonance, precise consonants. Slow measured phrasing with decisive falling sentence endings. Restrained, cool, commanding; authority through stillness. Natural dialogue, never a trailer announcer.
+
+自动台词检查：
+自动转写与台词基本一致，已容许 alright/all right 与 gonna/going to 等写法差异；不是人工逐字校验。
+Stay here look at me whatever happens beyond that door you have my word I Will handle it now tell me the truth
+
+已有生成参数：
+{
+  "prompt": "Native American English. Adult male, 32–40. Studio quality. Resonant low baritone, smooth dark chest resonance, precise consonants. Slow measured phrasing with decisive falling sentence endings. Restrained, cool, commanding; authority through stillness. Natural dialogue, never a trailer announcer.",
+  "custom_voice_id": "VickyAud20261013M01A",
+  "text": "Stay here. Look at me. Whatever happens beyond that door, you have my word. I will handle it. Now, tell me the truth."
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "provider": "MiniMax",
+  "official_url": "https://platform.minimax.io/docs/api-reference/voice-design-design",
+  "reuse_note": "保留 custom_voice_id 和原始音频；托管供应方账户下的后续调用与声线持续可用性未验证。"
+}
+确认记录：imports/english-voice-auditions-20261013/confirmation.json
+imports/english-voice-auditions-20261013/jobs/M01-minimax-A.json
+imports/english-voice-auditions-20261013/evidence/auditions.json
+imports/english-voice-auditions-20261013/evidence/transcripts.json
+imports/english-voice-auditions-20261013/evidence/source-notes.json

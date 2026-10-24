@@ -1,0 +1,21 @@
+﻿白底女角色32组 28 · 棕色碎刘海橄榄背心 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One original fictional adult woman, age 23. Long textured dark brown waves with airy wispy bangs, medium warm olive skin, hazel-brown eyes, full natural rose lips, softly rounded oval face, olive green scoop-neck tank top. Olive-green scoop-neck ribbed tank, high-waisted cream straight cargo trousers and brown canvas low-top sneakers. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-front-id-32-20260923-28--full_body.json
+
+实际带参考图生成提示词
+Use attached confirmed portrait as strict character identity and photographic style reference. Do not change her face, age or ethnic appearance. Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One original fictional adult woman, age 23. Long textured dark brown waves with airy wispy bangs, medium warm olive skin, hazel-brown eyes, full natural rose lips, softly rounded oval face, olive green scoop-neck tank top. Olive-green scoop-neck ribbed tank, high-waisted cream straight cargo trousers and brown canvas low-top sneakers. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+
+生成依据：
+imports/role-completion-20260924/events/human-front-id-32-20260923-28--full_body.json

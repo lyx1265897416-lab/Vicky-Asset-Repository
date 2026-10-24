@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 010 · 藏蓝叠穿短袖衬衫 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Navy short sleeve button shirt over white collared shirt with white rolled cuffs; deep brown wide-leg tailored trousers; black shoes.. Add ONLY these accessories: A narrow plain black necktie, tied neatly at the shirt collar.; Black smooth leather belt with simple silver rectangular buckle, complete belt shown in a loose oval.; A silver trouser key chain with hook, short linked chain, key-shaped metal charms and a narrow brown leather tassel, shown detached as one accessory.; A medium black soft leather handbag with short rounded handles and relaxed slouchy body.. Use each accessory once. Neckties are tied with one knot and the narrow tail hidden; for sweater layers tuck the long tail under the sweater. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记1-图10 整图
+
+原始生成提示词：
+Edit this exact product image. Fix the black necktie to ONE tied necktie: one small centered knot beneath white collar and one broad front tail. The narrow rear tail must be completely hidden. No two separate dangling strips. Preserve all other garment cuts, colors, textures and proportions. Keep pure white background, fully visible uncropped outfit and accessories, hollow empty garments without human body, skin or mannequin. Do not add anything.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/complete-010-v2.json
+imports/wardrobe-xhs-5-20260930/source-01.json

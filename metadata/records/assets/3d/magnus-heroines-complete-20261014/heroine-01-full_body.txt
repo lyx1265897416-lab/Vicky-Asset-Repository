@@ -1,0 +1,21 @@
+﻿Magnus 女主 01 · 榛栗微光 · 全身照
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-14
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. One full-body frontal standing woman, long-lens undistorted view, complete head and shoes, relaxed arms, portrait 2:3. Graceful natural adult proportions about 7.8 heads tall. Character design: 24-year-old adult human woman. Chestnut-brown long soft waves with a natural side part, hazel-green eyes. Broad softly heart-shaped face, gently rounded cheekbones, low softly arched brows, slightly rounded upturned nose, medium full rose lips, small rounded chin. Warm ivory skin with very subtle freckles at the nose. Quiet warm closed-mouth half-smile, direct steady eyes showing inner resolve. Cream fine-knit cardigan worn normally over an opaque sage-green square-neck top, tiny brushed gold oval pendant and small gold studs. Natural understated makeup. Warm approachable everyday city woman, emotionally grounded rather than fragile or childlike. Current outfit (supersedes any conflicting clothing above): Sophisticated light contemporary romantic outfit: a fitted IVORY fine-knit CROPPED cardigan ending at the natural waist, neat shoulder seams, delicate small pearl buttons, worn open over the same sage square-neck camisole. A high-waisted sage-green silk SATIN bias-cut midi skirt, slim fluid drape skimming the hips and gently flaring, hem below the knee but well above ankle, subtle side slit only to knee. Ivory pointed-toe slingback pumps with a slim 5cm heel. No heavy ankle boots, no bulky long cardigan, no pleated volume. Same gold studs and oval pendant. Graceful 7.8-head adult proportions, slightly longer legs, natural waist, balanced shoulder width, elegant neck. This is gentle modern romantic fashion, not a conservative country outfit.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-01-full_body.png
+
+实际生成提示词
+Use case: identity-preserve. Image 1 is the approved FACE IDENTITY reference; preserve this exact adult woman's facial geometry, eye color, skin tone, freckles, hair and jewelry. Image 2 is the REJECTED full-body version; redesign its body proportions and fashion as specified, do not repeat its outfit silhouette. Create ONE premium otome 2.5D/3D full-body frontal standing character portrait, 1024x1536, pure white backdrop, neutral bright studio light. Full head and both shoes visible with white margins. Camera level at mid torso, long-lens perspective, avoid foreshortening or wide-angle. Graceful upright posture, relaxed arms and empty hands. Visibly rendered delicate CG consistent with identity portrait, subtle skin texture, detailed hair strands. Aim 7.8 heads from skull crown to sole, long balanced legs, correctly placed knees, normal hands, refined shoulders/neck, natural healthy adult anatomy. Do not change identity. No text, watermark, additional characters or scene. Outfit and silhouette: Sophisticated light contemporary romantic outfit: a fitted IVORY fine-knit CROPPED cardigan ending at the natural waist, neat shoulder seams, delicate small pearl buttons, worn open over the same sage square-neck camisole. A high-waisted sage-green silk SATIN bias-cut midi skirt, slim fluid drape skimming the hips and gently flaring, hem below the knee but well above ankle, subtle side slit only to knee. Ivory pointed-toe slingback pumps with a slim 5cm heel. No heavy ankle boots, no bulky long cardigan, no pleated volume. Same gold studs and oval pendant. Graceful 7.8-head adult proportions, slightly longer legs, natural waist, balanced shoulder width, elegant neck. This is gentle modern romantic fashion, not a conservative country outfit.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-01-full_body.json

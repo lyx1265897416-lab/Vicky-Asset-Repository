@@ -1,0 +1,23 @@
+﻿Rae Collins · confirmed full body turnaround
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1:1 (approximately 1.000:1), target canvas 1254 × 1254 pixels.
+
+Square photographic full-body character turnaround with three equal vertical panels: front view, exact left-facing 90-degree profile, direct back view with no face visible. One fictional adult Rae, age 38, with fair freckled skin, green-hazel eyes, short copper-auburn side-parted bob, defined adult cheekbones, narrow straight nose, fine expression lines, rose lips and tiny silver hoop earrings.  Same figure rotating, neutral stance, relaxed arms, complete hands, all hair and shoes visible, crowns and soles aligned on common level ground. Balanced natural adult proportions with long legs, no stretched neck or miniature head. Wardrobe in every view: gray-beige double-breasted suit jacket with dark buttons, matching wide straight trousers, pale blue pinstripe shirt, navy tie and black loafers. Neutral closed lips. Plain matte cool-gray studio wall and gray floor, soft cool blue-gray daylight and even fill, subtle fine film grain, real pores, fine facial hair, matte skin and real fabric weave. Photographic live-action casting reference, no stylized 3D, no wax skin, heavy retouching, strong warm tint, drama lighting, text, labels or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/off-script/character-design/turnaround-v3/images/Rae-body.png
+
+生成工具记录的提示词（可能依赖参考图）
+Square high-resolution real photographic FULL BODY 3-view turnaround of same Rae. Reference1 head triptych is SOLE identity source: preserve face at small scale exactly, including true profile, hairline, age, nose/chin and skin. Reference2 is ONLY clothes/accessories, IGNORE its faces. THREE full-height equal columns: FRONT eye-level head upright with neutral closed lips, 90degree LEFT PROFILE entire body and head face left, BACK facing directly away. Same physical actor rotating, not different people. Crown and soles align. Each figure fills90% of frame height, complete feet. Natural relaxed upright arms/hands beside hips, no mannequin tension or fashion pose. taupe grey doublebreasted structured blazer with SLIGHT tailored waist, matching wideleg trousers, light blue pinstripe shirt, navy subtle patterned tie, low black shoes, small silver hoops. NO GLASSES anywhere. Adult38,172cm, preserve original adult female build.. Face in fullbody is EXACT MATCH to reference1; do not genericize or beautify. Plain matte cool grey actual wall and dry floor, soft cool grey-blue daylight, balanced fill and gentle floor contact shadow. Same wardrobe details and proportions every view, real skin/fabric, subtle grain, quiet live-action, no render/CG/plastic/oily/glossy style. Only3 fullbody panels no extra portraits or flatlays or captions, no logos or watermark. Maximum available detail.
+
+生成依据：
+metadata/evidence/exec-1d848023-e5c8-4972-911d-c29fbdc947e2.json

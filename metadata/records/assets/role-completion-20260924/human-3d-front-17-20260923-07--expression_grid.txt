@@ -1,0 +1,21 @@
+﻿白底3D角色17组 07 · 银发碧袖 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with silver blonde hair in a high ponytail and sweeping wispy bangs, gray-green eyes, pale skin and a small subtle healed scar on one cheek. Bronze ornamental crown and dangling earrings with rust tassels. Ivory and teal brocade robes with antique metallic edging and rust accents, calm determined expression. Complete ivory and deep teal brocade long dress with high collared jacket, antique bronze floral clasps, rust tassels, teal waist sash, graceful long pleated SKIRT with ivory front panel, dark teal flat embroidered boot tips visible under the hem. No pants. Tall athletic feminine 179 cm. Subtle healed scar on her left cheek, visible image-right in front. Do not add gore. Exactly nine head-and-shoulders portraits of this ONE SAME person in a clean 3 by 3 equal panel expression grid, every face front-facing eye-level same scale and consistent face hair clothes. Row1 neutral, gentle closed-mouth smile, happy open smile; row2 surprise mouth O, worried frown, quiet sadness; row3 focused anger, skeptical raised eyebrow, playful small wink. Expressions clearly distinct but attractive and natural. Full hair and shoulders inside each cell. Square overall canvas. Narrow white gutters, no text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-front-17-20260923-07--expression_grid.json
+
+实际带参考图生成提示词
+Use attached approved character image as strict face, hair, ornaments and clothing reference. Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with silver blonde hair in a high ponytail and sweeping wispy bangs, gray-green eyes, pale skin and a small subtle healed scar on one cheek. Bronze ornamental crown and dangling earrings with rust tassels. Ivory and teal brocade robes with antique metallic edging and rust accents, calm determined expression. Complete ivory and deep teal brocade long dress with high collared jacket, antique bronze floral clasps, rust tassels, teal waist sash, graceful long pleated SKIRT with ivory front panel, dark teal flat embroidered boot tips visible under the hem. No pants. Tall athletic feminine 179 cm. Subtle healed scar on her left cheek, visible image-right in front. Do not add gore. Exactly nine head-and-shoulders portraits of this ONE SAME person in a clean 3 by 3 equal panel expression grid, every face front-facing eye-level same scale and consistent face hair clothes. Row1 neutral, gentle closed-mouth smile, happy open smile; row2 surprise mouth O, worried frown, quiet sadness; row3 focused anger, skeptical raised eyebrow, playful small wink. Expressions clearly distinct but attractive and natural. Full hair and shoulders inside each cell. Square overall canvas. Narrow white gutters, no text.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-front-17-20260923-07--expression_grid.json

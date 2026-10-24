@@ -1,0 +1,22 @@
+﻿别演，吻我 · 排练厅正反打／走廊／化妆间／剧场／门厅
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-20
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+生成一张完整的场景设定图板，画幅 1536×1024。两列三行伦敦独立剧场写实勘景照片板：排练室朝黑幕与木凳；同室反打朝双扇门；侧窗走廊；带朴素灯泡镜台与衣架的化妆间；红座椅小剧场；深绿灰墙和木接待台门厅。灰白旧墙、黑色磨损地板、自然窗光、普通人类尺度，克制实用灯，真实摄影材质，不做豪华效果，无主角，无额外标题。
+
+独立提示词按现有成图重建，原始生成记录另存。纯文字不保证像素级复现；本次保留源PNG，不裁切、不重绘。
+
+
+来源：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/images/theatre-v2.png
+
+生成事件记录的提示词
+Edit this exact 2-column by 3-row theatre location reference sheet, preserving all six rooms, camera positions, window/door positions, bench positions, and furniture. Only revise material rendering and lighting to REAL ordinary photographed locations. It currently looks too glossy and romantically graded. Make black painted rehearsal floor scuffed but MATTE and dry, not shiny oil; grey wall plaster naturally imperfect not hyper-sharpened, window light soft neutral-cool real overcast daylight, lamps small practical illumination with very restrained warmth, NO bloom, halos, fog, orange-teal grading, amber wash, HDR or painterly textures. In corridor, reduce warm sconce intensity; dressing room mirrors should be ordinary bulbs without glow, keep furniture and garment rail. Auditorium stays dark but plausible real work-light exposure, foyer ordinary lived-in public theatre lobby not a luxury hotel. Preserve the exact 3 windows west wall in rehearsal front and opposite projected right in reverse. Preserve modest scale, all architecture and six-panel ordering. Live-action human drama still-photo scout sheet, not CGI or architecture illustration. No people or text.
+
+生成依据：
+imports/confirmed-scenes-20260928/evidence/off-script-theatre-generation.json
+imports/confirmed-scenes-20260928/evidence/approval-records.json

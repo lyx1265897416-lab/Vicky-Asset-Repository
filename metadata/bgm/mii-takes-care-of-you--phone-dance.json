@@ -1,0 +1,117 @@
+{
+  "id": "mii-takes-care-of-you--phone-dance",
+  "asset_kind": "bgm",
+  "name": "手机里的小狗舞蹈",
+  "project": "今天不要上班，咪养你",
+  "project_id": "mii-takes-care-of-you",
+  "episodes": [
+    "EP001"
+  ],
+  "tags": [
+    "舞蹈",
+    "轻快"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original instrumental catchy happy short dance loop for a tiny corgi dancing in a phone video, 112 BPM, bouncy clean bass, dry handclaps, compact bright plucked synth melody. Four beat count groove, playful light footwork, wholesome funny puppy wiggle, no vocals or speech, no recognizable borrowed melody. Immediately establishes beat, repeatable 4 bar phrase.",
+    "music_length_ms": 24000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original instrumental catchy happy short dance loop for a tiny corgi dancing in a phone video, 112 BPM, bouncy clean bass, dry handclaps, compact bright plucked synth melody. Four beat count groove, playful light footwork, wholesome funny puppy wiggle, no vocals or speech, no recognizable borrowed melody. Immediately establishes beat, repeatable 4 bar phrase.",
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--phone-dance/projects/mii-takes-care-of-you/视频制作-v2.6/music/phone-dance-request.json",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--phone-dance/projects/mii-takes-care-of-you/视频制作-v2.6/music/phone-dance-result.json",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--phone-dance/projects/mii-takes-care-of-you/视频制作-v2.6/scripts/render_music.py",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--phone-dance/projects/mii-takes-care-of-you/视频制作-v2.7/scripts/refine_music.py",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--phone-dance/projects/mii-takes-care-of-you/视频制作-v2.12/scripts/audio_fix.py"
+  ],
+  "variants": [
+    {
+      "track_key": "mii-takes-care-of-you--phone-dance",
+      "key": "phone-dance",
+      "family": "mii-takes-care-of-you",
+      "name": "手机里的小狗舞蹈",
+      "tags": [
+        "舞蹈",
+        "轻快"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 24.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.6/music/phone-dance.mp3",
+      "sources": [
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v27/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-test/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/revision-v26/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v35-check/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.6/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v33-check/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v31-check/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.7/mobile-preview/public/interactive-v27/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v34-check/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-check/music/phone-dance.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v26/music/phone-dance.mp3"
+      ],
+      "sha256": "ac34e668bbc3348e97ba4518e6af4eb0404ccaad76e7c0c38f452195cf5fad14",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "ac34e668bbc3348e",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--phone-dance/ac34e668bbc3348e.mp3",
+      "bytes": 576621
+    },
+    {
+      "track_key": "mii-takes-care-of-you--phone-dance",
+      "key": "phone-dance",
+      "family": "mii-takes-care-of-you",
+      "name": "手机里的小狗舞蹈",
+      "tags": [
+        "舞蹈",
+        "轻快"
+      ],
+      "label": "混音配乐片段 · WAV",
+      "duration_seconds": 24.02,
+      "audio_description": "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.7/audio/bgm-phone-dance.wav",
+      "sources": [
+        "projects/mii-takes-care-of-you/视频制作-v2.7/audio/bgm-phone-dance.wav"
+      ],
+      "sha256": "ff5e3c04e40bc75bb387baf504d954f8d353c5d4fc74d0b3de420c0bbce52007",
+      "extension": ".wav",
+      "decode_check": "passed",
+      "id": "ff5e3c04e40bc75b",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--phone-dance/ff5e3c04e40bc75b.wav",
+      "bytes": 4612686
+    },
+    {
+      "track_key": "mii-takes-care-of-you--phone-dance",
+      "key": "phone-dance",
+      "family": "mii-takes-care-of-you",
+      "name": "手机里的小狗舞蹈",
+      "tags": [
+        "舞蹈",
+        "轻快"
+      ],
+      "label": "连续配乐循环 · WAV",
+      "duration_seconds": 20.5,
+      "audio_description": "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.7/audio/loop-phone-dance.wav",
+      "sources": [
+        "projects/mii-takes-care-of-you/视频制作-v2.7/audio/loop-phone-dance.wav"
+      ],
+      "sha256": "da3e0b1851f629b113cfaacbf6a9c7dd79bf7923f5fdb2a34f7ca2f4d1175b15",
+      "extension": ".wav",
+      "decode_check": "passed",
+      "id": "da3e0b1851f629b1",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--phone-dance/da3e0b1851f629b1.wav",
+      "bytes": 3936078
+    }
+  ],
+  "default_variant": "ac34e668bbc3348e",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

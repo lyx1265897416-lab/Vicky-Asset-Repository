@@ -1,0 +1,23 @@
+﻿原创3D角色28组 02 · 夜色机车 · 正面平视
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Use case: stylized-concept. Generate ONE original adult character for a coordinated 28-character premium romantic 3D CG collection. Style: high-end Chinese otome game / animated cinematic character modeling, subtly idealized sculpted facial anatomy, luminous smooth translucent skin with fine restrained microtexture, soft subsurface scattering, beautiful detailed eyes, individually groomed wispy hair strands, finely rendered fabric/metal. Clearly polished dimensional CG rather than a real-person photograph. NOT gritty, no coarse pores, no plastic doll sheen, no outlines. Scene: solid PURE WHITE #FFFFFF seamless background. Lighting: bright soft neutral frontal studio light with balanced fill, delicate facial modeling shadows, subtle luminous bloom, no dramatic darkness or colored backdrop. Composition: EXACT 1024x1536 portrait 2:3. A single centered frontal eye-level character, head upright shoulders level, looking at viewer; waist-up to lower chest portrait. Entire hair, head ornaments and shoulders visible with 8% blank white margin above topmost hair or ears. Same camera distance, head including hair around 40% of canvas height. 85mm-like perspective. Relaxed arms down, hands outside frame. Design a clearly new identity, not a replica of any known game character or reference portrait: specific distinct eye shape, nose, lips, jaw and proportions described below are crucial. All adults. No text, brands, watermarks, signature, frames, labels, collage or additional people.
+Character design: Male age 30. Midnight-black short brushed-back hair with wavy lifted quiff and one curved forelock, muted amethyst eyes. Wide rectangular face, pronounced cheek planes, deep-set narrow eyes, gently crooked prominent nose bridge, thin wide mouth, firm rounded chin. Neutral light beige skin. Black leather biker jacket with subtle silver zips over black ribbed turtleneck. Controlled confident gaze.
+
+已保留本次确认原图与实际生成记录；文字提示词未经复现验证，严格保持身份请使用本张身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-original-28-selected-20260924/originals/character-02.png
+
+实际原始文生图提示词
+Use case: stylized-concept. Generate ONE original adult character for a coordinated 28-character premium romantic 3D CG collection. Style: high-end Chinese otome game / animated cinematic character modeling, subtly idealized sculpted facial anatomy, luminous smooth translucent skin with fine restrained microtexture, soft subsurface scattering, beautiful detailed eyes, individually groomed wispy hair strands, finely rendered fabric/metal. Clearly polished dimensional CG rather than a real-person photograph. NOT gritty, no coarse pores, no plastic doll sheen, no outlines. Scene: solid PURE WHITE #FFFFFF seamless background. Lighting: bright soft neutral frontal studio light with balanced fill, delicate facial modeling shadows, subtle luminous bloom, no dramatic darkness or colored backdrop. Composition: EXACT 1024x1536 portrait 2:3. A single centered frontal eye-level character, head upright shoulders level, looking at viewer; waist-up to lower chest portrait. Entire hair, head ornaments and shoulders visible with 8% blank white margin above topmost hair or ears. Same camera distance, head including hair around 40% of canvas height. 85mm-like perspective. Relaxed arms down, hands outside frame. Design a clearly new identity, not a replica of any known game character or reference portrait: specific distinct eye shape, nose, lips, jaw and proportions described below are crucial. All adults. No text, brands, watermarks, signature, frames, labels, collage or additional people.
+Character design: Male age 30. Midnight-black short brushed-back hair with wavy lifted quiff and one curved forelock, muted amethyst eyes. Wide rectangular face, pronounced cheek planes, deep-set narrow eyes, gently crooked prominent nose bridge, thin wide mouth, firm rounded chin. Neutral light beige skin. Black leather biker jacket with subtle silver zips over black ribbed turtleneck. Controlled confident gaze.
+
+生成依据：
+metadata/evidence/3d-original-28-selected-20260924-02.json

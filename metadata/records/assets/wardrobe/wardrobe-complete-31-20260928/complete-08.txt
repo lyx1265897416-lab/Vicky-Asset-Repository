@@ -1,0 +1,21 @@
+﻿完整造型 · 08 · 棕色条纹衬衫
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. Generate a NEW photorealistic clothing-library product photograph inspired by the described reference, not a copy of a screenshot. Pure opaque white #FFFFFF seamless background, bright soft frontal studio lighting, minimal soft contact shadow, crisp realistic fabric texture, true garment colors, no dramatic shadows. Portrait 2:3 canvas, complete centered objects with generous clear margin. Front-facing straight camera. No people, skin, head, neck, hands, legs, body, visible mannequin, stand, hanger, room, typography, logos, brand marks, watermarks, borders or collage. ONE coordinated CLOTHING-ONLY ensemble on an invisible ghost mannequin: Oversized ivory-and-taupe narrow vertical-striped shirt with cocoa brown knit sweater draped over shoulders and sleeves tied loosely in front, dark brown wide-leg denim pants, clean white sneakers. Draped sweater is a garment and remains. Natural hollow three-dimensional garment drape. Shoes and socks are part of this ensemble if described. EXCLUDE all detachable accessories: no ties, bags, jewelry, belts, glasses, headphones, hats, keychains, brooches, or hanging charms. No skin anywhere.
+
+依据用户参考图的服装、色彩与材质重新生成；纯白无人展示。配饰独立生成，同款跨套装共用。
+
+原参考无独立配饰，完整造型沿用已入库服装原图，未再次生成。
+来源：服装31组 · 参考 08 · 已入库服装与配饰组合
+
+原始生成提示词：
+Use case: product-mockup. Generate a NEW photorealistic clothing-library product photograph inspired by the described reference, not a copy of a screenshot. Pure opaque white #FFFFFF seamless background, bright soft frontal studio lighting, minimal soft contact shadow, crisp realistic fabric texture, true garment colors, no dramatic shadows. Portrait 2:3 canvas, complete centered objects with generous clear margin. Front-facing straight camera. No people, skin, head, neck, hands, legs, body, visible mannequin, stand, hanger, room, typography, logos, brand marks, watermarks, borders or collage. ONE coordinated CLOTHING-ONLY ensemble on an invisible ghost mannequin: Oversized ivory-and-taupe narrow vertical-striped shirt with cocoa brown knit sweater draped over shoulders and sleeves tied loosely in front, dark brown wide-leg denim pants, clean white sneakers. Draped sweater is a garment and remains. Natural hollow three-dimensional garment drape. Shoes and socks are part of this ensemble if described. EXCLUDE all detachable accessories: no ties, bags, jewelry, belts, glasses, headphones, hats, keychains, brooches, or hanging charms. No skin anywhere.
+
+生成依据：
+imports/wardrobe-31-20260928/events/look-08.json

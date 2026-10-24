@@ -1,0 +1,21 @@
+﻿Owen Price · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+One independent full-length studio photograph of adult man age24 with pale skin, ash-blonde center-parted curtain hair, gray-green eyes, slim long face, narrow sculpted jaw, fine straight nose and soft pink lips. Wearing long black wool overcoat over open white shirt and fine black turtleneck, tailored black trousers and black leather Chelsea boots. Slender tall natural 8.3-head proportions with long legs, preserve original adult age and individual build. Perfect front-facing, level head and eyes, neutral expression, relaxed arms at sides, hands visible and feet on ground. Entire hair crown or hat and all shoes visible with generous whitespace, centered vertical2:3. Plain matte cool-gray studio background and matching floor, soft cool blue-gray daylight with even fill, subtle fine film grain, real pores, fine hair, matte skin, natural cloth weave, realistic85mm lens perspective. No stylized3D, wax skin, heavy retouching, strong warm tint, dramatic lighting or watermark. No collage, no labels, no other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/off-script-owen--full_body.json
+
+实际带参考图生成提示词
+Reference1 is authoritative facial identity and reference2 exact wardrobe. Preserve this individual and all current design choices. One independent full-length studio photograph of adult man age24 with pale skin, ash-blonde center-parted curtain hair, gray-green eyes, slim long face, narrow sculpted jaw, fine straight nose and soft pink lips. Wearing long black wool overcoat over open white shirt and fine black turtleneck, tailored black trousers and black leather Chelsea boots. Slender tall natural 8.3-head proportions with long legs, preserve original adult age and individual build. Perfect front-facing, level head and eyes, neutral expression, relaxed arms at sides, hands visible and feet on ground. Entire hair crown or hat and all shoes visible with generous whitespace, centered vertical2:3. Plain matte cool-gray studio background and matching floor, soft cool blue-gray daylight with even fill, subtle fine film grain, real pores, fine hair, matte skin, natural cloth weave, realistic85mm lens perspective. No stylized3D, wax skin, heavy retouching, strong warm tint, dramatic lighting or watermark. No collage, no labels, no other people.
+
+生成依据：
+imports/role-completion-20260924/events/off-script-owen--full_body.json

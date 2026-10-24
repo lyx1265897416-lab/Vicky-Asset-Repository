@@ -1,0 +1,21 @@
+﻿Magnus 女主 05 · 雾金月光 · 九宫格表情
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-14
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. Square 3x3 nine-panel front-facing head and shoulders expression sheet. Row 1 neutral, soft smile, joyful laugh; row 2 surprise, skeptical, angry; row 3 sad, worried, shy pleased. Same identity, hairstyle, clothing and framing, white gutters. Character design: 26-year-old adult human woman. Dark-rooted ash-blonde long straight hair tucked behind one ear, clean off-center part, gray-green deep-set eyes. Elongated diamond face, angular high cheekbones, straight fine brows, long straight nose, thin upper lip with fuller lower lip, slightly broad squared chin. Fair cool beige skin with subtle natural texture. Composed watchful closed-mouth expression, intelligent quiet confidence, not blank doll eyes. Dusty-blue fine-gauge turtleneck and a light taupe wool coat worn normally, tiny silver studs, no necklace. Refined understated modern urban woman, subtle cool makeup, no fantasy costume. Current outfit (supersedes any conflicting clothing above): The light taupe wool coat reaches the knees, worn open over the dusty-blue turtleneck. Add charcoal slim straight-leg trousers and taupe leather ankle boots with low block heels. Tall slim adult physique, about 175 cm and 7.8 heads tall.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-05-expression_grid.png
+
+实际生成提示词
+Use case: identity-preserve. Input image is the approved adult female character identity and clothing anchor. Reproduce this EXACT SAME fictional woman, preserving her specific facial geometry, eye shape/color, nose and lips, cheekbones, jaw, skin color, freckles/beauty marks, hairstyle/color, earrings, necklace and clothing. Do not redesign or beautify into another person. Premium consistent otome 2.5D/3D semi-realistic CG, detailed hair strands, luminous skin with subtle microtexture, fine cloth materials. Soft neutral bright studio light, solid pure WHITE background. Create ONE nine-panel facial expression sheet, exactly 1536x1536 SQUARE, precise 3 by 3 evenly spaced grid. SAME woman, hairstyle and outfit in ALL NINE cells, consistent head scale, eye-level frontal camera, head-and-shoulder crop. Each cell fully contains head and hair with white gutters. Nine distinct natural expressions, row-major: 1 neutral relaxed; 2 warm closed-mouth smile; 3 joyful open-mouth laugh with natural teeth; 4 surprise raised brows slightly open mouth; 5 thoughtful skeptical one raised eyebrow and pursed lips; 6 resolute anger lowered brows firm lips; 7 sadness moist eyes lowered mouth corners; 8 worried alert tense brows and slightly parted lips; 9 shy pleased subtle blush soft smile. Only facial muscles change, never face identity. No cartoon symbols, exaggerated deformation, text, labels, speech bubbles, hands or extra cells.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-05-expression_grid.json

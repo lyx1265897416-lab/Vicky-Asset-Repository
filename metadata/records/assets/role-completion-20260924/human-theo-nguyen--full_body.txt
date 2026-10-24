@@ -1,0 +1,21 @@
+﻿Theo Nguyen · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+A single full-length studio photograph of a seventeen-year-old boy with tousled tight copper-red curls, pale green-gray eyes, many warm freckles, youthful soft jaw, relaxed friendly closed smile, clean shaven. Gray hoodie over white T-shirt, open black utility vest, cream loose cargo trousers, gray and cream retro running sneakers, black over-ear headphones around neck and dark backpack straps. Tall slim agile long-legged model proportions about 8.3 heads tall. Standing casually with hands in trouser pockets and slight head tilt, looking toward camera, entire hair and both shoes visible with margins. Cream-white studio background, soft bright daylight and open shadows, believable hair strands, pores and cotton texture, low-contrast photographic film finish. One person only, portrait 2:3, no text or collage.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-theo-nguyen--full_body.json
+
+实际带参考图生成提示词
+The sole subject is THEO NGUYEN, the copper-red curly-haired boy at BOTTOM LEFT of image1. Preserve his exact youthful seventeen-year-old face, pale green-gray eyes, noticeable warm freckles, tousled tight copper curls and soft adolescent facial structure. Image2 clothing reference ONLY: top-right quadrant, LEFTMOST THEO outfit: gray hoodie over white tee, open black utility vest, pale cream loose cargo trousers, gray and cream retro running sneakers, black headphones around neck and simple dark backpack straps. Slim agile youthful build, about 8.3 heads tall, long legs, no bulky adult muscles or beard. Create ONE independent full-length front-facing studio photograph, entire hairstyle and shoes visible with generous margins, upright head, level shoulders, relaxed natural arms, long slender model proportions with anatomically normal face and limbs. Bright cream-white seamless background, soft frontal daylight, open shadows, delicate natural photographic skin texture, individual hair strands and fabric weave. Copy only the specified person's facial identity, not the other people in the reference boards. No text, labels, collage, panels or other people. Portrait 2:3.
+
+生成依据：
+imports/role-completion-20260924/events/human-theo-nguyen--full_body.json

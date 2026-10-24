@@ -1,0 +1,44 @@
+﻿Elias Arkwright · 文档角色音 V1
+项目：Magnus Thorne
+角色：Elias Arkwright
+年龄设计：成年；角色视觉年龄参考见角色设定
+身份用途：剧集角色
+音色标签：紧实中低男声、边缘略锋利；谈判式冷静与压迫感。
+模型：wavespeed-ai/qwen3-tts/voice-design
+入库依据：按用户本次要求导入文档现行且未标待定的角色音；保留原文档试听的字节、呼吸、停顿和节奏，不重新合成或清理。
+原始样音：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn7XJjSTYlNJRs5dBJSBfMId
+试听/下载文件SHA256：a233ec25bdc7cafdae7d392110b24a7207ca3aa39102a1025c4e5389aaaa9c01
+原始音频（保留）：assets/voices/magnus-doc-20261019/VO_ELIAS_English_V1.mp3
+原始SHA256：a233ec25bdc7cafdae7d392110b24a7207ca3aa39102a1025c4e5389aaaa9c01
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-21.22 LUFS；真实峰值：-3.68 dBTP
+响度处理记录：metadata/voice-loudness/magnus-doc-20261019-vo_elias_english_v1-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.43秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：10.44秒
+
+试听台词：
+Let's keep this simple. Tell me what changed, and I'll tell you where we stand. My sister deserves a direct answer. We can discuss the rest when the facts are clear.
+
+声音描述：
+Original fictional character voice. Native General American English, modern Southern California setting. Natural intimate film dialogue, dry close microphone, one speaker only, no music, no background sound, no echo. Clear consonants, natural breathing and conversational pauses. No announcer or audiobook delivery. A 38-year-old male, compact mid-low baritone with a dry slightly edged texture, more forward and clipped than the warm chest-heavy lead. Controlled, observant professional negotiator. Crisp restrained delivery, level pitch, purposeful pauses and firm endings. Quiet pressure rather than shouting; no deep gravel, no elder grain.
+
+自动台词检查：
+原制作自动转写供核对，不替代人工听审。
+Let's keep this simple. Tell me what changed, and I'll tell you where we stand. My sister deserves a direct answer. We can discuss the rest when the facts are clear.
+
+已有生成参数：
+{
+  "language": "English",
+  "text": "Let's keep this simple. Tell me what changed, and I'll tell you where we stand. My sister deserves a direct answer. We can discuss the rest when the facts are clear.",
+  "voice_description": "Original fictional character voice. Native General American English, modern Southern California setting. Natural intimate film dialogue, dry close microphone, one speaker only, no music, no background sound, no echo. Clear consonants, natural breathing and conversational pauses. No announcer or audiobook delivery. A 38-year-old male, compact mid-low baritone with a dry slightly edged texture, more forward and clipped than the warm chest-heavy lead. Controlled, observant professional negotiator. Crisp restrained delivery, level pitch, purposeful pauses and firm endings. Quiet pressure rather than shouting; no deep gravel, no elder grain."
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "项目角色音身份不是服务商可持久复用的voice ID；保留原始参数和参考音频以便复用，后续新台词仍需试听。"
+}
+确认记录：imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/audio-verification.json
+imports/magnus-confirmed-assets-20261019/provenance/magnus-voices-20261016/manifest.json

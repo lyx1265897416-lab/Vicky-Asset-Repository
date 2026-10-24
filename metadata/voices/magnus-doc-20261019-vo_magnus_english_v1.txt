@@ -1,0 +1,44 @@
+﻿Magnus Thorne · 文档角色音 V1
+项目：Magnus Thorne
+角色：Magnus Thorne
+年龄设计：成年；角色视觉年龄参考见角色设定
+身份用途：剧集角色
+音色标签：成熟低沉男声、轻微沙哑、胸腔共鸣；短句连贯、重音和呼吸随意图变化，强势而克制，避免机械低吼或逐词拖慢。沿用实际确认的声音身份与版本，样音台词不作为每轮固定对白。
+模型：wavespeed-ai/qwen3-tts/voice-design
+入库依据：按用户本次要求导入文档现行且未标待定的角色音；保留原文档试听的字节、呼吸、停顿和节奏，不重新合成或清理。
+原始样音：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnqYZZyjnZzieOi4GM4c87o9
+试听/下载文件SHA256：86cf9046fd276e5c533b7120c19d29946b5bdcd9406d70783629572422994b0a
+原始音频（保留）：assets/voices/magnus-doc-20261019/VO_MAGNUS_English_V1.mp3
+原始SHA256：86cf9046fd276e5c533b7120c19d29946b5bdcd9406d70783629572422994b0a
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-25.61 LUFS；真实峰值：-4.06 dBTP
+响度处理记录：metadata/voice-loudness/magnus-doc-20261019-vo_magnus_english_v1-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.0秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：11.71秒
+
+试听台词：
+Luca, give us a moment. I'll call you when we're ready. You're safe here. Take your time. I have questions, too... but first, tell me what you need.
+
+声音描述：
+Original fictional character voice. Native General American English, modern Southern California setting. Natural intimate film dialogue, dry close microphone, one speaker only, no music, no background sound, no echo. Clear consonants, natural breathing and conversational pauses. No announcer or audiobook delivery. A 34-year-old male, rich low baritone with grounded chest resonance, slight natural vocal rasp and a restrained powerful presence. Measured unhurried delivery, short decisive phrases. Begin firm and quietly authoritative when addressing an assistant, then become warmer, softer and personally attentive when addressing the listener. Do not growl, shout, whisper throughout, or exaggerate breathiness.
+
+自动台词检查：
+原制作自动转写供核对，不替代人工听审。
+Luca, give us a moment. I'll call you when we're ready. You're safe here. Take your time. I have questions too. But first, tell me what you need.
+
+已有生成参数：
+{
+  "language": "English",
+  "text": "Luca, give us a moment. I'll call you when we're ready. You're safe here. Take your time. I have questions, too... but first, tell me what you need.",
+  "voice_description": "Original fictional character voice. Native General American English, modern Southern California setting. Natural intimate film dialogue, dry close microphone, one speaker only, no music, no background sound, no echo. Clear consonants, natural breathing and conversational pauses. No announcer or audiobook delivery. A 34-year-old male, rich low baritone with grounded chest resonance, slight natural vocal rasp and a restrained powerful presence. Measured unhurried delivery, short decisive phrases. Begin firm and quietly authoritative when addressing an assistant, then become warmer, softer and personally attentive when addressing the listener. Do not growl, shout, whisper throughout, or exaggerate breathiness."
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "项目角色音身份不是服务商可持久复用的voice ID；保留原始参数和参考音频以便复用，后续新台词仍需试听。"
+}
+确认记录：imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/audio-verification.json
+imports/magnus-confirmed-assets-20261019/provenance/magnus-voices-20261016/manifest.json

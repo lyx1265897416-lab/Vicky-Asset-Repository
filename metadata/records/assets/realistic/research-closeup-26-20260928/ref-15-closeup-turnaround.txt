@@ -1,0 +1,21 @@
+﻿调研白底女角色26组 · 脸部三视图 · 参考15 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create a photorealistic character head-and-shoulders turnaround on a solid pure white background, landscape 1536 x 1024. Three equally sized portraits of one identical woman in a horizontal row: left strictly frontal looking straight at the camera, center exact 90-degree profile facing image-right, right exact 180-degree back view facing away. Entire hairstyle and accessories visible, aligned head scale and height, close portrait framing ending below the shoulders. Soft balanced bright studio illumination, natural skin texture, realistic hair strands and coherent warm-neutral grading. Level eyes and balanced cheeks in the front view, centered nose, philtrum, lips and chin, upright head and neutral relaxed expression. The profile has only its near eye visible, and the rear reveals no face. No text, labels, logos, watermark, frames or scenery. Character appearance and clothing: Long medium-brown hair half pulled back with wispy face-framing strands, fair skin, blue-gray eyes, full brows, soft pink lips. Black off-shoulder top with one narrow visible shoulder strap. In the rear view both ears are completely concealed by continuous hair; no visible ear skin or ear rims.
+
+根据用户确认的最终三视图和角色正面描述整理独立提示词；未做纯文字重生成相似度验证，同脸复现需结合成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/research-closeup-26-20260928/originals/ref-15-closeup-turnaround.png
+
+原始图生图编辑提示词
+Use case: precise-object-edit. Edit ONLY the RIGHTMOST rear-view panel of this exact three-view character sheet. In the rear view both ears must be fully concealed behind the hairstyle: no skin-colored ear, earlobe, ear rim or ear-shaped protrusion visible at either side of the head. Locally extend and arrange the existing side hair over each ear position with realistic continuous strand texture, while retaining the existing half-up hairstyle and long loose hair. Preserve the LEFT front and MIDDLE side portrait panels exactly unchanged. Retain identity, hair color, entire hairstyle, skin tone, clothing, poses, pure white background, framing, lighting and layout. Minimal localized edit, not a redesign. Return the full three-panel 1536x1024 landscape sheet with no text.
+
+生成依据：
+metadata/evidence/research-closeup-26-20260928/15.json

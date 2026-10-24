@@ -1,0 +1,23 @@
+﻿人鱼王子的假新娘 · 港口／夜市／呼吸礁／议事厅 · 纯环境修订
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+生成一张完整的场景设定图板，画幅 1536×1024。两列两行乙游3D奇幻海洋场景板：白日地中海风盐点港口，渔船、潜水修理店、白色山城与灯塔；暖灯海岸夜市；湛蓝水下呼吸礁、海草珊瑚与白色古典石柱拱门；珍珠白潮汐议事厅、蓝色嵌纹石地、银金细节与海景大窗。柔和宝蓝日光、精细材质、梦幻空间、自然水纹，英文角落标签，无角色。
+纯环境，不出现人物、动物、鸟、鱼、手部或角色倒影。沙发为空；街道、车站、笼子和水域无任何角色；屏幕不显示人像，装饰画采用植物或抽象图案。
+
+原生ImageGen生成。提示词可复用，但不保证像素级复现。编辑图保留原版备份。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/empty-scenes-expansion-20260928/originals/fix-world.png
+
+生成事件提示词
+Use case: precise-object-edit. Edit this four-panel fantasy sea-world location board to contain ONLY uninhabited environment. Remove all birds at the harbor, all fish and sea creatures in the underwater reef, any tiny person, face or animal in any panel. Reconstruct seamless water, architecture, air and vegetation behind them. Keep corals and plants as environment. Preserve all four original locations, architecture, furniture, panel arrangement, lighting, colors, English labels, and refined pearl-white blue-silver dimensional 3D aesthetic. No new people, pets, birds, fish, humanoid statues or living characters anywhere. Do not redesign the settings.
+
+生成依据：
+imports/empty-scenes-expansion-20260928/events/fix-world.json
+imports/empty-scenes-expansion-20260928/visual-review.json

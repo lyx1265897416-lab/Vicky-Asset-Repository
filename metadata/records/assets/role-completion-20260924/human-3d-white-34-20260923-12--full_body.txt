@@ -1,0 +1,21 @@
+﻿12 · 赤茶·发带 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+One full-length frontal premium semi-realistic 2.5D/3D romance-game CG character portrait, adult woman aged 22–28 with a youthful soft round-oval face, gently full symmetrical cheeks, short rounded chin, blue-gray eyes, small straight nose, full peach-pink lips, fair warm lightly freckled skin. Very long copper auburn layered wavy hair with wispy curtain strands, dusty rose headband with bow on viewer-right and small brass teardrop hairclip, delicate silver chain and small round pendant. Open cream textured knit cardigan over dusty pink botanical-print tee, high-rise pale ivory wide-leg jeans and cream low-top sneakers. Slender long-legged 7.8-head model silhouette, upright frontal standing, arms relaxed at sides, complete hands and shoes, centered balanced facial axis. Bright opaque white seamless studio, neutral soft frontal light, open shadows, restrained glossy skin highlights, refined hair and cloth textures, full head-to-toe composition with margin, vertical 2:3. No text, collage or watermark.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-12--full_body.json
+
+实际带参考图生成提示词
+Extend the exact same young adult woman in the supplied identity image into ONE complete head-to-toe front-facing character photo-render. Preserve precisely her soft ROUND-OVAL face, short rounded chin, balanced cheek volume, level blue-gray eyes, centered nose and mouth, copper auburn long wavy layered hair, wispy curtain bangs, dusty rose headband with bow on viewer-right and small brass hairclip, freckles, pink lips. Do not elongate the face, do not change hairstyle or identity. Preserve premium semi-realistic 2.5D/3D romance-game rendering, not generic real photography and not cartoon. Wardrobe retained: cream textured knit open cardigan over dusty pink subtle botanical-print T-shirt, small silver round pendant. Complete the casual outfit with high-rise pale ivory straight wide-leg jeans and light cream low-top sneakers, simple age-appropriate styling, no extra accessories. Slender elegant 7.8-head fashion proportions and long natural legs, relaxed frontal standing, level shoulders and eyes, arms beside body and hands visible. White seamless background, softly lit bright neutral studio, natural skin texture and hair strands and knitted material detail with low sheen. One character only, entire hair to soles plus margin, vertical 2:3, no text or panels.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-12--full_body.json

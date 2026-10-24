@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · S04-original · 麦溪起居间与书桌 · 场景原图 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Small cream limewashed stone cottage living and writing room. Oak desk with drawers under sage window overlooking low garden gate, linen curtain, brass desk lamp, wooden writing chair, cream sofa and sage cushions, small wooden coffee table and woven rug, botanical pictures and wooden shelves, glazed sage door toward attached greenhouse. Empty environment. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/S04-original.png
+
+原始生成提示词：
+Use case: stylized-concept. Create an EMPTY environment original master image, landscape 3:2, finest native detail. Same fictional romantic coastal cottage-greenhouse setting as reference. Delicate semi-realistic 3D otome cinematic rendering, natural cream/sage/wood palette, restrained contrast and realistic texture, neutral sunlight, no oily orange grading, no painterly blur. No people, no hands, no animals, no text, watermarks or logos. Reference specifies architectural materials and setting only. Cream limewashed cottage living/writing room attached to greenhouse. Oak writing desk beside window looking directly onto courtyard gate and low wall, small linen sofa, modest shelf, door connects greenhouse. Quiet intimate daylight, no people, no medical ward.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/S04-original.json
+imports/meet-me-again-v4-approved-20261014/approval.json

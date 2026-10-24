@@ -1,0 +1,48 @@
+﻿麦溪 · 用户指定原声
+项目：今天，再喜欢我一次
+角色：麦溪 / Maisie
+年龄设计：角色25岁
+身份用途：女主角
+音色标签：用户指定原声
+模型：原片人声参考（非合成配音）
+入库依据：原声参考保留；2026-10-11 用户明确选定新的对白配音：男声A、女声B。已选样音另存，正片新台词不自动冒称每句得到用户听审。
+原始样音：https://www.netflix.com/tudum/videos/xo-kitty-season-3-trailer-video-page
+试听/下载文件SHA256：06c8c790e235977e86d155d7a29e143e12c155a4e42d49e6aee0a6c3c453491f
+原始音频（保留）：assets/voices/confirmed-20261011/meet-me-again-maisie-original-reference.wav
+原始SHA256：eaa31c39eaf4f4a8cf8702fefeb4ec5f730ef18b49047f666ce8c765ecfb7f57
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.26 LUFS；真实峰值：-4.1 dBTP
+响度处理记录：metadata/voice-loudness/meet-me-again-maisie-original-reference-fc70e2244b939c47c099.json
+去除开头等待：0秒；处理后有效声音起点：0.08秒
+缩短过长静音：0处；去除结尾空白：0.0秒；总计去除：0.0秒
+当前试听时长：6.57秒
+
+试听台词：
+Okay, so my timing sucks. I've always thought maybe he'd want someone more in his world.
+
+声音描述：
+用户指定预告片中的人物原声，保留原片音高、语速及背景声音。新剧对白需以此参考生成并单独验收。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "audio": "https://storage.googleapis.com/waku-core-aicap/uploads/usr_4a6e5fb234d64da0a9429e519b299f07/df582a4a3b1240e7b34bda7857d39b2f/female-extended-original.wav",
+  "reference_text": "Okay, so my timing sucks. I've always thought maybe he'd want someone more in his world.",
+  "speed": 1,
+  "model": "wavespeed-ai/omnivoice/voice-clone"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "provider": "Netflix 官方公开预告",
+  "official_url": "https://www.netflix.com/tudum/videos/xo-kitty-season-3-trailer-video-page",
+  "reuse_note": "参考驱动声线，无供应商预设voice_id。需保留原音及逐字稿；原片试听不代表新对白已通过。",
+  "quality_note": "原音WAV保留；库内派生文件仅按统一响度规范处理。公开预告仅作声音参考，商业复用许可未核实。"
+}
+确认记录：imports/meet-me-again-original-voices-20261011/approval-evidence.json
+imports/meet-me-again-original-voices-20261011/sources.json
+imports/meet-me-again-original-voices-20261011/dubbing-choice-evidence.json

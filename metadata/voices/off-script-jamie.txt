@@ -1,0 +1,47 @@
+﻿Jamie Reed · A 温暖轻柔
+项目：别演，吻我 / OFF SCRIPT
+角色：Jamie Reed
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。EP07当前生产脚本明确采用此样音的短版作为声音参考；此处保存完整原样音。
+原始样音：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/audio/Jamie-v2-A.mp3
+试听/下载文件SHA256：0ae564aac39a55c5fbe4157a26ed8454fa5a14bb93136f8fe176b79ab0188dea
+原始音频（保留）：assets/voices/production-20260928/off-script-jamie.mp3
+原始SHA256：72168d823b819e3d16eb338b92c1468168bd28c76315c29499826b6cdc223c75
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.25 LUFS；真实峰值：-2.84 dBTP
+响度处理记录：metadata/voice-loudness/off-script-jamie-5311001a536032f279a9.json
+去除开头等待：0.04秒；处理后有效声音起点：0.13秒
+缩短过长静音：2处；去除结尾空白：0.18秒；总计去除：2.22秒
+当前试听时长：3.78秒
+
+试听台词：
+You think you know me? Then stay. I'd like to see you try.
+
+声音描述：
+温暖、清晰的年轻轻男中音；适量气声，英国南部英语，轻柔自然。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "prompt": "Create a clean realistic film-dialogue voice audition. ONE speaker. No music or effects. Instructions are not spoken: Original male actor voice, adult age 21, contemporary southern British English. Beautiful soft youthful light baritone with clear warm resonance, relaxed open throat, a little airy softness at phrase endings, clean crisp consonants. Easy unforced charming conversation, a small smile in the first question, quietly sincere on Then stay, gently teasing on the final line. Medium register, not a deep growling voice. Natural connected phrasing and subtle shifts of emphasis. Do not whisper or use ASMR, vocal fry, nasal high tenor, announcer voice or an older man voice. Speak ONLY this exact English line: \"You think you know me? Then stay. I'd like to see you try.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "pitch": 0,
+  "speed": 1,
+  "volume": 1
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/off-script-jamie/audio-Jamie-v2-A-request.json
+imports/production-voices-20260928/source-records/off-script-jamie/atlas-data.json
+imports/production-voices-20260928/source-records/off-script-jamie/prepare.py
+imports/production-voices-20260928/source-records/off-script-jamie/requests.json

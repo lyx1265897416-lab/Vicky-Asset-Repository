@@ -1,0 +1,51 @@
+﻿温柔知性但有边界 · Gemini 3.8 Flash
+项目：角色表演试听 · 2026-10-14
+角色：温柔知性但有边界
+年龄设计：32岁（角色目标）
+身份用途：通用剧情角色
+音色标签：温柔知性但有边界
+模型：google/gemini-3.8-flash/text-to-speech
+入库依据：用户在 vicky-performance-shortlist.json 中将 P10-gemini 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-performance-20261014/audio/P10-gemini.wav
+试听/下载文件SHA256：e1cc64ef31ff86ae9f871afef2f7a2d1080f31f2d64f658cbaece8383dbaedfe
+原始音频（保留）：assets/voices/voice-performance-20261014/original/P10-gemini.wav
+原始SHA256：3083415e4fb9c9181142e3d45b7281b7cde8ddd9daf34d21774452fb047c9458
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-22.22 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-performance-20261014-P10-gemini-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.26秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：14.28秒
+
+试听台词：
+Hey, look at me. You don't have to explain it all right now. Sit down. I'll make some tea. But tomorrow... we talk. Properly. I can help you, but I can't keep pretending this is okay.
+
+声音描述：
+先安抚，再坚定表达底线。
+Comforting her partner after a difficult night, then setting a necessary boundary. Warm practical opening, a thoughtful beat before tomorrow, final sentence caring but absolutely firm.
+固定预设 Kore 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Hey, look at me. You don't have to explain it all right now. Sit down. I'll make some tea. But tomorrow, we talk. Properly. I can help you, but I can't keep pretending this is okay.
+
+已有生成参数：
+{
+  "text": "Hey, look at me. You don't have to explain it all right now. Sit down. I'll make some tea. But tomorrow... we talk. Properly. I can help you, but I can't keep pretending this is okay.",
+  "voice": "Kore",
+  "style_instructions": "Comforting her partner after a difficult night, then setting a necessary boundary. Warm practical opening, a thoughtful beat before tomorrow, final sentence caring but absolutely firm. Intimate natural conversation, thought-led rhythm and restrained emotional changes."
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Kore",
+  "provider": "Google",
+  "official_url": "https://ai.google.dev/gemini-api/docs/speech-generation",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-performance-20261014/confirmation.json
+imports/voice-performance-20261014/jobs/P10-gemini.json
+imports/voice-performance-20261014/evidence/roles.json
+imports/voice-performance-20261014/evidence/qa.json
+imports/voice-performance-20261014/evidence/production-notes.json

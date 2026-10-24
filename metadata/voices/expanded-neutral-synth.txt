@@ -1,0 +1,48 @@
+﻿冷静中性导航员
+项目：通用选角 · 多年龄身份音色
+角色：冷静中性导航员
+年龄设计：35–50岁
+身份用途：旁白与幻想
+音色标签：干净、低起伏、精准
+模型：bytedance/seed-audio-1.0
+入库依据：用户要求全面补充不同年龄、身份、性别音色，本条为原创生成并入库的可选音色，尚未逐条主观定版。年龄与身份为设计方向。
+原始样音：https://storage.googleapis.com/waku-core-aicap/aicap/io/acj_83b391d7c2834adcb713987ed65ae27b/00-7138dbdf-0bdb-4d3e-94ed-768b87d0d561.mp3
+试听/下载文件SHA256：cff040b0e2404773a5d203e5445de87fb467afde821eeb49e84f1a1bb4d45223
+原始音频（保留）：assets/voices/expanded-20260928/expanded-neutral-synth.mp3
+原始SHA256：a821b23bb8146cc3e497127b4777f939475ad4ba3aaaaa745de45b7671a7b5d0
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.26 LUFS；真实峰值：-3.45 dBTP
+响度处理记录：metadata/voice-loudness/expanded-neutral-synth-d03b464dd9b6f3799952.json
+去除开头等待：6.11秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.388秒；总计去除：6.498秒
+当前试听时长：9.63秒
+
+试听台词：
+We have reached the edge of the mapped region. The signal is faint, but consistent. I recommend listening once more before we move.
+
+声音描述：
+One original fictional adult androgynous voice, mature middle register, clear dry centered tone with restrained pitch variation and precise timing. Calm science-fiction navigation character played naturally by an actor. No vocoder, metallic filter or robotic glitches.
+
+自动台词检查：
+自动转写与设定台词逐词一致（不计标点）。
+We have reached the edge of the mapped region. The signal is faint but consistent. I recommend listening once more before we move.
+
+已有生成参数：
+{
+  "prompt": "Produce a clean studio voice-library audition, ONE original fictional speaker only. Natural General American English. One original fictional adult androgynous voice, mature middle register, clear dry centered tone with restrained pitch variation and precise timing. Calm science-fiction navigation character played naturally by an actor. No vocoder, metallic filter or robotic glitches. Dry close microphone, intelligible speech at comfortable loudness. No music, ambience, sound effects, second voice, laughter sound, introductory announcement or spoken directions. Speak ONLY the following exact English words and finish the last word completely, then leave a brief silence: \"We have reached the edge of the mapped region. The signal is faint, but consistent. I recommend listening once more before we move.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "pitch": 0,
+  "speed": 1,
+  "volume": 1
+}
+
+原创设计音色，标签为选角方向。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "后续同音色对白优先使用本样音作为声音参考；文字描述重新生成可能产生声线变化。"
+}
+确认记录：imports/voice-expansion-20260928/authorization.json
+imports/voice-expansion-20260928/receipts/expanded-neutral-synth.json
+imports/voice-expansion-20260928/transcripts/expanded-neutral-synth.json
+imports/voice-expansion-20260928/plan.json

@@ -1,0 +1,21 @@
+﻿白底3D角色17组 07 · 银发碧袖 · 特写三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Create a premium realistic-stylized 3D character modeling reference sheet, a horizontal 3:1 triptych with three equally scaled head-and-shoulder portraits of the same character: exact front, exact 90-degree right-facing profile, and exact 180-degree rear. Camera at eye height, upright head, neutral pose, complete hairstyle visible, upper chest crop. Pure white background, soft neutral studio lighting, fine individual hair strands, subtle skin microtexture, dimensional facial modeling, physically based fabric and metal. No text, labels, borders, UI or watermark. An adult woman with silver blonde hair in a high ponytail and sweeping wispy bangs, gray-green eyes, pale skin and a small subtle healed scar on one cheek. Bronze ornamental crown and dangling earrings with rust tassels. Ivory and teal brocade robes with antique metallic edging and rust accents, calm determined expression. 
+
+独立文字提示词按已确认成图及角色设定重建，未经纯文生图复现验证；严格同脸请结合原身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/3d-three-views-17-20260923/character-07-three-views.png
+
+最终实际生成／编辑提示词
+Use case: identity-preserve. Image 1 is an almost finished three-view character sheet. Image 2 is the approved identity portrait. Correct ONLY the framing of image 1: all three tall hairstyles are cut off at the top. Re-render the same three views at slightly smaller scale with an uninterrupted white margin equal to 8 percent of canvas height ABOVE the tallest bun/ponytail in EVERY panel. Reconstruct complete rounded hair silhouettes rather than a flat cut edge. Keep front, exact 90-degree profile facing right, exact rear, and preserve the same faces, hair designs, outfits, jewelry, skin texture, 3D modeled material quality and white background. No text. One landscape 3:1 sheet. The top edge must be entirely pure white, with NO hair or ornament touching it. No redesign. Keep shoulders and upper chest in frame.
+
+生成依据：
+metadata/evidence/3d-closeup-17-20260925/character-07.json

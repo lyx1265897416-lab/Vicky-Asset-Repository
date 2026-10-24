@@ -1,0 +1,52 @@
+﻿40岁男声 · 阅历后的宽容和幽默 · Eleven v4
+项目：双模型年龄选角 · 2026-10-14
+角色：阅历后的宽容和幽默
+年龄设计：40岁（角色目标）
+身份用途：通用剧情角色
+音色标签：阅历后的宽容和幽默
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-age-shortlist.json 中将 A40M-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-age-casting-20261014/audio/A40M-eleven.mp3
+试听/下载文件SHA256：ad3a9c6ec4ecdcd5df29c97408a8a7f346db4ceb4afb8648355d38d57e0b657b
+原始音频（保留）：assets/voices/voice-age-casting-20261014/original/A40M-eleven.mp3
+原始SHA256：c2fdeb403e43cad37724120fce6b0b3d826f65ca9e51ae0e2a3036d0285b2913
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-22.33 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-age-casting-20261014-A40M-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.19秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：12.88秒
+
+试听台词：
+Well, that didn't go how I imagined. Not even close. Still... nobody died, the coffee's hot, and you're here. I've had worse Tuesdays. Sit down. Tell me your version.
+
+声音描述：
+Mature grounded conversational voice; dry lived-in humor or reflective honesty, followed by quiet warmth. No motivational speech, no announcer cadence.。
+Mature grounded conversational voice; dry lived-in humor or reflective honesty, followed by quiet warmth. No motivational speech, no announcer cadence. Read each sentence once.
+固定预设 Daniel 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Well, that didn't go how I imagined. Not even close. Still, nobody died, the coffee's hot, and you're here. I've had worse Tuesdays. Sit down, tell me your version.
+
+已有生成参数：
+{
+  "text": "[wryly amused] Well, that didn't go how I imagined. Not even close. Still... nobody died, the coffee's hot, and you're here. I've had worse Tuesdays. Sit down. Tell me your version.",
+  "voice_id": "Daniel",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Daniel",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-age-casting-20261014/confirmation.json
+imports/voice-age-casting-20261014/jobs/A40M-eleven.json
+imports/voice-age-casting-20261014/evidence/roles.json
+imports/voice-age-casting-20261014/evidence/qa.json
+imports/voice-age-casting-20261014/evidence/batch-plan.json

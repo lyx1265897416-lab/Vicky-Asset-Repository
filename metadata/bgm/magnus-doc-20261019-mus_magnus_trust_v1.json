@@ -1,0 +1,66 @@
+{
+  "id": "magnus-doc-20261019-mus_magnus_trust_v1",
+  "asset_kind": "bgm",
+  "name": "放松交流与信任 · V1",
+  "project": "Magnus Thorne",
+  "project_id": "magnus-thorne-document",
+  "category": "剧情配乐",
+  "episodes": [],
+  "tags": [
+    "Magnus Thorne",
+    "文档确认版",
+    "剧情配乐",
+    "可循环",
+    "V1"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Warm intimate felt piano clearly states the same D-F-E-A motif sparsely, gentle sustained strings, D minor add9 moving through Bbmaj7 and Fadd9 with restrained hopeful warmth. Tender relief and equal mutual trust, no melodramatic climax. Stable calm dynamics, no intro/outro, continuous texture through boundaries.",
+    "music_length_ms": 36000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original instrumental underscore for a contemporary mature werewolf romance, intimate and restrained rather than epic or horror. D minor, 60 BPM, 4/4. Shared recurring four-note leitmotif D-F-E-A with spacious rests, one quiet statement every four bars. Low cello, sparse felt piano, delicate electronic pulse; leave room for a low male speaking voice. Clean studio music only: no voices, breathing, choir, environmental sound, risers or impacts. A seamless 9-bar 36-second bed. Warm intimate felt piano clearly states the same D-F-E-A motif sparsely, gentle sustained strings, D minor add9 moving through Bbmaj7 and Fadd9 with restrained hopeful warmth. Tender relief and equal mutual trust, no melodramatic climax. Stable calm dynamics, no intro/outro, continuous texture through boundaries.",
+  "source_records": [
+    "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+    "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+  ],
+  "variants": [
+    {
+      "id": "753d534d0782dc9f",
+      "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_TRUST_V1.mp3",
+      "sha256": "753d534d0782dc9f15d224deed90c7c51e2128840dd951e394bddf520d044e3d",
+      "label": "文档原版 · V1",
+      "duration_seconds": 32.04,
+      "extension": ".mp3",
+      "bytes": 769580,
+      "sources": [
+        "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#L4dUd2IwLotN5Wxlp2Wcv6sWn3F",
+        "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/MUS_MAGNUS_TRUST_V1.mp3"
+      ],
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "decode_check": "passed"
+    }
+  ],
+  "default_variant": "753d534d0782dc9f",
+  "confirmation": {
+    "date": "2026-10-19",
+    "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+  },
+  "provenance_note": "原文档音频逐字节保留；循环底声｜交流缓和｜温暖钢琴与柔和弦乐；实际放松、互信后调用 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#L4dUd2IwLotN5Wxlp2Wcv6sWn3F",
+  "source_revision": 1619,
+  "source_block_id": "L4dUd2IwLotN5Wxlp2Wcv6sWn3F",
+  "generation_date": null,
+  "generation_date_note": "未取得可核实生成时间戳。",
+  "imported_on": "2026-10-19",
+  "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+  "production_processing": {
+    "loop": true,
+    "loop_crossfade_seconds": 4,
+    "gain_db": -5.17,
+    "duration_seconds": 32.0,
+    "source_duration_seconds": 36.024
+  }
+}

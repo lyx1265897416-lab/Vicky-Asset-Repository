@@ -1,0 +1,21 @@
+﻿男角色31组 · 第二版 · 06 · 松弛卫衣 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-22
+
+文生图提示词：
+Use case: photorealistic-natural. Create ONE original fictional adult male character, age 23–27, strikingly handsome with refined youthful romantic-lead appeal, natural charismatic gaze and excellent facial harmony. This must be a new invented person, not a celebrity likeness. Use the individual facial design described below while retaining beauty and subtle natural asymmetry. Clean groomed skin with fine natural pores, no artificial smoothing or exaggerated blemishes, clean-shaven unless specified. A polished yet believable everyday editorial photo, not a passport picture. Vertical 3:4 image, eye-level, head facing forward, direct eye contact, complete hair, both shoulders and half body framed to just above waist, relaxed elegant posture, face prominent. Entire background is flat opaque pure white #FFFFFF, bright soft frontal studio light, low shadow, natural skin texture, slight halation, 50mm lens, shallow depth of field with both eyes sharp. No props, text, logos, watermark, other people, collage, cutout, transparency or vignette. East Asian man, fluffy chestnut feathered layered hair, quiet rebellious confidence, soft gray sweatshirt without lettering. Invented facial structure: longer oval face, defined round-ended chin, straight thick brows, slightly upturned monolid eyes, moderate-width nose bridge and short tip, naturally full heart-shaped lips. Light honey skin.
+
+保留本张已确认成图的完整原始纯文生图提示词；随机生成不能保证同脸，需要严格身份一致时同时使用本张已确认成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/male-white-portraits-31-v2-20260923/originals/character-06.png
+
+原始纯文生图提示词
+Use case: photorealistic-natural. Create ONE original fictional adult male character, age 23–27, strikingly handsome with refined youthful romantic-lead appeal, natural charismatic gaze and excellent facial harmony. This must be a new invented person, not a celebrity likeness. Use the individual facial design described below while retaining beauty and subtle natural asymmetry. Clean groomed skin with fine natural pores, no artificial smoothing or exaggerated blemishes, clean-shaven unless specified. A polished yet believable everyday editorial photo, not a passport picture. Vertical 3:4 image, eye-level, head facing forward, direct eye contact, complete hair, both shoulders and half body framed to just above waist, relaxed elegant posture, face prominent. Entire background is flat opaque pure white #FFFFFF, bright soft frontal studio light, low shadow, natural skin texture, slight halation, 50mm lens, shallow depth of field with both eyes sharp. No props, text, logos, watermark, other people, collage, cutout, transparency or vignette. East Asian man, fluffy chestnut feathered layered hair, quiet rebellious confidence, soft gray sweatshirt without lettering. Invented facial structure: longer oval face, defined round-ended chin, straight thick brows, slightly upturned monolid eyes, moderate-width nose bridge and short tip, naturally full heart-shaped lips. Light honey skin.
+
+生成依据：
+metadata/evidence/male-white-portraits-31-v2-20260923/06.json

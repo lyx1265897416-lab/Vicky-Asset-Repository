@@ -1,0 +1,21 @@
+﻿白底角色 18 · 黑长发刘海黑针织 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic character asset of one young adult woman age18–22 with long sleek black hair with fine straight airy bangs, fair neutral skin, brown almond eyes, slim dark brows, petite oval cheeks and muted rose lips, wearing black fine-knit high-neck top with narrow white inner edge, high-waisted charcoal straight-wide jeans and black flat loafers. One independent single full-body front portrait. Tall slender natural7.8-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-18--full_body.json
+
+实际带参考图生成提示词
+Use attached portrait as exact facial identity source. Preserve her particular face, hairstyle, complexion and upper garments. Keep head level, correcting the reference head tilt. Photorealistic character asset of one young adult woman age18–22 with long sleek black hair with fine straight airy bangs, fair neutral skin, brown almond eyes, slim dark brows, petite oval cheeks and muted rose lips, wearing black fine-knit high-neck top with narrow white inner edge, high-waisted charcoal straight-wide jeans and black flat loafers. One independent single full-body front portrait. Tall slender natural7.8-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-white-portraits-24-20260922-18--full_body.json

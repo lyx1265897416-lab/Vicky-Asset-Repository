@@ -1,0 +1,66 @@
+{
+  "id": "magnus-doc-20261019-amb_fireplace_room_v1",
+  "asset_kind": "bgm",
+  "name": "壁炉室环境 · V1",
+  "project": "Magnus Thorne",
+  "project_id": "magnus-thorne-document",
+  "category": "环境底声",
+  "episodes": [],
+  "tags": [
+    "Magnus Thorne",
+    "文档确认版",
+    "环境底声",
+    "可循环",
+    "V1"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/sound-effects-v2",
+  "parameters": {
+    "prompt": "Seamless loop of a quiet elegant sitting room with a small real wood fireplace. Gentle warm irregular fine crackles and soft fire movement at middle distance, subtle indoor room tone. Restrained and intimate, not roaring bonfire. No loud pops, voices, breathing, music, footsteps, wind or outdoor insects. Stable stereo ambience.",
+    "duration": 22,
+    "loop": true,
+    "prompt_influence": 0.65
+  },
+  "prompt": "Seamless loop of a quiet elegant sitting room with a small real wood fireplace. Gentle warm irregular fine crackles and soft fire movement at middle distance, subtle indoor room tone. Restrained and intimate, not roaring bonfire. No loud pops, voices, breathing, music, footsteps, wind or outdoor insects. Stable stereo ambience.",
+  "source_records": [
+    "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+    "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+  ],
+  "variants": [
+    {
+      "id": "8c03c2e2ce2dc4be",
+      "path": "assets/bgm/magnus-doc-20261019/AMB_FIREPLACE_ROOM_V1.mp3",
+      "sha256": "8c03c2e2ce2dc4be3511a86575607dcd3969f9e8fb48415428c7a32942e0eafc",
+      "label": "文档原版 · V1",
+      "duration_seconds": 20.04,
+      "extension": ".mp3",
+      "bytes": 481580,
+      "sources": [
+        "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn6SOyl0yaN708U29YKaVU6d",
+        "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/AMB_FIREPLACE_ROOM_V1.mp3"
+      ],
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "decode_check": "passed"
+    }
+  ],
+  "default_variant": "8c03c2e2ce2dc4be",
+  "confirmation": {
+    "date": "2026-10-19",
+    "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+  },
+  "provenance_note": "原文档音频逐字节保留；循环底声｜壁炉室｜轻壁炉燃烧与室内底声 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn6SOyl0yaN708U29YKaVU6d",
+  "source_revision": 1619,
+  "source_block_id": "doxcn6SOyl0yaN708U29YKaVU6d",
+  "generation_date": null,
+  "generation_date_note": "未取得可核实生成时间戳。",
+  "imported_on": "2026-10-19",
+  "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+  "production_processing": {
+    "loop": true,
+    "loop_crossfade_seconds": 2,
+    "gain_db": 15.24,
+    "duration_seconds": 20.0,
+    "source_duration_seconds": 22.0
+  }
+}

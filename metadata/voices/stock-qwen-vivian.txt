@@ -1,0 +1,57 @@
+﻿Vivian · 明亮女声
+项目：商用现成音色 · Qwen
+角色：Vivian
+年龄设计：官方青年声线
+身份用途：通用选角
+音色标签：明亮、略带锋芒
+模型：Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice
+入库依据：按用户要求补充官方商用预设；用户尚未逐条试听选择。
+原始样音：https://qwen-qwen3-tts.hf.space/
+试听/下载文件SHA256：43d562ba6c1976146ccfe346705b0f3d8bda29c7442b1a632dc690b584acfb24
+原始音频（保留）：assets/voices/commercial-20260929/qwen-vivian.wav
+原始SHA256：4f34d4bfae0cfb7303b434e1aa8ffaba368d2bb0e56ba1c6fb5a4b67c891b6b1
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.26 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/stock-qwen-vivian-3bc45404003d24012e4c.json
+去除开头等待：0秒；处理后有效声音起点：0.05秒
+缩短过长静音：0处；去除结尾空白：0.0秒；总计去除：0.0秒
+当前试听时长：8.96秒
+
+试听台词：
+别着急，我们还有时间。先把事情说清楚，再一起想办法。你愿意的话，我会一直在这里听你说。
+
+声音描述：
+明亮、略带锋芒。官方预设描述；通用对白试听。
+
+自动台词检查：
+台词为本项目编写；未进行逐字人工审听。
+
+
+已有生成参数：
+{
+  "preset": "Vivian",
+  "language": "Chinese",
+  "instruct": "",
+  "model_size": "1.7B"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Vivian",
+  "provider": "Qwen / Alibaba",
+  "official_url": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+  "commercial_license": {
+    "name": "Apache 2.0",
+    "commercial_use": true,
+    "checked_on": "2026-09-29",
+    "record": "imports/commercial-voices-20260929/LICENSE-NOTICE.txt",
+    "summary": "允许商业使用。再分发模型/预设时保留许可证及归属通知、标示修改；训练数据署名随批次归档。"
+  },
+  "reuse_note": "使用 Qwen3-TTS CustomVoice 相同模型与 speaker ID 继续生成。已保存试听和请求收据；本地尚未安装 Qwen 推理模型，官方演示可用性受服务容量影响。",
+  "quality_note": "使用官方音色描述。模型热度不等于此预设的热度，未提供单音色人气排名。"
+}
+确认记录：imports/commercial-voices-20260929/authorization.json
+imports/commercial-voices-20260929/receipts/qwen-vivian.json
+imports/commercial-voices-20260929/research/qwen-model-readme.md
+imports/commercial-voices-20260929/LICENSE-NOTICE.txt

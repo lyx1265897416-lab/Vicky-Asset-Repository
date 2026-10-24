@@ -1,0 +1,26 @@
+﻿白底3D角色34组 · 正面平视 · 20 · 曜蓝·运动 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Masculine athletic adult basketball enthusiast aged 24. Deep blue-black tousled layered short hair with forehead slightly visible, slate-blue eyes, broader jaw and straighter brows, relaxed closed lips. Navy sleeveless athletic jersey with muted teal neckline and plain mesh texture, no text, no team branding. Slim athletic shoulders, natural adult proportions.
+
+Create one fictional adult in premium semi-realistic 2.5D/3D romance-game CG style, with sculpted facial modeling, delicate skin microtexture and detailed groomed hair. Standard ID-photo chest-up portrait in vertical 3:4 format, 1086 x 1448 pixels. True frontal head and torso, camera exactly at eye level, zero yaw, pitch or roll, level eyes and shoulders, eyes looking directly into camera, relaxed neutral closed lips. Natural skull and neck proportions. Entire hairstyle and head ornaments visible with white headroom. Opaque solid white background, soft even neutral frontal studio lighting. No hands, text, watermark, borders or additional scenery. 
+
+按角色身份描述与确认成图重建独立文字提示词，未验证纯文字重生成相似度；严格锁脸请同时使用本图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-front-id-34-20260924/originals/character-20-front.png
+
+原始正面视角编辑提示词及适用的构图修订
+Use case: identity-preserve. Edit the single supplied confirmed character portrait into a standardized front-view ID portrait of EXACTLY THE SAME ADULT CHARACTER. Do not create a new person. Preserve facial identity, eye shape/color, nose, lips, jaw shape, skin tone, age, gender, hair color/style/length, all jewelry/accessories and original outfit. Rotate head and torso into true straight-on frontal view: zero head tilt, zero yaw or pitch, camera exactly at eye height, both eyes on a horizontal line, gaze directly into camera, shoulders level and square. Relaxed neutral closed-mouth expression, no smile or drama. Match the original premium semi-realistic 3D CG rendering and skin/hair detail; not live-action. Standard ID-photo chest-up composition in an EXACT 3:4 vertical canvas: entire hairstyle and head accessories visible, crown near 10% from top, eyes near 40% from top, chin near 64%, shoulders and upper chest visible to bottom. Maintain NATURAL adult skull and face proportions, no tall elongated cranium, no stretched neck; do not distort identity. Keep original hair arrangements but keep eyes readable. Background must be completely solid opaque WHITE #FFFFFF all the way to every edge, NOT transparent, NOT gray. Soft even neutral frontal studio light, gentle dimensional modeling, no harsh shadow. Single person, no hands, no scenery or extra props, no text or watermark. This is a matching character identity reference, not a real government document.
+
+Character 24 additionally: This identity uses the user's approved FIRST head proportion correction: retain the more natural crown height and do not elongate the skull.
+
+
+生成依据：
+metadata/evidence/3d-front-id-34-20260924/20.json

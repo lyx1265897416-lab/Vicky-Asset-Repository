@@ -1,0 +1,23 @@
+﻿别演，吻我 · 剧场侧门／街角咖啡店／车站／试镜室 · 纯环境修订
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+生成一张完整的场景设定图板，画幅 1536×1024。两列两行真实伦敦生活勘景照片板：砖墙中的深蓝剧场侧门和干燥普通街道；白绿小型街角外带咖啡店和金属凳；现代车站候车厅与检票口，无人候车区；灰白小试镜室、三脚架相机与朴素椅子。35mm平视、中深景深、阴天自然光、中性偏冷白平衡、普通建筑尺度与哑光磨损材质，无奢华布景、无夸张光晕，无主角。
+纯环境，不出现人物、动物、鸟、鱼、手部或角色倒影。沙发为空；街道、车站、笼子和水域无任何角色；屏幕不显示人像，装饰画采用植物或抽象图案。
+
+原生ImageGen生成。提示词可复用，但不保证像素级复现。编辑图保留原版备份。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/empty-scenes-expansion-20260928/originals/fix-exterior.png
+
+生成事件提示词
+Use case: precise-object-edit. Edit target is the attached scene board. Remove ALL commuters, pedestrians and reflected people from every panel, especially the station bottom-left and sidewalks top-right/top-left; fill naturally with continuous floors, gates and architecture. Remove the person on the camera LCD bottom-right, show empty room on that LCD. Preserve all four panels, locations, furniture, lighting, photographic style and angles. Final image is strictly environment only: no human or animal anywhere, including pictures, screens, mirrors and distant corners. Do not introduce new objects or redesign the spaces.
+
+生成依据：
+imports/empty-scenes-expansion-20260928/events/fix-exterior.json
+imports/empty-scenes-expansion-20260928/visual-review.json

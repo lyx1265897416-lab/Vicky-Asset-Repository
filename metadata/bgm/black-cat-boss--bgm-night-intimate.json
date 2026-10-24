@@ -1,0 +1,81 @@
+{
+  "id": "black-cat-boss--bgm-night-intimate",
+  "asset_kind": "bgm",
+  "name": "夜色靠近",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [
+    "EP05"
+  ],
+  "tags": [
+    "夜晚",
+    "亲密"
+  ],
+  "status": "confirmed",
+  "model": "未取得原始模型记录",
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-night-intimate/concepts/black-cat-boss/剧集/EP03/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-night-intimate/concepts/black-cat-boss/剧集/EP04/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-night-intimate/concepts/black-cat-boss/剧集/EP05/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-night-intimate/concepts/black-cat-boss/剧集/EP02/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-night-intimate/concepts/black-cat-boss/剧集/EP01/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-night-intimate/concepts/black-cat-boss/剧集/EP06/剧集图.json"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--bgm-night-intimate",
+      "key": "bgm-night-intimate",
+      "family": "black-cat-boss",
+      "name": "夜色靠近",
+      "tags": [
+        "夜晚",
+        "亲密"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 228 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP05/音乐/bgm-night-intimate.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP05/音乐/bgm-night-intimate.mp3"
+      ],
+      "sha256": "becf13364dc39f31f76bd6bc675e8ea7106b95f7559e02246c9fd0ecfbc3cc54",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "becf13364dc39f31",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-night-intimate/becf13364dc39f31.mp3",
+      "bytes": 1716813
+    },
+    {
+      "track_key": "black-cat-boss--bgm-night-intimate",
+      "key": "bgm-night-intimate",
+      "family": "black-cat-boss",
+      "name": "夜色靠近",
+      "tags": [
+        "夜晚",
+        "亲密"
+      ],
+      "label": "网页压缩版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 96 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP05/视频/web/bgm-night-intimate.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP05/视频/web/bgm-night-intimate.mp3",
+        "concepts/black-cat-boss/播放器/dist/media/bgm/bgm-night-intimate.mp3"
+      ],
+      "sha256": "8679e26d1828ec852a18eb8aa02a35e16d0fcdb505af432f0f082295b390c3ac",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "8679e26d1828ec85",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-night-intimate/8679e26d1828ec85.mp3",
+      "bytes": 720620
+    }
+  ],
+  "default_variant": "becf13364dc39f31",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

@@ -1,0 +1,21 @@
+﻿June Solano · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photographic full-body turnaround sheet of an adult woman aged thirty-eight, brown wavy hair loosely tied up with face-framing wisps, green eyes, light freckles, gently mature facial details, cream knitted sweater and blue-gray pinstriped apron. Cream knitted sweater, blue-gray pinstriped work apron tied at waist, straight light-blue jeans, cream-gray casual sneakers. Three equal vertical panels side by side: true FRONT, true LEFT PROFILE with nose pointing to left edge, true BACK. Same exact person and outfit in all views. 7.7-head tall slender fashion proportions, long legs with natural anatomy. Neutral upright standing stance with arms relaxed slightly away from hips, hands visible, feet on same baseline and identical body height. Entire hair crown and shoes included in each panel with generous margin. Bright cream-white seamless background, soft neutral studio daylight, low contrast, real skin texture, individual hair fibers, physically realistic cloth seams and drape. No text, arrows, labels, logos or other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-june-solano--body_turnaround.json
+
+实际带参考图生成提示词
+Use attached full-body character as strict identity, wardrobe and body reference. Produce the SAME person at three orientations, not three new faces. Photographic full-body turnaround sheet of an adult woman aged thirty-eight, brown wavy hair loosely tied up with face-framing wisps, green eyes, light freckles, gently mature facial details, cream knitted sweater and blue-gray pinstriped apron. Cream knitted sweater, blue-gray pinstriped work apron tied at waist, straight light-blue jeans, cream-gray casual sneakers. Three equal vertical panels side by side: true FRONT, true LEFT PROFILE with nose pointing to left edge, true BACK. Same exact person and outfit in all views. 7.7-head tall slender fashion proportions, long legs with natural anatomy. Neutral upright standing stance with arms relaxed slightly away from hips, hands visible, feet on same baseline and identical body height. Entire hair crown and shoes included in each panel with generous margin. Bright cream-white seamless background, soft neutral studio daylight, low contrast, real skin texture, individual hair fibers, physically realistic cloth seams and drape. No text, arrows, labels, logos or other people.
+
+生成依据：
+imports/role-completion-20260924/events/human-june-solano--body_turnaround.json

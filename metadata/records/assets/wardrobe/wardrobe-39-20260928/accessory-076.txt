@@ -1,0 +1,21 @@
+﻿服装39组 · 37 · 金色小吊坠项链 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Single accessory only: Fine gold chain necklace with tiny round pendant. Isolated product photo, object itself centered and filling most of image. Entire straps/chains/clasp visible with wide margin. No outfit, garments, human body, display bust, mannequin, hand or prop. 
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户39张服装参考 · 参考 37
+
+原始生成提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Single accessory only: Fine gold chain necklace with tiny round pendant. Isolated product photo, object itself centered and filling most of image. Entire straps/chains/clasp visible with wide margin. No outfit, garments, human body, display bust, mannequin, hand or prop. Reference image 1 supplies only this accessory; exclude everything else.
+
+生成依据：
+imports/wardrobe-39-20260928/events/accessory-076.json

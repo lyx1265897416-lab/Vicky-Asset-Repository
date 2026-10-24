@@ -1,0 +1,22 @@
+﻿服装追加23图 · 010 · 棕色老花手包 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. brown patterned top-handle handbag
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装追加23图 · 图3 下排左
+
+原始生成提示词：
+Edit this exact brown monogram handbag product photo. Remove the hanging furry tail charm and its hook completely. Keep only the unchanged handbag, handles, hardware and strap. Pure white seamless background, portrait 2:3, photorealistic soft studio light. No charm, fur, scarf, person, stand, or additional object. Full handbag with margins.
+
+生成依据：
+imports/wardrobe-23-20260930/events/acc-010-01-v2.json
+imports/wardrobe-23-20260930/source-03.json

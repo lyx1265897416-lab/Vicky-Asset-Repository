@@ -1,0 +1,45 @@
+﻿宣传摄影师 · 英国英语声线
+项目：别演，吻我 / OFF SCRIPT
+角色：宣传摄影师
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。在做剧集角色包中的现行配角声音参考样音；按本次扩大范围收录，不表示已有逐条独立定版记录。
+原始样音：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/audio/Photographer.mp3
+试听/下载文件SHA256：d398a0f6b82658a2e7167b1bed6333863412a1667e9559de92dc89ca7bd6f31f
+原始音频（保留）：assets/voices/production-20260928/off-script-photographer.mp3
+原始SHA256：3a54b7f8a499058ff91b8e27283defe6af358dcaffb11fd537fd658acf6123cc
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.1 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/off-script-photographer-81d41ebed927adbfc412.json
+去除开头等待：0秒；处理后有效声音起点：0.15秒
+缩短过长静音：2处；去除结尾空白：0.28秒；总计去除：4.24秒
+当前试听时长：5.6秒
+
+试听台词：
+Stay where you are. Turn towards the window. Good. Just look at each other.
+
+声音描述：
+自然略沙的男中音，简洁的现场指令。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "prompt": "Generate a clean studio dialogue voice audition. ONE original fictional speaker only. No music, no sound effects, no other voices. Voice direction (do not read these instructions aloud): A 40-year-old adult British man. Relaxed natural mid-register slightly raspy London English, friendly efficient working photographer giving a direction. Unpolished conversational speech. Speak ONLY this English dialogue, naturally, with a brief breath before the line and a subtle pause between sentences: \"Stay where you are. Turn towards the window. Good. Just look at each other.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/off-script-photographer/audio-Photographer-request.json
+imports/production-voices-20260928/source-records/off-script-photographer/atlas-data.json

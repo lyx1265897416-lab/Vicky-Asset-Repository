@@ -1,0 +1,66 @@
+{
+  "id": "magnus-doc-20261019-amb_car_interior_v1",
+  "asset_kind": "bgm",
+  "name": "静止车内环境 · V1",
+  "project": "Magnus Thorne",
+  "project_id": "magnus-thorne-document",
+  "category": "环境底声",
+  "episodes": [],
+  "tags": [
+    "Magnus Thorne",
+    "文档确认版",
+    "环境底声",
+    "可循环",
+    "V1"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/sound-effects-v2",
+  "parameters": {
+    "prompt": "Seamlessly looping ambience inside a parked luxury sedan, engine switched OFF. Soft enclosed cabin room tone with very faint air conditioning, distant outside garage muffled by closed windows. Constant quiet intimate background, no driving, voices, breathing, music, seat movement, seatbelt or door sounds, no sudden events.",
+    "duration": 22,
+    "loop": true,
+    "prompt_influence": 0.65
+  },
+  "prompt": "Seamlessly looping ambience inside a parked luxury sedan, engine switched OFF. Soft enclosed cabin room tone with very faint air conditioning, distant outside garage muffled by closed windows. Constant quiet intimate background, no driving, voices, breathing, music, seat movement, seatbelt or door sounds, no sudden events.",
+  "source_records": [
+    "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+    "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+  ],
+  "variants": [
+    {
+      "id": "e0da1cb868250e4f",
+      "path": "assets/bgm/magnus-doc-20261019/AMB_CAR_INTERIOR_V1.mp3",
+      "sha256": "e0da1cb868250e4f50aeaaa88af2964449042ae49bc57da94205d8e06bbd3952",
+      "label": "文档原版 · V1",
+      "duration_seconds": 20.04,
+      "extension": ".mp3",
+      "bytes": 481580,
+      "sources": [
+        "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4gjkmrF57dKNXJknEF1Y8e",
+        "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/AMB_CAR_INTERIOR_V1.mp3"
+      ],
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "decode_check": "passed"
+    }
+  ],
+  "default_variant": "e0da1cb868250e4f",
+  "confirmation": {
+    "date": "2026-10-19",
+    "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+  },
+  "provenance_note": "原文档音频逐字节保留；循环底声｜车内｜静止车辆、发动机关闭时的封闭车厢与轻空调底声 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4gjkmrF57dKNXJknEF1Y8e",
+  "source_revision": 1619,
+  "source_block_id": "doxcn4gjkmrF57dKNXJknEF1Y8e",
+  "generation_date": null,
+  "generation_date_note": "未取得可核实生成时间戳。",
+  "imported_on": "2026-10-19",
+  "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+  "production_processing": {
+    "loop": true,
+    "loop_crossfade_seconds": 2,
+    "gain_db": 6.59,
+    "duration_seconds": 20.0,
+    "source_duration_seconds": 22.0
+  }
+}

@@ -1,0 +1,52 @@
+﻿31岁女声 · 不肯放弃的调查记者 · Eleven v4
+项目：角色设定选角 · 2026-10-14
+角色：不肯放弃的调查记者
+年龄设计：31岁（角色目标）
+身份用途：悬疑
+音色标签：清楚直接，语气里有耐心
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-character-shortlist.json 中将 C11-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-character-casting-20261014/audio/C11-eleven.mp3
+试听/下载文件SHA256：c3b78b0bfb56c089105f2ca489ff468827576f2d2a7c7166a148f193e1c42fc4
+原始音频（保留）：assets/voices/voice-character-casting-20261014/original/C11-eleven.mp3
+原始SHA256：faf61f81bea069cae20c7800c4e6011076af9de9e3fe0ea9c5cedc34b5e6504e
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-21.75 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-character-casting-20261014-C11-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.15秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：12.0秒
+
+试听台词：
+I can turn the recorder off. There. It's off. This doesn't have to be a quote. But someone changed those names, and you noticed. I think you've been waiting for somebody else to notice too.
+
+声音描述：
+性格：敏锐、共情、追问到底。场景：用事实让不愿开口的人愿意说话。
+An investigative reporter building trust with a reluctant source. Plain factual opening, then empathetic persistence. Understated close conversation, no dramatic newsreader cadence.
+固定预设 Laura 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+I can turn the recorder off. There, it's off. This doesn't have to be a quote. But someone changed those names, and you noticed. I think you've been waiting for somebody else to notice too.
+
+已有生成参数：
+{
+  "text": "[patient] I can turn the recorder off. There. It's off. [quietly intent] This doesn't have to be a quote. But someone changed those names, and you noticed. I think you've been waiting for somebody else to notice too.",
+  "voice_id": "Laura",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Laura",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-character-casting-20261014/confirmation.json
+imports/voice-character-casting-20261014/jobs/C11-eleven.json
+imports/voice-character-casting-20261014/evidence/roles.json
+imports/voice-character-casting-20261014/evidence/qa.json
+imports/voice-character-casting-20261014/evidence/batch-plan.json

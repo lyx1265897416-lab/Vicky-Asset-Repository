@@ -1,0 +1,81 @@
+{
+  "id": "black-cat-boss--bgm-ending",
+  "asset_kind": "bgm",
+  "name": "尾声",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [
+    "EP06"
+  ],
+  "tags": [
+    "结尾",
+    "收束"
+  ],
+  "status": "confirmed",
+  "model": "未取得原始模型记录",
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-ending/concepts/black-cat-boss/剧集/EP03/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-ending/concepts/black-cat-boss/剧集/EP04/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-ending/concepts/black-cat-boss/剧集/EP05/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-ending/concepts/black-cat-boss/剧集/EP02/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-ending/concepts/black-cat-boss/剧集/EP01/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-ending/concepts/black-cat-boss/剧集/EP06/剧集图.json"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--bgm-ending",
+      "key": "bgm-ending",
+      "family": "black-cat-boss",
+      "name": "尾声",
+      "tags": [
+        "结尾",
+        "收束"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 120.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 254 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP06/音乐/bgm-ending.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP06/音乐/bgm-ending.mp3"
+      ],
+      "sha256": "e740e38ce68b13c541b99b352e9e55984961593d37fde7a6cd2afe0a67a8f62a",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "e740e38ce68b13c5",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-ending/e740e38ce68b13c5.mp3",
+      "bytes": 3811821
+    },
+    {
+      "track_key": "black-cat-boss--bgm-ending",
+      "key": "bgm-ending",
+      "family": "black-cat-boss",
+      "name": "尾声",
+      "tags": [
+        "结尾",
+        "收束"
+      ],
+      "label": "网页压缩版",
+      "duration_seconds": 120.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 96 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP06/视频/web/bgm-ending.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP06/视频/web/bgm-ending.mp3",
+        "concepts/black-cat-boss/播放器/dist/media/bgm/bgm-ending.mp3"
+      ],
+      "sha256": "8dc975fd22009f788b4de785060cfc336cd681f93e9d073fb3dd5113b1828b04",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "8dc975fd22009f78",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-ending/8dc975fd22009f78.mp3",
+      "bytes": 1440620
+    }
+  ],
+  "default_variant": "e740e38ce68b13c5",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

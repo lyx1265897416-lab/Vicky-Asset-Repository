@@ -1,0 +1,23 @@
+﻿白底角色24组 · 11 · 浅棕卷发灰色背心 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1105 × 1424
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1105:1424 (approximately 0.776:1), target canvas 1105 × 1424 pixels.
+
+Create one independent photorealistic studio portrait on a completely seamless pure white #FFFFFF background. Bright soft frontal light, balanced fill, low contrast, faint optical halation, natural pores and fine facial hair, detailed real cotton and knit fabric, realistic 50mm perspective, both eyes sharp and background clean. No room, scenery, props, gradient, vignette, frame, collage, text, branding or watermark. Keep the entire hairstyle inside the frame with a small white margin. One fictional young adult woman, approximately 18–22 years old, with long mushroom-blonde highlighted wavy hair with curtain bangs, fair freckled skin, light hazel eyes, soft brows, small straight nose and pale pink lips; dove-gray sleeveless V-neck knit over a white short-sleeve tee, relaxed tilted head. Frame a close head-and-shoulders to mid-torso portrait, both shoulders visible, gaze toward camera, subject large in frame; retain the specifically described head angle and pose. Clean lightly flushed natural skin and light everyday makeup, no heavy eyeliner or glossy beauty retouching.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/white-portraits-24-20260922/originals/character-11.png
+
+生成工具记录的提示词（可能依赖参考图）
+All images: wholly original adult high-school senior aged 18, reference is only a loose mood cue; invent a new face and identity. Seamless pure white studio background, no props, no text, no logos, no watermark. Bright high-key exposure, soft frontal 50mm portrait lighting, low shadow, subtle halation, natural skin texture, realistic hair strands, believable American high-school character-library photography, modest clothing, no celebrity likeness, no copied facial features or exact outfit. Reference 11 mood: glamorous long ash-blonde waves and soft makeup. Create a new fair-skinned girl with long mushroom-blonde waves, light hazel eyes, airy curtain bangs, subtle rosy cheeks, modest dove-gray sleeveless sweater layered over a white tee. Centered mid-torso portrait.
+
+生成依据：
+metadata/evidence/exec-2cf82753-dd4d-4358-9a34-eb8e74bedf7e.json

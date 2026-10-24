@@ -1,0 +1,52 @@
+﻿20岁女声 · 笑着拆穿朋友的谎话 · Eleven v4
+项目：双模型年龄选角 · 2026-10-14
+角色：笑着拆穿朋友的谎话
+年龄设计：20岁（角色目标）
+身份用途：通用剧情角色
+音色标签：笑着拆穿朋友的谎话
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-age-shortlist.json 中将 A20F-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-age-casting-20261014/audio/A20F-eleven.mp3
+试听/下载文件SHA256：35a0c7b366c34bd6a49c48d3fc38d1604293e76639fa336a3b314864302c33b6
+原始音频（保留）：assets/voices/voice-age-casting-20261014/original/A20F-eleven.mp3
+原始SHA256：f79b36d1846f422f8304e190c379c296852ea8d92a49971820c691523c39087f
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.0 LUFS；真实峰值：-2.97 dBTP
+响度处理记录：metadata/voice-loudness/voice-age-casting-20261014-A20F-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.02秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：8.64秒
+
+试听台词：
+You said you couldn't cook. What is all this? You made the bread too? Okay, now I'm annoyed. I've been bringing you sandwiches for a month!
+
+声音描述：
+Private playful teasing between close friends; dry first line, affection slowly showing through. Natural conversational rhythm, not a comedy routine.。
+Private playful teasing between close friends; dry first line, affection slowly showing through. Natural conversational rhythm, not a comedy routine. Read each sentence once.
+固定预设 Bella 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+You said you couldn't cook. What is all this? You made the bread too? Okay, now I'm annoyed. I've been bringing you sandwiches for a month.
+
+已有生成参数：
+{
+  "text": "[playfully incredulous] You said you couldn't cook. What is all this? You made the bread too? Okay, now I'm annoyed. I've been bringing you sandwiches for a month!",
+  "voice_id": "Bella",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Bella",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-age-casting-20261014/confirmation.json
+imports/voice-age-casting-20261014/jobs/A20F-eleven.json
+imports/voice-age-casting-20261014/evidence/roles.json
+imports/voice-age-casting-20261014/evidence/qa.json
+imports/voice-age-casting-20261014/evidence/batch-plan.json

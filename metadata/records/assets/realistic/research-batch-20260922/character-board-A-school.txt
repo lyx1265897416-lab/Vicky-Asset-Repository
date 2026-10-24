@@ -1,0 +1,28 @@
+﻿调研拉片原创角色预览 A · 校园白光组 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 3:4 (approximately 0.750:1), target canvas 1086 × 1448 pixels.
+
+Create one clean 2 by 2 character portrait board, four equally sized cells with thin unobtrusive dividers, consistent head-to-mid-torso scale and softly blurred bright cream classroom or window-lit interior in every cell. Place subjects in this exact reading order: top-left: 17-year-old girl with fair skin, long deep-chestnut waves, airy curtain bangs, brown almond eyes, soft straight brows, petite oval face, small straight nose and delicate rose lips; navy cardigan over white pointed-collar shirt and loose muted burgundy striped tie, quiet thoughtful gaze and slight head tilt. Top-right: 18-year-old Black girl with warm medium-brown skin, short rounded halo of tight natural curls, warm brown eyes, softly arched brows, small rounded nose and full lips; cream V-neck knit vest with navy and burgundy tipping over a pale blue button shirt, small gold earrings, gently confident gaze, head tilted slightly. Bottom-left: 17-year-old girl with pale skin and many fine freckles, loose honey-blonde waves, gray-green eyes, oval cheeks, short narrow nose and natural pink lips; pale sage cardigan over white blouse, chin resting in one palm, thoughtful sideways glance. Bottom-right: 18-year-old South Asian girl with warm medium-brown skin, dark brown almond eyes, thick eyebrows, a softly oval face, straight slender nose and full natural lips; dark low side braid with cream ribbon and loose forehead strands, warm taupe blazer over ivory knit, curious direct gaze. Distinct facial identities, no duplicated face, no captions or logos. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/research-character-batch-20260922/character-board-A-school.png
+
+生成工具记录的提示词（可能依赖参考图）
+Create a clean 2x2 character-material preview sheet with four separate original fictional girls, each in a portrait/half-body panel with consistent studio daylight and a simple light cream or soft classroom background. Match this visual direction consistently: bright high-key exposure; cream white, pale gray, warm brown and muted burgundy palette; soft frontal light; low shadow density; natural skin microtexture; subtle halation; realistic 50mm shallow depth of field; believable contemporary European/American high-school life. No dark teal/green cinematic grade, no heavy makeup, no plastic skin, no over-HDR, no K-pop styling, no illustration, no 3D render, no fantasy, no text, no logos, no watermark. Use the references only for loose mood, hair texture, wardrobe cues and framing. Do not copy any face, exact likeness, outfit, pose, background, composition or pixels. All people must be newly invented and clearly distinct.
+Panel 1: 17-year-old East Asian high-school girl, long dark chestnut hair with airy curtain bangs, ivory shirt and navy cardigan with a small burgundy tie, calm observant expression.
+Panel 2: 18-year-old Black high-school girl, short natural curls, warm brown skin, cream knit vest over a pale blue shirt, gentle confident expression.
+Panel 3: 17-year-old freckled white girl, honey-blonde wavy hair, pale sage cardigan and white blouse, shy thoughtful expression.
+Panel 4: 18-year-old South Asian girl, dark braid with a simple ribbon, medium-brown skin, warm taupe blazer and ivory top, curious direct gaze.
+Keep all four faces, hair, ages and styling unmistakably different. This is a preview sheet for later individual asset extraction, not a collage of source images.
+
+生成依据：
+metadata/evidence/exec-4ffacbb0-b94f-471a-ab97-350e0f84efbb.json

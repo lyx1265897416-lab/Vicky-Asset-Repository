@@ -1,0 +1,51 @@
+﻿26岁女声 · 狡黠又讲义气的盗贼 · Gemini 3.8 Flash
+项目：角色设定选角 · 2026-10-14
+角色：狡黠又讲义气的盗贼
+年龄设计：26岁（角色目标）
+身份用途：悬疑
+音色标签：轻快、反应快、咬字不端着
+模型：google/gemini-3.8-flash/text-to-speech
+入库依据：用户在 vicky-character-shortlist.json 中将 C12-gemini 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-character-casting-20261014/audio/C12-gemini.wav
+试听/下载文件SHA256：072bbd1db8258f9d73a69496c6bdfa60b7433bcaded7b97c6327928d07e23ff0
+原始音频（保留）：assets/voices/voice-character-casting-20261014/original/C12-gemini.wav
+原始SHA256：41f2464e001235b1782b92c8957a247653c89c72ed050613401d4fd28cbd5406
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.24 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-character-casting-20261014-C12-gemini-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.27秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：14.56秒
+
+试听台词：
+Looking for this? You really should check your pockets more often. Oh, don't look so pleased. I borrowed the key, not the whole building. Come on. I'd rather explain while we're moving.
+
+声音描述：
+性格：灵巧、爱调侃、关键时刻认真。场景：盗取钥匙后催同伴离开。
+A nimble thief teasing a trusted partner after acquiring a key. Bright controlled playfulness turning into practical urgency. No cackling or exaggerated sultriness.
+固定预设 Autonoe 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Looking for this? You really should check your pockets more often. Oh, don't look so pleased. I borrowed the key, not the whole building. Come on, I'd rather explain while we're moving.
+
+已有生成参数：
+{
+  "text": "Looking for this? You really should check your pockets more often. Oh, don't look so pleased. I borrowed the key, not the whole building. Come on. I'd rather explain while we're moving.",
+  "voice": "Autonoe",
+  "style_instructions": "A nimble thief teasing a trusted partner after acquiring a key. Bright controlled playfulness turning into practical urgency. No cackling or exaggerated sultriness."
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Autonoe",
+  "provider": "Google",
+  "official_url": "https://ai.google.dev/gemini-api/docs/speech-generation",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-character-casting-20261014/confirmation.json
+imports/voice-character-casting-20261014/jobs/C12-gemini.json
+imports/voice-character-casting-20261014/evidence/roles.json
+imports/voice-character-casting-20261014/evidence/qa.json
+imports/voice-character-casting-20261014/evidence/batch-plan.json

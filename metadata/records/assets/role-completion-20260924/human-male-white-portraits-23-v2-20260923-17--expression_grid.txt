@@ -1,0 +1,21 @@
+﻿男角色第二版 17 · 复古文艺 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic studio character asset. A 27-year-old East Asian man with softly swept medium-length black hair, charcoal washed denim jacket over black tee, quietly observant expression. Facial features: short broad angular face, wide lower jaw, small elongated hooded eyes, heavy straight brows, shorter broad nose with low bridge, thin wide lips, blunt chin, faint freckles across the nose. A distinctive everyday face rather than a symmetrical actor headshot. Exactly nine distinct head-and-shoulder photographs in a clean3x3 expression grid with narrow white gutters. Same face, hair and clothes in all nine. Row1 neutral, soft closed-mouth smile, happy open smile; row2 surprise with raised brows and rounded lips, worried frown, sad lowered inner brows; row3 controlled anger, skeptical raised eyebrow, amused playful grin. Eyes open, head upright, camera at eye level, complete hair within each cell. No exaggerated cartoon distortion. Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve adult individuality without model beautification.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-17--expression_grid.json
+
+实际带参考图生成提示词
+Use reference to preserve exact same adult man, face, haircut, age, skin details, body type and clothes. Photorealistic studio character asset. A 27-year-old East Asian man with softly swept medium-length black hair, charcoal washed denim jacket over black tee, quietly observant expression. Facial features: short broad angular face, wide lower jaw, small elongated hooded eyes, heavy straight brows, shorter broad nose with low bridge, thin wide lips, blunt chin, faint freckles across the nose. A distinctive everyday face rather than a symmetrical actor headshot. Exactly nine distinct head-and-shoulder photographs in a clean3x3 expression grid with narrow white gutters. Same face, hair and clothes in all nine. Row1 neutral, soft closed-mouth smile, happy open smile; row2 surprise with raised brows and rounded lips, worried frown, sad lowered inner brows; row3 controlled anger, skeptical raised eyebrow, amused playful grin. Eyes open, head upright, camera at eye level, complete hair within each cell. No exaggerated cartoon distortion. Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve adult individuality without model beautification.
+
+生成依据：
+imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-17--expression_grid.json

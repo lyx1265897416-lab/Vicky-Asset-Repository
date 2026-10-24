@@ -1,0 +1,21 @@
+﻿白底3D角色17组 01 · 银发侧辫游侠 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult masculine fantasy ranger with long silver hair, a thick side braid and loose wisps, subtly pointed ears, gray eyes, pale skin, a softly angular face and muted rose lips. Silver dangling earrings, dark leather vest over a textured white shirt, understated silver jewelry. Thick braid falls over his right shoulder (image-left in front), dark brown intricately tooled leather fitted vest and ivory billowy open-neck shirt, embossed leather belt with antique silver buckle, charcoal slim trousers, dark brown knee-high ranger boots, empty hands. Tall lean athletic 190 cm, normal-sized face. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 8.5-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3. Tall lean athletic male fashion-model anatomy with approximately 8.5 anatomical head lengths from skull crown to bare-foot soles. Head excluding hair volume is about 11.8% of total standing height. Long legs and arms, proportionate shoulders and waist, normal neck length, natural muscle definition. Do not elongate the face or neck or use shoe soles to fake height. Straight camera with no foreshortening. Include every hair ornament to shoe tips; white space on all edges.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-front-17-20260923-01--full_body.json
+
+实际带参考图生成提示词
+Use attached approved character image as strict face, hair, ornaments and clothing reference. Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult masculine fantasy ranger with long silver hair, a thick side braid and loose wisps, subtly pointed ears, gray eyes, pale skin, a softly angular face and muted rose lips. Silver dangling earrings, dark leather vest over a textured white shirt, understated silver jewelry. Thick braid falls over his right shoulder (image-left in front), dark brown intricately tooled leather fitted vest and ivory billowy open-neck shirt, embossed leather belt with antique silver buckle, charcoal slim trousers, dark brown knee-high ranger boots, empty hands. Tall lean athletic 190 cm, normal-sized face. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 8.5-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3. Tall lean athletic male fashion-model anatomy with approximately 8.5 anatomical head lengths from skull crown to bare-foot soles. Head excluding hair volume is about 11.8% of total standing height. Long legs and arms, proportionate shoulders and waist, normal neck length, natural muscle definition. Do not elongate the face or neck or use shoe soles to fake height. Straight camera with no foreshortening. Include every hair ornament to shoe tips; white space on all edges.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-front-17-20260923-01--full_body.json

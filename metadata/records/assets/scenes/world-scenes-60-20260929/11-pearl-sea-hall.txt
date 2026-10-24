@@ -1,0 +1,24 @@
+﻿多题材场景60组 · 11 · 珍珠海底议事厅
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: stylized-concept. Asset type: original cinematic environment background for Vicky's interactive story scene library, preview awaiting approval. Produce ONE landscape image, 1536x1024, no collage, no border or captions. The fantasy must feel like a beautifully photographed tangible film set with convincing architecture and natural material detail, not an illustration or plastic game render. Vicky taste: bright high-key exposure with retained surface detail, soft broad frontal/fill illumination, low shadows and gentle contrast, cream white / pale gray / warm brown foundation, theme-specific restrained pastel colors, slight film halation. Eye-level natural 50mm perspective from suitable distance, layered spatial depth but keep environment readable and compositing-friendly, no extreme wide angle. Entire scene is unoccupied: absolutely no people, characters, silhouettes, human reflections, humanoid robots, portraits, statues, mannequins, animals, birds, fish or insects. Plants are allowed. No text, logos or watermarks. Original arrangement inspired by researched world-building only; do not reproduce an existing movie frame.
+Scene: A fully submerged original undersea palace council hall, sweeping mother-of-pearl arches grown from mineral reef stone, six empty low pearl seats around a smooth oval stone table, pale aqua water and wavering sun caustics. Tall openings reveal empty blue water and seaweed, no glass aquarium wall, no fish or merpeople. Soft suspended particles and realistic underwater depth.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/world-scenes-60-20260929/images/11-pearl-sea-hall.png
+
+生成事件提示词
+Use case: stylized-concept. Asset type: original cinematic environment background for Vicky's interactive story scene library, preview awaiting approval. Produce ONE landscape image, 1536x1024, no collage, no border or captions. The fantasy must feel like a beautifully photographed tangible film set with convincing architecture and natural material detail, not an illustration or plastic game render. Vicky taste: bright high-key exposure with retained surface detail, soft broad frontal/fill illumination, low shadows and gentle contrast, cream white / pale gray / warm brown foundation, theme-specific restrained pastel colors, slight film halation. Eye-level natural 50mm perspective from suitable distance, layered spatial depth but keep environment readable and compositing-friendly, no extreme wide angle. Entire scene is unoccupied: absolutely no people, characters, silhouettes, human reflections, humanoid robots, portraits, statues, mannequins, animals, birds, fish or insects. Plants are allowed. No text, logos or watermarks. Original arrangement inspired by researched world-building only; do not reproduce an existing movie frame.
+Scene: A fully submerged original undersea palace council hall, sweeping mother-of-pearl arches grown from mineral reef stone, six empty low pearl seats around a smooth oval stone table, pale aqua water and wavering sun caustics. Tall openings reveal empty blue water and seaweed, no glass aquarium wall, no fish or merpeople. Soft suspended particles and realistic underwater depth.
+
+生成依据：
+imports/world-scenes-60-20260929/events/11.json
+previews/world-scenes-60-20260929/verification.json

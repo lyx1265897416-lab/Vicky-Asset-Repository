@@ -1,0 +1,21 @@
+﻿服装77图 · 047 · 黑金开衫白领结套装 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Black cropped gold-button cardigan over white high-neck bib blouse, black wide cropped trousers, black sheer tights, patent black pumps.. Add ONLY these accessories: One black satin ribbon neck bow with long pointed tails, worn over the white neck bib. No white bib, white ribbon or pearls included.; 多层珍珠项链; 黑色金圆扣腰带; 金色手链. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户77张服装参考 · 16 single
+
+原始生成提示词：
+Edit this white-background object-only product photo. Remove only the detached spare long white pearl necklace at middle right. Keep the one multi-strand pearl necklace already draped on the white blouse chest, the tied black neck bow, the attached gold-circle black waist belt, and adjacent gold bracelet. All clothing and shoes unchanged. No new objects. Preserve pure white background and realistic materials. No person, skin, body parts, mannequin or stand.
+
+生成依据：
+imports/wardrobe-77-20260929/events/complete-047-v3.json

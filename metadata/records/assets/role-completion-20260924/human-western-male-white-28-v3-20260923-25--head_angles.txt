@@ -1,0 +1,21 @@
+﻿欧美男角色28组 25 · 蓝色牛仔衬衫 · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos.   Original fictional young adult man aged 22–26, fair warm natural skin. Warm adventurous campfire companion. Dark chestnut curls, brown eyes.  rectangular face with rounded chin, slightly deep-set eyes, broader nose bridge, thin matte lips, light freckles. Blue denim shirt with rolled sleeves over white tee. Exactly THREE same-scale head-and-shoulders portraits in a horizontal row: strict 90-degree LEFT profile facing image-left, strict upright FRONT at center, strict 90-degree RIGHT profile facing image-right. Eye-level camera, zero head roll, level shoulders, neutral closed lips, full hair and shoulders visible with white margins. Same person, same face, hairstyle, clothing and accessories. Landscape 3:2, white background, no text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-western-male-white-28-v3-20260923-25--head_angles.json
+
+实际带参考图生成提示词
+Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos.   Original fictional young adult man aged 22–26, fair warm natural skin. Warm adventurous campfire companion. Dark chestnut curls, brown eyes.  rectangular face with rounded chin, slightly deep-set eyes, broader nose bridge, thin matte lips, light freckles. Blue denim shirt with rolled sleeves over white tee. Exactly THREE same-scale head-and-shoulders portraits in a horizontal row: strict 90-degree LEFT profile facing image-left, strict upright FRONT at center, strict 90-degree RIGHT profile facing image-right. Eye-level camera, zero head roll, level shoulders, neutral closed lips, full hair and shoulders visible with white margins. Same person, same face, hairstyle, clothing and accessories. Landscape 3:2, white background, no text. Match exact reference facial identity, not its tilted pose. Zero head roll, level pupils, front face centered vertically over sternum. Three HEAD AND SHOULDERS closeups only, upper-chest crop, no hands or legs.
+
+生成依据：
+imports/role-completion-20260924/events/human-western-male-white-28-v3-20260923-25--head_angles.json

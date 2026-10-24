@@ -1,0 +1,21 @@
+﻿白底角色 19 · 及肩棕发蓝灰衬衫 · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1366 × 1152
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic character asset of one young adult woman age18–22 with straight shoulder-length dark chestnut hair with soft side part, fair pink skin, brown eyes, delicate brows, small straight nose, oval jaw and naturally rounded pink lips, wearing slate-blue button shirt over cream tee. Exact3x2 grid of six equal close head-and-shoulder panels with complete hair. Top row: centered straight FRONT; three-quarter with nose pointing toward LEFT edge; three-quarter with nose pointing toward RIGHT edge. Bottom row: exact90degree LEFT profile; exact90degree RIGHT profile; BACK180degree. All6orientations different, no duplicate directions. Head upright eye-level camera, closed neutral lips, balanced skull and facial proportions across rotations. Thin white gutters. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-19--head_angles.json
+
+实际带参考图生成提示词
+Create a NEW six-angle studio head contact sheet of the SAME woman in the reference. Reference shows full body; zoom into head and shoulders for every panel. IMPORTANT different yaw angles, not repetitions. In TOP MIDDLE she looks to the LEFT side of the image; TOP RIGHT she looks to the RIGHT side of the image. In BOTTOM LEFT her nose is near the LEFT edge and only her left-pointing silhouette is visible; BOTTOM MIDDLE her nose is near the RIGHT edge and only right-pointing silhouette is visible. Top left straight front. Bottom right shows back of head, face invisible. Photorealistic character asset of one young adult woman age18–22 with straight shoulder-length dark chestnut hair with soft side part, fair pink skin, brown eyes, delicate brows, small straight nose, oval jaw and naturally rounded pink lips, wearing slate-blue button shirt over cream tee. Exact3x2 grid of six equal close head-and-shoulder panels with complete hair. Top row: centered straight FRONT; three-quarter with nose pointing toward LEFT edge; three-quarter with nose pointing toward RIGHT edge. Bottom row: exact90degree LEFT profile; exact90degree RIGHT profile; BACK180degree. All6orientations different, no duplicate directions. Head upright eye-level camera, closed neutral lips, balanced skull and facial proportions across rotations. Thin white gutters. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-white-portraits-24-20260922-19--head_angles.json

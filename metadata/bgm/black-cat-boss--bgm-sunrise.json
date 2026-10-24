@@ -1,0 +1,81 @@
+{
+  "id": "black-cat-boss--bgm-sunrise",
+  "asset_kind": "bgm",
+  "name": "日出微光",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [
+    "EP01"
+  ],
+  "tags": [
+    "清晨",
+    "温暖"
+  ],
+  "status": "confirmed",
+  "model": "未取得原始模型记录",
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-sunrise/concepts/black-cat-boss/剧集/EP03/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-sunrise/concepts/black-cat-boss/剧集/EP04/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-sunrise/concepts/black-cat-boss/剧集/EP05/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-sunrise/concepts/black-cat-boss/剧集/EP02/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-sunrise/concepts/black-cat-boss/剧集/EP01/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-sunrise/concepts/black-cat-boss/剧集/EP06/剧集图.json"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--bgm-sunrise",
+      "key": "bgm-sunrise",
+      "family": "black-cat-boss",
+      "name": "日出微光",
+      "tags": [
+        "清晨",
+        "温暖"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 213 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP01/音乐/bgm-sunrise.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP01/音乐/bgm-sunrise.mp3"
+      ],
+      "sha256": "d6373db7c27229282199d15ba781bfc090ef32f70e4efd5b95e6efbc588af9b4",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "d6373db7c2722928",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-sunrise/d6373db7c2722928.mp3",
+      "bytes": 1604205
+    },
+    {
+      "track_key": "black-cat-boss--bgm-sunrise",
+      "key": "bgm-sunrise",
+      "family": "black-cat-boss",
+      "name": "日出微光",
+      "tags": [
+        "清晨",
+        "温暖"
+      ],
+      "label": "网页压缩版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 96 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP01/视频/web/bgm-sunrise.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP01/视频/web/bgm-sunrise.mp3",
+        "concepts/black-cat-boss/播放器/dist/media/bgm/bgm-sunrise.mp3"
+      ],
+      "sha256": "85cb0dabc64eb7e6de68932c4aa5dae81ec6f0dbf8d4d9fd5dc5be207b5caa09",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "85cb0dabc64eb7e6",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-sunrise/85cb0dabc64eb7e6.mp3",
+      "bytes": 720620
+    }
+  ],
+  "default_variant": "d6373db7c2722928",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

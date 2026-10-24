@@ -1,0 +1,21 @@
+﻿June Solano · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photographic nine-expression reference sheet of an adult woman aged thirty-eight, brown wavy hair loosely tied up with face-framing wisps, green eyes, light freckles, gently mature facial details, cream knitted sweater and blue-gray pinstriped apron. Exact square 3x3 grid, nine equal head-and-shoulder portraits of the SAME person, at eye level, head facing straight ahead, complete hair with margin. Thin white gutters. Row1 neutral, slight warm closed smile, happy toothy smile. Row2 surprised raised brows and parted mouth, worried knitted brow, quiet sadness. Row3 annoyed frown, skeptical raised eyebrow, shy affectionate small smile. Nine clearly distinct yet realistic understated expressions, consistent identity and eye color, never reshape the jaw or alter age. Bright cream-white background, broad soft natural frontal studio daylight, low contrast and open shadows, natural photographic skin pores, individual hair strands and real textile fibers. No text, labels, extra panels or other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-june-solano--expression_grid.json
+
+实际带参考图生成提示词
+Use attached image as the exact identity and outfit reference. Create a photographic facial acting sheet of an adult woman aged thirty-eight, brown wavy hair loosely tied up with face-framing wisps, green eyes, light freckles, gently mature facial details, cream knitted sweater and blue-gray pinstriped apron. Preserve that specific face and features across ALL panels. Exact square 3x3 grid, nine equal head-and-shoulder portraits of the SAME person, at eye level, head facing straight ahead, complete hair with margin. Thin white gutters. Row1 neutral, slight warm closed smile, happy toothy smile. Row2 surprised raised brows and parted mouth, worried knitted brow, quiet sadness. Row3 annoyed frown, skeptical raised eyebrow, shy affectionate small smile. Nine clearly distinct yet realistic understated expressions, consistent identity and eye color, never reshape the jaw or alter age. Bright cream-white background, broad soft natural frontal studio daylight, low contrast and open shadows, natural photographic skin pores, individual hair strands and real textile fibers. No text, labels, extra panels or other people.
+
+生成依据：
+imports/role-completion-20260924/events/human-june-solano--expression_grid.json

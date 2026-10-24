@@ -1,0 +1,21 @@
+﻿咪 / 年糕 / tteokbokki · 奶油围裙 · 全身三视图 · 正侧背
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-13
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-13
+
+文生图提示词：
+Use case: identity-preserve. Asset type: full-body three-view character reference sheet. Generate ONE landscape photographic sheet, exactly THREE equally sized vertical panels in a SINGLE horizontal row. LEFT: straight-on FRONT; CENTER: exact90-degree SIDE with muzzle pointing LEFT; RIGHT: exact180-degree BACK, no eyes or face visible. Same natural seated-cat pose rotated in place, head upright, neutral attentive expression, same scale, paws on same baseline. Complete ears, whole cat body, paws and entire thick ringed tail visible with comfortable margins in all panels. Match the compact round-bodied golden-orange shorthaired tabby, round plush cheeks, ivory muzzle/chin/chest, large dark olive round eyes, pink triangular nose, white whiskers, delicate orange stripes, upright small triangular ears. Real feline anatomy, no humanoid body or artificially elongated legs. Exact clothing: ONLY the short cream woven linen/cotton apron as described, two narrow cream straps, small rectangular chest pocket with muted-blue fish appliqué, short bib hem well above paws. The front upper legs visibly overlap and occlude apron side edges, cloth wraps snugly around chest and recedes behind forelegs; no fabric pasted over arms. Side shows short apron front panel fitting the chest and thin straps wrapping around body. Back must show mostly exposed golden fur, narrow cream neck/shoulder straps and a modest waist tie/tiny knot; no broad back bib, shirt, pants, sleeves, hat, red bow or sailor clothes. Hindquarters and tail remain unclothed. Neutral warm ivory seamless studio backdrop and floor, bright broad soft morning daylight, original creamy warm-neutral color balance, real fur strands, woven cloth and natural soft grounding shadows. Thin ivory vertical panel dividers; no lettering, labels, number, watermark, props, UI or extra panels. Output around1536x1024.
+
+独立文生图提示词根据实际带参考图提示词整理；纯文字未验证近乎一致。严格保持小猫身份和服装请同时使用对应已确认造型原图。
+
+
+来源：imports/mii-three-outfits-turnaround-20261013/events/mii-apron-body-turnaround.json
+
+实际带身份与服装参考图生成提示词
+Use case: identity-preserve. Asset type: full-body three-view character reference sheet. Input reference: the supplied cream-apron cat photograph is the strict identity, garment and anatomy anchor for Mii / Niangao / tteokbokki (library37). Generate ONE landscape photographic sheet, exactly THREE equally sized vertical panels in a SINGLE horizontal row. LEFT: straight-on FRONT; CENTER: exact90-degree SIDE with muzzle pointing LEFT; RIGHT: exact180-degree BACK, no eyes or face visible. Same natural seated-cat pose rotated in place, head upright, neutral attentive expression, same scale, paws on same baseline. Complete ears, whole cat body, paws and entire thick ringed tail visible with comfortable margins in all panels. Match the compact round-bodied golden-orange shorthaired tabby, round plush cheeks, ivory muzzle/chin/chest, large dark olive round eyes, pink triangular nose, white whiskers, delicate orange stripes, upright small triangular ears. Real feline anatomy, no humanoid body or artificially elongated legs. Exact clothing: ONLY the short cream woven linen/cotton apron from reference, two narrow cream straps, small rectangular chest pocket with muted-blue fish appliqué, short bib hem well above paws. The front upper legs visibly overlap and occlude apron side edges, cloth wraps snugly around chest and recedes behind forelegs; no fabric pasted over arms. Side shows short apron front panel fitting the chest and thin straps wrapping around body. Back must show mostly exposed golden fur, narrow cream neck/shoulder straps and a modest waist tie/tiny knot; no broad back bib, shirt, pants, sleeves, hat, red bow or sailor clothes. Hindquarters and tail remain unclothed. Neutral warm ivory seamless studio backdrop and floor, bright broad soft morning daylight, original creamy warm-neutral color balance, real fur strands, woven cloth and natural soft grounding shadows. Thin ivory vertical panel dividers; no lettering, labels, number, watermark, props, UI or extra panels. Output around1536x1024.
+
+生成依据：
+imports/mii-three-outfits-turnaround-20261013/events/mii-apron-body-turnaround.json

@@ -1,0 +1,21 @@
+﻿白底3D角色17组 05 · 鎏金绯锦 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with dark hair in a high updo, fine loose bangs and cheek-framing wisps, warm brown eyes, pale peach skin, a delicate tapered face and rust rose lips. A tiny beauty mark near one eye. Ornate gold hairpins and long gold earrings, rust and antique gold brocade robes, layered decorative trim. Complete floor-length rust-red and antique gold brocade wrap gown with gray-gold crossing collar, wide sleeves, narrow layered waist sash, continuous flowing full SKIRT and restrained panels, rust-gold embroidered flat shoe tips visible. No pants. Tall poised 176 cm. Exactly three equally spaced full-body views of ONE SAME person in one horizontal row: strict FRONT at left, strict 90-degree SIDE profile facing image-left in center, strict 180-degree BACK at right. Consistent identity, clothing, hairstyle, shoes and 7.8-head tall long-limbed anatomy. Relaxed straight upright stance arms by sides. Every figure fully visible from hair to soles with margin, identical height, same baseline. Pure white ground, narrow white gutters, landscape 3:2. No text. Tall elegant female fashion-model anatomy with approximately 7.8 anatomical head lengths from skull crown to bare-foot soles. Head including skull but excluding hair volume is about 12.8% of total standing body height, visibly smaller relative to the body than a 6–7-head figure. Long naturally proportioned legs and arms, normal-length neck, natural shoulder width and pelvis. Do not elongate her face or neck or merely enlarge shoes. Straight camera with no foreshortening. Keep all ornamental hairpieces and entire gown hem inside canvas with margins; garment length and structure identical in all views.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-front-17-20260923-05--body_turnaround.json
+
+实际带参考图生成提示词
+Edit this existing three-view character sheet only in the lower right back-view figure: her shoes at the hem are incorrectly facing the camera. Replace the two visible toe-fronts with the small REAR HEELS of the same embroidered flat shoes pointing away from camera, mostly hidden under the floor-length continuous skirt. Preserve all other pixels as closely as possible: same face, three figures, height, rust-gold long skirt, hair, outfit, light, white background and layout. No text.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-front-17-20260923-05--body_turnaround.json

@@ -1,0 +1,23 @@
+﻿Jamie Reed · confirmed full body turnaround
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1:1 (approximately 1.000:1), target canvas 1254 × 1254 pixels.
+
+Square photographic full-body character turnaround with three equal vertical panels: front view, exact left-facing 90-degree profile, direct back view with no face visible. One fictional adult Jamie, age 21, with fair lightly freckled skin, tousled chestnut short waves, hazel eyes, delicate youthful cheek volume, straight slim nose, softly defined narrow jaw and naturally full rose lips.  Same figure rotating, neutral stance, relaxed arms, complete hands, all hair and shoes visible, crowns and soles aligned on common level ground. Slender natural adult male proportions about 8.5 heads tall, long balanced legs. Wardrobe in every view: black relaxed jacket over gray hoodie and white tee, ivory wide cargo pants with pockets, cream low-top sneakers. Neutral closed lips. Plain matte cool-gray studio wall and gray floor, soft cool blue-gray daylight and even fill, subtle fine film grain, real pores, fine facial hair, matte skin and real fabric weave. Photographic live-action casting reference, no stylized 3D, no wax skin, heavy retouching, strong warm tint, drama lighting, text, labels or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/off-script/character-design/turnaround-v3/images/Jamie-body.png
+
+生成工具记录的提示词（可能依赖参考图）
+Create a square ultra-detailed photographic FULL BODY TURNAROUND of Jamie Reed adult21. Reference1 is SOLE FACE / HEAD IDENTITY authority, including exact nose and jaw profiles, chestnut hair and neutral closed lips. Reference2 is ONLY clothing design; ignore its faces entirely. Three equal vertical columns left-to-right: FRONT standing straight looking level forward, true90degree LEFT PROFILE with head aligned to body, BACK with face unseen. Three rotations of SAME actor, crown and shoe soles precisely aligned on common floor level. Each full figure fills90% of panel height, no oversized margins. True slim fashion model proportions8.5 heads, elongated balanced legs and higher waist, natural real body no stretched neck or tiny pinhead; Jamie180cm, not giant. Closed relaxed lips NO smile; front body face must be unmistakably SAME as large front portrait in reference1, not generic man. Same hair volume and jaw/nose geometry side view. Outfit strictly: washed charcoal short bomber OPEN, grey hoodie with hood outside bomber, white tee edge, ivory wideleg CARGO trousers with side pockets, cream taupe suede casual shoes (NOT laced sports sneakers), no glasses. Hands relaxed visible alongside hips, weight balanced, no pose. Matte cool grey real studio wall/floor, natural daylight cool grey-blue, soft contact shadows, clear high facial detail, sharp all-body 70mm distant camera without perspective distortion, natural pores/fabric, subtle finegrain no oil/CG/plastic/anime. No other portraits/flatlays/text/labels. Only three fullbody views, feet complete. Maximum available resolution.
+
+生成依据：
+metadata/evidence/exec-f16c117c-4aae-4f04-9ac4-996e8cf53ae5.json

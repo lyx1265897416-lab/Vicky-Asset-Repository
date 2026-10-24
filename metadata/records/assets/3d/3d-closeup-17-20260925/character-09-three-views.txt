@@ -1,0 +1,21 @@
+﻿白底3D角色17组 09 · 珠华花冠 · 特写三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Create a premium realistic-stylized 3D character modeling reference sheet, a horizontal 3:1 triptych with three equally scaled head-and-shoulder portraits of the same character: exact front, exact 90-degree right-facing profile, and exact 180-degree rear. Camera at eye height, upright head, neutral pose, complete hairstyle visible, upper chest crop. Pure white background, soft neutral studio lighting, fine individual hair strands, subtle skin microtexture, dimensional facial modeling, physically based fabric and metal. No text, labels, borders, UI or watermark. An adult woman with long black hair gathered into paired tails, fine curled face-framing strands, reddish brown eyes and pale neutral skin. Elaborate silver floral headdress with pale pink crystals, pearl chains and matching long earrings. Ivory blush ceremonial gown with dimensional floral details, pearl ornaments and delicate translucent sleeves over an opaque bodice. 
+
+独立文字提示词按已确认成图及角色设定重建，未经纯文生图复现验证；严格同脸请结合原身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/3d-three-views-17-20260923/character-09-three-views.png
+
+最终实际生成／编辑提示词
+Use case: identity-preserve. Input image 1 is the approved canonical portrait and is the strict identity, age, hairstyle, clothing, accessory and rendering reference. Produce ONE landscape close-up 3D character turnaround sheet, THREE evenly sized head-and-shoulder portraits of this SAME character, in one horizontal row, ordered LEFT TO RIGHT: (1) exact straight FRONT view, (2) exact 90-degree SIDE PROFILE facing the RIGHT edge of the canvas, (3) exact 180-degree BACK view. This is a modeling reference sheet, not three different people. Rotate the entire head and shoulders together; never turn the face back towards camera. The middle view shows ONLY one eye and a clean nose/lips/chin silhouette with the far eye hidden. The back view shows the back of the head, hairstyle and upper shoulders, with NO eyes, face or nose visible. All cameras exactly at eye height, no looking down/up, zero head tilt, orthographic-like 85mm perspective. Same head scale, top-of-head line and shoulder crop across the three panels. Close framing from the complete top of hairstyle/headdress down to upper chest; no waist, hands, full body or feet. Leave a small white top margin, keep all heads and ornaments uncropped, separated by clean white space. Landscape approximately 3:1 wide canvas, high detail. Preserve exact approved facial features, eye color, hair color, skin texture, apparent age, expression, outfit details and accessory placements; generate plausible consistent hidden rear construction without adding new ornament themes. Match the reference's premium realistic-stylized 3D modeled game cinematic look: dimensional facial sculpting, subtle skin microtexture, strand hair, PBR cloth and metal, balanced soft neutral studio light. Pure opaque white #FFFFFF background edge to edge in all panels. No text, labels, borders, separator lines, watermarks, UI, shadows on backdrop or extra panels. Do not beautify into a different identity. 
+
+生成依据：
+metadata/evidence/3d-closeup-17-20260925/character-09.json

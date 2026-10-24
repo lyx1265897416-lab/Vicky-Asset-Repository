@@ -1,0 +1,26 @@
+﻿多题材场景60组 · 55 · 暖棕塔楼公共休息室 · 多角度图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-01
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 多题材场景60组 · 55 · 暖棕塔楼公共休息室.
+Environment:  A round magic-academy tower common room, cream wool sofas, warm brown leather armchair, carved oak tables with closed books, small softly glowing hearth and broad Gothic window framing rolling hills. A few floating paper sheets without text, restrained magic. Pale stone walls, no portraits, statues, ghosts, coats of arms with animals or people. Warm high-key daylight dominates firelight.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent multi-angle image sheet with 3 clearly separated views of the same location. Show complementary eye-level views and relevant close details. Maintain the same physical positions of entrances, windows, stairs, furniture and landmark objects across views; no mirrored rearrangement. Small A/B/C/D labels only.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-103--scene_angles.png
+
+参考图辅助生成事件提示词
+Edit this contact sheet: remove panel C entirely because its stair is on the wrong side. Keep original A B D views unchanged, rearrange as three equal panels labeled A B C. Same architecture, furniture, lighting. No new objects, no people or animals.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-103--scene_angles.json
+previews/scene-spatial-20260930/visual-review.json

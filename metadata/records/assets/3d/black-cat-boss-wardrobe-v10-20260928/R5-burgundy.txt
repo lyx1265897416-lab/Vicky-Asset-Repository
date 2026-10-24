@@ -1,0 +1,21 @@
+﻿Rhys · 黑猫互动剧 · 酒红短袖衬衫 · 黑色短靴 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+A clean white studio landscape full-body character turnaround, front, exact side profile and rear views at equal height and baseline, premium semi-realistic 3D rendering, no labels or watermark. Adult man with tousled deep brown hair, gray eyes, refined jaw, two black feline ears and exactly one long dark tail per view, tall 8–9 head model proportions with long legs and complete waist. Wardrobe: Burgundy shirt · black ankle boots. Keep exactly the garments, shoes, layering and accessories represented in the confirmed asset; use the associated reference for fidelity.
+
+文生图描述据确认造型整理；身份一致性以确认图片为准。原始图生图提示词另存，未验证纯文本复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/assets/3d/black-cat-boss-wardrobe-v10-20260928/R5-burgundy.png
+
+原始生成提示词：
+Use case: identity-preserve. Edit the supplied THREE-VIEW CHARACTER SHEET. Preserve exactly same Rhys face, hair, two cat ears, single long tail per view, tall 8.5–9 head fashion model anatomy, full waist and long legs, all three poses and framing, white studio and premium 3D rendering. No text/no logos. Correct accessory continuity ONLY: in the BACK VIEW (rightmost figure), move black handbag AND silver bracelet from viewer-right hand/wrist to viewer-LEFT hand/wrist, which is the character's LEFT side when viewed from behind. The front figure and side figure must stay completely unchanged. The back-view viewer-right hand is empty and has no bracelet. Tail unchanged one only. Do NOT mirror the whole back body. Keep same entire image layout, clothes, shoes, height and long legs. This is a surgical back-view handbag/bracelet correction.
+
+生成依据：
+imports/black-cat-boss-wardrobe-v10-20260928/evidence/R5-burgundy.json

@@ -1,0 +1,22 @@
+﻿服装8图 · 026 · 酒红皮革长风衣 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Glossy dark burgundy-brown long leather trench with attached matching waist tie, black fitted inner top and black shorts, black sheer tights with no skin, black pointed patent heels.. Add ONLY these accessories: large black soft leather travel tote; black rectangular retro sunglasses. Closed inventory: use each listed item exactly once and add no other objects.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装8图 · 图5 上排右
+
+原始生成提示词：
+Create one photorealistic complete hollow wardrobe ensemble. Pure white seamless background, soft neutral studio light, portrait 2:3, all items fully uncropped with margins. Image 1 is the exact garment ensemble: keep it unchanged, including every garment and shoe. Remaining images show the exact separate accessory products to add. CLOSED INVENTORY: add exactly 2 accessory products, namely 1) large black soft leather travel tote; 2) black rectangular retro sunglasses. Match supplied product images precisely. Use each listed accessory once, naturally positioned relative to the empty clothing. No unlisted object, no extra styling item, no person, skin, body parts, hair, visible mannequin, stand, scenery, captions or watermark. Preserve white negative space where body would be. The result is one assembled outfit, not a collage.
+
+生成依据：
+imports/wardrobe-8-20260930/events/complete-026.json
+imports/wardrobe-8-20260930/source-05.json

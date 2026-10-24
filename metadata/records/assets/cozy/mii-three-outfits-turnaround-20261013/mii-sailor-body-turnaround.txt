@@ -1,0 +1,21 @@
+﻿咪 / 年糕 / tteokbokki · 水手服 · 全身三视图 · 正侧背
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-13
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-13
+
+文生图提示词：
+Use case: identity-preserve. Asset type: whole-body three-view character turnaround sheet for Vicky's library. Generate ONE landscape photograph contact sheet, EXACTLY THREE equally sized vertical panels in ONE horizontal row: LEFT perfectly centered straight-on FRONT; MIDDLE true 90-degree SIDE PROFILE with nose pointing LEFT; RIGHT exact180-degree BACK, no face or eyes visible. This is a full-body reference, not headshots: entire ears, white cap, body, four paws where visible and complete thick ringed tail inside each panel with safe margins, paws on same baseline, same seated natural-cat pose rotated in place, same scale and anatomy, head not tilted. Exact same round-faced compact small golden-orange shorthaired tabby with plush ivory cheeks, ivory muzzle/chin/chest, round dark olive eyes with large pupils, pink triangular nose, fine white whiskers, upright triangular ears, thick curved striped tail. Preserve realistic feline proportions as described, not an upright humanoid or elongated model cat. Same outfit in all views: white cotton sailor cap with navy band resting between unobstructed ears, pale powder-blue short-sleeve button-front cotton sailor shirt, navy sailor collar with two white stripes, navy sleeve cuffs, two small cream front buttons, navy short cat trousers fitted over seated hindquarters. Back shows proper square navy sailor collar with two white border stripes and the trouser tail opening; never duplicate front buttons onto back. Tail remains outside clothes. Front paws and fur overlap sleeves naturally. Plain softly lit warm ivory seamless studio backdrop and floor, bright diffuse warm-neutral daylight, fine realistic fur, cotton weave and stitching, gentle grounding shadows, creamy photographic quality. Thin ivory vertical separators; no titles, labels, text, numbers, UI, props, watermark or extra panels. Output around1536x1024.
+
+独立文生图提示词根据实际带参考图提示词整理；纯文字未验证近乎一致。严格保持小猫身份和服装请同时使用对应已确认造型原图。
+
+
+来源：imports/mii-three-outfits-turnaround-20261013/events/mii-sailor-body-turnaround.json
+
+实际带身份与服装参考图生成提示词
+Use case: identity-preserve. Asset type: whole-body three-view character turnaround sheet for Vicky's library. Input reference: supplied sailor-outfit golden-orange cat photo is the sole strict identity and outfit anchor. Generate ONE landscape photograph contact sheet, EXACTLY THREE equally sized vertical panels in ONE horizontal row: LEFT perfectly centered straight-on FRONT; MIDDLE true 90-degree SIDE PROFILE with nose pointing LEFT; RIGHT exact180-degree BACK, no face or eyes visible. This is a full-body reference, not headshots: entire ears, white cap, body, four paws where visible and complete thick ringed tail inside each panel with safe margins, paws on same baseline, same seated natural-cat pose rotated in place, same scale and anatomy, head not tilted. Exact same round-faced compact small golden-orange shorthaired tabby with plush ivory cheeks, ivory muzzle/chin/chest, round dark olive eyes with large pupils, pink triangular nose, fine white whiskers, upright triangular ears, thick curved striped tail. Preserve realistic feline proportions from the reference, not an upright humanoid or elongated model cat. Same outfit in all views: white cotton sailor cap with navy band resting between unobstructed ears, pale powder-blue short-sleeve button-front cotton sailor shirt, navy sailor collar with two white stripes, navy sleeve cuffs, two small cream front buttons, navy short cat trousers fitted over seated hindquarters. Back shows proper square navy sailor collar with two white border stripes and the trouser tail opening; never duplicate front buttons onto back. Tail remains outside clothes. Front paws and fur overlap sleeves naturally. Plain softly lit warm ivory seamless studio backdrop and floor, bright diffuse warm-neutral daylight, fine realistic fur, cotton weave and stitching, gentle grounding shadows, matching the reference's creamy photographic quality. Thin ivory vertical separators; no titles, labels, text, numbers, UI, props, watermark or extra panels. Output around1536x1024.
+
+生成依据：
+imports/mii-three-outfits-turnaround-20261013/events/mii-sailor-body-turnaround.json

@@ -1,0 +1,22 @@
+﻿男角色23组 · 正面平视 · 13 · 阳光活力 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Tan East Asian athletic adult man with tousled short black hair with a loose central fringe and a broad jaw, wearing a cream rib-knit sleeveless top. Create one standalone photorealistic fictional character portrait, 1024 x 1536 pixels, vertical 2:3. Standard ID-photo head-and-shoulders composition: camera exactly at eye level, head upright and perfectly frontal with zero yaw, pitch or roll, eyes looking directly at the lens, both shoulder tops symmetrically visible. Calm neutral expression with lips closed. Entire hair visible with roughly 8% headroom, eye line around 40% height, chin around 67%, crop at upper chest. Uniform pure white #FFFFFF seamless background, bright soft balanced frontal studio light, very low shadows, natural unretouched pores and fine skin texture, extremely subtle halation, realistic 50mm perspective, both eyes and face sharp, gently shallow depth of field on shoulders. No hands, waist, text, logos, watermark, border, props or gray background gradient.
+
+根据已确认成图与构图要求重建独立文生图提示词；未进行纯文字重生成相似度验证，严格保持身份时需结合此成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/front-id-male-23-20260923/originals/character-13-front.png
+
+原始生成提示词：
+Use case: identity-preserve. Edit the supplied APPROVED FICTIONAL CHARACTER portrait into a consistent professional ID-photo composition. The input is the sole identity authority. Preserve exactly this person's facial bone structure, facial proportions, nose, eyes, lips, natural asymmetry, skin tone, age, hairstyle/hairline, glasses if present, clothing and defining details. This is the SAME character, do not invent or beautify a replacement face. Change only camera angle, head orientation, expression and framing: perfectly frontal, camera exactly level with pupils, zero yaw/pitch/roll, eyes looking straight into lens, head upright, shoulders squared symmetrically to lens, calm relaxed neutral expression with lips closed. Standardized close head-and-shoulders ID portrait, portrait 2:3 canvas, 1024x1536 pixels. Entire hair silhouette visible, top of hair at about 8% canvas height, chin about 67%, eye line about 40%, upper chest and both shoulder tops visible, bottom crops upper chest; absolutely no waist or hands. Uniform pure white #FFFFFF seamless background. Bright soft balanced frontal studio lighting, minimal shadows, natural unretouched pores and fine skin texture, extremely subtle halation, photorealistic real-life feeling, 50mm perspective, eyes and entire face sharp, gentle shallow depth of field on shoulders. No side angle, no looking up/down, no head tilt, no fashion posing, no dramatic shadow, no gray gradient background, no text, no border, no watermark. Output ONE portrait only. Character number 13.
+
+生成依据：
+metadata/evidence/front-id-male-23-20260923.json
+imports/front-id-male-23-20260923/generation-record.json

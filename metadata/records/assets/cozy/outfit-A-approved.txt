@@ -1,0 +1,22 @@
+﻿User-selected approved outfit A
+生图模型：未知（用户提供图，未取得生成记录）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 3:4 (approximately 0.750:1), target canvas 1086 × 1448 pixels.
+
+One vertical full-body photographic animal portrait of a compact realistic golden-orange shorthaired tabby cat with a very round head, small upright triangular ears, broad ivory cheeks and muzzle, ivory chest, round dark olive eyes with large black pupils and bright catchlights, tiny pink triangular nose, closed small mouth, long white whiskers, plush dense fur with faint orange stripes, short true feline limbs, rounded paws and a striped tail curling to its side. Sitting on an ivory rug with both front paws straight and its tail curled to the right, wearing a soft yellow short-sleeved cotton T-shirt underneath blue denim overalls with two round wooden front buttons and small center bib pocket. Small vivid red fabric bow attached beside one ear, ears unobstructed. Cat keeps realistic feline proportions, no human torso or hands. Scene: a bright warm cream living room with natural morning window light, soft ivory shag rug, cream upholstered sofa at the right, pale oak furniture and an out-of-focus leafy houseplant near a sheer-curtained window at the left. Soft real fur, neutral ivory-white color balance, warm gentle highlights, subtle fine grain and believable depth of field; no illustration, plastic 3D, lettering or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：projects/mii-takes-care-of-you/角色设计/换装-v2.2/images/outfit-A-approved.png
+
+生成工具记录的提示词（可能依赖参考图）
+未取得
+
+生成依据：

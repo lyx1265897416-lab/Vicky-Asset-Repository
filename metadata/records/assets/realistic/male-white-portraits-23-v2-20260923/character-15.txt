@@ -1,0 +1,22 @@
+﻿男角色23组 · 第二版 · 15 · 成熟干练 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Use case: photorealistic-natural. Generate ONE completely new fictional adult male character from this written casting brief. This is an original casting design, not an edit and not a recreation of any prior photographed person. Face anatomy and proportions must follow the NEW facial design below. Retain the subtle personality of the archetype without defaulting to a generic handsome actor face. Highly realistic portrait with genuine everyday individuality, natural asymmetry, pores and fine vellus hair, no beauty filter. Bright soft frontal studio light, generous fill, low shadows, subtle restrained optical halation, realistic 50mm perspective, shallow depth of field but both eyes sharply focused. Solid pure white #FFFFFF seamless background across entire frame, no gradient, no scene, no props. Vertical 2:3 composition, complete head with white breathing room above hair, entire shoulders and arms included horizontally, half-body down to waist, upright head and torso facing camera, direct eye contact, arms relaxed. Natural clothing texture. No text, no logo, no watermark, no collage. Output one independent full-resolution photograph. Casting brief: A 30-year-old East Asian man with a neat short textured haircut, charcoal-gray polo, fit but unexaggerated shoulders, steady composed presence. NEW facial design: broader rectangular face, prominent square jaw, deep-set hooded eyes, thick gently bent brows, long nose with a broad bridge and slightly uneven tip, medium-thin lips, short beard shadow, faint smile lines. A grounded adult individual.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/male-white-portraits-23-v2-20260923/originals/character-15.png
+
+原始文生图提示词（无参考图输入）
+Use case: photorealistic-natural. Generate ONE completely new fictional adult male character from this written casting brief. This is an original casting design, not an edit and not a recreation of any prior photographed person. Face anatomy and proportions must follow the NEW facial design below. Retain the subtle personality of the archetype without defaulting to a generic handsome actor face. Highly realistic portrait with genuine everyday individuality, natural asymmetry, pores and fine vellus hair, no beauty filter. Bright soft frontal studio light, generous fill, low shadows, subtle restrained optical halation, realistic 50mm perspective, shallow depth of field but both eyes sharply focused. Solid pure white #FFFFFF seamless background across entire frame, no gradient, no scene, no props. Vertical 2:3 composition, complete head with white breathing room above hair, entire shoulders and arms included horizontally, half-body down to waist, upright head and torso facing camera, direct eye contact, arms relaxed. Natural clothing texture. No text, no logo, no watermark, no collage. Output one independent full-resolution photograph. Casting brief: A 30-year-old East Asian man with a neat short textured haircut, charcoal-gray polo, fit but unexaggerated shoulders, steady composed presence. NEW facial design: broader rectangular face, prominent square jaw, deep-set hooded eyes, thick gently bent brows, long nose with a broad bridge and slightly uneven tip, medium-thin lips, short beard shadow, faint smile lines. A grounded adult individual.
+
+生成依据：
+metadata/evidence/exec-33765285-e99c-411e-aa0b-de282fcdfc46.json
+metadata/evidence/male-original-prompts.json

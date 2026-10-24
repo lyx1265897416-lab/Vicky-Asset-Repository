@@ -1,0 +1,48 @@
+﻿机灵男喜剧演员
+项目：通用选角 · 多年龄身份音色
+角色：机灵男喜剧演员
+年龄设计：23–30岁
+身份用途：文艺与传媒
+音色标签：明亮、鼻腔共鸣、跳跃节奏
+模型：bytedance/seed-audio-1.0
+入库依据：用户要求全面补充不同年龄、身份、性别音色，本条为原创生成并入库的可选音色，尚未逐条主观定版。年龄与身份为设计方向。
+原始样音：https://storage.googleapis.com/waku-core-aicap/aicap/io/acj_1ea4e3fc53644b1397668c127f49f5de/00-28725b94-49ce-4278-830d-2061c6b2df8f.mp3
+试听/下载文件SHA256：700fd24dbf713e404b9b211d54607050ccd829eaffb2b88bd922dd7b2231252b
+原始音频（保留）：assets/voices/expanded-20260928/expanded-young-man-comic.mp3
+原始SHA256：eb9641c3e2f0be6a9cc991c64c2e212d86cb31162b1d7eb98ff71c15fb27965c
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.11 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/expanded-young-man-comic-d4c5e1dbcc87a22eab78.json
+去除开头等待：0秒；处理后有效声音起点：0.12秒
+缩短过长静音：1处；去除结尾空白：0.0秒；总计去除：4.85秒
+当前试听时长：9.694秒
+
+试听台词：
+I had a perfect plan. Unfortunately, the door had a different plan. So now we are calling this an unexpected team exercise.
+
+声音描述：
+A fictional man aged twenty-five. Bright middle tenor with a touch of nasal ring, nimble quick turns, dry comic timing and a deadpan final beat. Conversational, not clownish.
+
+自动台词检查：
+自动转写与设定台词逐词一致（不计标点）。
+I had a perfect plan. Unfortunately, the door had a different plan. So now we are calling this an unexpected team exercise.
+
+已有生成参数：
+{
+  "prompt": "Produce a clean studio voice-library audition, ONE original fictional speaker only. Natural General American English. A fictional man aged twenty-five. Bright middle tenor with a touch of nasal ring, nimble quick turns, dry comic timing and a deadpan final beat. Conversational, not clownish. Dry close microphone, intelligible speech at comfortable loudness. No music, ambience, sound effects, second voice, laughter sound, introductory announcement or spoken directions. Speak ONLY the following exact English words and finish the last word completely, then leave a brief silence: \"I had a perfect plan. Unfortunately, the door had a different plan. So now we are calling this an unexpected team exercise.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "pitch": 0,
+  "speed": 1,
+  "volume": 1
+}
+
+原创设计音色，标签为选角方向。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "后续同音色对白优先使用本样音作为声音参考；文字描述重新生成可能产生声线变化。"
+}
+确认记录：imports/voice-expansion-20260928/authorization.json
+imports/voice-expansion-20260928/receipts/expanded-young-man-comic.json
+imports/voice-expansion-20260928/transcripts/expanded-young-man-comic.json
+imports/voice-expansion-20260928/plan.json

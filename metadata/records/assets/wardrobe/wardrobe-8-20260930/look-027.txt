@@ -1,0 +1,22 @@
+﻿服装8图 · 027 · 白色人像背心短裤 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. White portrait-graphic tank, black micro shorts with two rows of metal buttons, black buckled flat tall boots.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装8图 · 图5 下排左
+
+原始生成提示词：
+Create one photorealistic wardrobe catalog product image. Pure white seamless background, soft neutral studio light, true fabric texture, portrait 2:3. No human, face, hair, skin, body parts, visible mannequin, stand or hanger. Entire object fully inside frame with generous margins. No added text, labels, watermark, border or scenery. Input image is a clothing design reference. Use ONLY the outfit at 下排左; ignore every other outfit. Generate one coherent EMPTY hollow garment ensemble front-facing in a neutral symmetrical stance, sleeves empty. Preserve the clothing cuts and colors: White portrait-graphic tank, black micro shorts with two rows of metal buttons, black buckled flat tall boots. Remove ALL detachable accessories including bags, hats, belts, neckties, jewelry, eyeglasses, scarves and chains. Keep sewn garment ties, attached buckle tabs and integral collars. Do not remove shoes or socks. Exclude all handheld props. No collage or alternative outfits.
+
+生成依据：
+imports/wardrobe-8-20260930/events/look-027.json
+imports/wardrobe-8-20260930/source-05.json

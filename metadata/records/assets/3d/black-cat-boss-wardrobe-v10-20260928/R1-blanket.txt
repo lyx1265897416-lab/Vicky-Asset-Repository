@@ -1,0 +1,22 @@
+﻿Rhys · 黑猫互动剧 · 浴巾披毯·高挑比例 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+A clean white studio landscape full-body character turnaround, front, exact side profile and rear views at equal height and baseline, premium semi-realistic 3D rendering, no labels or watermark. Adult man with tousled deep brown hair, gray eyes, refined jaw, two black feline ears and exactly one long dark tail per view, tall 8–9 head model proportions with long legs and complete waist. Wardrobe: Towel and blanket · tall model proportions. Keep reference3 EXACT existing modest COSTUME: thick opaque olive/cream plaid BLANKET securelywrapping shoulders chest arms waist tohips, closedoverlappedfront. Ivory knee-length bathTOWEL belowblanket, barefeet. Blankettohips concealsupperbody, relaxedadultneutralpose. CHANGE body tocorrectedreference2 smallhead-longlegs8–9head runwayproportion inallviews, notstocky. ExactlyONE long blacktail hangs freebelowrearblanketedges, nofabricpenetration. Same2blackcatears. No newgarments.
+
+文生图描述据确认造型整理；身份一致性以确认图片为准。原始图生图提示词另存，未验证纯文本复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/assets/3d/black-cat-boss-wardrobe-v10-20260928/R1-blanket.png
+
+原始生成提示词：
+Use case: identity-preserve. Create a landscape white-background 3D character COSTUME TURNAROUND with exactly THREE whole-body figures of the SAME adult: front, true90degree profile facingleft, trueback, identicalscale, crown/waist/soles aligned, naturalrelaxed neutralstance witharmsbysides, completefeet andhead notcropped. Reference1 is EXACT approved new FACE/HAIR identity. Reference2 ONLY defines approved tall model BODY proportions, not its outfit. Reference3 is OLD COSTUME design to transfer faithfully, never copy old face/hair/body. Purewhite neutralstudio, soft shadow, premium realistic-stylized romancegame3D finish matchingref1, no text/labels. Preserve garment type, color, silhouette and accessories from specified panel ofref3; no redesign/dresses substitutedforpants. Natural anatomy,5fingers perhand. All3views one identical outfit. RHYS adult29, exact grayeyes/deepbrownhairstyle/humanfacefromref1. CRITICAL BODY CORRECTION: highfashion runway male approximately8.7 anatomicalHEADS crown-to-soles, MATCH reference2 NEW corrected small-head long-leg runway proportions exactly; keep its head-to-body scale across alloutfits. Leanathletic elegant NOT stocky, long naturalwaist andneck, shoulders2.5headwidths, wrists nearcrotch, longforearms natural. Anatomicalheadunit skullcrown-to-chin EXCLUDES cat ears andhighhair. In a1024pxhigh sheet aim skullcrownY70/chinY175/solesY985, hipjointY480/kneesY735. Hair/ears mayextendabove70. No guide lines/text. All3views identicalsizes/alignment, no perspectiveforeshortening, orthographiccameraatmidbody. Exactly2blackcatears unlesscovered; exactlyONElongblacktail perfigure fromCENTERREARSACRUM,85cmlength naturallyhangingnearlyankles, finishedreartrousertailopening and jacket/hemrearvent. Front root occludedbybody. 
+COSTUME: Keep reference3 EXACT existing modest COSTUME: thick opaque olive/cream plaid BLANKET securelywrapping shoulders chest arms waist tohips, closedoverlappedfront. Ivory knee-length bathTOWEL belowblanket, barefeet. Blankettohips concealsupperbody, relaxedadultneutralpose. CHANGE body tocorrectedreference2 smallhead-longlegs8–9head runwayproportion inallviews, notstocky. ExactlyONE long blacktail hangs freebelowrearblanketedges, nofabricpenetration. Same2blackcatears. No newgarments.
+
+生成依据：
+imports/black-cat-boss-wardrobe-v10-20260928/evidence/R1-blanket.json

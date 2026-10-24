@@ -1,0 +1,22 @@
+﻿人鱼王子的假新娘 · 工坊与宴席道具
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: product-mockup. Reconstruct props seen in input drama reference frames as a clean catalog asset board. 3 columns 2 rows exactly 6 cells. Row-major: practical vintage brass maritime lantern with cylindrical protective bars and frosted glowing core as workshop reference; small black yellow handled screwdrivers and few metal repair screws on folded beige cloth; two simple white ceramic mugs; elegant blue white layered dinnerplate with thin goldrim, silver cutlery and folded ivory napkin; group of small brass candlesticks with slender white candles and one short pillar candle on metal dish; ribbed silver vase with small white roses blue flowers and greenery. Soft refined physically plausible 3D fantasy prop rendering matching references, not cartoon. Each cell one listed object or coherent set, complete object visible with ample margin. Fully OPAQUE solid WHITE background, no transparency. Neutral soft studio light, matte realistic materials, fine wear and tactile texture. No people, hands, bodies, scenery, labels, watermark, oily shine or excessive gold lighting. Independent props only.
+
+依据剧情画面及剧本道具描述重新生成，非原画面像素裁切。格序按从左至右、从上至下。具体轮廓纹理可能与原画面有细微差异；不将剧情中不可见细节视作已核实。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-reconstructed-20260929/sea-scene-props.png
+
+原始生成提示词：
+Use case: product-mockup. Reconstruct props seen in input drama reference frames as a clean catalog asset board. 3 columns 2 rows exactly 6 cells. Row-major: practical vintage brass maritime lantern with cylindrical protective bars and frosted glowing core as workshop reference; small black yellow handled screwdrivers and few metal repair screws on folded beige cloth; two simple white ceramic mugs; elegant blue white layered dinnerplate with thin goldrim, silver cutlery and folded ivory napkin; group of small brass candlesticks with slender white candles and one short pillar candle on metal dish; ribbed silver vase with small white roses blue flowers and greenery. Soft refined physically plausible 3D fantasy prop rendering matching references, not cartoon. Each cell one listed object or coherent set, complete object visible with ample margin. Fully OPAQUE solid WHITE background, no transparency. Neutral soft studio light, matte realistic materials, fine wear and tactile texture. No people, hands, bodies, scenery, labels, watermark, oily shine or excessive gold lighting. Independent props only.
+
+生成依据：
+imports/drama-scene-props-20260929/evidence/sea-scene-props.json
+imports/drama-scene-props-20260929/approval.json

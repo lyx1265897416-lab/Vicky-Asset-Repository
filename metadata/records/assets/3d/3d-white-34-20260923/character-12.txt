@@ -1,0 +1,21 @@
+﻿白底3D角色34组 · 12 · 赤茶·发带 · 用户确认
+生图模型：未知（用户提供定稿图，未附生成记录）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one chest-up portrait of a fictional adult woman aged 22–28 in premium semi-realistic 2.5D/3D romance-game CG style. She has a distinctly soft round-oval face: gently full cheeks, balanced moderately wide cheekbones, a short lower face, smooth rounded jaw transitions and a short rounded chin, without a narrow pointed V shape or elongated midface. Blue-gray eyes, soft fine arched auburn eyebrows, a small straight nose with softly rounded tip, natural full peach-pink lips, fair warm skin with delicate freckles across nose and cheeks. The face is upright and strictly frontal, eyes on a level horizontal line, centered nose, mouth and chin, level shoulders, balanced left and right cheek volume. Copper auburn long layered wavy hair with fine curtain wisps, a dusty-rose fabric headband with bow and knot on viewer-right, one small brass teardrop hair clip beside it. Muted pink cotton T-shirt with a fine faded botanical print, open cream knit cardigan with a small tan button, delicate silver chain with a small round pendant. Gentle attentive neutral adult expression. Opaque pure white seamless background, soft neutral frontal studio lighting and generous fill, bright low-shadow exposure. Sculpted dimensional facial shading, subtle skin microtexture, detailed individually groomed hair strands and visible knit texture, low oily sheen, graceful CG realism. Complete hair inside frame, shoulders and upper chest visible, no hands, no text, watermark, border or collage. Vertical 3:4 composition, target canvas 1086 × 1448 pixels.
+
+按用户提供的定稿图整理的独立文生图提示词，并非已知的原始生成提示词；未验证纯文本复现相似度。精确身份请同时使用此图作参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/user-final-female-20260923/character-12-user-final.jpg
+
+用户定稿图原始生成提示词（未提供）
+未取得
+
+生成依据：
+imports/user-final-female-20260923/verification.json

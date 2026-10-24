@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 067 · 雾蓝针织与浅蓝阔腿牛仔 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Pale powder blue crewneck sweater over white tee, very wide light washed blue jeans, white low top sneakers.. Add ONLY these accessories: A tall dark green tote with repeating small pale geometric pattern and narrow leather handles.. Use each accessory once. Neckties are tied with one knot and the narrow tail hidden; for sweater layers tuck the long tail under the sweater. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记4-图2 整图
+
+原始生成提示词：
+Edit this exact product image. Remove ONLY the brown leather waist belt and buckle. Reveal a plain pale blue denim waistband and natural sweater hem. Preserve the blue sweater, white tee, wide light denim jeans, white sneakers and green patterned tote exactly. No scarf or other additions. Empty clothing, pure white background, entire outfit visible.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/complete-067-v3.json
+imports/wardrobe-xhs-5-20260930/source-04.json

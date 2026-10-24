@@ -1,0 +1,21 @@
+﻿16 · 黑曜·双辫 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Adult woman aged 24. Feminine alternative music producer. Jet-black center-parted hair in two thick neat braids, cool sage eyes, angular heart-shaped face, slightly wider brows, muted blackberry lips, restrained freckles. Black structured square-neck top with charcoal cropped jacket, small silver nose stud and simple silver linked chain necklace. Self-assured slight asymmetrical smile, toned-down makeup. Complete outfit with charcoal cropped leather jacket, opaque black square-neck top, high-waist charcoal wide-leg jeans, black buckled ankle boots, small silver nose stud and chain necklace with black stone. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-16--full_body.json
+
+实际带参考图生成提示词
+Use attached approved portrait as strict identity, hairstyle, accessory and visual-style reference. Preserve THIS specific face and premium 3D look. Adult woman aged 24. Feminine alternative music producer. Jet-black center-parted hair in two thick neat braids, cool sage eyes, angular heart-shaped face, slightly wider brows, muted blackberry lips, restrained freckles. Black structured square-neck top with charcoal cropped jacket, small silver nose stud and simple silver linked chain necklace. Self-assured slight asymmetrical smile, toned-down makeup. Complete outfit with charcoal cropped leather jacket, opaque black square-neck top, high-waist charcoal wide-leg jeans, black buckled ankle boots, small silver nose stud and chain necklace with black stone. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-16--full_body.json

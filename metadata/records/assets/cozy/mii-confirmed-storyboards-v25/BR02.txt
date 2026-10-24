@@ -1,0 +1,36 @@
+﻿今天不要上班，咪养你 · 已确认分镜 · BR02 · 归家换回居家服：两条路线
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-20
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-13
+
+文生图提示词：
+Create ONE finished photographic storyboard contact sheet, exactly FOUR columns by THREE rows of twelve equally sized portrait frames, read left to right and top to bottom. Overall portrait 3:4 canvas1086x1448, clean thin cream gutters and tiny panel numbers01-12 only. Every frame is a real warm natural lifestyle photograph, genuine fur and textiles, soft cream/ivory and pale oak surroundings, gentle daylight indoors and coherent warm evening light when specified. The same compact golden-orange shorthaired tabby kitten in every panel, very round plush cheeks, ivory muzzle/chin/chest, huge round dark-olive eyes and black pupils, tiny pink nose, fine white whiskers and delicate tabby stripes; real rounded feline paws, no extra limbs, human fingers on cat or floating tools. Home garment when indicated: tiny near-square cream linen chest bib nested between forelegs, blue fish pocket applique, bib width around half chest, bottom above belly with legs and belly fur exposed. Forelegs occlude bib side edges. Narrow curved neck loop and separate lower chest band with a tiny back knot and short ties; no crossed back harness. Exterior outfit A when specified: yellow short-sleeve tee, blue denim bib overalls, tan wooden buttons and red knitted bow. Outfit B: white sailor cap with plain navy band, pale-blue short-sleeve shirt with navy square sailor collar and two white stripes, white front buttons and plain navy cat trousers with a tail opening; no necktie or hat emblem. Small white pleated chef toque only in cooking scenes where indicated. Cleaning garment only where specified: plain pale-blue round-neck short smock with elastic sleeve cuffs, front opening, no pockets, navy sailor collar or layered home bib. Owner camera POV whenever described, only the explicitly needed zero to two anatomically connected hands with powder-blue white-piped pajama cuffs enter from camera-bottom; no visible owner face, hair, torso, reflection or detached third arm. In solo shopping, cooking and household chores no helping human hands; supermarket clerk is a separate adult NPC only in specified frames. One frozen action per frame, alternatives are separate frames, not repeated cats or mixed branch outcomes. English phone UI when indicated, no dialogue captions, story title, balloons or control buttons. The following Chinese shot directions are production instructions, never render them as captions. Preserve the depicted wardrobe and pose separately for each numbered frame.
+
+Panel01: A摘蝴蝶结 — 玄关长凳旁，主人从A完整穿衣猫头上摘下红蝴蝶结放小浅盘。
+Panel02: A脱背带裤 — 主人解开肩带，将蓝背带裤轻轻褪离后腿，猫仍穿黄T；不抓尾巴。
+Panel03: A抽出短袖 — 主人从一侧袖口帮前爪退出，黄T正在脱下；外出衣物在凳上。
+Panel04: A裸毛洗爪 — 裸毛猫在低盆旁，一只前爪浸浅水，其他爪地面支撑，黄蓝衣服与红蝴蝶结在背景长凳。
+Panel05: A擦干系围裙 — 主人用干毛巾擦圆爪后，系好奶油蓝鱼短围裙背后的带子，围裙位于前腿之间。
+Panel06: A居家归位 — 原围裙猫坐玄关，黄T蓝背带裤在通风挂钩、红蝴蝶结浅盘，准备进厨房。
+Panel07: B摘水手帽 — 替代路线：B完整穿衣猫，主人先摘白帽放浅盘。
+Panel08: B脱深蓝裤 — 猫仍穿浅蓝衬衫，主人轻轻将深蓝裤从后腿理出。
+Panel09: B脱衬衫 — 前襟解开，一只前爪已抽出浅蓝短袖，衬衫松开不嵌进毛皮。
+Panel10: B裸毛洗爪 — 裸毛猫低盆洗爪，背景凳上浅蓝水手衬衫深蓝裤白帽；无黄T。
+Panel11: B擦干系围裙 — 擦干后的裸毛猫由主人系上原奶油蓝鱼围裙；前腿自然盖住布两侧。
+Panel12: B居家归位 — 居家围裙猫，身后水手衬衫深蓝裤挂着通风，白帽在浅盘。
+
+独立文生图提示词根据已确认成图及当前镜头索引整理；实际原图曾使用身份参考与局部返修，仅文字未验证近乎一致。原始生成提示词、真实生成日期和审图备注另行保留。
+
+
+来源：/Users/vicky/Interactive storyline/projects/mii-takes-care-of-you/导演制作-v2.5/images/BR02.png
+
+历史生图事件的实际提示词（可能依赖身份参考或原图编辑）
+Edit ONLY panel11 bottom row third of this4x3 contact sheet to correct THREE HUMAN HANDS. Genuine owner-eye POV: EXACTLY TWO human hands total, both from camera bottom in powder-blue cuffs. LEFT hand holds white towel at kitten's chest; RIGHT hand gently fastens apron side tab on kitten side. Remove every other hand, especially extra hand resting on top of kitten head. Keep golden kitten, shortcream blue fish apron and sailor clothes hanging behind, no face/body/hair. Other11 panels unchanged.
+
+生成依据：
+imports/mii-confirmed-storyboards-20261013/events/BR02.json
+imports/mii-confirmed-storyboards-20261013/confirmation.json
+imports/mii-confirmed-storyboards-20261013/snapshot/jobs.json

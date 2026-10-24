@@ -1,0 +1,97 @@
+{
+  "id": "web-kevin-usuan1100625",
+  "asset_kind": "bgm",
+  "name": "Dance of the Sugar Plum Fairy",
+  "original_title": "Dance of the Sugar Plum Fairy",
+  "artist": "Kevin MacLeod",
+  "origin": "web",
+  "project": "网络精选 · Kevin MacLeod",
+  "project_id": "web-kevin",
+  "episodes": [],
+  "category": "经典旋律",
+  "tags": [
+    "经典旋律",
+    "胡桃夹子",
+    "童话",
+    "神秘"
+  ],
+  "status": "confirmed",
+  "model": null,
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-web-20260929/evidence/web-kevin-usuan1100625.json",
+    "imports/bgm-web-20260929/download-records/web-kevin-usuan1100625.json",
+    "imports/bgm-web-20260929/evidence/incompetech-pieces.json",
+    "imports/bgm-web-20260929/evidence/incompetech-sample.html",
+    "imports/bgm-web-20260929/evidence/kevin-faq.html",
+    "imports/bgm-web-20260929/evidence/cc-by-4.html",
+    "imports/bgm-web-20260929/evidence/research-notes.json"
+  ],
+  "variants": [
+    {
+      "id": "e8e7797dcb7ac804",
+      "track_id": "web-kevin-usuan1100625",
+      "path": "assets/bgm/web-20260929/web-kevin-usuan1100625/original.mp3",
+      "bytes": 4800178,
+      "sha256": "e8e7797dcb7ac80431a4615c2598cf4532f76c4cc054b88a0ec3707ec857c5b1",
+      "extension": ".mp3",
+      "label": "官方原始 MP3",
+      "duration_seconds": 119.9,
+      "source": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dance%20of%20the%20Sugar%20Plum%20Fairy.mp3",
+      "sources": [
+        "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dance%20of%20the%20Sugar%20Plum%20Fairy.mp3"
+      ],
+      "decode_check": "passed",
+      "decoded_seconds": 119.9,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 320 kb/s",
+      "http_content_length": 4800178,
+      "http_content_type": "application/octet-stream",
+      "final_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dance%20of%20the%20Sugar%20Plum%20Fairy.mp3",
+      "checked_on": "2026-09-29",
+      "http_headers": {
+        "Date": "Tue, 29 Sep 2026 12:00:35 GMT",
+        "Server": "Apache/2.4.56 (Debian)",
+        "Last-Modified": "Sun, 15 Feb 2015 14:09:47 GMT",
+        "ETag": "\"493eb2-50f2105ab40c0\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "4800178",
+        "Link": "https://incompetech.com/.well-known/openapi.yaml; rel=\"describedby\"",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0",
+        "Content-Disposition": "attachment",
+        "Connection": "close",
+        "Content-Type": "application/octet-stream"
+      }
+    }
+  ],
+  "default_variant": "e8e7797dcb7ac804",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "可商用 · 需署名",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://incompetech.com/music/royalty-free/faq.html",
+    "track_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100625",
+    "checked_on": "2026-09-29",
+    "basis": "官方当前曲目页模板及 FAQ；ISRC USUAN1100625",
+    "attribution": "\"Dance of the Sugar Plum Fairy\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\nSource: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100625",
+    "usage_notes": [
+      "免费商用须署名：保留作者、曲名、来源和 CC BY 4.0 链接；若剪辑、循环或改编，请说明改动。"
+    ],
+    "content_id_note": "许可不保证平台自动识别零误报；保留官方来源与署名，遇申诉按平台流程提供依据。"
+  },
+  "popularity": {
+    "tier": "经典旋律",
+    "priority": 151,
+    "basis": "熟悉的传统/古典旋律；热度未作实时排名。",
+    "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100625",
+    "checked_on": "2026-09-29"
+  },
+  "credit_download": "assets/bgm/web-20260929/web-kevin-usuan1100625/CREDITS.txt",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
+  },
+  "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。官方当前曲目页模板及 FAQ；ISRC USUAN1100625"
+}

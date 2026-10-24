@@ -1,0 +1,21 @@
+﻿Theo Nguyen · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1222 × 1287
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photographic six-angle head reference sheet of a seventeen-year-old boy with tight tousled copper-red curls, pale green-gray eyes, many warm freckles, youthful soft jaw, no beard, light gray hoodie and black utility vest with black headphones around his neck.  Exactly six equal head-and-shoulder panels in a 3-column by 2-row grid, same person and hairstyle in every panel. Top row: direct centered FRONT, left three-quarter 45 degrees, right three-quarter 45 degrees. Bottom row: true LEFT profile 90 degrees, true RIGHT profile 90 degrees, BACK of head 180 degrees. Eye-level camera in ALL panels, upright head, neutral closed lips, level eye line, anatomically balanced face, no head tilt, preserve skull and jaw. Full hair visible with whitespace. Identical cream-white seamless background and bright soft frontal daylight, realistic skin pores and textile texture, low contrast. No text, no labels, no duplicated angles.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-theo-nguyen--head_angles.json
+
+实际带参考图生成提示词
+Create the specified six-angle reference sheet using the attached image as strict identity and costume reference. Keep the same person, age, face shape, eye color, hairstyle and photographic rendering; do not invent a different face. Photographic six-angle head reference sheet of a seventeen-year-old boy with tight tousled copper-red curls, pale green-gray eyes, many warm freckles, youthful soft jaw, no beard, light gray hoodie and black utility vest with black headphones around his neck.  Exactly six equal head-and-shoulder panels in a 3-column by 2-row grid, same person and hairstyle in every panel. Top row: direct centered FRONT, left three-quarter 45 degrees, right three-quarter 45 degrees. Bottom row: true LEFT profile 90 degrees, true RIGHT profile 90 degrees, BACK of head 180 degrees. Eye-level camera in ALL panels, upright head, neutral closed lips, level eye line, anatomically balanced face, no head tilt, preserve skull and jaw. Full hair visible with whitespace. Identical cream-white seamless background and bright soft frontal daylight, realistic skin pores and textile texture, low contrast. No text, no labels, no duplicated angles. CRITICAL: the two TOP MIDDLE and TOP RIGHT portraits MUST point in OPPOSITE directions. In top-middle the nose tip points toward the LEFT EDGE of the image, showing the right cheek prominently. In top-right the nose tip points toward the RIGHT EDGE of the image, showing the left cheek prominently. Never duplicate the same three-quarter direction. All six orientations must differ.
+
+生成依据：
+imports/role-completion-20260924/events/human-theo-nguyen--head_angles.json

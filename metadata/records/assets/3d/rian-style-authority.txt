@@ -1,0 +1,22 @@
+﻿User-provided rendering authority
+生图模型：未知（用户提供图，未取得生成记录）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：812 × 1224
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 203:306 (approximately 0.663:1), target canvas 812 × 1224 pixels.
+
+Vertical waist-up romantic fantasy portrait of an exceptionally beautiful slim adult male merfolk prince with very pale porcelain skin, amber-gold almond eyes, elegant long narrow face, high soft cheekbones, straight fine nose, muted rose lips, delicate pointed ears, long flowing silver-lavender hair with loose waves and airy parted bangs, silver-blue dangling earring and a fine silver necklace with a small blue gemstone pendant. Bare right shoulder and chest, ivory-silver translucent draped toga over the left shoulder secured with a circular silver brooch, pearl chains and small blue crystal drops; elegant crossed fabric folds. Calm reserved gaze looking slightly left. Luxurious silver-and-gold columned palace next to crystalline blue water with soft daylight behind him. Premium romantic otome 2.5D/3D fantasy illustration with softly sculpted dimensional features, luminous translucent porcelain skin, extremely detailed wispy hair strands, pearlescent silk, silver filigree, crystals and gemstones; pale icy blue, silver, lavender and champagne light, bright diffused bloom, polished rendering and soft depth of field. No cartoon outlines, coarse skin, gritty live-action texture, dark murky lighting or watermark. Image content only, omit software interface controls.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：projects/the-sea-princes-almost-bride/制作/分镜审阅-v3-20260920/references/RIAN-style-authority.png
+
+生成工具记录的提示词（可能依赖参考图）
+未取得
+
+生成依据：

@@ -1,0 +1,21 @@
+﻿Mina Shah · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1224 × 1285
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photographic nine-expression sheet of adult woman age23 with medium warm-brown skin, thick dark eyebrows, brown almond eyes, medium straight nose, softly angular oval face, full lips and chin-length side-parted dark wavy bob, tiny silver studs, wearing navy V-neck sweater over white collared shirt with visible hem, wide faded blue jeans, white sneakers, brown suede shoulder bag. EXACT3x3 grid of nine equal head-and-shoulder portraits of the SAME person. Complete hair or hat with margin. Front camera, upright head and level eyes. Row1 neutral, small closed smile, happy smile with teeth; Row2 surprise, worried, quietly sad; Row3 annoyed, skeptical raised eyebrow, warm affectionate smile. Distinct natural emotion without reshaping face, consistent hair and eye color and age across cells. Plain matte cool-gray studio background and matching floor, soft cool blue-gray daylight with even fill, subtle fine film grain, real pores, fine hair, matte skin, natural cloth weave, realistic85mm lens perspective. No stylized3D, wax skin, heavy retouching, strong warm tint, dramatic lighting or watermark. Thin white gutters, no text or extra panels.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/off-script-mina--expression_grid.json
+
+实际带参考图生成提示词
+Reference1 is authoritative facial identity and reference2 exact wardrobe. Preserve this individual and all current design choices. Photographic nine-expression sheet of adult woman age23 with medium warm-brown skin, thick dark eyebrows, brown almond eyes, medium straight nose, softly angular oval face, full lips and chin-length side-parted dark wavy bob, tiny silver studs, wearing navy V-neck sweater over white collared shirt with visible hem, wide faded blue jeans, white sneakers, brown suede shoulder bag. EXACT3x3 grid of nine equal head-and-shoulder portraits of the SAME person. Complete hair or hat with margin. Front camera, upright head and level eyes. Row1 neutral, small closed smile, happy smile with teeth; Row2 surprise, worried, quietly sad; Row3 annoyed, skeptical raised eyebrow, warm affectionate smile. Distinct natural emotion without reshaping face, consistent hair and eye color and age across cells. Plain matte cool-gray studio background and matching floor, soft cool blue-gray daylight with even fill, subtle fine film grain, real pores, fine hair, matte skin, natural cloth weave, realistic85mm lens perspective. No stylized3D, wax skin, heavy retouching, strong warm tint, dramatic lighting or watermark. Thin white gutters, no text or extra panels.
+
+生成依据：
+imports/role-completion-20260924/events/off-script-mina--expression_grid.json

@@ -1,0 +1,26 @@
+﻿电影场景第1批 · 03 · 薄荷白会客室 · 多角度图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 电影场景第1批 · 03 · 薄荷白会客室.
+Environment: A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: an English Georgian morning drawing room, ivory wall panels with a very pale mint inset, three tall windows diffusing cool-white spring daylight through cream sheers. Original restrained symmetrical composition with a petite cream upholstered settee at left and single warm brown carved chair at right, small oval tea table offset left holding simple pale porcelain, a closed letter placed beside a cup. Pale ash herringbone parquet, subtly patterned wool rug, small vase of white garden flowers, open double door at back showing a pale corridor. Keep center open, strong clean sightline, no paintings depicting beings. Research inspiration: Emma 2020's bright Georgian dollhouse color organization; soften to cream and barely mint, avoid candy saturation or excessive gold. Emotion: elegant anticipation before a delicate conversation.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent multi-angle image sheet with 4 clearly separated views of the same location. Show complementary eye-level views and relevant close details. Maintain the same physical positions of entrances, windows, stairs, furniture and landmark objects across views; no mirrored rearrangement. Small A/B/C/D labels only.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-023--scene_angles.png
+
+参考图辅助生成事件提示词
+Create one spatial reference image for 电影场景第1批 · 03 · 薄荷白会客室. Image1 is exact visual style and scene identity reference. Image2 is the spatial layout authority. Preserve same single location, all door/window/landmark/furniture relationships. Unseen sides may be reconstructed conservatively. A 2x2 sheet of FOUR distinct eye-level camera views of the SAME ONE space: original forward direction, a lateral oblique view, a reverse view 180 degrees opposite, and the other lateral view. Labels A B C D only. Preserve ALL door/window/furniture positions; actually move camera, never mirror the building. Same material and lighting. No people, animals, human pictures or silhouettes. No invented numbers/dimensions. Preserve original materials, palette and lighting. No added rooms or unrelated locations.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-023--scene_angles.json
+previews/scene-spatial-20260930/visual-review.json

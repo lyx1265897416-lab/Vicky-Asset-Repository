@@ -1,0 +1,26 @@
+﻿原创3D角色28组 03 · 街头墨影 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-27
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create ONE 3x3 nine-panel square expression sheet of one adult character, head-and-shoulder close-ups only. Nine evenly spaced equal-size portraits with complete hair and ornaments, upright front eye-level view. Row1: neutral, soft smile, joyful open smile. Row2: surprise, concerned, sad. Row3: restrained anger, skeptical raised brow, playful one-eye wink. Clear distinct anatomically plausible expressions, identity consistent across all nine, no props, no hands, white gutters and white background, no text.
+Premium semi-realistic dimensional 3D character CG: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Character design: Male age 23. Black unbranded baseball cap worn normally, black choppy fringe framing open eyes. Gray-brown slightly round downturned eyes, gently tapered face, soft wide cheeks, short straight nose, broad lower lip, thick horizontal eyebrows. Warm light tan skin. Oversized washed charcoal sports tee with two muted gray shoulder panels, fine silver curb necklace, simple black backpack straps. Relaxed independent streetwear mood.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260927/events/r27-03-expression_grid.json
+
+实际带参考图生成提示词
+Create ONE 3x3 nine-panel square expression sheet of the exact SAME adult character, head-and-shoulder close-ups only. Nine evenly spaced equal-size portraits with complete hair and ornaments, upright front eye-level view. Row1: neutral, soft smile, joyful open smile. Row2: surprise, concerned, sad. Row3: restrained anger, skeptical raised brow, playful one-eye wink. Clear distinct anatomically plausible expressions, identity consistent across all nine, no props, no hands, white gutters and white background, no text.
+Premium semi-realistic dimensional 3D character CG matching the reference exactly: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Identity reference: reproduce the supplied approved portrait as the same individual, not a lookalike. Use existing hairstyle and exact costume neckline, no new identity.
+Character identity notes: Male age 23. Black unbranded baseball cap worn normally, black choppy fringe framing open eyes. Gray-brown slightly round downturned eyes, gently tapered face, soft wide cheeks, short straight nose, broad lower lip, thick horizontal eyebrows. Warm light tan skin. Oversized washed charcoal sports tee with two muted gray shoulder panels, fine silver curb necklace, simple black backpack straps. Relaxed independent streetwear mood.
+
+生成依据：
+imports/role-completion-20260927/events/r27-03-expression_grid.json

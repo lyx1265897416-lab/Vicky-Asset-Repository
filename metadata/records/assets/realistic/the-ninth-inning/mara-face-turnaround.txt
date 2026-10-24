@@ -1,0 +1,23 @@
+﻿第九局以后 · Mara Vale 平视脸部三视图 · 图3定稿 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1223 × 1286
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1223:1286 (approximately 0.951:1), target canvas 1223 × 1286 pixels.
+
+Create a 2 by 2 head-and-shoulders identity sheet of Mara, an 18-year-old girl with warm light olive-beige skin, scattered freckles across cheeks and nose, hazel-green almond eyes, thick dark softly arched brows, distinct cheekbones, full natural lips, a softly oval-square jaw, and long voluminous ash-brown waves parted in the center. Her hair has fine warm highlights, her face is youthful and she has no glasses. Upper-left full straight-on eye-level face, upper-right exact profile nose pointing right, lower-left opposite profile facing left, lower-right three-quarter view. Consistent facial geometry and head size in every cell, full hair crown, shoulders and beige ribbed tank-top straps visible. Neutral softly parted lips, relaxed brows, no glasses. Cream-white wall, soft bright frontal fill light with gentle warm highlights on hair. Thin white dividing lines, no labels. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/the_ninth_inning/v2_trendy/mara_face_orthographic_ref03.png
+
+生成工具记录的提示词（可能依赖参考图）
+Use case: photorealistic-natural. Asset type: Mara identity redesign orthographic face sheet. Use the supplied reference image as the strict facial-design reference, but age the subject naturally to a youthful 18-year-old American high-school girl. Create four equal head-and-shoulders panels: exact eye-level front, left 90-degree profile, right 90-degree profile, and 3/4 view. Mara must be clearly different from Aria: warm light olive-beige skin, hazel-green eyes, thicker softly straight dark brows, wide almond eye shape, prominent cheekbones, fuller glossy natural lips, softly oval-square jaw, no glasses, no earrings in the face sheet, long voluminous loose ash-brown waves with a center part and airy flyaways. Do not use Aria's gray-blue eyes, black rectangular glasses, narrow delicate face, or straight chestnut hair. Keep youthful teen proportions, subtle freckles, no mature glamour and no heavy makeup. Pale warm-cream background, bright soft window daylight, natural skin microtexture, restrained live-action teen drama character bible photography, clean view labels only, no logos, no text, no anime, no illustration, no 3D render.
+
+生成依据：
+metadata/evidence/exec-f5983757-c3fa-4dc7-8513-ee71cc3930be.json

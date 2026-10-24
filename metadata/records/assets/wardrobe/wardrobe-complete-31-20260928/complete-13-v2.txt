@@ -1,0 +1,21 @@
+﻿完整造型 · 13 · 酒红学院短裙
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. One complete styled outfit, photorealistic product catalog image, portrait 2:3, pure white seamless background, soft studio light. Invisible hollow clothing with no person, body, skin or visible mannequin. Clothing: Burgundy oversized cable-knit sweater layered over crisp white pointed-collar shirt, short pleated burgundy tartan skirt, pair of burgundy fabric leg warmers with buckled details over black chunky platform shoes. White empty space between skirt and leg warmers, no legs.  Accessories: One antique silver safety-pin brooch with a short dangling chain, no fabric backing.  All attachable accessories worn naturally on the ensemble at realistic scale. Unattachable tiny accessories arranged adjacent to the ensemble. Full uncropped framing, no text, logos or watermark.
+
+依据已入库服装和独立配饰合成完整无人造型。精确单品请从套装详情打开原始服装与配饰图。
+
+
+来源：服装31组 · 参考 13 · 已入库服装与配饰组合
+
+原始生成提示词：
+Use case: precise-object-edit. Change ONLY the background and illumination: replace the black and burgundy glowing background with a uniform pure opaque WHITE #FFFFFF seamless catalog background. Remove all glow, halo, vignette and theatrical lighting. Bright even soft studio light with minimal neutral contact shadows. Keep the exact burgundy cable-knit sweater with white shirt collar/cuffs, pleated tartan mini skirt, silver safety-pin chain brooch, matching burgundy buckle leg warmers and black platform shoes. White empty space between skirt and leg warmers. Preserve the material texture, natural volume, proportions, arrangement and 2:3 composition. No people, body, skin, mannequin or labels.
+
+生成依据：
+imports/wardrobe-complete-31-20260928/events/complete-13.json

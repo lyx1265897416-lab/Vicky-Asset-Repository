@@ -1,0 +1,21 @@
+﻿完整造型 · 18 · 海军蓝星纹工装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. One complete styled outfit, photorealistic product catalog image, portrait 2:3, pure white seamless background, soft studio light. Invisible hollow clothing with no person, body, skin or visible mannequin. Clothing: Fitted navy off-shoulder long-sleeve top with small abstract faded star motif and side drawstring, no words; dark washed-blue ultra-wide cargo jeans with fine embroidered star trails and large side pockets, chunky gray white running sneakers.  Accessories: One delicate silver chain necklace with a small five-point star pendant, complete necklace shown. ; One silver trouser chain with a hollow five-point star charm and lobster clasps, draped in a gentle curve. ; One dark washed navy denim shoulder bag with silver eyelets on strap and one integral silver star charm.  All attachable accessories worn naturally on the ensemble at realistic scale. Unattachable tiny accessories arranged adjacent to the ensemble. Full uncropped framing, no text, logos or watermark.
+
+依据已入库服装和独立配饰合成完整无人造型。精确单品请从套装详情打开原始服装与配饰图。
+
+
+来源：服装31组 · 参考 18 · 已入库服装与配饰组合
+
+原始生成提示词：
+Use case: compositing. Create one complete styled outfit catalog image for a wardrobe library. Image 1 is the existing clothing ensemble to preserve; subsequent images are the exact accessory products to incorporate. Preserve the clothing shapes, colors, fabrics, cut, shoes and natural drape of image 1. Add all listed accessories, scaled realistically: tie at collar or hip per notes, bag suspended from shoulder, belt threaded at waist, chains or charms attached to waist or bag, necklace draped naturally at neckline. This is one fully coordinated dressed ensemble, NOT a board of separately enlarged products. Keep tiny unattached items (earrings, rings, eyewear, hat, lipstick) in a small neatly spaced cluster beside the shoulder or hem only when they cannot be shown attached without inventing a body. Pure white opaque seamless background, soft studio light, minimal contact shadow, photoreal fabric and materials. Portrait 2:3, full ensemble uncropped with clear margin. ABSOLUTELY NO person, body, skin, face, head, neck, hands, legs, mannequin, hanger or stand. Empty hollow clothes; white visible through lace and empty space between separate garments. No labels, typography, logos, brand marks, watermark or frame. Never add extra garments or shoes not listed. Clothing: Fitted navy off-shoulder long-sleeve top with small abstract faded star motif and side drawstring, no words; dark washed-blue ultra-wide cargo jeans with fine embroidered star trails and large side pockets, chunky gray white running sneakers.  Accessories: One delicate silver chain necklace with a small five-point star pendant, complete necklace shown. ; One silver trouser chain with a hollow five-point star charm and lobster clasps, draped in a gentle curve. ; One dark washed navy denim shoulder bag with silver eyelets on strap and one integral silver star charm.  Placement notes:  Only incorporate accessory types explicitly listed for this outfit; do not invent a belt, necklace or additional object. Clothing silhouette must remain identical to input 1.
+
+生成依据：
+imports/wardrobe-complete-31-20260928/events/complete-18.json

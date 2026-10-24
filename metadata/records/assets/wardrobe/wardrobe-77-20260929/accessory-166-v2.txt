@@ -1,0 +1,21 @@
+﻿服装77图 · 124 · 红色宽手镯 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. 红色宽手镯
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户77张服装参考 · 66 right
+
+原始生成提示词：
+Edit product image to show EXACTLY ONE standalone red faceted wide resin bangle, the angular upper red bracelet in this reference. Remove the entire black bracelet and lower red bracelet. Keep only one closed red faceted cuff/bangle, preserve its material, polygonal shape and hinge. Center it large on pure white background with soft product lighting. No stack, no second bangle, no other object, no text.
+
+生成依据：
+imports/wardrobe-77-20260929/events/accessory-166-v2.json

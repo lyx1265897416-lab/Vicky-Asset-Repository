@@ -1,0 +1,23 @@
+﻿捡到的黑猫 · 公寓六视角 · 纯环境修订
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1168 × 1347
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+生成一张完整的场景设定图板，画幅 1168×1347。六格两列三行公寓场景图。西雅图天际线与太空针塔出现在北窗外；从入户门看客厅、狭窄厨房、沙发反打、夜间卧室、玄关走廊、日出北窗。灰白哑光墙、低饱和雾蓝沙发、鼠尾草绿厨柜、浅旧橡木地板、棉麻与适量绿植。柔和自然窗光，夜景保留蓝色环境光和少量台灯；真实空间透视、细腻材质、英文面板标签，无人物。
+纯环境，不出现人物、动物、鸟、鱼、手部或角色倒影。沙发为空；街道、车站、笼子和水域无任何角色；屏幕不显示人像，装饰画采用植物或抽象图案。
+
+原生ImageGen生成。提示词可复用，但不保证像素级复现。编辑图保留原版备份。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/empty-scenes-expansion-20260928/originals/fix-apartment.png
+
+生成事件提示词
+Use case: precise-object-edit. Edit target is the attached scene board. Remove the sleeping cat on the sofa in panel three and any other animal or character-like pictures throughout. Reconstruct the sofa cushion and blanket naturally. Replace the small cat illustration poster with a plain abstract botanical print. Preserve all six panels, architecture, furniture layout, materials, camera angles, time of day, panel borders and existing labels. Final image is strictly environment only: no human or animal anywhere, including pictures, screens, mirrors and distant corners. Do not introduce new objects or redesign the spaces.
+
+生成依据：
+imports/empty-scenes-expansion-20260928/events/fix-apartment.json
+imports/empty-scenes-expansion-20260928/visual-review.json

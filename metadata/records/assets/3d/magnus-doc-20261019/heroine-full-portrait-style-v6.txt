@@ -1,0 +1,26 @@
+﻿女主 · 雾金月光 · 文档确认版 · 单人全身
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-19
+
+文生图提示词：
+Create one image of An adult human woman visually about 26, tall slender natural 7.5-head proportions, cool fair beige skin, soft adult oval face with gently rounded chin, subtle cheekbone transitions, softly straight naturally feathered eyebrows, softly open gray-green eyes, a small softly contoured nose and natural rose lips with a gentle tender closed-mouth half-smile. Long ash-blonde hair with darker roots, side part and finely separated strands draping over chest. Silver stud earrings. Open knee-length finely textured taupe wool coat over a dusty blue-gray scoop-neck sleeveless fine vertically ribbed midi dress with a fitted waist and softly A-line midcalf skirt. Taupe ankle boots with modest block heels. Bare lower legs; no tights. Relaxed lowered shoulders and natural neck. Premium semi-realistic adult otome romance-game 2.5D/3D character render with finely sculpted facial planes, dimensional eyes, individually resolved dry hair strands, subtle natural skin microtexture, physically credible wool and silk. Clean white seamless studio background, broad soft neutral frontal illumination, refined high-detail materials, no color cast, no text, labels, logo, watermark, UI, extra people, wolf ears or fangs. One front-facing standing full-length figure with entire hair to shoe soles visible and a narrow comfortable white margin, long-lens eye-level camera without foreshortening, relaxed arms down and feet uncrossed. Tall natural elegant model proportions: men approximately 8.5-8.8 heads tall, women approximately 7.5-7.8 heads tall; preserve age and build differences.
+
+独立文生图提示词依据最终图及可核实制作记录整理；实际制作使用参考图或编辑，纯文字无法保证同脸或逐像素复现。严格身份/空间连续性请同时使用本张原图。
+
+
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#Xy95dfOZpoQwZExampec7GiwnEf
+
+原始带参考图生成或编辑提示词（制作记录）
+Create one full-body character master by extending the supplied APPROVED PORTRAIT into a head-to-toe view. Reference image is the absolute authority for identity, rendering style, skin, hair, material quality and lighting. It is a premium semi-realistic otome 2.5D/3D cinematic character render, not a live action photograph or painted illustration. Replicate its exact refined face sculpt, soft gentle adult eyes and eyebrows, gray-green irises, rose lips, soft innocent expression, luminous subtly textured skin, ash-blonde hair with very fine individually resolved strands and dimensional sheen. Carry the same portrait-quality rendering faithfully through every part of the full-body image; no vague airbrushed face, blurry hair masses, flat plastic skin, coarse texture, painterly strokes or generic game low-detail body.
+Single adult woman age 26, frontal entire body including top of hair and boot soles, centered on a white seamless studio background. Tall slender natural model anatomy approximately 7.5 heads tall, NOT tiny head or gigantic head. Elegantly long legs without overstretching. Head is naturally balanced directly above ribcage, neck upright and unstrained, relaxed lowered shoulders and open collarbones. Comfortable ordinary frontal standing posture, relaxed elbows and hands at sides with soft fingers. Feet uncrossed, a small comfortable gap, both at the same depth, toes near-forward, no T stance, no catwalk posing, no forward head, no hunching, no rigid mannequin.
+Exact costume continuity: open knee-length taupe tailored coat with the portrait's fine delicate woven jacquard material, authentic lapels, scale-appropriate microdetail not bold ornament; the portrait's dusty blue-gray scoop-neck sleeveless camisole extends into a fitted-waist gently A-line midi DRESS reaching lower midcalf. Fine vertical knitted ribbing visible on dress from neckline through skirt with realistic drape. Taupe fitted ankle boots with modest block heels. Same long side-parted ash-blonde hair cascading over left side of chest and past chest, same tiny stud earrings.
+Soft broad neutral studio illumination exactly like the portrait, beautiful sculptural shading with crisp fine hair, eyelash, lip, cloth and seam details. Neutral color balance. Full figure occupies almost the entire height with modest white margin. Portrait 2:3 canvas. Highest available native detail. No text, labels, panels or extra people. This is the approved portrait at a wider framing with physically coherent body, NOT a restyle.
+
+生成依据：
+imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/source/character-map.json
+imports/magnus-confirmed-assets-20261019/provenance/feishu-character-design-20261016/heroine-style-v6-record.json

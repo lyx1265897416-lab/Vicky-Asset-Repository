@@ -1,0 +1,23 @@
+﻿Current continuity-locked Rian sea form
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-18
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 941:1672 (approximately 0.563:1), target canvas 941 × 1672 pixels.
+
+Tall vertical full-body underwater fantasy illustration of an exceptionally beautiful slim adult male merfolk prince with very pale porcelain skin, amber-gold almond eyes, elegant long narrow face, high soft cheekbones, straight fine nose, muted rose lips, delicate pointed ears, long flowing silver-lavender hair with loose waves and airy parted bangs, silver-blue dangling earring and a fine silver necklace with a small blue gemstone pendant. Human torso transitions seamlessly into a very long slender iridescent silver-blue mermaid tail with lavender highlights and an enormous translucent bifurcated fin; tail occupies over half the body length and curves gently like a ribbon. Hair flows around shoulders; ornate silver bands and pearl jewelry at waist and upper arms, airy transparent chiffon drifting alongside, arms relaxed outward, no human legs or feet. Entire hair crown and fin tips visible. Brilliant blue submerged palace with tall columns, coral-like silver ornament, bubbles, shafts of pale sunlight and floating sparkles. Premium romantic otome 2.5D/3D fantasy illustration with softly sculpted dimensional features, luminous translucent porcelain skin, extremely detailed wispy hair strands, pearlescent silk, silver filigree, crystals and gemstones; pale icy blue, silver, lavender and champagne light, bright diffused bloom, polished rendering and soft depth of field. No cartoon outlines, coarse skin, gritty live-action texture, dark murky lighting or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：projects/the-sea-princes-almost-bride/角色设计/v7-continuity/images/RIA_sea_full_v07.png
+
+生成工具记录的提示词（可能依赖参考图）
+Precise localized continuity edit of image 1, which is the EDIT TARGET. Image 2 is the approved original male face close-up and authoritative ear jewelry reference. Image 3 is the corrected male court outfit reference. Preserve the face identity, original exact pose, body proportions, composition, lighting and background of image 1. Preserve the character's silver-lavender hair and existing jewelry placement. Use the pale translucent icy-blue elongated pear-shaped earring drops, white round pearl details and delicate silver connections from image 2, with the same structure and scale relative to the ears and jaw; maintain perspective and natural hair occlusion, not dark cobalt-blue short bead-string substitutes. Preserve the existing blue necklace pendant and crescent brooch, distinct from the pale earrings. No text, no comparison panels, no annotation. Preserve the polished otome 2.5D/3D rendered style. In this full-body underwater shot only correct the male earrings to the reference. Preserve the ENTIRE VERY LONG MERMAN TAIL and full tail-tip framing exactly: head-to-waist versus waist-to-tail-tip is 3:7, keep the tail scales, flowing fins, narrow S-curve and no human legs. His bare chest and the existing single left-shoulder diaphanous mantle are already correct; keep them exposed as is, do not add a shirt, inner vest, cross-over chest panel or court skirt. Only jewelry continuity correction, no pose change.
+
+生成依据：
+metadata/evidence/exec-05d3ad3c-7cda-4126-933b-ba634c75da38.json

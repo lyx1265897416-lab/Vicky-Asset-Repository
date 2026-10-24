@@ -1,0 +1,22 @@
+﻿人鱼王子的假新娘 · 访客室／寝居／餐厅／月夜露台
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-20
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+生成一张完整的场景设定图板，画幅 1536×1024。两列两行乙游3D宫内生活场景板：蓝天鹅绒沙发与白石茶几的访客室；带蓝银屏风、圆形临水浴池与纱幔床的寝居；临海傍晚餐厅的圆桌、餐具与烛台；满月下海湾城堡露台和蓝色软座。珍珠白石、精细金银边、蓝白织物与花饰；日景通透，夜景蓝紫环境光与柔和烛光，空间连续自然，英文角落标签，无人物。
+
+独立提示词按现有成图重建，原始生成记录另存。纯文字不保证像素级复现；本次保留源PNG，不裁切、不重绘。
+
+
+来源：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/images/LOC-private.png
+
+生成事件记录的提示词
+Premium dimensional 3D otome romance game environment concept art, match architectural material, pearl white stone, fine silver detailing, soft sapphire daylight and warm candle glints of attached Rian screenshot. No humans or text UI. Clearly polished stylized CG, not live action. Convincing human scale, functional walkable floors and doors, clear paths, coherent architecture, no impossible stairs into walls. Wide landscape sheet containing FOUR equal landscape images in a 2 by 2 grid with thin white gutters, each beautiful establishing shot of a distinct location. Tiny lower-left English location name. All four panels full and readable. Panel1 GUEST LOUNGE: warmly lit pearlstone small sitting room with deep blue sofa, small table and blanket, entrance doorway on left opening to gallery, one sea window; comfortable free movement, no cage. Panel2 WATERSIDE SUITE: cozy grand sleeping suite with a waist-high circular water pool in the far left alcove and clearly separated DRY sleeping platform at right, opaque folding screen dividing private areas, private dressing alcove and exit door visible. Keep independent dry walking path to exit. Panel3 TIDE DINING HALL: small round supper table with TWO chairs diagonally opposite, left chair foreground,right chair deeper, crystal candle and modest cutlery, tall open glass balcony doors in background, twilight, same white palace material. Panel4 CAVE BALCONY: outdoor stone balcony with safe waist-high balustrade, glass dining doors on left, sea and shore town across water at right, moonrise, warm wall sconces, enough room for two adults side by side, romantic intimate, not huge throne plaza.
+
+生成依据：
+imports/confirmed-scenes-20260928/evidence/sea-private-generation.json
+imports/confirmed-scenes-20260928/evidence/approval-records.json

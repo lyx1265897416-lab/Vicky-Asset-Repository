@@ -1,0 +1,21 @@
+﻿Magnus 女主 05 · 雾金月光 · 正面平视／身份母版
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-14
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. Single frontal eye-level head and upper torso portrait, upright head, complete hairstyle visible, portrait 2:3. Character design: 26-year-old adult human woman. Dark-rooted ash-blonde long straight hair tucked behind one ear, clean off-center part, gray-green deep-set eyes. Elongated diamond face, angular high cheekbones, straight fine brows, long straight nose, thin upper lip with fuller lower lip, slightly broad squared chin. Fair cool beige skin with subtle natural texture. Composed watchful closed-mouth expression, intelligent quiet confidence, not blank doll eyes. Dusty-blue fine-gauge turtleneck and a light taupe wool coat worn normally, tiny silver studs, no necklace. Refined understated modern urban woman, subtle cool makeup, no fantasy costume.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-05-front.png
+
+实际生成提示词
+Use case: stylized-concept. Create one ORIGINAL adult human female romantic lead candidate for a modern urban supernatural romance opposite Magnus Thorne, a 34-year-old bronze-skinned, black-haired, imposing werewolf shipping chairman. Her identity and face must be newly designed and clearly different from each reference. Input images 1 and 2 are STYLE REFERENCES ONLY from the user's approved otome 2.5D/3D character library: borrow their polished semi-realistic CG skin shading, hair strand detail, luminous expressive eyes, refined sculptural modeling and material quality; do NOT copy either woman's face, hairstyle, clothing, historical costume or headpieces. Input image 3 is the MALE LEAD CONTEXT ONLY, for compatible adult visual tone; DO NOT depict him or copy his facial features. One woman only. Premium high-end otome 2.5D/3D render, visibly rendered not live-action photo, believable anatomy, subtle skin microtexture and subsurface scattering, elegant beauty without childlike oversized eyes. Pure solid white #FFFFFF background, bright balanced neutral soft studio lighting. Exactly 1024x1536 portrait 2:3. Single centered frontal eye-level portrait from complete top of hair to mid torso, level shoulders and upright head, full hairstyle inside frame with 8% headroom. Eyes at viewer, hands out of frame. Same consistent scale and lighting throughout this candidate series. Contemporary fully clothed nonsexual character design. No text, borders, logo, watermark, collage, scenery, wolf ears, magical eyes, weapons, crown or extra subjects. Specific ORIGINAL character design: 26-year-old adult human woman. Dark-rooted ash-blonde long straight hair tucked behind one ear, clean off-center part, gray-green deep-set eyes. Elongated diamond face, angular high cheekbones, straight fine brows, long straight nose, thin upper lip with fuller lower lip, slightly broad squared chin. Fair cool beige skin with subtle natural texture. Composed watchful closed-mouth expression, intelligent quiet confidence, not blank doll eyes. Dusty-blue fine-gauge turtleneck and a light taupe wool coat worn normally, tiny silver studs, no necklace. Refined understated modern urban woman, subtle cool makeup, no fantasy costume.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-05-front.json

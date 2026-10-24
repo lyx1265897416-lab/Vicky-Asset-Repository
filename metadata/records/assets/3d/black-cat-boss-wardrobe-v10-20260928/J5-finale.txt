@@ -1,0 +1,22 @@
+﻿June · 黑猫互动剧 · 白衬衫·酒红领带·灰牛仔 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+A clean white studio landscape full-body character turnaround, front, exact side profile and rear views at equal height and baseline, premium semi-realistic 3D rendering, no labels or watermark. Adult woman with honey-apricot chin-length bob, ivory flower clip, gray-blue eyes and tall 7–8 head model proportions. Wardrobe: White shirt, burgundy tie and gray jeans. Copy panel6 J5-GATE exactly: oversizedwhite buttonSHIRT untuckedtohip, long sleevesrolledtobelow elbows, looseBURGUNDY DIAGONALSTRIPED NECKTIE, washedGRAY widelegJEANS, WHITEchunkysole sneakers. Blacksoftleather shoulderbag hanging fromHERrightshoulder atside, unchanged acrossviews. Adultcasualrelaxedstyle on tallmodel, NOT dress, no waistbeltcinching shirt intodress. Sameivoryflowerclip, noaddednecklace.
+
+文生图描述据确认造型整理；身份一致性以确认图片为准。原始图生图提示词另存，未验证纯文本复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/assets/3d/black-cat-boss-wardrobe-v10-20260928/J5-finale.png
+
+原始生成提示词：
+Use case: identity-preserve. Create a landscape white-background 3D character COSTUME TURNAROUND with exactly THREE whole-body figures of the SAME adult: front, true90degree profile facingleft, trueback, identicalscale, crown/waist/soles aligned, naturalrelaxed neutralstance witharmsbysides, completefeet andhead notcropped. Reference1 is EXACT approved new FACE/HAIR identity. Reference2 ONLY defines approved tall model BODY proportions, not its outfit. Reference3 is OLD COSTUME design to transfer faithfully, never copy old face/hair/body. Purewhite neutralstudio, soft shadow, premium realistic-stylized romancegame3D finish matchingref1, no text/labels. Preserve garment type, color, silhouette and accessories from specified panel ofref3; no redesign/dresses substitutedforpants. Natural anatomy,5fingers perhand. All3views one identical outfit. JUNE adult27, identical grayblueeyes and honeyapricot CHIN-LENGTH SHORTBOB fromref1, same face nose lips. IvoryflowerclipHERLEFT unless bedtime removal specified. Tall female model7.7 anatomicalheads crown-to-soles, longlegs andnaturalwaist; no oversizedhead. Keepnewfaceandshorthair evenifref3faceishairbun. 
+COSTUME: Copy panel6 J5-GATE exactly: oversizedwhite buttonSHIRT untuckedtohip, long sleevesrolledtobelow elbows, looseBURGUNDY DIAGONALSTRIPED NECKTIE, washedGRAY widelegJEANS, WHITEchunkysole sneakers. Blacksoftleather shoulderbag hanging fromHERrightshoulder atside, unchanged acrossviews. Adultcasualrelaxedstyle on tallmodel, NOT dress, no waistbeltcinching shirt intodress. Sameivoryflowerclip, noaddednecklace.
+
+生成依据：
+imports/black-cat-boss-wardrobe-v10-20260928/evidence/J5-finale.json

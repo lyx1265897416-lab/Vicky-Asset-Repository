@@ -1,0 +1,30 @@
+﻿公寓 · 多角度图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Create an environment-only 公寓 · 多角度图. One single-storey cream and warm wood apartment. Northwest narrow sage galley kitchen, central living dining room with blue grey sofa against east wall and television on west wall, dining by north skyline window; bedroom east with bedhead east; entry hall south linking all rooms via open passages including west kitchen vestibule. Three north windows with cream curtains and radiators. Compact bath southeast. Views retain this coherent layout and relative scale. No humans, animals, fabricated dimensions or slogans.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-001-01--scene_angles.png
+
+参考图辅助生成事件提示词
+Use case: infographic-diagram / spatial production design.
+Asset: Vicky environment library, scene-001-01, 公寓, 多角度图. Generate one finished independent image, landscape 1536x1024 or larger.
+Input image 1 is the existing environment identity reference. ALL six panels depict ONE apartment: living/dining, kitchen, bedroom, entrance. Preserve bluegrey sofa by right wall, dining beside large skyline window, green kitchen cabinets, wood floor. Establish coherent apartment layout connecting rooms.
+Any additional reference is the same scene's concept floor/site plan and is the geometric source of truth. Keep its footprint, entrances, openings, adjacencies, landmark arrangement and orientation fixed.
+Request: One dedicated four-view camera sheet, tidy 2 by 2 panels labeled VIEW 1 NORTH, VIEW 2 EAST, VIEW 3 SOUTH, VIEW 4 WEST. Four genuinely different eye-level views looking from SOUTH toward NORTH, WEST toward EAST, NORTH toward SOUTH, EAST toward WEST respectively around the SAME MAIN SPACE (for a multiroom suite, four views of main living area only; do not switch rooms). Match supplied layout plan exactly; repeated landmarks must occupy geometrically consistent locations. One must closely recover original reference view. Preserve original rendering medium, illumination, color palette and characteristic props. No mirrored duplicates, no different locations, no floorplan or diagrams.
+Maintain the architecture, distinctive objects, material vocabulary and visual character of the original. Do not reuse the reference board as the output. Rationally extrapolate only unseen geometry; it is a coherent concept reconstruction for story staging, not surveyed construction documentation. Use one internally consistent space, not a collage of unrelated rooms. Walls meet logically, doors connect traversable spaces, no blocked entrances or impossible staircases. NO people, NO characters, NO animals, NO silhouettes, NO human figures in reflections or posters, NO logos/watermarks. Small legible English labels only where useful. Avoid busy ornament, repeated generic layouts and unexplained disconnected rooms.
+Original design context (use only details compatible with target reference panel): 捡到的黑猫 · 公寓六视角 · 纯环境修订
+
+Reference image 1 is NOW the FINAL correct floor plan (not original board); it is geometry truth. Kitchen WEST, living CENTER, bedroom EAST, hall SOUTH with OPEN passage into kitchen vestibule. A kitchen, B living, C bedroom, D hall. DO NOT close that kitchen-hall passage. All four views must be of the central LIVING/DINING ROOM only. North view shows window and dining table, east view shows sofa against east wall (window at left), south view shows living room door opening to hall (sofa at left, TV at right), west view shows TV (window at right). The sofa is lengthwise north-south, not moved to sit across center. Keep each viewpoint geometrically correct.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-001-01--scene_angles.json
+previews/scene-spatial-20260930/visual-review.json

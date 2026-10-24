@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 023 · 黑棕撞色皮夹克 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. Black leather cropped zip jacket with broad asymmetrical brown leather lapel and brown collar, white collared shirt, black wide-leg jeans, brown shoes.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记2-图5 整图
+
+原始生成提示词：
+Edit this existing white-background hollow outfit image. Completely REMOVE the dark necktie between the white shirt collar points. Replace it with the plain white inner shirt front and placket. No dark triangular tie remains. Preserve all jacket/shirt/trousers/shoes exactly, same colors, cuts, framing, white background, no human or mannequin. Only remove tie.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/look-023-v2.json
+imports/wardrobe-xhs-5-20260930/source-02.json

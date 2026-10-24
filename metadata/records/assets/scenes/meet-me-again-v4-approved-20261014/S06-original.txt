@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · S06-original · 海边平缓步道 · 场景原图 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+A broad level pale stone walking path beside calm blue sea, curving toward a small cream coastal village, low limestone parapet at right, grasses olive foliage and small white wildflowers at left, old black simple lamp, distant headland, tiny sage glasshouse in distant village. No foreground courtyard, no people or animals. Eye-level landscape establishing image, natural neutral daylight, realistic delicate otome 3D materials. Landscape 3:2, no watermark, no people or animals.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/S06-original.png
+
+原始生成提示词：
+Generate a NEW empty coastal walking path master image for a delicate naturalistic 3D romantic otome game. Landscape 3:2 highest native detail. The camera is ON a level broad stone pedestrian path along a quiet blue bay. Path dominates foreground and curves gently toward distant coastal village, low limestone parapet on sea side right, grassy bank and white wildflowers left. A tiny sage glasshouse attached to a cream cottage can be seen very far behind in village but is NOT the subject. No foreground building/gate/courtyard, no steps, no dangerous cliff edge. Calm airy blue sea, distant headland, neutral afternoon daylight, realistic soft materials, sage/cream muted palette, no oily orange cast. Pure environment with no people/animals/hands/text/logo/watermark.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/S06-original.json
+imports/meet-me-again-v4-approved-20261014/approval.json

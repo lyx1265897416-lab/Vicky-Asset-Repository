@@ -1,0 +1,23 @@
+﻿捡到的黑猫 · 院落／诊所／天台／异界门 · 纯环境修订
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：937 × 1679
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+生成一张完整的场景设定图板，画幅 936×1680。六格两列三行西雅图奇幻剧场景板：雨后救猫后院与空铁笼、公寓石阶外门、兽医诊所接待台、夜间天台长椅、客厅东墙通往黑石拱廊的异界门、数日后的同一后院。灰白砖石、绿灰接待台、低饱和蓝色夜空、真实空间尺度；克制的暖灯、细腻环境材质与轻微雨地反光，无人物主体，底部英文场景标注。
+纯环境，不出现人物、动物、鸟、鱼、手部或角色倒影。沙发为空；街道、车站、笼子和水域无任何角色；屏幕不显示人像，装饰画采用植物或抽象图案。
+
+原生ImageGen生成。提示词可复用，但不保证像素级复现。编辑图保留原版备份。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/empty-scenes-expansion-20260928/originals/fix-locations.png
+
+生成事件提示词
+Use case: precise-object-edit. Edit target is the attached scene board. Remove the black cat inside the cage in the top-left panel and any animal in any panel; reconstruct the empty cage naturally. Replace the clinic's animal silhouette artwork with a simple abstract leaf icon. Preserve all six locations, structure, camera, weather, lighting, panel layout and existing labels. Final image is strictly environment only: no human or animal anywhere, including pictures, screens, mirrors and distant corners. Do not introduce new objects or redesign the spaces.
+
+生成依据：
+imports/empty-scenes-expansion-20260928/events/fix-locations.json
+imports/empty-scenes-expansion-20260928/visual-review.json

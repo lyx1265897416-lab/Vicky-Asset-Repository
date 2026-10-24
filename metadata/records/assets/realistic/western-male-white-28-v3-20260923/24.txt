@@ -1,0 +1,27 @@
+﻿欧美男角色28组 · 第三版 · 24 · 红帽徒步 · 无手持物 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Use case: photorealistic-natural. Generate ONE newly designed fictional adult male, 22-26, for a 28-character casting library. IMPORTANT: build the NEW facial geometry explicitly specified below. Do not reproduce any of the reference photographs or previous generated portraits in the conversation. References are only conceptual inspiration for mood, hair category and wardrobe. These must be recognizably different people, not small face edits or clones. Retain attractive youthful natural charm without extreme fashion-model sculpting.
+Consistent art direction: genuinely photographic, natural matte skin with subtle pores and uneven coloring, modest facial asymmetry, natural unglossed lips, no oil sheen or wet hair, no waxy CGI skin, no beauty filter, no exaggeration or illustration. Neutral soft daylight studio illumination, restrained contrast and neutral color. Solid opaque clean WHITE backdrop. Normal believable anatomy.
+Composition: individual vertical 3:4 portrait, head completely inside frame with 6% clear headroom, mid-torso crop, 85mm eye-level portrait, face crisp, relaxed shoulders, arms naturally down. No hand near face, no handheld objects of ANY kind, no phone, helmet in hand, controller, stick, pole, drink, accessories held in hands. Wearable glasses / hats / headphones permitted ONLY if specified. No furniture, no environments, no text, numbers, branding, watermark or collage.
+CHARACTER 24: Sunny candid hiking companion. Brown curls under burgundy cap, muted green eyes. NEW face: broad oval cheeks, short thin brows, long straight nose, narrow mouth, sun freckles. Slate gray hiking jacket, plain burgundy cap.
+
+保存本张已确认成图的完整原始纯文生图提示词；随机生成不能保证同脸，需要身份一致时结合此确认图使用。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/western-male-white-28-v3-20260923/originals/24.png
+
+原始纯文生图提示词
+Use case: photorealistic-natural. Generate ONE newly designed fictional adult male, 22-26, for a 28-character casting library. IMPORTANT: build the NEW facial geometry explicitly specified below. Do not reproduce any of the reference photographs or previous generated portraits in the conversation. References are only conceptual inspiration for mood, hair category and wardrobe. These must be recognizably different people, not small face edits or clones. Retain attractive youthful natural charm without extreme fashion-model sculpting.
+Consistent art direction: genuinely photographic, natural matte skin with subtle pores and uneven coloring, modest facial asymmetry, natural unglossed lips, no oil sheen or wet hair, no waxy CGI skin, no beauty filter, no exaggeration or illustration. Neutral soft daylight studio illumination, restrained contrast and neutral color. Solid opaque clean WHITE backdrop. Normal believable anatomy.
+Composition: individual vertical 3:4 portrait, head completely inside frame with 6% clear headroom, mid-torso crop, 85mm eye-level portrait, face crisp, relaxed shoulders, arms naturally down. No hand near face, no handheld objects of ANY kind, no phone, helmet in hand, controller, stick, pole, drink, accessories held in hands. Wearable glasses / hats / headphones permitted ONLY if specified. No furniture, no environments, no text, numbers, branding, watermark or collage.
+CHARACTER 24: Sunny candid hiking companion. Brown curls under burgundy cap, muted green eyes. NEW face: broad oval cheeks, short thin brows, long straight nose, narrow mouth, sun freckles. Slate gray hiking jacket, plain burgundy cap.
+
+生成依据：
+metadata/evidence/western-male-white-28-v3-20260923/24.json

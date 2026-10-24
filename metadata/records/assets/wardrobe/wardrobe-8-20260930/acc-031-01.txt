@@ -1,0 +1,22 @@
+﻿服装8图 · 031 · 黑色长坠颈链 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. black choker with fine long hanging pendant cord
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装8图 · 图6 上排中
+
+原始生成提示词：
+Create one photorealistic wardrobe catalog product image. Pure white seamless background, soft neutral studio light, true fabric texture, portrait 2:3. No human, face, hair, skin, body parts, visible mannequin, stand or hanger. Entire object fully inside frame with generous margins. No added text, labels, watermark, border or scenery. Input image is a product design reference. From ONLY the outfit at 上排中, isolate exactly ONE accessory product (earrings or gloves may be a matched pair): black choker with fine long hanging pendant cord. Display the entire standalone object in a clear product-photo angle, centered, retain all straps, chains, ends and hardware with ample margins. No garment, person, hands or other accessory. No collage. Show one item only; for a matched pair show the pair together. Any reference occlusion: conservatively complete the same material and construction.
+
+生成依据：
+imports/wardrobe-8-20260930/events/acc-031-01.json
+imports/wardrobe-8-20260930/source-06.json

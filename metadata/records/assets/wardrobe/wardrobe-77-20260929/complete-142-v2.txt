@@ -1,0 +1,21 @@
+﻿服装77图 · 142 · 炭灰粗花呢短裙 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Charcoal cropped tweed jacket with rolled plaid cuffs, matching mini skirt over black inner top, black buckle knee boots.. Add ONLY these accessories: 银色链条项链. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户77张服装参考 · 75 right
+
+原始生成提示词：
+Edit this white-background outfit product image. Remove ONLY the duplicate separate silver necklace floating at the right side. Keep the necklace already worn on the black inner top unchanged, one necklace total. Preserve the jacket, rolled cuffs, mini skirt and boots exactly. Keep the empty outfit hollow with no body, no skin, no mannequin. Preserve portrait composition and white background. No new items.
+
+生成依据：
+imports/wardrobe-77-20260929/events/complete-142-v2.json

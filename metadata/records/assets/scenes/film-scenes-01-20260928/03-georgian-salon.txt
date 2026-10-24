@@ -1,0 +1,22 @@
+﻿电影场景第1批 · 03 · 薄荷白会客室
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: an English Georgian morning drawing room, ivory wall panels with a very pale mint inset, three tall windows diffusing cool-white spring daylight through cream sheers. Original restrained symmetrical composition with a petite cream upholstered settee at left and single warm brown carved chair at right, small oval tea table offset left holding simple pale porcelain, a closed letter placed beside a cup. Pale ash herringbone parquet, subtly patterned wool rug, small vase of white garden flowers, open double door at back showing a pale corridor. Keep center open, strong clean sightline, no paintings depicting beings. Research inspiration: Emma 2020's bright Georgian dollhouse color organization; soften to cream and barely mint, avoid candy saturation or excessive gold. Emotion: elegant anticipation before a delicate conversation.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/film-scenes-20260928/images/03-georgian-salon.png
+
+生成事件提示词
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: an English Georgian morning drawing room, ivory wall panels with a very pale mint inset, three tall windows diffusing cool-white spring daylight through cream sheers. Original restrained symmetrical composition with a petite cream upholstered settee at left and single warm brown carved chair at right, small oval tea table offset left holding simple pale porcelain, a closed letter placed beside a cup. Pale ash herringbone parquet, subtly patterned wool rug, small vase of white garden flowers, open double door at back showing a pale corridor. Keep center open, strong clean sightline, no paintings depicting beings. Research inspiration: Emma 2020's bright Georgian dollhouse color organization; soften to cream and barely mint, avoid candy saturation or excessive gold. Emotion: elegant anticipation before a delicate conversation.
+
+生成依据：
+imports/film-scenes-01-20260928/events/03.json
+previews/film-scenes-20260928/verification.json

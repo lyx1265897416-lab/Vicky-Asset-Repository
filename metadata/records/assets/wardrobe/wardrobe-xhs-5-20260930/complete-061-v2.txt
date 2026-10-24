@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 061 · 炭灰短T与灰色工装裤 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Washed charcoal relaxed short sleeve T-shirt, gray relaxed cargo trousers with thigh pockets, simple black shoes conservatively completed below crop.. Add ONLY these accessories: One silver round case wristwatch with black leather strap and a dark dial, full strap visible.. Use each accessory once. Neckties are tied with one knot and the narrow tail hidden; for sweater layers tuck the long tail under the sweater. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记3-图14 左
+
+原始生成提示词：
+Edit this exact product photo to remove unwanted additions. Remove the entire dark scarf and belt. Keep only the charcoal T-shirt, gray cargo trousers, black shoes and ONE black strap watch. Preserve all other cuts, colors, proportions and fabric detail. Empty hollow clothes, no skin or mannequin, white seamless background, full outfit uncropped. Do not add anything.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/complete-061-v2.json
+imports/wardrobe-xhs-5-20260930/source-03.json

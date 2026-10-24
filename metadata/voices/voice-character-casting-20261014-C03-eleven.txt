@@ -1,0 +1,52 @@
+﻿24岁女声 · 毒舌但记得你口味的店主 · Eleven v4
+项目：角色设定选角 · 2026-10-14
+角色：毒舌但记得你口味的店主
+年龄设计：24岁（角色目标）
+身份用途：日常
+音色标签：清亮利落，笑意藏在话尾
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-character-shortlist.json 中将 C03-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-character-casting-20261014/audio/C03-eleven.mp3
+试听/下载文件SHA256：0cc4e0f18ee28dd02df2ede01afb19a9a91ae4cf5a8dc79d474b7ea168281727
+原始音频（保留）：assets/voices/voice-character-casting-20261014/original/C03-eleven.mp3
+原始SHA256：0c150c6f4f470310dc05d39684d3d11a43dfd55f09ee6042d3749f44a9c65a3d
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-21.14 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-character-casting-20261014-C03-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.07秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：12.48秒
+
+试听台词：
+You're late. Your coffee's cold, your usual seat is taken, and I've decided to be offended. Relax. I made you a fresh one. It's behind the counter. You look like you've had a day.
+
+声音描述：
+性格：嘴快、敏锐、护短。场景：吐槽迟到的熟客，然后递出留好的咖啡。
+A witty cafe owner teasing a regular she cares about. Quick dry wit followed by genuine low-key concern. Let the final line slow slightly. Never a customer-service voice.
+固定预设 Bella 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+You're late. Your coffee's cold, your usual seat is taken, and I've decided to be offended. Relax. I made you a fresh one. It's behind the counter. You look like you've had a day.
+
+已有生成参数：
+{
+  "text": "[teasing] You're late. Your coffee's cold, your usual seat is taken, and I've decided to be offended. Relax. [warmly] I made you a fresh one. It's behind the counter. You look like you've had a day.",
+  "voice_id": "Bella",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Bella",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-character-casting-20261014/confirmation.json
+imports/voice-character-casting-20261014/jobs/C03-eleven.json
+imports/voice-character-casting-20261014/evidence/roles.json
+imports/voice-character-casting-20261014/evidence/qa.json
+imports/voice-character-casting-20261014/evidence/batch-plan.json

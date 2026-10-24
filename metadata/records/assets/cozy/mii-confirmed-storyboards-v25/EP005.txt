@@ -1,0 +1,38 @@
+﻿今天不要上班，咪养你 · 已确认分镜 · EP005 · 请这位客人认真吃饭
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-20
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-13
+
+文生图提示词：
+Create ONE finished photographic storyboard contact sheet, exactly FOUR columns by THREE rows of twelve equally sized portrait frames, read left to right and top to bottom. Overall portrait 3:4 canvas1086x1448, clean thin cream gutters and tiny panel numbers01-12 only. Every frame is a real warm natural lifestyle photograph, genuine fur and textiles, soft cream/ivory and pale oak surroundings, gentle daylight indoors and coherent warm evening light when specified. The same compact golden-orange shorthaired tabby kitten in every panel, very round plush cheeks, ivory muzzle/chin/chest, huge round dark-olive eyes and black pupils, tiny pink nose, fine white whiskers and delicate tabby stripes; real rounded feline paws, no extra limbs, human fingers on cat or floating tools. Home garment when indicated: tiny near-square cream linen chest bib nested between forelegs, blue fish pocket applique, bib width around half chest, bottom above belly with legs and belly fur exposed. Forelegs occlude bib side edges. Narrow curved neck loop and separate lower chest band with a tiny back knot and short ties; no crossed back harness. Exterior outfit A when specified: yellow short-sleeve tee, blue denim bib overalls, tan wooden buttons and red knitted bow. Outfit B: white sailor cap with plain navy band, pale-blue short-sleeve shirt with navy square sailor collar and two white stripes, white front buttons and plain navy cat trousers with a tail opening; no necktie or hat emblem. Small white pleated chef toque only in cooking scenes where indicated. Cleaning garment only where specified: plain pale-blue round-neck short smock with elastic sleeve cuffs, front opening, no pockets, navy sailor collar or layered home bib. Owner camera POV whenever described, only the explicitly needed zero to two anatomically connected hands with powder-blue white-piped pajama cuffs enter from camera-bottom; no visible owner face, hair, torso, reflection or detached third arm. In solo shopping, cooking and household chores no helping human hands; supermarket clerk is a separate adult NPC only in specified frames. One frozen action per frame, alternatives are separate frames, not repeated cats or mixed branch outcomes. English phone UI when indicated, no dialogue captions, story title, balloons or control buttons. The following Chinese shot directions are production instructions, never render them as captions. Preserve the depicted wardrobe and pose separately for each numbered frame.
+
+Panel01: 自己把午饭送上桌 — 主人坐定的第一视角，看咪独自把午餐从齐平台车送上桌。
+Panel02: 小猫喂主人第一口 — 咪的爪子持勺向镜头喂主人第一口；不是人手喂猫。
+Panel03: 等主人尝完 — 咪闭嘴等主人咀嚼吞下，勺子退回餐盘；这里先画A菜单，B菜单喂饭需保持对应意面。
+Panel04: 咪也吃自己的饭 — I06-A：咪摘帽后吃自己的猫粮，蓝鱼围裙仍在。
+Panel05: 小厨师照片 — I06-B：POV手机拍白厨师帽＋蓝鱼围裙；拍完自己摘帽再吃。
+Panel06: 让主人去休息 — 咪让主人回去休息：Go rest. I'll do the dishes.
+Panel07: 独自收桌 — 主人已离开，咪独自刮残渣、把盘碗收到小车。
+Panel08: 独自洗碗泡泡多 — 独自洗碗，洗洁精挤多一点就停；水槽支撑碗具。
+Panel09: 自己刷锅冲净 — 锅平放水槽内支撑，咪自己用海绵刷洗，不出现人手。
+Panel10: 放碗擦干台面 — 独自冲净、沥干归架、擦台面。
+Panel11: 玩具放回篮子 — 把蓝鱼玩具放回篮子，发现客厅也要收拾。
+Panel12: 推洗衣篮取扫把 — 独自推洗衣篮到洗衣角、拿短扫把，衔接大扫除。
+
+独立文生图提示词根据已确认成图及当前镜头索引整理；实际原图曾使用身份参考与局部返修，仅文字未验证近乎一致。原始生成提示词、真实生成日期和审图备注另行保留。
+
+
+来源：/Users/vicky/Interactive storyline/projects/mii-takes-care-of-you/导演制作-v2.5/images/EP005.png
+
+历史生图事件的实际提示词（可能依赖身份参考或原图编辑）
+Use case: precise-object-edit. Image 1 is the existing 12-frame storyboard EDIT TARGET; image 2 is the APPROVED kitten and short bib original; image 3 is the physical FRONT/SIDE/BACK bib construction reference. Return the complete same 4 columns x 3 rows storyboard, twelve numbered portrait panels 01-12, photographic warm domestic style, same compositions and plot except requested changes. Preserve kitten face, orange markings, real rounded paws, props, panel numbering and warm lighting.
+GLOBAL WARDROBE CORRECTION in EVERY visible bib: exact compact cream linen blue-fish CHEST BIB, not kitchen apron. Panel near-square, width about HALF chest width, height equal to width, nestled BETWEEN upper forelegs. Bottom ends above belly, leaving fluffy lower belly and all legs exposed. Never extend fabric when kitten stands, reclines, raises arms or wears chef hat. Pocket takes most of compact panel with ONE blue fish. No extra lower skirt, duplicate pocket, long bib or smock-like front. Forelegs overlap side edges realistically. Back construction exactly reference3: narrow curved neck loop AND separate lower ribcage band tied with small bow and short tails, orange fur between; NO X, diagonal back harness or neck bow. Side fastening subtle not a large blue strap. No humans except existing legitimate owner POV hands; never add owner's face, hair or body.
+Fix bibs throughout, especially tall exposed front fabric in06/08/09/10/12, same compact near-square SMALL chest bib. Keep short chefhat01-03/05 only; own catfood04, kitty feeding viewer02, phone photo05 must blue fish CHEST BIB + same chefhat, 'go rest'06, solo dishes07-12. Keep owner POV two hands phone05 only, no other owner added. All plot/compositions unchanged.
+
+生成依据：
+imports/mii-confirmed-storyboards-20261013/events/EP005.json
+imports/mii-confirmed-storyboards-20261013/confirmation.json
+imports/mii-confirmed-storyboards-20261013/snapshot/jobs.json

@@ -1,0 +1,36 @@
+﻿今天不要上班，咪养你 · 已确认分镜 · EP003 · 一只猫的采购清单
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-18
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-13
+
+文生图提示词：
+Create ONE finished photographic storyboard contact sheet, exactly FOUR columns by THREE rows of twelve equally sized portrait frames, read left to right and top to bottom. Overall portrait 3:4 canvas1086x1448, clean thin cream gutters and tiny panel numbers01-12 only. Every frame is a real warm natural lifestyle photograph, genuine fur and textiles, soft cream/ivory and pale oak surroundings, gentle daylight indoors and coherent warm evening light when specified. The same compact golden-orange shorthaired tabby kitten in every panel, very round plush cheeks, ivory muzzle/chin/chest, huge round dark-olive eyes and black pupils, tiny pink nose, fine white whiskers and delicate tabby stripes; real rounded feline paws, no extra limbs, human fingers on cat or floating tools. Home garment when indicated: tiny near-square cream linen chest bib nested between forelegs, blue fish pocket applique, bib width around half chest, bottom above belly with legs and belly fur exposed. Forelegs occlude bib side edges. Narrow curved neck loop and separate lower chest band with a tiny back knot and short ties; no crossed back harness. Exterior outfit A when specified: yellow short-sleeve tee, blue denim bib overalls, tan wooden buttons and red knitted bow. Outfit B: white sailor cap with plain navy band, pale-blue short-sleeve shirt with navy square sailor collar and two white stripes, white front buttons and plain navy cat trousers with a tail opening; no necktie or hat emblem. Small white pleated chef toque only in cooking scenes where indicated. Cleaning garment only where specified: plain pale-blue round-neck short smock with elastic sleeve cuffs, front opening, no pockets, navy sailor collar or layered home bib. Owner camera POV whenever described, only the explicitly needed zero to two anatomically connected hands with powder-blue white-piped pajama cuffs enter from camera-bottom; no visible owner face, hair, torso, reflection or detached third arm. In solo shopping, cooking and household chores no helping human hands; supermarket clerk is a separate adult NPC only in specified frames. One frozen action per frame, alternatives are separate frames, not repeated cats or mixed branch outcomes. English phone UI when indicated, no dialogue captions, story title, balloons or control buttons. The following Chinese shot directions are production instructions, never render them as captions. Preserve the depicted wardrobe and pose separately for each numbered frame.
+
+Panel01: 搓不开袋子 — 袋口终于分开，脑袋凑近后退出，把袋撑到车里。 Composition: Cream-vest kitten at low produce stand, two real round paws pinching a flat translucent produce bag, small trolley beside it.
+Panel02: 挑番茄 — 翻面检查，把碰软的换成完整的；留晚餐那份。 Composition: Kitten holding a tomato over low produce tray, one bruised tomato left aside, fresh leafy greens visible.
+Panel03: 拿错罐头 — 发现不同，把豆罐归位，拿番茄罐。 Composition: Kitten facing low canned-food shelf, holding a bean can while comparing tomato-can icon on notebook.
+Panel04: 给主人拍照 — 发送水果照片，此时两种都未购买。 Composition: Kitten phone camera poised above two separate fruit cartons, strawberries and blueberries, both on low display; paw tips at lower edge.
+Panel05: 家中回复 — 后期合成双语/英语界面，选择一次即回复。 Composition: Owner POV holding phone above novel and cream sofa blanket, phone shows fruit photo but no legible UI text.
+Panel06: 轻放草莓 — 选中水果入车，不把未选水果也带回家。 Composition: Cream-vest kitten placing one strawberry carton on top of shopping trolley, blueberry carton remains on store shelf.
+Panel07: 检查蓝莓盖 — 换扣紧的那盒，放上车。 Composition: Kitten beside blueberry cartons, one loose lid on display and one tightly closed carton in paws.
+Panel08: 店员递下猫粮 — A套咪抬头求助；栗棕低盘发的中年女店员，奶油衬衫鼠尾草绿围裙，从高处取小袋猫粮递到低处。 Composition: Tiny kitten under tall dry-food shelf, shop assistant forearm reaching toward small cat-food pouch, kitten safely on floor.
+Panel09: 检查鸡蛋 — 检查后合盖，鸡蛋放上层；B路改冷藏奶酪入保冷袋。 Composition: Kitten opens six-egg carton at accessible shelf, intact eggs clearly nested; produce under trolley top basket.
+Panel10: 手机举反再支付 — 同一店员在收银台指读卡区，A套咪在稳固矮踏台上翻正手机。 Composition: Kitten at low checkout ledge holding phone with screen toward itself, payment reader beyond phone, cashier pointing gently.
+Panel11: 小猫长收据 — 收据收好，重物在底，果蛋在上，拿自带袋装。 Composition: Kitten holds end of long white receipt down its chest, reusable tote open on low checkout, produce supported.
+Panel12: 到家卡门垫 — 咪倒退一点摆正轮子，再进门交水果。 Composition: Kitten just inside home with trolley wheel caught on curled doormat, owner blue sleeve reaching toward purchased fruit.
+
+独立文生图提示词根据已确认成图及当前镜头索引整理；实际原图曾使用身份参考与局部返修，仅文字未验证近乎一致。原始生成提示词、真实生成日期和审图备注另行保留。
+
+
+来源：/Users/vicky/Interactive storyline/projects/mii-takes-care-of-you/导演制作-v2.5/images/EP003.png
+
+历史生图事件的实际提示词（可能依赖身份参考或原图编辑）
+Edit this existing storyboard contact sheet to correct ONLY the following continuity errors. Preserve 4columns x3rows =12frames, photographic warmth, orange cat identity and all unaffected actions. No additional panels, no split cells. Keep12equalpanels, no panel subdivision. Panel05 replace entire scene with owner POV closeup powderblue sleeves holding phone at HOME sofa, phone shows side-by-side strawberry and blueberry photo and small neutral reply text 'Which fruit?' ONLY, remove Buy both / Get both, no answer committing both. Panel09 remove inset and cream-cheese alternative: ONE unsplit portrait frame of redbow cat inspecting a small egg carton, fresh tomato and greens in trolley. Panel04 phone sits physically against trolleyhandle for photographing two fruitboxes still on shelf, not in purchased cart. Preserve cat costume redbow/yellowT/overalls and middleaged brunette greenapron clerk.
+
+生成依据：
+imports/mii-confirmed-storyboards-20261013/events/EP003.json
+imports/mii-confirmed-storyboards-20261013/confirmation.json
+imports/mii-confirmed-storyboards-20261013/snapshot/jobs.json

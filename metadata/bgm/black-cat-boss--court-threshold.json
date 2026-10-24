@@ -1,0 +1,56 @@
+{
+  "id": "black-cat-boss--court-threshold",
+  "asset_kind": "bgm",
+  "name": "王庭门槛",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [],
+  "tags": [
+    "抉择",
+    "轻悬念"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original low-key fantasy relationship drama underscore, 70 bpm soft low strings, sparse piano, delicate glass harmonics, light suspense about a difficult personal choice rather than action battle. Keep intimate, matte and grounded, no trailer hits, no pounding drums, no choir. 90 seconds slow gradual tension and tender ambiguity, soft ending. Instrumental only no voice.",
+    "music_length_ms": 90000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original low-key fantasy relationship drama underscore, 70 bpm soft low strings, sparse piano, delicate glass harmonics, light suspense about a difficult personal choice rather than action battle. Keep intimate, matte and grounded, no trailer hits, no pounding drums, no choir. 90 seconds slow gradual tension and tender ambiguity, soft ending. Instrumental only no voice.",
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--court-threshold/concepts/black-cat-boss/production-v5/music-jobs/court-threshold.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--court-threshold/concepts/black-cat-boss/production-v5/produce_music.py"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--court-threshold",
+      "key": "court-threshold",
+      "family": "black-cat-boss",
+      "name": "王庭门槛",
+      "tags": [
+        "抉择",
+        "轻悬念"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "concepts/black-cat-boss/production-v5/music/court-threshold.mp3",
+      "sources": [
+        "concepts/black-cat-boss/production-v5/music/court-threshold.mp3"
+      ],
+      "sha256": "8e6993a30ab2a2cbc751a2c18060a0b7add90d5db56f69704f5c4f6028ca2f7c",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "8e6993a30ab2a2cb",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--court-threshold/8e6993a30ab2a2cb.mp3",
+      "bytes": 2160621
+    }
+  ],
+  "default_variant": "8e6993a30ab2a2cb",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

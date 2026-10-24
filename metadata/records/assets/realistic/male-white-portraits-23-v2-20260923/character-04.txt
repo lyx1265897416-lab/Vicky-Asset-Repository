@@ -1,0 +1,22 @@
+﻿男角色23组 · 第二版 · 04 · 清冷文艺 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Use case: photorealistic-natural. Generate ONE completely new fictional adult male character from this written casting brief. This is an original casting design, not an edit and not a recreation of any prior photographed person. Face anatomy and proportions must follow the NEW facial design below. Retain the subtle personality of the archetype without defaulting to a generic handsome actor face. Highly realistic portrait with genuine everyday individuality, natural asymmetry, pores and fine vellus hair, no beauty filter. Bright soft frontal studio light, generous fill, low shadows, subtle restrained optical halation, realistic 50mm perspective, shallow depth of field but both eyes sharply focused. Solid pure white #FFFFFF seamless background across entire frame, no gradient, no scene, no props. Vertical 2:3 composition, complete head with white breathing room above hair, entire shoulders and arms included horizontally, half-body down to waist, upright head and torso facing camera, direct eye contact, arms relaxed. Natural clothing texture. No text, no logo, no watermark, no collage. Output one independent full-resolution photograph. Casting brief: A 24-year-old fair-skinned man with airy floppy dark-brown hair, pale stone-gray tee, thoughtful gentle presence, slim build. NEW facial design: softly rectangular face with a wider lower jaw, muted blue eyes with rounded lower eyelids, light sparse eyebrows, a small slightly upturned nose, wider mouth with a pronounced Cupid's bow and subtle smile, a few natural cheek freckles. Distinct natural individual.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/male-white-portraits-23-v2-20260923/originals/character-04.png
+
+原始文生图提示词（无参考图输入）
+Use case: photorealistic-natural. Generate ONE completely new fictional adult male character from this written casting brief. This is an original casting design, not an edit and not a recreation of any prior photographed person. Face anatomy and proportions must follow the NEW facial design below. Retain the subtle personality of the archetype without defaulting to a generic handsome actor face. Highly realistic portrait with genuine everyday individuality, natural asymmetry, pores and fine vellus hair, no beauty filter. Bright soft frontal studio light, generous fill, low shadows, subtle restrained optical halation, realistic 50mm perspective, shallow depth of field but both eyes sharply focused. Solid pure white #FFFFFF seamless background across entire frame, no gradient, no scene, no props. Vertical 2:3 composition, complete head with white breathing room above hair, entire shoulders and arms included horizontally, half-body down to waist, upright head and torso facing camera, direct eye contact, arms relaxed. Natural clothing texture. No text, no logo, no watermark, no collage. Output one independent full-resolution photograph. Casting brief: A 24-year-old fair-skinned man with airy floppy dark-brown hair, pale stone-gray tee, thoughtful gentle presence, slim build. NEW facial design: softly rectangular face with a wider lower jaw, muted blue eyes with rounded lower eyelids, light sparse eyebrows, a small slightly upturned nose, wider mouth with a pronounced Cupid's bow and subtle smile, a few natural cheek freckles. Distinct natural individual.
+
+生成依据：
+metadata/evidence/exec-8232fdbc-dbb5-4753-8952-7a1b48e8b932.json
+metadata/evidence/male-original-prompts.json

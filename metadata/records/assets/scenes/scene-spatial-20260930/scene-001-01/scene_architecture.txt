@@ -1,0 +1,22 @@
+﻿公寓 · 建筑图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1938 × 812
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Create an environment-only 公寓 · 建筑图. One single-storey cream and warm wood apartment. Northwest narrow sage galley kitchen, central living dining room with blue grey sofa against east wall and television on west wall, dining by north skyline window; bedroom east with bedhead east; entry hall south linking all rooms via open passages including west kitchen vestibule. Three north windows with cream curtains and radiators. Compact bath southeast. Views retain this coherent layout and relative scale. No humans, animals, fabricated dimensions or slogans.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-001-01--scene_architecture.png
+
+参考图辅助生成事件提示词
+Create ONE strict flat architectural interior elevation of the NORTH WINDOW WALL of the one-storey apartment in this plan. Only draw what faces SOUTH on that NORTH wall: three adjacent wall bays left kitchen, middle living/dining, right bedroom, each with its window, radiator and curtain, matching widths on plan. One horizontal continuous baseline, one horizontal ceiling line, ALL on the SAME floor level. Orthographic line drawing with restrained cream/wood/sage colour wash. Do NOT show any perspective, room depth, furniture side walls, entry corridor, bathroom, second floor, stacked rooms, dollhouse or floorplan. Windows must all face viewer straight on. Main heading NORTH WALL ELEVATION. Width proportions from plan, no metric dimensions. No humans, no other panels. The purpose is an honest architectural elevation of exactly one wall, not a decorative cutaway montage.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-001-01--scene_architecture.json
+previews/scene-spatial-20260930/visual-review.json

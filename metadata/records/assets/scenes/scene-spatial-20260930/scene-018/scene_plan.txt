@@ -1,0 +1,38 @@
+﻿冬日治愈 · 雪山木屋 · 纯环境 · 户型图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 冬日治愈 · 雪山木屋 · 纯环境.
+Environment: An empty alpine cabin reading nook, warm pale wood, off-white wool sofa and knit throw, understated stone fireplace, broad window facing clean snow and muted fir trees, bright winter morning with warm interior reflected fill. Soft blue-gray exterior, balanced cream warm-brown interior, quiet intimate romantic mood. Original cinematic location photography for an intimate romance story. Vicky's aesthetic: bright high-key but retained highlight texture; cream white, pale gray, warm natural brown with restrained muted accent color; soft broad frontal/window fill, gentle low-contrast shadows; tactile plaster, wood, linen, glass and stone; very subtle film halation and grain, clean luminous air. Lived-in details without clutter, beautiful but plausible real location rather than showroom CGI. 35-50mm natural perspective, midground environment clearly legible with gently softer far depth. Strictly environment only: absolutely no people, bodies, faces, hands, silhouettes, distant pedestrians, reflections of people, animals, birds, fish, pets, mannequins, humanoid statues, character artwork or human figures on screens. No watermark, branding or captions. Keep clear usable space for later character compositing. Natural proportions, believable architecture, no fisheye, no excessive HDR, no greasy shine, no orange color cast.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic overhead CONCEPT PLAN. Depict footprint, connected zones, wall thickness, doors, windows, stairs, furniture footprints and circulation. For outdoors use a site plan of paths, terrain, bridges and water instead of domestic rooms. North is only design orientation. Compact labels; no invented metric dimensions. Flat diagram on white background.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-018--scene_plan.png
+
+参考图辅助生成事件提示词
+Use case: infographic-diagram / spatial production design.
+Asset: Vicky environment library, scene-018, 冬日治愈 · 雪山木屋 · 纯环境, 户型图. Generate one finished independent image, landscape 1536x1024 or larger.
+Input image 1 is the existing environment identity reference. Entire image depicts this one location.
+Any additional reference is the same scene's concept floor/site plan and is the geometric source of truth. Keep its footprint, entrances, openings, adjacencies, landmark arrangement and orientation fixed.
+Request: One clean orthographic overhead floor plan or outdoor site plan, not a perspective view. Show the whole coherent spatial footprint: wall thickness, doors and swing arcs, windows, stairs, furniture footprints, connected zones, entrances and circulation. For landscape/city locations show terrain, paths, water edges, bridges and building footprints instead of inventing a generic house. Top of sheet is NORTH (design orientation, not measured geography). Discreet zone names and numbered landmark keys A B C D, scale relationships readable but NO fabricated metric dimensions. Label as CONCEPT PLAN. Use solid outlines for source-evidenced elements and dashed outlines for newly inferred unseen boundaries. One plan large on page, compact legend, no decorative thumbnails.
+Maintain the architecture, distinctive objects, material vocabulary and visual character of the original. Do not reuse the reference board as the output. Rationally extrapolate only unseen geometry; it is a coherent concept reconstruction for story staging, not surveyed construction documentation. Use one internally consistent space, not a collage of unrelated rooms. Walls meet logically, doors connect traversable spaces, no blocked entrances or impossible staircases. NO people, NO characters, NO animals, NO silhouettes, NO human figures in reflections or posters, NO logos/watermarks. Small legible English labels only where useful. Avoid busy ornament, repeated generic layouts and unexplained disconnected rooms.
+Original design context (use only details compatible with target reference panel): Use case: photorealistic-natural
+Asset: pure environment scene for Vicky scene library.
+An empty alpine cabin reading nook, warm pale wood, off-white wool sofa and knit throw, understated stone fireplace, broad window facing clean snow and muted fir trees, bright winter morning with warm interior reflected fill. Soft blue-gray exterior, balanced cream warm-brown interior, quiet intimate romantic mood.
+Original cinematic location photography for an intimate romance story. Vicky's aesthetic: bright high-key but retained highlight texture; cream white, pale gray, warm natural brown with restrained muted accent color; soft broad frontal/window fill, gentle low-contrast shadows; tactile plaster, wood, linen, glass and stone; very subtle film halation and grain, clean luminous air. Lived-in details without clutter, beautiful but plausible real location rather than showroom CGI. 35-50mm natural perspective, midground environment clearly legible with gently softer far depth. Single full-bleed landscape 1536x1024 image, not a grid.
+Strictly environment only: absolutely no people, bodies, faces, hands, silhouettes, distant pedestrians, reflections of people, animals, birds, fish, pets, mannequins, humanoid statues, character artwork or human figures on screens. No watermark, branding or captions. Keep clear usable space for later character compositing. Natural proportions, believable architecture, no fisheye, no excessive HDR, no greasy shine, no orange color cast.
+
+MANDATORY DRAWING STYLE: TRUE flat BLACK-LINE 2D architectural CAD plan on WHITE paper with pale warm grey zone fills. NO 3D walls, no visible door/front faces, no photoreal rendering, no material textures, no raised birdseye diorama. Every object is a simple horizontal footprint. Walls are cut in plan, door swings as arcs, north arrow. Absolutely no fake scale bar or dimensional values.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-018--scene_plan.json
+previews/scene-spatial-20260930/visual-review.json

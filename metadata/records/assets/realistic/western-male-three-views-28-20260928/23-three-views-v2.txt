@@ -1,0 +1,21 @@
+﻿欧美男角色28组 · 特写三视图 · 23 · 连帽卫衣 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1881 × 836
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create a photorealistic fictional adult male head-and-shoulders turnaround on a solid pure white background, landscape approximately 9:4. Three equally sized portraits of one identical person in a horizontal row: left strictly frontal and looking at camera, center exact 90-degree profile facing image-right, right exact 180-degree rear view with no face visible. Complete head and hairstyle visible, upright head, aligned crown and ear heights, matched anatomical scale and neutral eye-level camera, shoulders level. Natural taller oval posterior cranium, rounded crown and full occipital volume, coherent layered hair with natural taper into the upper nape; no flattened skull, bowl-shaped wig or excessive neck exposure. Soft even neutral studio light, realistic skin microtexture, dry detailed hair and matte natural complexion. No oily shine, CGI, beauty filter, text, labels, borders, hands or handheld objects. Character appearance and clothing: Gentle shy approachable mood. Straight medium brown fringe, brown eyes. Facial features: rounded face, delicate low brows, widely spaced eyes, short rounded nose, larger upper lip, soft jaw. Taupe hoodie with hood up. Hood is worn up, fully covering the back of the head and hair, with a naturally oval cranial volume beneath the fabric.
+
+依据确认的最终三视图及角色描述整理独立文生图提示词，未做纯文字重生成相似度验证；同脸复现需结合确认成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/western-male-three-views-28-20260928/originals/23-three-views-v2.png
+
+原始图生图编辑提示词
+Use case: identity-preserve. Edit attached 1881x836 photographic triptych, same 9:4 composition and white background. Preserve LEFT front and CENTER side portraits exactly as possible, same man and taupe hoodie worn hood UP. Correct RIGHT rear view only: the hood-covered cranium must have naturally taller adult oval proportions consistent with the front and profile. Gently narrow lateral bulge 5% and give clearer vertical occipital fullness, more natural head-to-neck taper and realistic cloth folds around the nape. Keep crown aligned to other views and shoulders level. Hood remains UP completely covering rear hair; do not expose hair through cloth, do not remove hood or add face. Avoid a flattened or spherical head. Matte photorealistic cloth and skin, neutral studio light, no props/text, full three-panel triptych.
+
+生成依据：
+metadata/evidence/western-male-three-views-28-20260928/23.json

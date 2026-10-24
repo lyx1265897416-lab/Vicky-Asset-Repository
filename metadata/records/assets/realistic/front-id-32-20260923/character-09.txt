@@ -1,0 +1,25 @@
+﻿白底女角色32组 · 正面平视 · 09 · 侧分黑卷发黑背心
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one highly realistic photographic portrait of an original fictional adult woman. Straight-on front view, eye-level camera, head upright and shoulders level, direct gaze and relaxed closed lips. Centered head-and-shoulders ID-photo composition with full hair visible and a comfortable white margin above it; crop at upper chest. Pure white seamless background #FFFFFF. Bright soft frontal studio lighting, low shadows, natural skin pores and fine hair strands, subtle halation, realistic 50mm lens perspective, gently shallow depth of field with both eyes and face sharp. No text, labels, borders, watermark, scenery, props, hands, glamour retouching or plastic skin. Portrait canvas 1086 by 1448 pixels, exact 3:4 ratio. Long voluminous near-black waves swept to one side, warm light-medium complexion, softly sculpted cheekbones, almond dark brown eyes, arched brows, calm closed-lip expression, black scoop-neck tank top.
+
+独立提示词按已确认成图整理，未进行重新生成相似度验证；严格保持身份时请同时使用已确认图片作为参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/front-id-32-20260923/originals/character-09.png
+
+原始参考图编辑提示词
+Use case: identity-preserve. EDIT the supplied existing fictional character portrait into a standardized ID-photo-composition head-and-shoulders portrait of THE EXACT SAME CHARACTER. Preserve her individual facial identity and proportions, apparent age, natural complexion, hairstyle and hair color, original clothing and identifying accessories. Do not invent another woman or beautify/change facial features.
+Output: exactly 1152 pixels wide by 1536 pixels tall, aspect ratio 3:4, portrait. A SINGLE photograph, no border.
+Strict camera and pose: camera exactly at eye level, optical axis horizontal; head perfectly upright with zero sideways tilt, zero yaw, zero pitch. Face square-on to camera, both eyes same height, nose centered, gaze directly into lens. Both shoulders straight, level and square to camera. Natural neutral relaxed lips closed, no broad smile. NOT a selfie, not high angle, not low angle, not three-quarter.
+Uniform ID framing: full head including top of hair visible, hair top at 8% image height; chin around 66% image height; eye line around 39% image height. Crop lower frame at upper chest, include neck and both shoulders; NO waist, hands, arms posing. Center face precisely on vertical midline. Keep individual hairstyle, with loose hair naturally outside cheeks so facial features clearly visible.
+Pure white seamless background #FFFFFF. High-realism photography, bright soft frontal studio light, low shadows, balanced natural skin tone, visible natural skin texture, subtle halation, 50mm lens look with both eyes and face crisply focused. Preserve real human detail, no plastic smoothing. No typography, numbering, watermark, scenery, or props. The original character is an identity reference, not a pose/composition reference.
+
+生成依据：
+metadata/evidence/front-id-32-20260923/09.json

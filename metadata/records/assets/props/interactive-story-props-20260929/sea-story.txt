@@ -1,0 +1,22 @@
+﻿人鱼王子的假新娘 · 呼吸坠与通行证等剧情道具
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-20
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+生成一张完整道具素材图，尺寸1536×1024。三列两行珍珠白淡蓝背景奇幻3D道具设计板。银丝包裹青绿呼吸吊坠及三灯和一灯能量状态；SKY和MIL珍珠访客卡正反面；黑无反相机前后及蓝线背带；黑皮单肩包和内卡袋；银贝壳书架上双掌印誓约书；紫蜡封召令和银月星信物。精细银器雕花、皮革纹理、纸张和透明宝石，柔和明亮环境光，每格英文名称，多角度细节。保持物品主体完整、结构比例可信，克制高光，精细材质，避免添加无关物品。
+
+按现有图像重建独立提示词，未做重新生成或相似度验证；本次复制原PNG，像素和构图不变。版本：现行资产图板
+
+
+来源：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/images/PROP-story.png
+
+生成事件原始提示词
+Create a high-end 3D otome fantasy game PROP DESIGN sheet, no characters, pale cool-gray background, elegant readable 2 by 3 panel grid. Six clearly isolated objects each with large hero view and small reverse inset when appropriate, no visual overcrowding. Panel1 BREATH PENDANT: Skye's magic breathing device deliberately DIFFERENT from Rian's blue teardrop jewelry: small oval sea-green glass locket in silver oval cage, three luminous green charge dots along lower rim, dark practical cord, show charged with 3 dots vs depleted with 1. Panel2 VISITOR PASSES: TWO ivory palm-size rectangular cards engraved small blue crescent, thin rounded silver rim; one card marked SKY and other MIL, front and reverse shown, no jewelry chain. Panel3 CAMERA: contemporary matte charcoal mirrorless camera with wide black neck strap and small oceanblue strap stitch, realistic shutter button and rear LCD, no brand. Panel4 SHOULDER BAG: black small rectangular leather shoulder bag, silver buckle, short strap and inside card sleeve, side view partly open with ivory pass inside. Panel5 OATH SEAL: open pearlescent ceremonial register on flat silver shell stand, two unlit handprint circles plus two distinct blank name spaces, deliberate formal agreement device not wearable magical bondage, no rings. Panel6 SUMMONS: ivory folded letter with plum wax moon seal and slender silver fleet insignia pin alongside. Fine dimensional materials in same white pearlstone and blue/lavender romance world. English labels only, no other text.
+
+生成依据：
+imports/interactive-story-props-20260929/evidence/sea-story.json
+imports/interactive-story-props-20260929/approval.json

@@ -1,0 +1,42 @@
+Vicky 角色库 · 商用现成音色批次 2026-09-29
+
+范围：仅适用于本批带 commercial_license 字段的音色，不替旧有音色补授许可。
+
+1. Kokoro-82M / Kokoro-82M-v1.1-zh
+发布者：hexgrad；模型训练者 @rzvzn。
+模型与预设来源：
+https://huggingface.co/hexgrad/Kokoro-82M
+https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh
+官方音色目录：https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
+许可：Apache License 2.0；完整文本随本批归档 research/kokoro-license.txt。
+官方模型页明确允许商业部署。本批使用原版固定预设和本项目编写的通用台词，在本地生成试听；不是下载他人影视台词或克隆角色演员。
+原版模型和预设未修改；试听文件做了开头静音清理、单声道转换及响度规范化。
+再分发模型、预设或其衍生版本时，保留 Apache 2.0 许可证、版权/归属通知及适用 NOTICE；修改文件须标示修改。商标不在授权范围内。
+
+训练数据署名保留（不将训练数据许可误标成全部合成音频的额外许可）：
+Kokoro v1.0 的官方模型卡列出：
+- Koniwa tnc，CC BY 3.0：https://github.com/koniwa/koniwa
+  许可：https://creativecommons.org/licenses/by/3.0/
+  jf_gongitsune：https://github.com/koniwa/koniwa/blob/master/source/tnc/tnc__gongitsune.txt
+  jf_tebukuro：https://github.com/koniwa/koniwa/blob/master/source/tnc/tnc__tebukurowokaini.txt
+- SIWIS French Speech Synthesis Database，CC BY 4.0：
+  https://datashare.ed.ac.uk/handle/10283/2353
+  许可：https://creativecommons.org/licenses/by/4.0/
+中文 v1.1 的官方模型卡感谢 LongMaoData 提供获许可的专业中文数据：
+https://www.longmaosoft.com/
+本批仅选择该版本中文预设，不使用其 Maple / Sol / Vale 英文预设。
+
+2. Qwen3-TTS-12Hz-1.7B-CustomVoice
+发布者：Qwen Team / Alibaba。
+来源：https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice
+代码和音色说明：https://github.com/QwenLM/Qwen3-TTS
+许可：Apache License 2.0；完整文本随本批归档 research/qwen-license.txt。
+本批从官方 Qwen 演示的 CustomVoice 模式生成固定预设 Serena、Vivian、Uncle_fu 的原创通用台词试听，保留请求和响应收据；未上传用户参考声音、未克隆第三方。
+可使用开源模型在本地继续生成；公开演示服务的容量、持续可用性和第三方收费接口不由该许可保证。
+再分发模型/代码时保留许可证和归属通知，标示修改；商标不在授权范围内。
+
+3. 复用
+每条卡片的音色记录含模型、固定预设 ID、生成参数、原始/处理后音频散列及来源收据。
+Kokoro 模型与预设已归档在 voice-models/kokoro，可用 generate_stock_voice.py 生成新台词。
+本批不是名人/演员授权包；许可信息不表示真人为产品代言。
+商用判断基于截至 2026-09-29 的官方许可及模型声明。音色是否适合角色需要按具体台词试听；多语种发音未由母语者逐条审听。

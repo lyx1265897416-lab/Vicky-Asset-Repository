@@ -1,0 +1,21 @@
+﻿男角色第二版 04 · 清冷文艺 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic studio character asset. A 24-year-old fair-skinned man with airy floppy dark-brown hair, pale stone-gray tee, thoughtful gentle presence, slim build. Facial features: softly rectangular face with a wider lower jaw, muted blue eyes with rounded lower eyelids, light sparse eyebrows, a small slightly upturned nose, wider mouth with a pronounced Cupid's bow and subtle smile, a few natural cheek freckles. Distinct natural individual. Exact3x3 grid with nine equal head-and-shoulder portraits of the SAME man, complete hair with margin in every panel. Front-facing level camera and upright head. Nine distinct natural expressions in row order: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyed frown, skeptical eyebrow, wry amused smile. Keep facial anatomy, hair and eye color consistent, thin white gutters, no extra cells.  Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton and knit texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve ordinary adult individuality rather than model beautification.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-04--expression_grid.json
+
+实际带参考图生成提示词
+Use reference to preserve exact same adult man, facial structure, haircut, age, skin details and clothes. Photorealistic studio character asset. A 24-year-old fair-skinned man with airy floppy dark-brown hair, pale stone-gray tee, thoughtful gentle presence, slim build. Facial features: softly rectangular face with a wider lower jaw, muted blue eyes with rounded lower eyelids, light sparse eyebrows, a small slightly upturned nose, wider mouth with a pronounced Cupid's bow and subtle smile, a few natural cheek freckles. Distinct natural individual. Exact3x3 grid with nine equal head-and-shoulder portraits of the SAME man, complete hair with margin in every panel. Front-facing level camera and upright head. Nine distinct natural expressions in row order: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyed frown, skeptical eyebrow, wry amused smile. Keep facial anatomy, hair and eye color consistent, thin white gutters, no extra cells.  Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton and knit texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve ordinary adult individuality rather than model beautification.
+
+生成依据：
+imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-04--expression_grid.json

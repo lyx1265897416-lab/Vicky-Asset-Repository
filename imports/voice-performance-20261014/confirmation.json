@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-14T04:27:47.709385+00:00",
+  "user_message": "将我选择的加入音色库",
+  "selection": "user-shortlist.json",
+  "selected": [
+    "P07-eleven",
+    "P07-gemini",
+    "P08-eleven",
+    "P08-gemini",
+    "P10-eleven",
+    "P10-gemini",
+    "P11-eleven",
+    "P12-eleven",
+    "P12-gemini"
+  ],
+  "not_imported": [
+    "P07-minimax",
+    "P07-qwen",
+    "P08-minimax",
+    "P08-qwen",
+    "P09-eleven",
+    "P09-gemini",
+    "P09-minimax",
+    "P09-qwen",
+    "P10-minimax",
+    "P10-qwen"
+  ],
+  "note": "仅导入附件中 decision=keep 的九条；保留用户试听版本的原始字节和完整表演节奏。"
+}

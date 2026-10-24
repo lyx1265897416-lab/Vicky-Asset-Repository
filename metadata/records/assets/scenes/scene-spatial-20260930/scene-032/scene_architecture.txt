@@ -1,0 +1,26 @@
+﻿电影场景第2批 · 04 · 壁炉旁的阅读角 · 建筑图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 电影场景第2批 · 04 · 壁炉旁的阅读角.
+Environment:  A small English cottage reading alcove, wide low window looking onto snow, cream plaster and irregular light stone, worn exposed oak ceiling beam. An unlit small stone hearth, stacked firewood, deep cream linen armchair at left with a rumpled knitted throw, old wood bookcase and round tea table with one mug and open book with unrecognizable marks. Daylight is the dominant luminous illumination, not dark firelight. Camera from adjoining room, open central area, soft fabric texture. Intimate, comfortably lived in, not magazine-perfect.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic architectural elevation or cut section of the principal facade / interior wall. Show openings, vertical structure, floor levels, stair and roof relationships where visible. Readable architectural profile with restrained white margin and a short elevation title.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-032--scene_architecture.png
+
+参考图辅助生成事件提示词
+Create one spatial reference image for 电影场景第2批 · 04 · 壁炉旁的阅读角. Image1 is exact visual style and scene identity reference. Image2 is the spatial layout authority. Preserve same single location, all door/window/landmark/furniture relationships. Unseen sides may be reconstructed conservatively. One flat architectural orthographic main facade elevation or interior principal wall elevation. Show openings, structural bays, vertical proportions, ceiling profile and material detail. No perspective montage, no furniture moved against the elevation. White page, title INTERIOR ELEVATION or FRONT ELEVATION. No people, animals, human pictures or silhouettes. No invented numbers/dimensions. Preserve original materials, palette and lighting. No added rooms or unrelated locations.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-032--scene_architecture.json
+previews/scene-spatial-20260930/visual-review.json

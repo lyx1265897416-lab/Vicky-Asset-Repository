@@ -1,0 +1,21 @@
+﻿01 · 月玉·仙灵 · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Adult female serene lunar archivist aged 24. Soft diamond oval face, long almond gray-green eyes, small straight nose, rose lips, porcelain pink skin. Long ink-brown half-up braided crown, pale jade flower and crescent comb with pearls on her right, jade silver flower drop earrings. Ivory silk fantasy gown with high open collar, silver botanical embroidery, jade clasps, delicate translucent cape sleeves. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Six evenly sized head-and-shoulders portraits of this ONE SAME woman, in a 3 columns by 2 rows landscape grid. Top row left: exact FRONT centered symmetrical level face directly at camera; top center: head turned 45 degrees toward IMAGE LEFT; top right: exact 90 degree PROFILE toward IMAGE LEFT only one eye visible. Bottom row left: head turned 45 degrees toward IMAGE RIGHT; bottom center: exact 90 degree PROFILE toward IMAGE RIGHT only one eye visible; bottom right: exact 180 degree BACK OF HEAD no face visible. All at eye-level, upright, complete hairstyle within each cell, same scale and outfit neckline. Neutral expression. Never duplicate orientation or mirror accessories; anatomically consistent turns. Narrow white gutters, no text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-01--head_angles.json
+
+实际带参考图生成提示词
+Use attached approved portrait as strict identity, hairstyle, accessory and visual-style reference. Preserve THIS specific face and premium 3D look. Adult female serene lunar archivist aged 24. Soft diamond oval face, long almond gray-green eyes, small straight nose, rose lips, porcelain pink skin. Long ink-brown half-up braided crown, pale jade flower and crescent comb with pearls on her right, jade silver flower drop earrings. Ivory silk fantasy gown with high open collar, silver botanical embroidery, jade clasps, delicate translucent cape sleeves. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Six evenly sized head-and-shoulders portraits of this ONE SAME woman, in a 3 columns by 2 rows landscape grid. Top row left: exact FRONT centered symmetrical level face directly at camera; top center: head turned 45 degrees toward IMAGE LEFT; top right: exact 90 degree PROFILE toward IMAGE LEFT only one eye visible. Bottom row left: head turned 45 degrees toward IMAGE RIGHT; bottom center: exact 90 degree PROFILE toward IMAGE RIGHT only one eye visible; bottom right: exact 180 degree BACK OF HEAD no face visible. All at eye-level, upright, complete hairstyle within each cell, same scale and outfit neckline. Neutral expression. Never duplicate orientation or mirror accessories; anatomically consistent turns. Narrow white gutters, no text.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-01--head_angles.json

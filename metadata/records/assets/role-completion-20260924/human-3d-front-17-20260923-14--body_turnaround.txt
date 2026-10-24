@@ -1,0 +1,21 @@
+﻿白底3D角色17组 14 · 象牙缎结 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with sleek black hair in a neat updo decorated with ivory satin bows, violet eyes, pale neutral skin, a softly refined oval face and soft pink lips. Long pearl and crystal drop earrings and an ivory gathered evening gown with delicate lace details. Elegant restrained expression. Continue the ivory satin gathered evening gown into a full opaque floor-length A-line skirt, off-shoulder gathered short sleeves, floral pearl clasps and ivory low heels. Tall healthy 176 cm slender build. Exactly three equally spaced full-body views of ONE SAME person in one horizontal row: strict FRONT at left, strict 90-degree SIDE profile facing image-left in center, strict 180-degree BACK at right. Consistent identity, clothing, hairstyle, shoes and 7.8-head tall long-limbed anatomy. Relaxed straight upright stance arms by sides. Every figure fully visible from hair to soles with margin, identical height, same baseline. Pure white ground, narrow white gutters, landscape 3:2. No text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-front-17-20260923-14--body_turnaround.json
+
+实际带参考图生成提示词
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with sleek black hair in a neat updo decorated with ivory satin bows, violet eyes, pale neutral skin, a softly refined oval face and soft pink lips. Long pearl and crystal drop earrings and an ivory gathered evening gown with delicate lace details. Elegant restrained expression. Continue the ivory satin gathered evening gown into a full opaque floor-length A-line skirt, off-shoulder gathered short sleeves, floral pearl clasps and ivory low heels. Tall healthy 176 cm slender build. Exactly three equally spaced full-body views of ONE SAME person in one horizontal row: strict FRONT at left, strict 90-degree SIDE profile facing image-left in center, strict 180-degree BACK at right. Consistent identity, clothing, hairstyle, shoes and 7.8-head tall long-limbed anatomy. Relaxed straight upright stance arms by sides. Every figure fully visible from hair to soles with margin, identical height, same baseline. Pure white ground, narrow white gutters, landscape 3:2. No text. Use attached full-body image as exact identity, height and entire clothing reference. Preserve continuous skirts and robes in all three views, same hem length and shoes. Leave clear white margins around wide hems and ornaments. Back view shows rear heels of shoes pointing away from camera, no toes facing camera.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-front-17-20260923-14--body_turnaround.json

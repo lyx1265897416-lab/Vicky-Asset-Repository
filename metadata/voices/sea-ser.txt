@@ -1,0 +1,46 @@
+﻿赛拉 · 清晰果断
+项目：海王子的准新娘
+角色：赛拉 / Sera
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-speech-tts-2.0
+入库依据：用户明确要求「只改女主的音色，其他人的音色不改！」，保留当时既定声线。
+原始样音：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/audio/SER.mp3
+试听/下载文件SHA256：ead113ba84d6b360f14fa538b83fd2c65216dd301b9f3a6f6a9219e58f147b39
+原始音频（保留）：assets/voices/confirmed-20260928/sea-ser.mp3
+原始SHA256：464051f1632cce1f5807d211d7cc94334cc7d4c0c796452331dc6db4397037e8
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.26 LUFS；真实峰值：-3.4 dBTP
+响度处理记录：metadata/voice-loudness/sea-ser-ac46caeb7ed7dab147e8.json
+去除开头等待：0.27秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.404秒；总计去除：0.674秒
+当前试听时长：9.19秒
+
+试听台词：
+I don't need your crown, Rian. I need my ships, my crew, and the right to choose our course. Tell the council that. I'll tell them myself.
+
+声音描述：
+Adult female 24, clear centered mid-low voice, energetic decisive direct natural English, a little dry amusement on last line. Athletic confidence rather than threatening villain, no shouting. All dialogue must use consistent General American English; preserve individual timbre and age. No British or mixed-accent performance.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "text": "I don't need your crown, Rian. I need my ships, my crew, and the right to choose our course. Tell the council that. I'll tell them myself.",
+  "voice": "nadia_en_zh",
+  "language": "en",
+  "output_format": "mp3",
+  "sample_rate": 24000,
+  "speed": 1,
+  "voice_instruction": "Adult female 24, clear centered mid-low voice, energetic decisive direct natural English, a little dry amusement on last line. Athletic confidence rather than threatening villain, no shouting."
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/confirmed-voices-20260928/approval-evidence.json
+imports/confirmed-voices-20260928/source-records/sea-ser/voices.json
+imports/confirmed-voices-20260928/source-records/sea-ser/voice-SER.json

@@ -1,0 +1,29 @@
+﻿女主 · 雾金月光 · 文档确认版 · 膝上蓝裙 · 单人全身照 · 新增保留旧版
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-19
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-19
+
+文生图提示词：
+One original adult woman aged 26, tall slender elegant natural fashion-model proportions about 7.5–8 heads tall, balanced small head and natural shoulders, cool fair beige skin, refined oval face, gently rounded chin, gray-green eyes, softly feathered brows, small naturally contoured nose, natural rose lips and a soft neutral expression. Long side-parted ash-blonde wavy hair with darker roots, finely separated strands falling over one shoulder and upper chest, small silver stud earrings. An opaque dusty blue-gray scoop-neck sleeveless fine vertically ribbed knit A-line dress with fitted waist and skirt ending approximately ten centimeters above the kneecaps. Bare legs without tights. Long open taupe tailored coat with delicate woven jacquard texture, lapels and pockets, coat hem below knees and visibly longer than dress. Taupe leather ankle boots with modest block heels. Graceful relaxed standing posture, arms lowered with loose natural hands, slim legs softly straight in a narrow parallel stance, balanced weight and near-forward feet, no crossed legs or exaggerated inward knees. Premium semi-realistic otome romance-game 2.5D/3D CG, refined facial sculpt, dimensional eyes, subtle natural skin microtexture, detailed dry individual hair strands, clean fine cloth ribs and coat jacquard, boot leather grain. White seamless studio background with soft even neutral illumination, crisp focused full-body detail, natural anatomy and coherent material shading. No text, logos, watermarks, UI or extra people. One centered front-facing entire body from crown to soles, same floor plane, eye-level long-lens camera, portrait 3:4 canvas, comfortable margins.
+
+独立文生图提示词按确认成图整理；实际制作采用参考图生成或精修，纯文字不能保证同脸或逐像素复现，严格身份连续性请同时使用本张原图。
+
+
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnq4HJvPJSxw7qbNzKbaHtrc
+
+实际带参考图生成/编辑提示词
+Use case: identity-preserve, faithful high-definition restoration and 3:4 canvas delivery.
+Image 1 is the user-selected full-body master. Image 2 is the matching detailed bust portrait and facial identity reference.
+Deliver ONE FULL-BODY image on a 3:4 portrait canvas, exactly 1086 x 1448 pixels to match image 2. If a larger native render is available, render at 1536 x 2048 or higher in the SAME 3:4 aspect ratio for clean delivery. Expand WHITE CANVAS SIDE MARGINS as needed; never stretch the woman horizontally or vertically and never crop her head or feet. Keep the entire same woman at the same body proportions and camera angle, comfortably framed crown to soles.
+
+Primary task is clarity: faithfully regenerate the small facial features using image 2's precise identity, crisp gray-green irises, delicate lashes and eyelids, clean lips, subtle natural skin detail, individual long ash-blonde hair strands; clean fine ribbing on blue-gray dress, finely resolved taupe coat jacquard weave and seams, natural detailed fingers and nails, boot leather grain and seams. Sharp focus across full body, coherent fine detail, no blurry face, smudged texture, haze, depth-of-field blur, plastic smoothing, excessive sharpen halos or grain. Match the bust portrait's refined premium semi-realistic 2.5D/3D otome material finish and facial quality.
+
+CRITICAL LOCK: keep image 1's EXACT selected narrow parallel standing pose, legs, knee shapes/alignment, boot spacing and head-to-body ratio. Do not re-open prior pose exploration, alter leg contours, enlarge head, lengthen waist, thin limbs or change weight distribution. Preserve her facial identity, expression and hairstyle from the references. Preserve blue-gray opaque ribbed A-line sleeveless dress ending approximately ten centimeters above knees, bare legs, long open taupe patterned coat, taupe heeled ankle boots, relaxed arms and hands. Same white seamless studio environment, neutral soft lighting and colors. The only changes are restored detail and 3:4 output canvas matching the bust resolution. No new accessories, no text, labels, borders, watermark or comparison panels.
+
+生成依据：
+imports/heroine-fullbody-update-20261019/library-confirmation.json
+imports/heroine-fullbody-update-20261019/completion.json
+previews/heroine-leg-options-review-20261019/prompt-selected-1-detail-refined.txt

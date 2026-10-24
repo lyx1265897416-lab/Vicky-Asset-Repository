@@ -1,0 +1,26 @@
+﻿多题材场景60组 · 01 · 星环领航舰桥 · 建筑图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 多题材场景60组 · 01 · 星环领航舰桥.
+Environment:  The silent navigation bridge of a civilian exploration ship, sculpted cream consoles with recessed amber abstract navigation diagrams, two empty linen seats, huge curved front window framing an immense pale ringed planet and its diagonal rings. Off-axis intimate bridge viewpoint, usable open foreground deck, deep space visible only through glass. Functional joins, warm brushed metal, understated optimistic interstellar engineering.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic architectural elevation or cut section of the principal facade / interior wall. Show openings, vertical structure, floor levels, stair and roof relationships where visible. Readable architectural profile with restrained white margin and a short elevation title.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-049--scene_architecture.png
+
+参考图辅助生成事件提示词
+Reconstruct the SAME scene from reference 1 concept plan, reference 2 original look. Match plan footprint, fixed window/door/stair/furniture positions. Scene: 多题材场景60组 · 01 · 星环领航舰桥. One flat architectural orthographic main facade elevation or interior principal wall elevation. Show openings, structural bays, vertical proportions, ceiling profile and material detail. No perspective montage, no furniture moved against the elevation. White page, title INTERIOR ELEVATION or FRONT ELEVATION. Preserve reference materials, light and style. Unseen extension conservative. Empty environment, NO people, animals, silhouettes, statues of humans, no unrelated spaces. Landscape image, no dimensions.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-049--scene_architecture.json
+previews/scene-spatial-20260930/visual-review.json

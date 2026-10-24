@@ -1,0 +1,21 @@
+﻿服装77图 · 121 · 金色宫廷鱼尾裙 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Golden ivory Victorian fitted high-neck brocade top with puff shoulders, gold-orange flowers, sculpted hip peplum, long ivory mermaid skirt.. Add ONLY these accessories: 金黄花朵高礼帽; 白色手套一对; 黄色收拢长柄阳伞; 金色垂坠耳饰一对. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户77张服装参考 · 64 foreground only
+
+原始生成提示词：
+Create ONE photorealistic complete outfit catalog composition on pure white seamless background, soft studio light, portrait 2:3. Input 1 is the APPROVED garment ensemble: preserve exactly its silhouette, textile, colors, layers, footwear and hosiery. Do not redesign or add clothes. Each remaining input is ONE matching accessory to add. Use every listed component once (earrings/gloves as a pair). Garments: Golden ivory Victorian fitted high-neck brocade top with puff shoulders, gold-orange flowers, sculpted hip peplum, long ivory mermaid skirt. Accessories: Input 2: 金黄花朵高礼帽; Input 3: 白色手套一对; Input 4: 黄色收拢长柄阳伞; Input 5: 金色垂坠耳饰一对. Keep the garment ensemble dominant and full length. Attach belts, ties and brooches naturally; place hats, bags, eyewear, jewelry and hand props neatly adjacent at realistic scale with clear separation, not overlapping important garment details. Where clothing is shown in flat lay, keep the coordinated flat lay; empty hosiery must stay separately laid flat. No person, skin, face, head, hands, legs, feet, anatomy, visible mannequin, stand or hanger. Transparent cloth reveals WHITE, never skin. Shoes and sleeves empty. No extra hats, bags, glasses, belts, jewelry or footwear beyond the input assets. No duplicates, no panels or inset images, no text/watermarks. Fully uncropped with white margins. This is an object-only wardrobe asset.
+
+生成依据：
+imports/wardrobe-77-20260929/events/complete-121.json

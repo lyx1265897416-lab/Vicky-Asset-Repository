@@ -1,0 +1,44 @@
+﻿Selene Arkwright · 文档角色音 V1
+项目：Magnus Thorne
+角色：Selene Arkwright
+年龄设计：成年；角色视觉年龄参考见角色设定
+身份用途：剧集角色
+音色标签：成熟中低女声、冷静优雅；语调克制，句尾带审视感。
+模型：wavespeed-ai/qwen3-tts/voice-design
+入库依据：按用户本次要求导入文档现行且未标待定的角色音；保留原文档试听的字节、呼吸、停顿和节奏，不重新合成或清理。
+原始样音：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn4JXlxJ0M27qQjZwGhh3jpf
+试听/下载文件SHA256：a024cc0600c1bce638ad2626900f9be8ec6bfd6fbf52ae57b209dc9a79ad71b8
+原始音频（保留）：assets/voices/magnus-doc-20261019/VO_SELENE_English_V1.mp3
+原始SHA256：a024cc0600c1bce638ad2626900f9be8ec6bfd6fbf52ae57b209dc9a79ad71b8
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.66 LUFS；真实峰值：-3.63 dBTP
+响度处理记录：metadata/voice-loudness/magnus-doc-20261019-vo_selene_english_v1-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.0秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：9.72秒
+
+试听台词：
+Magnus, everyone upstairs is asking for you. I told them you needed a moment. Now, would you like to tell me what is going on? I'd rather hear it from you.
+
+声音描述：
+Original fictional character voice. Native General American English, modern Southern California setting. Natural intimate film dialogue, dry close microphone, one speaker only, no music, no background sound, no echo. Clear consonants, natural breathing and conversational pauses. No announcer or audiobook delivery. A 30-year-old female, elegant mid-low mezzo speaking voice with a smooth polished texture and crisp diction. Native American, not British. Cool poised social authority, restrained irritation beneath impeccable manners. Speak naturally to someone standing nearby, with subtle probing emphasis, never shrill or breathy seductive caricature.
+
+自动台词检查：
+原制作自动转写供核对，不替代人工听审。
+Magnus, everyone upstairs is asking for you. I told them you needed a moment. Now, would you like to tell me what is going on? I'd rather hear it from you.
+
+已有生成参数：
+{
+  "language": "English",
+  "text": "Magnus, everyone upstairs is asking for you. I told them you needed a moment. Now, would you like to tell me what is going on? I'd rather hear it from you.",
+  "voice_description": "Original fictional character voice. Native General American English, modern Southern California setting. Natural intimate film dialogue, dry close microphone, one speaker only, no music, no background sound, no echo. Clear consonants, natural breathing and conversational pauses. No announcer or audiobook delivery. A 30-year-old female, elegant mid-low mezzo speaking voice with a smooth polished texture and crisp diction. Native American, not British. Cool poised social authority, restrained irritation beneath impeccable manners. Speak naturally to someone standing nearby, with subtle probing emphasis, never shrill or breathy seductive caricature."
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "项目角色音身份不是服务商可持久复用的voice ID；保留原始参数和参考音频以便复用，后续新台词仍需试听。"
+}
+确认记录：imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/audio-verification.json
+imports/magnus-confirmed-assets-20261019/provenance/magnus-voices-20261016/manifest.json

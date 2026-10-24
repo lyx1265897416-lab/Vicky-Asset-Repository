@@ -1,0 +1,52 @@
+﻿23岁男声 · 阳光运动系室友 · Eleven v4
+项目：角色设定选角 · 2026-10-14
+角色：阳光运动系室友
+年龄设计：23岁（角色目标）
+身份用途：日常
+音色标签：明亮有弹性，短句自然连贯
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-character-shortlist.json 中将 C01-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-character-casting-20261014/audio/C01-eleven.mp3
+试听/下载文件SHA256：ecd1991bf9a6a3f7676ad73af57919e0e61cb7d6df03cc1d02c1a61280000ff3
+原始音频（保留）：assets/voices/voice-character-casting-20261014/original/C01-eleven.mp3
+原始SHA256：7d9f9112928f67514436fa27288aa9e05a11088dfe4b7f8dfe30b2e457e54517
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.28 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-character-casting-20261014-C01-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.04秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：11.2秒
+
+试听台词：
+Okay, before you say anything, the smoke alarm is very sensitive. The pancakes are fine. Mostly. Here, try this one. I got up early for this, so... be a little nice, yeah?
+
+声音描述：
+性格：热情、直球、有一点笨拙。场景：嘴上炫耀厨艺，其实在等一句夸奖。
+A cheerful roommate offering a slightly burnt breakfast. Brief mock defensiveness, then a small bashful admission. Easy energetic conversation, not a cartoon jock.
+固定预设 Harry 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Okay, before you say anything, the smoke alarm is very sensitive. The pancakes are fine, mostly. Here, try this one. I got up early for this, so be a little nice, yeah?
+
+已有生成参数：
+{
+  "text": "[defensive, playful] Okay, before you say anything, the smoke alarm is very sensitive. The pancakes are fine. Mostly. [hopeful] Here, try this one. I got up early for this, so... be a little nice, yeah?",
+  "voice_id": "Harry",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Harry",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-character-casting-20261014/confirmation.json
+imports/voice-character-casting-20261014/jobs/C01-eleven.json
+imports/voice-character-casting-20261014/evidence/roles.json
+imports/voice-character-casting-20261014/evidence/qa.json
+imports/voice-character-casting-20261014/evidence/batch-plan.json

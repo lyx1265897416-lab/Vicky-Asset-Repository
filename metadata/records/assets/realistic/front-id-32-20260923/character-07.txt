@@ -1,0 +1,21 @@
+﻿白底女角色32组 · 正面平视 · 07 · 雀斑刘海孔雀蓝T恤
+生图模型：未知（用户提供定稿图，未附生成记录）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one highly realistic photographic portrait of a fictional adult woman in her early twenties. Dark-brown shoulder-length tousled layered hair with wispy straight bangs, warm brown eyes, fair warm lightly freckled skin across cheeks and nose, fine dark eyebrows, a medium-small straight nose and full natural muted-rose lips. Large thin metal hoop earrings, plain peacock teal-blue cotton crewneck T-shirt. Relaxed neutral closed mouth, direct gaze. A balanced soft oval face with equivalent cheek and jaw width on both sides of the vertical facial centerline; neither cheek or jaw side larger than the other. Forehead midpoint, nose bridge, nose tip, philtrum, mouth midpoint and chin precisely aligned vertically. Both eyes at equal height and equal perspective, mouth corners level, chin centered between evenly sloping jawlines. Head upright and camera exactly frontal at eye level with zero roll and yaw, shoulders level. Preserve subtle nonmirrored natural texture and freckles while keeping the anatomical contour balanced. White seamless opaque background, bright soft neutral frontal studio light with gentle fill, natural pores and fine strands, realistic 50mm perspective, subtle optical halation, sharp face and eyes. Entire hairstyle visible with comfortable white headroom, head and upper torso composition, arms partially visible at the bottom edges. No CG, illustration, plastic skin, heavy beauty filter, text, watermark, border, props or collage. Vertical 3:4 composition, target canvas 1086 × 1448 pixels.
+
+按用户提供的定稿图整理的独立文生图提示词，并非已知的原始生成提示词；未验证纯文本复现相似度。精确身份请同时使用此图作参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/user-final-female-20260923/character-07-user-final.jpg
+
+用户定稿图原始生成提示词（未提供）
+未取得
+
+生成依据：
+imports/user-final-female-20260923/verification.json

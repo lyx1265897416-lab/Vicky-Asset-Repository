@@ -1,0 +1,29 @@
+﻿白底3D角色17组 05 · 鎏金绯锦 · 特写三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Create a premium realistic-stylized 3D character modeling reference sheet, a horizontal 3:1 triptych with three equally scaled head-and-shoulder portraits of the same character: exact front, exact 90-degree right-facing profile, and exact 180-degree rear. Camera at eye height, upright head, neutral pose, complete hairstyle visible, upper chest crop. Pure white background, soft neutral studio lighting, fine individual hair strands, subtle skin microtexture, dimensional facial modeling, physically based fabric and metal. No text, labels, borders, UI or watermark. An adult woman with dark hair in a high updo, fine loose bangs and cheek-framing wisps, warm brown eyes, pale peach skin, a delicate tapered face and rust rose lips. A tiny beauty mark near one eye. Ornate gold hairpins and long gold earrings, rust and antique gold brocade robes, layered decorative trim. Two long dark loose locks grow from beneath the rear updo, cover both sides of the nape leaving a central triangular skin opening, then curve around the neck onto the chest. The rear view shows the upper nape sections only, no tails over the back or outer shoulders, and no ears. Red decorative ribbons remain behind. 
+
+独立文字提示词按已确认成图及角色设定重建，未经纯文生图复现验证；严格同脸请结合原身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/3d-three-views-17-20260923/revisions-05-quality-v8/character-05-three-views-v8.png
+
+最终实际生成／编辑提示词
+Use case: precise-object-edit.
+IMAGE 1 IS THE ORIGINAL HIGH FIDELITY MASTER AND THE ACTUAL EDIT TARGET. IMAGE 2 is ONLY the approved rear-hair spatial reference; it is degraded by repeated edits, so do NOT use its face or material rendering.
+
+Return a lossless PNG exactly 2172 pixels wide x 724 pixels tall, exact 3:1 aspect ratio, matching the original batch.
+Keep the ORIGINAL master image's fine hair strand density, skin microdetail, subtly desaturated cinematic 3D rendering, complex embroidered fabric weave, jewelry intricacy and original face. Retain the original FRONT panel in full. Retain the original PROFILE face, updo, ornaments, clothes and texture. In the PROFILE remove only loose hair hanging behind the shoulder, keeping the two long locks swept onto the front chest as in image 2.
+
+In the REAR portrait apply the approved spatial arrangement from image 2: two thick locks descend from lower back of the head onto rear left and rear right portions of the neck, covering much of the nape but leaving a central narrow triangular window of neck skin. They curve around the sides of the neck to the FRONT chest. Their remaining lengths are hidden behind the neck/torso from rear camera. No hair on rear robe or outer shoulder tops. No ears visible. The gold hair ornaments and red ribbons remain. Match rear materials and fine microtexture to IMAGE 1, not to the softer image 2.
+
+This is careful restoration FROM THE ORIGINAL, with only the necessary hair occlusion edits. Do not redesign, beautify, recolor, simplify ornaments, smooth the skin or convert detailed 3D hair into glossy sculpted chunks. Preserve the original fine flyaway hairs, lashes, iris detail, cloth fibers. All three panels equally sharp and detailed. Pure white background, eye-level front/profile/rear, no text.
+
+生成依据：
+metadata/evidence/3d-closeup-17-20260925/character-05.json

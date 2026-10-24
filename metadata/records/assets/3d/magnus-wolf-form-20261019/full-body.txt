@@ -1,0 +1,25 @@
+﻿Magnus Thorne · 狼人形态 · 全身图
+生图模型：内置 ImageGen（具体模型版本未披露） + Pillow 等比合成/排版
+生成日期：2026-10-19
+时区：America/Los_Angeles
+图像尺寸：1024 × 1606
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-19
+
+文生图提示词：
+Premium otome semi-realistic 2.5D/3D studio character render of Magnus Thorne, a 34-year-old 193cm athletic broad-shouldered adult man with tall 8–9 human-head model proportions excluding ears, mature angular bronze-skinned face, hazel brown eyes, strong brows, moustache and short jaw stubble. Short dense swept-back black hair and loose forehead strands. Two long charcoal wolf ears with black edges and grey inner fur, balanced moderate root spacing and gently inward tapered tips. Human face and body. Black tailored suit, charcoal shirt, loose black tie, black waistcoat, wristwatch and black Oxford shoes. Exactly one large fluffy dark grey-brown C-curved tail. White studio background, fine skin, fur, hair and fabric detail, soft neutral light, no text or watermarks. Single full-length relaxed front-facing standing portrait, complete shoes, same uncompressed head geometry as portrait at uniform reduced scale.
+
+文本是独立重建描述，不承诺纯文字精确复现。身份以确认胸像为准；全身头部直接等比合成，三视图正面复用母版，其余视角由内置 ImageGen 生成。
+
+确定性合成与排版详见 compose.py / assemble.py；新角度提示词见 generation.json。
+来源：/Users/vicky/Interactive storyline/outputs/magnus-wolf-assets-20261019/images/full-body.png
+
+原始生成提示词：
+Exact deterministic composite specified in compose.py: uniform scale 0.30, translation (348,32); original portrait head inserted onto V8 body, neck feather only. No head redrawing.
+
+生成依据：
+imports/magnus-wolf-form-20261019/evidence/generation.json
+imports/magnus-wolf-form-20261019/evidence/head-transform.json
+imports/magnus-wolf-form-20261019/evidence/compose.py
+imports/magnus-wolf-form-20261019/evidence/assemble.py
+imports/magnus-wolf-form-20261019/evidence/revision-v7.json

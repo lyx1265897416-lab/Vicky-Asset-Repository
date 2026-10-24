@@ -1,0 +1,31 @@
+﻿白底角色24组 · 正面平视 · 17 · 低马尾白衬衫挂绳
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one photorealistic 3:4 portrait, 1086 × 1448 pixels. One fictional young adult woman, approximately 18–22 years old, with dark-brown hair tied in low ponytail with loose curtain strands, warm fair skin, hazel-brown eyes, soft curved brows, small straight nose, oval cheeks and light rose lips; white oxford shirt over pale gray tee, plain navy lanyard without printed text, a neutral closed-mouth expression.
+
+Camera exactly at eye level. Head and torso facing directly forward, upright without tilt, both eyes on a horizontal line, shoulders level and equally visible. Direct gaze, relaxed neutral closed lips, no smile or visible teeth. Entire crown and hairstyle visible with 8% headroom; crop at upper chest. Pure uniform white #FFFFFF backdrop, bright high-key soft frontal lighting, very low shadows, cream-white/pale-gray/warm-brown grade, natural skin pores and fine hair, subtle halation, 50mm perspective, shallow depth of field with both eyes sharp. No hands, text, watermark, props or borders.
+
+独立文生图提示词依据角色资料与本轮构图重建；严格锁脸应使用此图与原身份图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/identity-consistency-20260928/restored/character-17-front.png
+
+本轮身份保持编辑提示词；08包含后续裁切修正
+Use case: identity-preserve.
+Edit ONLY the attached approved fictional character portrait into a straight-on, eye-level ID-photo composition. The attachment is the sole identity and wardrobe authority. This is the SAME person, not a new character.
+Preserve face identity precisely: facial proportions, eye shape and color, brows, nose, lips, jaw, skin tone, freckles/moles, age appearance, hair color/length/style, glasses if present, jewelry and clothing from this specific input. Do not borrow another face from this conversation.
+Change camera and pose: camera exactly at pupil height, face and torso square to lens, head upright, zero roll, zero yaw, zero pitch; horizontal pupil line; nose and philtrum centered vertically; shoulders level and equally visible. Direct gaze into camera; relaxed neutral expression with lips gently closed, no smile or teeth. This must look like a carefully posed passport-style front portrait, never a three-quarter view or tilted fashion portrait.
+Composition: one person, vertical 3:4 image, entire crown and hair visible with 6–8% white headroom, crop at upper chest below collarbones, balanced left and right shoulder space. No hands. Preserve natural anatomical asymmetry, do not mirror half the face.
+Pure uniform white #FFFFFF background. Bright high-key photographic exposure with retained skin detail, soft frontal diffuse light, extremely low shadow, natural pores and fine hair, subtle halation, 50mm portrait perspective, shallow depth of field while both eyes remain sharp, same cream-white/pale-gray/warm-brown photographic grade as input; preserve original clothing colors.
+No text, watermark, borders, grids, extra people, props, skin-smoothing, identity redesign, head tilt, raised chin, downcast chin, overhead or low-angle viewpoint.
+
+生成依据：
+imports/front-id-24-20260923/generation-record.json
+metadata/evidence/exec-755e8b9f-398e-40dd-99db-c6a13817ca88.json
+imports/identity-consistency-20260928/restoration-record.json

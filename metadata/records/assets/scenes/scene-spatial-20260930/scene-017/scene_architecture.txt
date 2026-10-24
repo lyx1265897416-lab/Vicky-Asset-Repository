@@ -1,0 +1,26 @@
+﻿森林童话 · 林间小屋 · 纯环境 · 建筑图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-01
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 森林童话 · 林间小屋 · 纯环境.
+Environment: An empty cozy cottage interior at a forest clearing, limewashed walls, pale oak beams, linen sofa, stone hearth without a roaring fire, a round window framing soft green trees and tiny white flowers, a ceramic tea pot on a weathered table. Soft luminous woodland morning, believable warm wood and handmade cloth; dreamy but not cartoon, no mushrooms as furniture. Premium dimensional 3D romance game environment, airy dreamlike quality, physically tactile materials, pearl white stone, restrained fine silver and warm wood, soft lavender/seafoam accents, broad soft light, luminous exposure preserving texture, low contrast shadows, very subtle halation. Elegant, intimate and spatially plausible, not a cluttered game splash art, not dark or greasy. Strictly environment only: absolutely no people, bodies, faces, hands, silhouettes, distant pedestrians, reflections of people, animals, birds, fish, pets, mannequins, humanoid statues, character artwork or human figures on screens. No watermark, branding or captions. Keep clear usable space for later character compositing. Natural proportions, believable architecture, no fisheye, no excessive HDR, no greasy shine, no orange color cast.
+Visual medium: otome 2d5d 3d; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic architectural elevation or cut section of the principal facade / interior wall. Show openings, vertical structure, floor levels, stair and roof relationships where visible. Readable architectural profile with restrained white margin and a short elevation title.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-017--scene_architecture.png
+
+参考图辅助生成事件提示词
+Create one clean orthographic NORTH interior wall elevation for the cottage from reference 1 plan. North wall has ONE large ROUND window centered above long built-in padded bench. No fireplace on this wall, no door. Fireplace is on perpendicular WEST wall OUT OF FRAME. Show oak beams, limewash, ivory linen, lavender cushion, green forest through glass. Reference 2 is material/style only. NO people or animals. No dimensions. Label NORTH WALL. Landscape.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-017--scene_architecture.json
+previews/scene-spatial-20260930/visual-review.json

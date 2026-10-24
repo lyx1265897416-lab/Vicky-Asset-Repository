@@ -1,0 +1,45 @@
+﻿麦溪 · F3 明亮邻家
+项目：今天，再喜欢我一次
+角色：麦溪 / Maisie
+年龄设计：角色25岁
+身份用途：女主角
+音色标签：明亮邻家
+模型：ElevenLabs 官方音色（原始样音模型版本未披露）
+入库依据：用户曾明确选择并要求入库，保留入库授权；随后反馈本剧对白试配不适配，已改用新视频作为选角参考。
+原始样音：https://storage.googleapis.com/eleven-public-prod/database/workspace/1da06ea679a54975ad96a2221fe6530d/voices/szZHc2nSrTu5nxO4yfzS/6a2378ae-9da5-40ab-8926-6f133d885d23.mp3
+试听/下载文件SHA256：5e3c614f77b4a3573cf80178bc44a7f0ad0f3fd4a60da653c1439daecea66985
+原始音频（保留）：assets/voices/confirmed-20260930/meet-me-again-maisie-f3.mp3
+原始SHA256：57ce13077d7fd79b29dfa2466b2fec83e281986012e58424a59ae37bc8eb15f5
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.28 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/meet-me-again-maisie-f3-f2b9be18b63ca2da96a1.json
+去除开头等待：0.02秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：-0.0秒；总计去除：0.0191秒
+当前试听时长：13.225秒
+
+试听台词：
+官方选角样音（非本剧台词，逐字稿未核实）
+
+声音描述：
+官方描述：20 岁出头，美式口音，清亮、友好，有轻微甜感。 官方名称：The Friendly Neighbor
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "voice_id": "szZHc2nSrTu5nxO4yfzS"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "szZHc2nSrTu5nxO4yfzS",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/voice-library/girl-next-door",
+  "reuse_note": "使用 ElevenLabs voice_id，不替换为近似音色。Waku 请求本轮因余额不足未执行；官方页面已试读。",
+  "quality_note": "官方样音与剧中试配分开保存。"
+}
+确认记录：imports/meet-me-again-voices-20260930/approval-evidence.json
+imports/meet-me-again-voices-20260930/sources.json

@@ -1,0 +1,47 @@
+﻿Owen Price · 英国英语声线
+项目：别演，吻我 / OFF SCRIPT
+角色：Owen Price
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。EP07当前生产脚本明确采用此样音的短版作为声音参考；此处保存完整原样音。
+原始样音：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/audio/Owen.mp3
+试听/下载文件SHA256：3331a4b0b0f70acebe723c1558eacd6fcea1c5d360f8c9306c4d89d6d9508eab
+原始音频（保留）：assets/voices/production-20260928/off-script-owen.mp3
+原始SHA256：66dd851bc3809d053fcbbe0e70d2b0435ab8d4bd335d63e85d3a6a779915dd32
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.08 LUFS；真实峰值：-2.24 dBTP
+响度处理记录：metadata/voice-loudness/off-script-owen-6372538e5ca8addae61c.json
+去除开头等待：0.11秒；处理后有效声音起点：0.11秒
+缩短过长静音：2处；去除结尾空白：0.144秒；总计去除：1.914秒
+当前试听时长：6.03秒
+
+试听台词：
+You don't have to choose tonight. But if you ask me to stay, I will.
+
+声音描述：
+温暖流畅的中低男声；带一点笑意与试探，区别于 Theo 的短促果断。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "prompt": "Generate a clean studio dialogue voice audition. ONE original fictional speaker only. No music, no sound effects, no other voices. Voice direction (do not read these instructions aloud): A 22-year-old adult British man. Supple warm mid-low tenor, subtly smiling articulate contemporary London English, relaxed confidence. His warmth has a teasing strategic edge. Softer and more fluid than a low commanding baritone; never effeminate caricature or villain voice. Speak ONLY this English dialogue, naturally, with a brief breath before the line and a subtle pause between sentences: \"You don't have to choose tonight. But if you ask me to stay, I will.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/off-script-owen/audio-Owen-request.json
+imports/production-voices-20260928/source-records/off-script-owen/atlas-data.json
+imports/production-voices-20260928/source-records/off-script-owen/prepare.py
+imports/production-voices-20260928/source-records/off-script-owen/requests.json

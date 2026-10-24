@@ -1,0 +1,26 @@
+﻿原创3D角色28组 18 · 深蓝逆风 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create ONE single full-body image. 2:3 portrait canvas, head-to-toe uncut, complete hair and shoes, 6% margin top and bottom. Strict straight-on FRONT view, head upright face symmetrical, shoulders and hips level, relaxed arms at sides hands visible, feet slightly apart on same baseline. Long lens neutral undistorted straight camera, no perspective foreshortening. Character-specific body: 188 cm, lean bony athletic build. Approximately 8.0 to 8.2 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Same navy blazer white open shirt and loose indigo tie, matching navy long trousers and charcoal leather boots.
+Premium semi-realistic dimensional 3D character CG: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Character design: Male age 27. Smoky brown layered short wolf-cut/mullet, airy off-center parted top. Pale gray eyes, long angular face, narrow temples, broad chin, diagonal strong eyebrows, convex nose bridge and thin upper lip with fuller bottom lip. Cool light beige skin. Navy blazer, white open-collar shirt, loose indigo subtly striped tie. Stern introspective look, strong individual facial structure.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260927/events/r27-18-full_body.json
+
+实际带参考图生成提示词
+Create ONE single full-body image of this EXACT character. 2:3 portrait canvas, head-to-toe uncut, complete hair and shoes, 6% margin top and bottom. Strict straight-on FRONT view, head upright face symmetrical, shoulders and hips level, relaxed arms at sides hands visible, feet slightly apart on same baseline. Long lens neutral undistorted straight camera, no perspective foreshortening. Character-specific body: 188 cm, lean bony athletic build. Approximately 8.0 to 8.2 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Same navy blazer white open shirt and loose indigo tie, matching navy long trousers and charcoal leather boots.
+Premium semi-realistic dimensional 3D character CG matching the reference exactly: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Identity reference: reproduce the supplied approved portrait as the same individual, not a lookalike. Use existing hairstyle and exact costume neckline, no new identity.
+Character identity notes: Male age 27. Smoky brown layered short wolf-cut/mullet, airy off-center parted top. Pale gray eyes, long angular face, narrow temples, broad chin, diagonal strong eyebrows, convex nose bridge and thin upper lip with fuller bottom lip. Cool light beige skin. Navy blazer, white open-collar shirt, loose indigo subtly striped tie. Stern introspective look, strong individual facial structure.
+
+生成依据：
+imports/role-completion-20260927/events/r27-18-full_body.json

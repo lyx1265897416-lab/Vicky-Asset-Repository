@@ -1,0 +1,21 @@
+﻿白底角色 01 · 浅金发奶油开衫 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1114 × 1412
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic character asset of one young adult woman age18–22 with long light honey-blonde hair half tied back with wispy bangs, fair pink skin, large blue-gray eyes, soft thin brows, small rounded nose, heart-oval face and rosy lips, wearing ivory textured button cardigan over delicate cream floral top. Exact3x3 grid with nine equal head-and-shoulder portraits of the SAME woman, complete hair with margin in every panel. Front-facing level camera and upright head. Nine distinct natural expressions in row order: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyed frown, skeptical eyebrow, shy affectionate smile. Keep facial anatomy, hair and eye color consistent, thin white gutters, no extra cells. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-01--expression_grid.json
+
+实际带参考图生成提示词
+Use attached reference as absolute identity anchor. Retain her precise eye/nose/lip shapes and age, no lookalike replacement, preserve hairstyle and upper clothing. Straighten head for neutral production views rather than copying the original head tilt. Photorealistic character asset of one young adult woman age18–22 with long light honey-blonde hair half tied back with wispy bangs, fair pink skin, large blue-gray eyes, soft thin brows, small rounded nose, heart-oval face and rosy lips, wearing ivory textured button cardigan over delicate cream floral top. Exact3x3 grid with nine equal head-and-shoulder portraits of the SAME woman, complete hair with margin in every panel. Front-facing level camera and upright head. Nine distinct natural expressions in row order: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyed frown, skeptical eyebrow, shy affectionate smile. Keep facial anatomy, hair and eye color consistent, thin white gutters, no extra cells. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-white-portraits-24-20260922-01--expression_grid.json

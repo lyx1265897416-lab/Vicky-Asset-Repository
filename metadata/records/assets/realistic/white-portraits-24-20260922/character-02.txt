@@ -1,0 +1,23 @@
+﻿白底角色24组 · 02 · 长棕发灰褐针织 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1105 × 1424
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1105:1424 (approximately 0.776:1), target canvas 1105 × 1424 pixels.
+
+Create one independent photorealistic studio portrait on a completely seamless pure white #FFFFFF background. Bright soft frontal light, balanced fill, low contrast, faint optical halation, natural pores and fine facial hair, detailed real cotton and knit fabric, realistic 50mm perspective, both eyes sharp and background clean. No room, scenery, props, gradient, vignette, frame, collage, text, branding or watermark. Keep the entire hairstyle inside the frame with a small white margin. One fictional young adult woman, approximately 18–22 years old, with long loose chestnut waves parted near center, warm fair skin, hazel-brown eyes, softly arched brows, slender straight nose, oval jaw and natural pink lips, faint closed-mouth smile; fitted warm taupe rib-knit scoop-neck top, leaning slightly forward with forearms low in frame. Frame a close head-and-shoulders to mid-torso portrait, both shoulders visible, gaze toward camera, subject large in frame; retain the specifically described head angle and pose. Clean lightly flushed natural skin and light everyday makeup, no heavy eyeliner or glossy beauty retouching.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/white-portraits-24-20260922/originals/character-02.png
+
+生成工具记录的提示词（可能依赖参考图）
+Generate one wholly original 18-year-old female high-school character, loosely echoing the warm long-haired brunette selfie energy of reference image 2 only. New face and identity, long chestnut waves, hazel eyes, relaxed half-smile, modest warm taupe top. Pure white seamless studio background, centered mid-torso portrait, bright high-key exposure, soft frontal light, low shadow, natural skin texture, subtle halation, 50mm shallow depth of field. No text, no logo, no watermark, no copied facial features or exact outfit.
+
+生成依据：
+metadata/evidence/exec-7df9c9e8-d958-40da-890c-1bc457573ad7.json

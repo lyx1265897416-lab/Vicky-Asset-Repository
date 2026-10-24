@@ -1,0 +1,44 @@
+﻿Rhys · 参考对白声线
+项目：黑猫老板
+角色：Rhys
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：wavespeed-ai/qwen3-tts/voice-clone
+入库依据：用户指定参考声线，随后批准该版进入视频制作；导入当前制作采用的 v4.4 样音。
+原始样音：/Users/vicky/Interactive storyline/concepts/black-cat-boss/review-v4/audio/v44/rhys-ref.mp3
+试听/下载文件SHA256：3605893019d22b3da17ebe5eee4f7c04fff58bdd484856975770f1a65562050a
+原始音频（保留）：assets/voices/confirmed-20260928/black-cat-rhys-ref.mp3
+原始SHA256：4df9ef5d34efb8a0821bc006f75d2330b534ae7d27405977b7233d9f61e5bc08
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.24 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/black-cat-rhys-ref-69a86ab9c6dfe6ad0ace.json
+去除开头等待：0.32秒；处理后有效声音起点：0.07秒
+缩短过长静音：0处；去除结尾空白：0.5733秒；总计去除：0.8933秒
+当前试听时长：8.05秒
+
+试听台词：
+This machine makes terrible coffee. You can tell me to go. I would rather you asked me to stay. I'm all right. I just wasn't expecting you to mean it.
+
+声音描述：
+Reference-conditioned synthetic audition, using an lightly denoised single-speaker dialogue excerpt from the supplied episode. Preserve the reference voice character while testing humor, vulnerability and concern on this story’s lines.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "audio": "https://storage.googleapis.com/waku-core-aicap/uploads/usr_4a6e5fb234d64da0a9429e519b299f07/b0b878eb00be4847966b78612897d50a/male-clean.wav",
+  "reference_text": "Since when do you invite strangers into my home?",
+  "text": "This machine makes terrible coffee. You can tell me to go. I would rather you asked me to stay. I'm all right. I just wasn't expecting you to mean it.",
+  "language": "English"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/confirmed-voices-20260928/approval-evidence.json
+imports/confirmed-voices-20260928/source-records/black-cat-rhys-ref/voices.json
+imports/confirmed-voices-20260928/source-records/black-cat-rhys-ref/rhys-ref-job.json
+imports/confirmed-voices-20260928/source-records/black-cat-rhys-ref/当前交接.md

@@ -1,0 +1,56 @@
+{
+  "id": "black-cat-boss--domestic-light",
+  "asset_kind": "bgm",
+  "name": "轻盈日常",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [],
+  "tags": [
+    "居家",
+    "轻喜剧"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original understated romantic television underscore, warm dry intimate apartment comedy, 78 bpm soft brushed kit, felt piano sparse 3-note motif, muted upright bass, tiny nylon guitar answers. Curious affectionate adult banter, no slapstick, no saccharine strings, no dominant melody over dialogue. 90 seconds restrained cohesive development, quiet breathing space, gentle opening and natural resolving tail. Instrumental only, no vocals, no recognizable borrowed tune.",
+    "music_length_ms": 90000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original understated romantic television underscore, warm dry intimate apartment comedy, 78 bpm soft brushed kit, felt piano sparse 3-note motif, muted upright bass, tiny nylon guitar answers. Curious affectionate adult banter, no slapstick, no saccharine strings, no dominant melody over dialogue. 90 seconds restrained cohesive development, quiet breathing space, gentle opening and natural resolving tail. Instrumental only, no vocals, no recognizable borrowed tune.",
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--domestic-light/concepts/black-cat-boss/production-v5/music-jobs/domestic-light.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--domestic-light/concepts/black-cat-boss/production-v5/produce_music.py"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--domestic-light",
+      "key": "domestic-light",
+      "family": "black-cat-boss",
+      "name": "轻盈日常",
+      "tags": [
+        "居家",
+        "轻喜剧"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "concepts/black-cat-boss/production-v5/music/domestic-light.mp3",
+      "sources": [
+        "concepts/black-cat-boss/production-v5/music/domestic-light.mp3"
+      ],
+      "sha256": "2ca1b22700813a72d9f6c68e082c4a7be0a8b08074f8ff0bb051cf8a2fbb6c0c",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "2ca1b22700813a72",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--domestic-light/2ca1b22700813a72.mp3",
+      "bytes": 2160621
+    }
+  ],
+  "default_variant": "2ca1b22700813a72",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

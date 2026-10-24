@@ -1,0 +1,22 @@
+﻿电影场景第1批 · 01 · 阁楼里的未寄信
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: New England 19th-century attic writing room, spring late morning. Sloped chalky ivory plaster ceiling, exposed pale aged oak rafters, a tall dormer window with soft linen curtain at rear left, antique warm-brown writing desk under the light, a few cream envelopes and folded sheets with no legible writing, dried sprigs in a ceramic jar, two worn books, simple wooden chair slightly pulled back. An old trunk and folded cream quilt to far right, open doorway giving a glimpse of another bright room. Camera from the attic entrance, close foreground soft doorjamb, desk off-center to left, generous open floor center. A small amateur theater curtain rolled neatly against the side wall hints at youthful creativity. Research inspiration: Little Women's intimate attic and flowing domestic spaces; create a new setting with sunwashed cream palette. Emotion: a quiet pause before leaving home.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/film-scenes-20260928/images/01-attic-letters.png
+
+生成事件提示词
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: New England 19th-century attic writing room, spring late morning. Sloped chalky ivory plaster ceiling, exposed pale aged oak rafters, a tall dormer window with soft linen curtain at rear left, antique warm-brown writing desk under the light, a few cream envelopes and folded sheets with no legible writing, dried sprigs in a ceramic jar, two worn books, simple wooden chair slightly pulled back. An old trunk and folded cream quilt to far right, open doorway giving a glimpse of another bright room. Camera from the attic entrance, close foreground soft doorjamb, desk off-center to left, generous open floor center. A small amateur theater curtain rolled neatly against the side wall hints at youthful creativity. Research inspiration: Little Women's intimate attic and flowing domestic spaces; create a new setting with sunwashed cream palette. Emotion: a quiet pause before leaving home.
+
+生成依据：
+imports/film-scenes-01-20260928/events/01.json
+previews/film-scenes-20260928/verification.json

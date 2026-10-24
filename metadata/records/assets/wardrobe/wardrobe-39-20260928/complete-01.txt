@@ -1,0 +1,21 @@
+﻿服装39组 · 01 · 酒红玫瑰黑礼服 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Garments: Black broad-shouldered tailored peak-lapel suit, white point-collar shirt, black wide straight trousers and black patent dress shoes. Burgundy rose-applique diagonal sash, fine burgundy shoulder chains and long sheer burgundy hip drape are integral ornamental garment components. Show one front-facing assembled outfit using hollow invisible-mannequin display, natural volume but absolutely no body, skin, head, hands, legs, visible mannequin or stand. Exclude ALL detachable accessories: bags, hats, eyeglasses, belts, watches, jewelry and handheld props. Integral garment trims remain. Show hollow inner neck and cuffs. 
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+参考未列独立配饰，完整造型封面复用该套服装原图。
+来源：用户39张服装参考 · 参考 1
+
+原始生成提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Garments: Black broad-shouldered tailored peak-lapel suit, white point-collar shirt, black wide straight trousers and black patent dress shoes. Burgundy rose-applique diagonal sash, fine burgundy shoulder chains and long sheer burgundy hip drape are integral ornamental garment components. Show one front-facing assembled outfit using hollow invisible-mannequin display, natural volume but absolutely no body, skin, head, hands, legs, visible mannequin or stand. Exclude ALL detachable accessories: bags, hats, eyeglasses, belts, watches, jewelry and handheld props. Integral garment trims remain. Show hollow inner neck and cuffs. Reference image 1 supplies garment design only; do not copy person, pose, collage or background.
+
+生成依据：
+imports/wardrobe-39-20260928/events/look-01.json

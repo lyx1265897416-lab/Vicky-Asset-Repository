@@ -1,0 +1,21 @@
+﻿黑猫剧场景17套 · G01 · 异界门与双世界门槛 · 多角度图
+生图模型：Python / Pillow · 同源三维坐标投影（程序绘制）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：2200 × 1600
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-11
+
+文生图提示词：
+Create an environment-only 多角度图 for 异界门与双世界门槛. Use the provided coordinate model as the exact geometry authority: x east, z south, y up, relative blocking units u, not measured metres. 这是公寓东墙上的界面，与南入户门完全不同；两侧地面不能混同。 Preserve all named objects, doors, windows and connections from the source model, the same volume and footprint in every view. Refined muted ivory, sage, blue-grey and warm wood technical spatial diagram. Four perspective corner views from the same persistent geometry, with cutaway walls for visibility. No people, animals, character reflections, advertising or invented real-world measurements. This is a concept set-design reconstruction; inferred dimensions and hidden areas remain explicitly marked as proposals. Text-to-image wording is reconstructed documentation, not the original production tool input.
+
+实际制作使用同一份几何坐标与Python/Pillow脚本，未调用AI生图。独立文生图提示词仅据成图整理，未验证文本复现。图为预演与建筑关系资料；新增尺寸/隐藏细节仍为提案。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/assets/scenes/black-cat-scene-atlas-20261011/G01/scene_angles.png
+
+程序几何制作，完整坐标与渲染脚本见依据文件；无AI原始生成提示词
+未取得
+
+生成依据：
+imports/black-cat-scene-atlas-20261011/evidence/G01--scene_angles.json

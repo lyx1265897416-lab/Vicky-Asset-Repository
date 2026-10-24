@@ -1,0 +1,23 @@
+﻿宣传摄影师 · confirmed full body turnaround
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1:1 (approximately 1.000:1), target canvas 1254 × 1254 pixels.
+
+Square photographic full-body character turnaround with three equal vertical panels: front view, exact left-facing 90-degree profile, direct back view with no face visible. One fictional adult Photographer, age 40, with light slightly weathered skin, brown eyes, short brown hair with a gently receding hairline, five-o’clock stubble, broad mature forehead, straight prominent nose and narrow natural lips.  Same figure rotating, neutral stance, relaxed arms, complete hands, all hair and shoes visible, crowns and soles aligned on common level ground. Balanced natural adult proportions with long legs, no stretched neck or miniature head. Wardrobe in every view: charcoal fine-striped short-sleeved shirt, brown knee-length shorts, gray socks and black sneakers, a plain dark baseball cap, simple rectangular glasses and a dark ID lanyard. Neutral closed lips. Plain matte cool-gray studio wall and gray floor, soft cool blue-gray daylight and even fill, subtle fine film grain, real pores, fine facial hair, matte skin and real fabric weave. Photographic live-action casting reference, no stylized 3D, no wax skin, heavy retouching, strong warm tint, drama lighting, text, labels or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/off-script/character-design/turnaround-v3/images/Photographer-body.png
+
+生成工具记录的提示词（可能依赖参考图）
+Precise continuity correction of reference1 three-column full-body photographer sheet. Preserve EXACT identity from reference2 and all clothing/proportions/crop/three poses/light. TWO changes only: (1) add the SAME brown soft brimmed cap to the FRONT view so all FRONT/SIDE/BACK views wear the same cap; keep glasses all views. (2) REMOVE camera and all camera straps from ALL THREE fullbody panels; photographer has set his camera aside for costume fitting. KEEP the separate black STAFF photo ID lanyard at front neck and the ID pass visible at front, side edge in profile, lanyard neck visible back. No dangling gear in any view. Do not remove glasses or ID. No new features, no smile, do not alter faces or shoes. Three consistent full-length views, plain grey backdrop. No added captions.
+
+生成依据：
+metadata/evidence/exec-8ce79a45-c559-4554-8bf8-41acd7a2d7e0.json

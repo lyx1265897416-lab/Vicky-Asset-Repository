@@ -1,0 +1,23 @@
+﻿第九局以后 · Mara Vale 三套全身服装 · 图3定稿 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 2:3 (approximately 0.667:1), target canvas 1024 × 1536 pixels.
+
+Create a tall full-body fashion board of exactly three side-by-side views of one person, Mara, an 18-year-old girl with warm light olive-beige skin, scattered freckles across cheeks and nose, hazel-green almond eyes, thick dark softly arched brows, distinct cheekbones, full natural lips, a softly oval-square jaw, and long voluminous ash-brown waves parted in the center. Her hair has fine warm highlights, her face is youthful and she has no glasses. Slender 7.8-head proportions, full shoes visible, all figures equal height and eye-level neutral lens, natural standing poses. Outfits from left to right: dark fitted ribbed long-sleeved crewneck, faded mid-blue long straight jeans, chunky black boots, small black shoulder bag and silver round earrings; faded brick-red raincoat over charcoal knit, wide charcoal cargo trousers, worn black boots and silver round earrings; oversized charcoal cardigan over a black square-neck top, dark denim long skirt with front slit, black lace-up boots and an old silver-black camcorder on a black crossbody strap. Pale ivory studio wall and floor with faint contact shadow. All three faces, eye color and hair remain consistent. No captions. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/the_ninth_inning/v2_trendy/mara_fullbody_looks_ref03.png
+
+生成工具记录的提示词（可能依赖参考图）
+Use case: photorealistic-natural. Asset type: Mara redesigned full-body costume board. Use the supplied Mara orthographic face sheet as the strict identity anchor. Mara is an 18-year-old youthful American high-school girl with warm light olive-beige skin, hazel-green eyes, thick dark brows, prominent cheekbones, fuller glossy natural lips, softly oval-square jaw, and long voluminous ash-brown wavy hair with a center part. She must be clearly different from Aria: no glasses, no gray-blue eyes, no straight chestnut hair. Create three full-body looks on the same floor baseline, about 7.8 heads tall with long legs and realistic teen proportions, feet fully visible, eye-level camera. Look 1: school/work day, dark fitted knit top, faded straight jeans, black worn boots, silver round earring and black shoulder bag. Look 2: signature rainy look, faded brick-red raincoat over charcoal top, relaxed dark utility cargo trousers, weathered boots, hood down enough to show the new face. Look 3: high-stakes archive look, oversized charcoal cardigan, dark denim maxi skirt with front slit, black boots, silver earring, old camcorder strap. Trendy understated streetwear with Pacific Northwest practical layers, bright pale cream studio daylight, natural skin and fabric texture, restrained teenage drama realism, same face and hair in all three looks. No logos, no readable text, no heavy makeup, no glamour pose, no mature woman, no dark grade, no anime, no illustration, no 3D render.
+
+生成依据：
+metadata/evidence/exec-c6a8e913-f997-476b-af37-ae3e91556cfc.json

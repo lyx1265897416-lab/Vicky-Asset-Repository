@@ -1,0 +1,66 @@
+{
+  "id": "magnus-doc-20261019-sfx_footsteps_v1",
+  "asset_kind": "bgm",
+  "name": "皮鞋脚步 · V1",
+  "project": "Magnus Thorne",
+  "project_id": "magnus-thorne-document",
+  "category": "动作音效",
+  "episodes": [],
+  "tags": [
+    "Magnus Thorne",
+    "文档确认版",
+    "动作音效",
+    "一次性",
+    "V1"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/sound-effects-v2",
+  "parameters": {
+    "prompt": "Isolated foley: six measured adult leather dress-shoe steps walking on polished concrete, calm heavy male gait at one step per second, alternating heels and soles. Close clean recording with only a subtle short garage reflection. Distinct separate steps with quiet gaps and natural decay. No speech, music, breathing, ambient drone or extra scuffs.",
+    "duration": 6,
+    "loop": false,
+    "prompt_influence": 0.65
+  },
+  "prompt": "Isolated foley: six measured adult leather dress-shoe steps walking on polished concrete, calm heavy male gait at one step per second, alternating heels and soles. Close clean recording with only a subtle short garage reflection. Distinct separate steps with quiet gaps and natural decay. No speech, music, breathing, ambient drone or extra scuffs.",
+  "source_records": [
+    "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+    "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+  ],
+  "variants": [
+    {
+      "id": "d840e824bc1b2a3d",
+      "path": "assets/bgm/magnus-doc-20261019/SFX_FOOTSTEPS_V1.mp3",
+      "sha256": "d840e824bc1b2a3db379407d2e872b3fe33dbd03a7d4b55f1bbb9a98c3ab5dad",
+      "label": "文档原版 · V1",
+      "duration_seconds": 6.02,
+      "extension": ".mp3",
+      "bytes": 145196,
+      "sources": [
+        "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn2rRN4lAxWZx5iK8ykKQSPf",
+        "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/SFX_FOOTSTEPS_V1.mp3"
+      ],
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "decode_check": "passed"
+    }
+  ],
+  "default_variant": "d840e824bc1b2a3d",
+  "confirmation": {
+    "date": "2026-10-19",
+    "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+  },
+  "provenance_note": "原文档音频逐字节保留；一次性｜脚步｜皮鞋踏在混凝土地面；仅在鞋、地面与动作匹配时选用对应区间，一步不播放整串脚声，同一动作跨镜头不重复触发。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn2rRN4lAxWZx5iK8ykKQSPf",
+  "source_revision": 1619,
+  "source_block_id": "doxcn2rRN4lAxWZx5iK8ykKQSPf",
+  "generation_date": null,
+  "generation_date_note": "未取得可核实生成时间戳。",
+  "imported_on": "2026-10-19",
+  "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+  "production_processing": {
+    "loop": false,
+    "loop_crossfade_seconds": 0,
+    "gain_db": 3.492,
+    "duration_seconds": 6.0,
+    "source_duration_seconds": 6.0
+  }
+}

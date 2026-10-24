@@ -1,0 +1,148 @@
+{
+  "id": "mii-takes-care-of-you--home",
+  "asset_kind": "bgm",
+  "name": "温暖居家",
+  "project": "今天不要上班，咪养你",
+  "project_id": "mii-takes-care-of-you",
+  "episodes": [
+    "EP001"
+  ],
+  "tags": [
+    "居家",
+    "温柔"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Original instrumental cozy domestic vlog underscore, 84 BPM, very light nylon guitar fingerpicking, soft upright bass, a few felt piano notes. Warm gentle everyday affection with a small mischievous smile. Sparse melody leaves room for quiet dialogue, no vocals, no big swell, no jingle, no sharp intro, soft ending.",
+    "music_length_ms": 90000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Original instrumental cozy domestic vlog underscore, 84 BPM, very light nylon guitar fingerpicking, soft upright bass, a few felt piano notes. Warm gentle everyday affection with a small mischievous smile. Sparse melody leaves room for quiet dialogue, no vocals, no big swell, no jingle, no sharp intro, soft ending.",
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--home/projects/mii-takes-care-of-you/视频制作-v2.6/music/home-request.json",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--home/projects/mii-takes-care-of-you/视频制作-v2.6/music/home-result.json",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--home/projects/mii-takes-care-of-you/视频制作-v2.6/scripts/render_music.py",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--home/projects/mii-takes-care-of-you/视频制作-v2.7/scripts/refine_music.py",
+    "imports/bgm-interactive-20260929/evidence/mii-takes-care-of-you--home/projects/mii-takes-care-of-you/视频制作-v2.12/scripts/audio_fix.py"
+  ],
+  "variants": [
+    {
+      "track_key": "mii-takes-care-of-you--home",
+      "key": "home",
+      "family": "mii-takes-care-of-you",
+      "name": "温暖居家",
+      "tags": [
+        "居家",
+        "温柔"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.6/music/home.mp3",
+      "sources": [
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v27/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-test/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/revision-v26/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v35-check/music/home.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.6/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v33-check/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v31-check/music/home.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.7/mobile-preview/public/interactive-v27/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v34-check/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-check/music/home.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v26/music/home.mp3"
+      ],
+      "sha256": "c9001ff86827dd30e4781ac99606cb86dae971445292ff18cd9f67538681928d",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "c9001ff86827dd30",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--home/c9001ff86827dd30.mp3",
+      "bytes": 2160621
+    },
+    {
+      "track_key": "mii-takes-care-of-you--home",
+      "key": "home",
+      "family": "mii-takes-care-of-you",
+      "name": "温暖居家",
+      "tags": [
+        "居家",
+        "温柔"
+      ],
+      "label": "循环剪辑 · V32",
+      "duration_seconds": 42.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.12/music/home-v32.mp3",
+      "sources": [
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v27/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-test/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.12/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v35-check/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v33-check/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v31-check/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/视频制作-v2.7/mobile-preview/public/interactive-v27/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v34-check/music/home-v32.mp3",
+        "projects/mii-takes-care-of-you/剧集/EP001/制作成果/interactive-v32-check/music/home-v32.mp3"
+      ],
+      "sha256": "9b5ebed5819347e760d364416b86ce4057190b19ae597dc5c9d31be3188412ab",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "9b5ebed5819347e7",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--home/9b5ebed5819347e7.mp3",
+      "bytes": 1009196
+    },
+    {
+      "track_key": "mii-takes-care-of-you--home",
+      "key": "home",
+      "family": "mii-takes-care-of-you",
+      "name": "温暖居家",
+      "tags": [
+        "居家",
+        "温柔"
+      ],
+      "label": "混音配乐片段 · WAV",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.7/audio/bgm-home.wav",
+      "sources": [
+        "projects/mii-takes-care-of-you/视频制作-v2.7/audio/bgm-home.wav"
+      ],
+      "sha256": "22836b699d40af42c2eb95faba8911881b942fa05cf3ca49754b13f7867d09f0",
+      "extension": ".wav",
+      "decode_check": "passed",
+      "id": "22836b699d40af42",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--home/22836b699d40af42.wav",
+      "bytes": 17284686
+    },
+    {
+      "track_key": "mii-takes-care-of-you--home",
+      "key": "home",
+      "family": "mii-takes-care-of-you",
+      "name": "温暖居家",
+      "tags": [
+        "居家",
+        "温柔"
+      ],
+      "label": "连续配乐循环 · WAV",
+      "duration_seconds": 48.0,
+      "audio_description": "Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s",
+      "source": "projects/mii-takes-care-of-you/视频制作-v2.7/audio/loop-home.wav",
+      "sources": [
+        "projects/mii-takes-care-of-you/视频制作-v2.7/audio/loop-home.wav"
+      ],
+      "sha256": "e6d89e301ff8823f1883d71bfb586a16de48a38884df8abad3baa25e06e7b211",
+      "extension": ".wav",
+      "decode_check": "passed",
+      "id": "e6d89e301ff8823f",
+      "path": "assets/bgm/interactive-20260929/mii-takes-care-of-you--home/e6d89e301ff8823f.wav",
+      "bytes": 9216078
+    }
+  ],
+  "default_variant": "c9001ff86827dd30",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

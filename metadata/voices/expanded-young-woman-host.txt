@@ -1,0 +1,48 @@
+﻿亲和女主持
+项目：通用选角 · 多年龄身份音色
+角色：亲和女主持
+年龄设计：25–32岁
+身份用途：文艺与传媒
+音色标签：圆润、明亮、亲切
+模型：bytedance/seed-audio-1.0
+入库依据：用户要求全面补充不同年龄、身份、性别音色，本条为原创生成并入库的可选音色，尚未逐条主观定版。年龄与身份为设计方向。
+原始样音：https://storage.googleapis.com/waku-core-aicap/aicap/io/acj_44b0c8e52b7448a59409dbe822c250fc/00-dadf5d0d-7c5c-4476-96cf-91b204275125.mp3
+试听/下载文件SHA256：3732c1fdf5315d8a2c2e14c36bc75e7973531e13f3651619b34449e469e7eda3
+原始音频（保留）：assets/voices/expanded-20260928/expanded-young-woman-host.mp3
+原始SHA256：5326e4a963c92c9c3fe41232181d59d51a303f43bb6ce10861b388fba52f9dea
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.27 LUFS；真实峰值：-3.22 dBTP
+响度处理记录：metadata/voice-loudness/expanded-young-woman-host-4444b957ddbcc0a4075a.json
+去除开头等待：0.38秒；处理后有效声音起点：0.12秒
+缩短过长静音：2处；去除结尾空白：0.138秒；总计去除：2.028秒
+当前试听时长：12.3秒
+
+试听台词：
+Welcome back. Today we are starting with a simple question: what is one small thing that made your week a little better?
+
+声音描述：
+A fictional woman aged twenty-eight. Rounded vibrant mezzo, open vowels, friendly articulate conversational hosting, expressive but not salesy or hyperactive. A small genuine smile.
+
+自动台词检查：
+自动转写与设定台词逐词一致（不计标点）。
+Welcome back. Today we are starting with a simple question. What is one small thing that made your week a little better?
+
+已有生成参数：
+{
+  "prompt": "Produce a clean studio voice-library audition, ONE original fictional speaker only. Natural General American English. A fictional woman aged twenty-eight. Rounded vibrant mezzo, open vowels, friendly articulate conversational hosting, expressive but not salesy or hyperactive. A small genuine smile. Dry close microphone, intelligible speech at comfortable loudness. No music, ambience, sound effects, second voice, laughter sound, introductory announcement or spoken directions. Speak ONLY the following exact English words and finish the last word completely, then leave a brief silence: \"Welcome back. Today we are starting with a simple question: what is one small thing that made your week a little better?\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "pitch": 0,
+  "speed": 1,
+  "volume": 1
+}
+
+原创设计音色，标签为选角方向。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "后续同音色对白优先使用本样音作为声音参考；文字描述重新生成可能产生声线变化。"
+}
+确认记录：imports/voice-expansion-20260928/authorization.json
+imports/voice-expansion-20260928/receipts/expanded-young-woman-host.json
+imports/voice-expansion-20260928/transcripts/expanded-young-woman-host.json
+imports/voice-expansion-20260928/plan.json

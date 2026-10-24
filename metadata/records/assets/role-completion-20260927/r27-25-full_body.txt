@@ -1,0 +1,26 @@
+﻿原创3D角色28组 25 · 素衣初行 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create ONE single full-body image. 2:3 portrait canvas, head-to-toe uncut, complete hair and shoes, 6% margin top and bottom. Strict straight-on FRONT view, head upright face symmetrical, shoulders and hips level, relaxed arms at sides hands visible, feet slightly apart on same baseline. Long lens neutral undistorted straight camera, no perspective foreshortening. Character-specific body: 178 cm, naturally lighter smaller frame than the tall officers, slender limbs. Approximately 7.7 to 8.0 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Simple rough-woven pale grey layered knee-to-calf-length robe, charcoal edging and fabric belt, natural grey linen straight trousers and humble dark cloth shoes.
+Premium semi-realistic dimensional 3D character CG: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Character design: Male age 22, clearly young ADULT rustic cultivator. Medium-short midnight teal-black side-parted hair with stray textured ends. Very dark brown slightly rounded eyes, wide-set eyes, broad oval face, low thick brows, wider short nose, full soft mouth, gently square chin, subtle faint freckles over nose. Warm fair skin. Simple rough-woven pale gray layered robe with charcoal edging, natural fabric texture. Earnest quiet open expression, adult anatomy and proportions.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260927/events/r27-25-full_body.json
+
+实际带参考图生成提示词
+Create ONE single full-body image of this EXACT character. 2:3 portrait canvas, head-to-toe uncut, complete hair and shoes, 6% margin top and bottom. Strict straight-on FRONT view, head upright face symmetrical, shoulders and hips level, relaxed arms at sides hands visible, feet slightly apart on same baseline. Long lens neutral undistorted straight camera, no perspective foreshortening. Character-specific body: 178 cm, naturally lighter smaller frame than the tall officers, slender limbs. Approximately 7.7 to 8.0 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Simple rough-woven pale grey layered knee-to-calf-length robe, charcoal edging and fabric belt, natural grey linen straight trousers and humble dark cloth shoes.
+Premium semi-realistic dimensional 3D character CG matching the reference exactly: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Identity reference: reproduce the supplied approved portrait as the same individual, not a lookalike. Use existing hairstyle and exact costume neckline, no new identity.
+Character identity notes: Male age 22, clearly young ADULT rustic cultivator. Medium-short midnight teal-black side-parted hair with stray textured ends. Very dark brown slightly rounded eyes, wide-set eyes, broad oval face, low thick brows, wider short nose, full soft mouth, gently square chin, subtle faint freckles over nose. Warm fair skin. Simple rough-woven pale gray layered robe with charcoal edging, natural fabric texture. Earnest quiet open expression, adult anatomy and proportions.
+
+生成依据：
+imports/role-completion-20260927/events/r27-25-full_body.json

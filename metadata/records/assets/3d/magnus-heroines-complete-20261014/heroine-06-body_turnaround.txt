@@ -1,0 +1,21 @@
+﻿Magnus 女主 06 · 青墨晚风 · 全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-14
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. Landscape 3:2 sheet of three equally sized full standing figures: front, true 90-degree right-facing profile, true 180-degree rear. Entire hair and shoes visible. Same height and outfit across views. Coherent physical hair routing. Character design: 27-year-old adult East Asian human woman. Long glossy blue-black hair in a loose low ponytail with soft center-parted face-framing layers, dark warm brown elongated monolid eyes, an oval face with softly broad cheekbones and an understated squared chin. Straight low brows, medium-height straight nose with rounded tip, defined medium-width mauve lips, warm light beige skin with a small beauty mark beneath the left outer eye. Direct calm determined gaze and tiny closed-mouth smile. Deep muted teal silk button blouse worn normally with a modest neckline, small cream pearl drop earrings. Contemporary urban elegance, understated natural makeup. Clearly mature facial proportions, no ceremonial jewelry or traditional fantasy clothing. Current outfit (supersedes any conflicting clothing above): The deep teal silk blouse is tucked into a high-waisted black A-line midi skirt falling below the knees, and black leather ankle boots with low block heels. Slim natural adult physique, about 169 cm and 7.5 heads tall. Keep long dark hair in the existing loose low ponytail with face-framing layers, same pearl earrings.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-06-body_turnaround.png
+
+实际生成提示词
+Use case: identity-preserve. Image 1 is the approved adult female FACE IDENTITY. Image 2 is the current FULL BODY COSTUME AND PROPORTIONS authority. Create the exact same woman in the identical outfit and jewelry. One premium otome 2.5D/3D character full-body three-view turnaround sheet, 1536x1024 landscape, pure white background, neutral studio lighting, no text, borders, scenery or props. Three equally spaced separate standing figures: LEFT true front facing camera, CENTER true 90 degree profile facing screen RIGHT, RIGHT true back 180 degrees with no face visible. All three from complete hair top to both shoe soles, with white margins. Identical scale, skull heights, waist, knee, ankle levels across views. Use long-lens undistorted perspective. Arms naturally down and slightly apart, hands visible. Maintain the flattering adult proportions of image 2. Same exact hemline, sleeves, closures, shoes, jewelry and hair placement from all views. Hair must rotate physically; no front strands duplicated on back, no ears visible through hair, and back must reflect actual front hairstyle. Do not add layers or change garments. Match the image 2 outfit exactly including these design notes: The deep teal silk blouse is tucked into a high-waisted black A-line midi skirt falling below the knees, and black leather ankle boots with low block heels. Slim natural adult physique, about 169 cm and 7.5 heads tall. Keep long dark hair in the existing loose low ponytail with face-framing layers, same pearl earrings.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-06-body_turnaround.json

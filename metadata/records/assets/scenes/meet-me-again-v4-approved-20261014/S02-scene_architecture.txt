@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · S02-scene_architecture · 温室主厅与长桌 · 建筑立面资料 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Interior of a long rectangular sage metal and glass greenhouse, stone paving, cottage stone wall on left with doorway, wide clear glass windows to sea on right, aged oak long table with drawers and wooden cross-back chairs centered, nursery shelves around perimeter, small sage checkout counter near entry, pale bronze pendant lamps and restrained flowering vines. Empty environment. One standalone architectural concept drawing sheet with clear front and side elevation plus sectional elevation, fine graphite/gray linework and subtle sage material washes on white. Architectural view ONLY, no axonometric or floor plan panels. Preserve reference facade, roof geometry, windows, doors. No numeric dimensions or fake measurements, no text. Landscape 3:2, no watermark, no people or animals.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/S02-scene_architecture.png
+
+原始生成提示词：
+Generate S02-scene_architecture for a Vicky environment asset library. Reference is the approved-for-consistency candidate master image (still awaiting user's approval). Spatial design: Inside the same sage-frame glasshouse. Central long aged oak table with LEFT drawer, movable wooden chairs, side opening window with brass latch, plant display shelving, small checkout counter by entrance, open standing/dance space. Door faces courtyard, cottage connection left, sea through right windows. One standalone architectural concept drawing sheet with clear front and side elevation plus sectional elevation, fine graphite/gray linework and subtle sage material washes on white. Architectural view ONLY, no axonometric or floor plan panels. Preserve reference facade, roof geometry, windows, doors. No numeric dimensions or fake measurements, no text. Same delicate naturalistic otome 3D visual design and geometry. No people, silhouettes, hands, animals, watermark. Landscape 3:2 highest native quality. This is a separate image dedicated to this one requested view type.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/S02-scene_architecture.json
+imports/meet-me-again-v4-approved-20261014/approval.json

@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · P09 · 服装互动道具·干湿状态 · 无人服装状态板 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+High-detail pure white product reference board. 6 cells 3x2 grid: lightweight cocoa-brown overshirt fully spread dry; SAME overshirt wet darker with small water patches but not transparent; SAME damp overshirt folded; cream cotton Tshirt fully spread dry; small ivory cotton towel fully spread dry; SAME towel folded slightly damp. Unworn, no bodies, no skin, no mannequin, pure white. Complete isolated objects, neutral light, no people, no hands, no environment, subtle shadows, no watermark, landscape 3:2.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/P09.png
+
+原始生成提示词：
+Use case: product-mockup. High-detail production asset review board for romantic coastal greenhouse otome 3D drama. Landscape 3:2. Entire pure white backdrop, spacious grid, complete isolated objects, fine natural realistic 3D product materials, no crop/overlap, no labels or panel outlines. NO people/hands/body/mannequin/animals/room/watermark, no text except requested; all unspecified paper text BLANK. 6 cells 3x2 grid: lightweight cocoa-brown overshirt fully spread dry; SAME overshirt wet darker with small water patches but not transparent; SAME damp overshirt folded; cream cotton Tshirt fully spread dry; small ivory cotton towel fully spread dry; SAME towel folded slightly damp. Unworn, no bodies, no skin, no mannequin, pure white. Natural cream/sage/wood/brown color, neutral lighting, avoid orange grading. Highest available native quality.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/P09.json
+imports/meet-me-again-v4-approved-20261014/approval.json

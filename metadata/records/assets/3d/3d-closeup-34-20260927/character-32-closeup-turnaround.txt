@@ -1,0 +1,24 @@
+﻿白底3D角色34组 · 特写三视图 · 32 · 暮冠·王子 · 正面/正侧面/背面 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-27
+
+文生图提示词：
+Masculine elegant adult fantasy prince aged 26. Long smoky dark-brown straight layered hair reaching below shoulders with face-framing strands swept clear of eyes, deep sapphire eyes, elongated gently angular face, medium straight lips. Original low-profile dark-silver circlet with a single small smoky blue gem, thin silver drop earrings, fully clothed high-neck charcoal brocade court jacket. Calm dignified neutral expression, no raised hands, all crown inside frame.
+
+Create one fictional adult in premium semi-realistic 2.5D/3D CG rendering, detailed individually resolved hair strands, natural delicate skin texture and crisp clothing and ornament materials. A landscape 1536x1024, 3:2 close-up head-and-upper-shoulders turnaround sheet. Three equal-width views in one horizontal row: LEFT true straight-on FRONT view with direct gaze, CENTER exact 90-degree PROFILE facing image-left, RIGHT exact 180-degree BACK view with no face visible. Same identity, hairstyle, clothing and accessory locations across all views. Camera at eye height, level upright head, neutral closed lips, matching head scale and crown levels, complete crown in frame. Pure opaque white background, soft even neutral studio lighting, natural cranial proportions. No text, labels, borders, watermarks, extra people, hands or full body.
+Rear view: long loose dark hair obscures both ears and ear jewelry, retaining the circlet ornament and natural loose lengths down the back.
+
+按已确认身份与成图重建独立提示词，未验证纯文字重生成相似度；严格保持身份请结合原图。侧面和背面为生成补全。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-closeup-34-20260927/originals/character-32-closeup-turnaround.png
+
+最终图生图编辑提示词；完整历史见证据记录
+Use case: identity-preserve, precise-object-edit. Produce ONE final three-view portrait sheet at EXACTLY 1536x1024 pixels, 3:2 landscape. Input 1 is the ORIGINAL HIGH-DETAIL MASTER and primary edit target, authoritative for identity, facial geometry, colors, hair strand definition, sharpness, skin texture, clothing and ornament detail. Input 2, if supplied, is ONLY a placement guide for the previously corrected hair; do not copy its softened or degraded texture. Reconstruct directly from ORIGINAL MASTER, not by re-editing the softer guide. Match or exceed the crisp fine detail of input 1: individually resolved fine hairs, clean eyelashes and iris texture, natural skin microtexture, sharp embroidery/knit and jewelry edges, no blur, no waxy smoothing, no painterly smearing, no low-resolution upsampling, no sharpening halos or oversaturated contrast. Maintain same original semi-realistic 3D CG look. Keep the original three equal panels, left straight front, center exact left-facing side profile, right exact back, level camera, identical crop/head scale and white background. Preserve all facial identities, proportions, expressions and outfits. No text or watermarks. RIGHT BACK PANEL: long brown hair naturally covers BOTH ears and earrings completely, no chest-side hair strips seen from behind. Keep metal circlet, length and flow. Preserve original detail, male facial identity, armor embroidery and jewelry. Keep LEFT FRONT and CENTER PROFILE unchanged from the original master.
+
+生成依据：
+metadata/evidence/3d-closeup-34-20260927/32.json

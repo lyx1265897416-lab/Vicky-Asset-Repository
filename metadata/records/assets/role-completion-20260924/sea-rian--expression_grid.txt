@@ -1,0 +1,21 @@
+﻿Rian · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. Original fictional adult male merfolk prince Rian, age 24. Very pale porcelain skin, muted violet-gray almond eyes, elegant narrow oval face with high softly sculpted cheekbones, straight fine nose and muted rose lips. Long flowing silver-lavender hair in loose waves and airy parted bangs. Translucent blue-lavender fin ears with delicate spines, silver pearl and blue teardrop crystal earrings, thin silver necklace with blue gemstone pendant. Ivory-silver draped toga over LEFT shoulder with circular silver crescent brooch, delicate pearl chains and blue crystal drops, RIGHT shoulder bare. Reserved gentle expression.  Exactly nine head-and-shoulders portraits of this ONE SAME person in a clean 3 by 3 equal panel expression grid, every face front-facing eye-level same scale and consistent face hair clothes. Row1 neutral, gentle closed-mouth smile, happy open smile; row2 surprise mouth O, worried frown, quiet sadness; row3 focused anger, skeptical raised eyebrow, playful small wink. Expressions clearly distinct but attractive and natural. Full hair and shoulders inside each cell. Square overall canvas. Narrow white gutters, no text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/sea-rian--expression_grid.json
+
+实际带参考图生成提示词
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. Original fictional adult male merfolk prince Rian, age 24. Very pale porcelain skin, muted violet-gray almond eyes, elegant narrow oval face with high softly sculpted cheekbones, straight fine nose and muted rose lips. Long flowing silver-lavender hair in loose waves and airy parted bangs. Translucent blue-lavender fin ears with delicate spines, silver pearl and blue teardrop crystal earrings, thin silver necklace with blue gemstone pendant. Ivory-silver draped toga over LEFT shoulder with circular silver crescent brooch, delicate pearl chains and blue crystal drops, RIGHT shoulder bare. Reserved gentle expression.  Exactly nine head-and-shoulders portraits of this ONE SAME person in a clean 3 by 3 equal panel expression grid, every face front-facing eye-level same scale and consistent face hair clothes. Row1 neutral, gentle closed-mouth smile, happy open smile; row2 surprise mouth O, worried frown, quiet sadness; row3 focused anger, skeptical raised eyebrow, playful small wink. Expressions clearly distinct but attractive and natural. Full hair and shoulders inside each cell. Square overall canvas. Narrow white gutters, no text. Exact first reference facial identity and fin ears. Exclude all screenshot UI, second people, palace or water. No head tilt; frontal head perfectly upright and eyes horizontal. 
+
+生成依据：
+imports/role-completion-20260924/events/sea-rian--expression_grid.json

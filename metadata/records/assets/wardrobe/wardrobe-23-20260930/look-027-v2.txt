@@ -1,0 +1,22 @@
+﻿服装追加23图 · 027 · 酒红深V针织 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. Oversized burgundy deep-V chunky knit sweater over dark inner top, dark micro pleated skirt, sheer black line-pattern tights shown hollow, tan faux-fur tall boot covers over chunky black shoes.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装追加23图 · 图6 下排左
+
+原始生成提示词：
+Edit this wardrobe product image: Remove all flesh-toned legs inside the black geometric line-pattern tights. The hosiery must be empty, with neutral pale gray transparent fabric and white backdrop visible through it, absolutely no skin, knees or anatomical leg surface. Keep every other garment and the shoes unchanged. No person, body parts, skin, visible mannequin, additional accessories or text. Pure white background, portrait 2:3, fully uncropped.
+
+生成依据：
+imports/wardrobe-23-20260930/events/look-027-v2.json
+imports/wardrobe-23-20260930/source-06.json

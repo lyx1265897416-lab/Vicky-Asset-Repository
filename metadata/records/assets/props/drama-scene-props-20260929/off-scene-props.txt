@@ -1,0 +1,22 @@
+﻿别演，吻我 · 画面内摄影与随身配件
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: product-mockup. Reconstruct props seen in input drama reference frames as a clean catalog asset board. 3 columns 2 rows exactly 6 cells. Row-major: black neck lanyard with clear vertical staff ID sleeve containing generic blank pale badge with no portrait; minimalist round white dial wristwatch with silver bracelet; thin dark rectangular photographer eyeglasses; worn brown baseball cap with no logo; wide black camera shoulder strap with clips neatly coiled, no camera; black leather belt silver rectangular buckle. Faithful everyday designs referenced from actors accessories, no faces, no mannequin. Each cell one listed object or coherent set, complete object visible with ample margin. Fully OPAQUE solid WHITE background, no transparency. Neutral soft studio light, matte realistic materials, fine wear and tactile texture. No people, hands, bodies, scenery, labels, watermark, oily shine or excessive gold lighting. Independent props only.
+
+依据剧情画面及剧本道具描述重新生成，非原画面像素裁切。格序按从左至右、从上至下。具体轮廓纹理可能与原画面有细微差异；不将剧情中不可见细节视作已核实。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-reconstructed-20260929/off-scene-props.png
+
+原始生成提示词：
+Use case: product-mockup. Reconstruct props seen in input drama reference frames as a clean catalog asset board. 3 columns 2 rows exactly 6 cells. Row-major: black neck lanyard with clear vertical staff ID sleeve containing generic blank pale badge with no portrait; minimalist round white dial wristwatch with silver bracelet; thin dark rectangular photographer eyeglasses; worn brown baseball cap with no logo; wide black camera shoulder strap with clips neatly coiled, no camera; black leather belt silver rectangular buckle. Faithful everyday designs referenced from actors accessories, no faces, no mannequin. Each cell one listed object or coherent set, complete object visible with ample margin. Fully OPAQUE solid WHITE background, no transparency. Neutral soft studio light, matte realistic materials, fine wear and tactile texture. No people, hands, bodies, scenery, labels, watermark, oily shine or excessive gold lighting. Independent props only.
+
+生成依据：
+imports/drama-scene-props-20260929/evidence/off-scene-props.json
+imports/drama-scene-props-20260929/approval.json

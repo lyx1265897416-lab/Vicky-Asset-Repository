@@ -1,0 +1,58 @@
+﻿中文预设 039 · 普通话女声
+项目：商用现成音色 · Kokoro 中文
+角色：zf_039
+年龄设计：官方未标注
+身份用途：通用选角
+音色标签：普通话 · 固定预设
+模型：hexgrad/Kokoro-82M-v1.1-zh
+入库依据：按用户要求检索并补充商用现成音色；这是入库授权，不代表用户逐条听选。
+原始样音：https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh/resolve/01e7505bd6a7a2ac4975463114c3a7650a9f7218/voices/zf_039.pt
+试听/下载文件SHA256：26cb14d90be6c90fc60079c43da97ca9fd5c13a88e4bd723efbf4183505be44b
+原始音频（保留）：assets/voices/commercial-20260929/stock-kokoro-zf_039.wav
+原始SHA256：761f963b13b2f555778e47d3096268eed62670ea4da4dc92318811b2a99dda4e
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.09 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/stock-kokoro-zf_039-76abbaa11ef6eea07b24.json
+去除开头等待：0.57秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.87秒；总计去除：1.44秒
+当前试听时长：9.16秒
+
+试听台词：
+别着急，我们还有时间。先把事情说清楚，再一起想办法。你愿意的话，我会一直在这里听你说。
+
+声音描述：
+官方固定预设；同语种使用相同通用对白便于比较。身份、年龄、个性未由官方定义，按具体剧本试听选角。
+
+自动台词检查：
+台词来自本项目；此样音尚未做母语者逐字审听。
+
+
+已有生成参数：
+{
+  "preset": "zf_039",
+  "revision": "01e7505bd6a7a2ac4975463114c3a7650a9f7218",
+  "speed": 1,
+  "voice_path": "voice-models/kokoro/Kokoro-82M-v1.1-zh/voices/zf_039.pt",
+  "voice_sha256": "b2d4b88445679882edaf7b74bcefe424e53dc2824c79a77a0d98904098886886"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "zf_039",
+  "provider": "Kokoro / hexgrad",
+  "official_url": "https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh",
+  "commercial_license": {
+    "name": "Apache 2.0",
+    "commercial_use": true,
+    "checked_on": "2026-09-29",
+    "record": "imports/commercial-voices-20260929/LICENSE-NOTICE.txt",
+    "summary": "允许商业使用。再分发模型/预设时保留许可证及归属通知、标示修改；训练数据署名随批次归档。"
+  },
+  "reuse_note": "已保存模型及预设，可离线用相同版本与 preset ID 生成新台词；不需把样音上传为声音克隆参考。",
+  "quality_note": "官方未提供此预设的独立热度或质量评分；作为语言/声线覆盖补充。"
+}
+确认记录：imports/commercial-voices-20260929/authorization.json
+imports/commercial-voices-20260929/receipts/stock-kokoro-zf_039.json
+imports/commercial-voices-20260929/research/Kokoro-82M-v1.1-zh-api.json
+imports/commercial-voices-20260929/LICENSE-NOTICE.txt

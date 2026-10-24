@@ -1,0 +1,23 @@
+﻿Luca Marlowe · 文档确认版 · 身份肖像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-19
+
+文生图提示词：
+Create one image of An adult male werewolf executive assistant in fully human form, visually about 32, warm light beige skin, narrow rectangular-oval face, slim softly defined jaw, gently arched brows, alert hazel-brown eyes, moderately narrow straight nose, medium-thin lips and reserved attentive expression. Clean-shaven. Neat chestnut brown side-parted short hair, thin gunmetal rectangular eyeglasses with clear lenses. Slim elegant neck and naturally sloping shoulders. Midnight navy wool three-piece tailored business suit, white crisp shirt, neatly tied silver-gray tie, navy trousers, polished black dress shoes. Tall lean 8.5-head model silhouette. Premium semi-realistic adult otome romance-game 2.5D/3D character render with finely sculpted facial planes, dimensional eyes, individually resolved dry hair strands, subtle natural skin microtexture, physically credible wool and silk. Clean white seamless studio background, broad soft neutral frontal illumination, refined high-detail materials, no color cast, no text, labels, logo, watermark, UI, extra people, wolf ears or fangs. One centered head-and-shoulders portrait cropped at upper chest, full hair and shoulders visible, near-frontal eye-level 85mm perspective, natural balanced neck and shoulders, direct gaze.
+
+独立文生图提示词依据最终图及可核实制作记录整理；实际制作使用参考图或编辑，纯文字无法保证同脸或逐像素复现。严格身份/空间连续性请同时使用本张原图。
+
+
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#SEjFdVVFTodFSJxfRjCc7sQ6nqc
+
+原始带参考图生成或编辑提示词（制作记录）
+Create ONE new adult male character identity portrait for a consistent otome 2.5D/3D cast library, vertical 3:4. Luca Marlowe, Beta werewolf in human form, Magnus's meticulous loyal executive assistant, visually about32. Attached Magnus portrait is STYLE ONLY, not his face or physique. Match its premium polished semi-realistic 3D otome game rendering, restrained real skin detail, nuanced sculpted face, soft broad neutral frontal studio light, clean white background, hair strands and believable fabric. Luca must be a clearly DIFFERENT attractive adult: narrow rectangular-oval face, softly defined slim jaw, gently arched brows, alert hazel-brown eyes, straight moderately narrow nose, medium-thin lips with an attentive reserved half-smile, warm light beige skin. Neat chestnut brown side-parted short hair, clean-shaven, thin gunmetal rectangular eyeglasses with clear lenses and visible eyes. Slim elegant neck, lighter shoulders than Magnus, upright unforced posture. Midnight navy wool three-piece tailored business suit, white crisp shirt, neatly tied silver-gray tie; no earpiece, no lapel badges. Head and shoulders down to upper chest, entire hair visible and generous margin, front-facing eye-level 85mm look. Professional intelligent calm, not cold threatening scowl, no anime flat shading, no doll plastic, no wolf features, no tattoos, no text or watermark, no collage.
+
+生成依据：
+imports/magnus-confirmed-assets-20261019/confirmation.json
+imports/magnus-confirmed-assets-20261019/source/character-map.json
+imports/magnus-confirmed-assets-20261019/provenance/feishu-character-design-20261016/prompts.json

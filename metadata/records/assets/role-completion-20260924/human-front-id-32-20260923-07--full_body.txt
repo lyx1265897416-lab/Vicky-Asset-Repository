@@ -1,0 +1,21 @@
+﻿白底女角色32组 07 · 雀斑刘海孔雀蓝T恤 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+One highly realistic full-length frontal photographic portrait of a fictional adult woman in her early twenties, dark brown shoulder-length tousled layered hair with wispy straight bangs, warm brown eyes, fine dark brows, fair warm freckles across nose and cheeks, medium-small straight nose, full muted rose lips, large thin silver hoop earrings. Balanced soft oval facial contour with equal cheek width and centered chin; eyes level, no head tilt. Plain peacock teal-blue cotton crewneck T-shirt tucked into high-waisted light-wash wide-leg jeans, off-white low-top canvas sneakers, no other accessories. Tall slender 7.8-head fashion proportions, long natural limbs, relaxed straight standing, arms by sides with hands visible, entire head and soles in frame. White seamless studio and white floor, bright soft neutral frontal light and generous fill, real skin pores, fine hair strands and denim texture, subtle photographic softness without beauty filtering. Portrait 2:3, single person, no text or panels.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-front-id-32-20260923-07--full_body.json
+
+实际带参考图生成提示词
+Generate a single full-length frontal studio photograph of the EXACT same young adult woman in the reference. Strictly preserve balanced symmetrical facial contour, equally sized cheeks, centered chin/nose/lips and level brown eyes; DO NOT widen only one side or tilt her head. Shoulder-length dark brown tousled layers and wispy straight bangs, freckles, full muted rose lips, fine metal hoop earrings, peacock teal-blue crewneck T-shirt. Complete outfit: high-waisted light-wash straight wide-leg jeans, plain off-white low-top sneakers, restrained everyday trendy styling, no added jewelry or bags. Tall slender natural model proportions about 7.8 heads tall, long legs, relaxed upright standing, both arms naturally at sides, visible fingers, front-facing level shoulders. Exact photographic realism, natural pores and fine hair, bright white seamless studio background and white floor, soft neutral frontal light with generous fill, low contrast, no over-retouch. Entire head, hands and shoes in frame with margins. Portrait 2:3. No text, panels, extra figures or stylization.
+
+生成依据：
+imports/role-completion-20260924/events/human-front-id-32-20260923-07--full_body.json

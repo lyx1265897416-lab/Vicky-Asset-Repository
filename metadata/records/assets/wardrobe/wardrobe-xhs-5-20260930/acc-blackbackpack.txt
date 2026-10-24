@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 038/056 · 黑色皮双肩包 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. A black leather backpack with rounded top, front pocket and two complete shoulder straps.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记3-图1 右 / 笔记3-图9 右 / 笔记3-图11 右
+
+原始生成提示词：
+Create one photorealistic wardrobe catalog product image, pure white seamless background, soft neutral studio illumination, truthful fabric texture, portrait 2:3. No human, face, hair, skin, body parts, visible mannequin, hanger or stand. No text, logos, watermark, border or scene. Entire object fully inside frame with margins. Extract/reconstruct ONLY this detachable accessory from the 右 outfit, exclude all garments and all other objects: A black leather backpack with rounded top, front pocket and two complete shoulder straps. One isolated product image. Full shape and full strap/chain/belt visible, no crop. Preserve the reference materials and proportions.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/acc-blackbackpack.json
+imports/wardrobe-xhs-5-20260930/source-03.json

@@ -1,0 +1,1087 @@
+{
+  "summary": {
+    "initial_gaps": 107,
+    "available": 107,
+    "pending": 0,
+    "removed": 0,
+    "generated_additions": 87
+  },
+  "jobs": [
+    {
+      "job_id": "r27-copper-full_body",
+      "character_id": "human.3d-front-17-20260923-03",
+      "character_name": "白底3D角色17组 03 · 铜簪青锦",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-copper-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-copper-body_turnaround",
+      "character_id": "human.3d-front-17-20260923-03",
+      "character_name": "白底3D角色17组 03 · 铜簪青锦",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-copper-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-copper-expression_grid",
+      "character_id": "human.3d-front-17-20260923-03",
+      "character_name": "白底3D角色17组 03 · 铜簪青锦",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-copper-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-01-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-01",
+      "character_name": "原创3D角色28组 01 · 银霜礼服",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-01-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-01-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-01",
+      "character_name": "原创3D角色28组 01 · 银霜礼服",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-01-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-01-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-01",
+      "character_name": "原创3D角色28组 01 · 银霜礼服",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-01-closeup-turnaround.png",
+        "assets/role-completion-20260927/r27-01-head_angles.png"
+      ]
+    },
+    {
+      "job_id": "r27-01-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-01",
+      "character_name": "原创3D角色28组 01 · 银霜礼服",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-01-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-02-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-02",
+      "character_name": "原创3D角色28组 02 · 夜色机车",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-02-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-02-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-02",
+      "character_name": "原创3D角色28组 02 · 夜色机车",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-02-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-02-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-02",
+      "character_name": "原创3D角色28组 02 · 夜色机车",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-02-closeup-turnaround.png",
+        "assets/role-completion-20260927/r27-02-head_angles.png"
+      ]
+    },
+    {
+      "job_id": "r27-02-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-02",
+      "character_name": "原创3D角色28组 02 · 夜色机车",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-02-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-03-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-03",
+      "character_name": "原创3D角色28组 03 · 街头墨影",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-03-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-03-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-03",
+      "character_name": "原创3D角色28组 03 · 街头墨影",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-03-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-03-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-03",
+      "character_name": "原创3D角色28组 03 · 街头墨影",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-03-closeup-turnaround.png",
+        "assets/role-completion-20260927/r27-03-head_angles.png"
+      ]
+    },
+    {
+      "job_id": "r27-03-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-03",
+      "character_name": "原创3D角色28组 03 · 街头墨影",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-03-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-04-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-04",
+      "character_name": "原创3D角色28组 04 · 冬岸旅人",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-04-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-04-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-04",
+      "character_name": "原创3D角色28组 04 · 冬岸旅人",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-04-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-04-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-04",
+      "character_name": "原创3D角色28组 04 · 冬岸旅人",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-04-closeup-turnaround.png",
+        "assets/role-completion-20260927/r27-04-head_angles.png"
+      ]
+    },
+    {
+      "job_id": "r27-04-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-04",
+      "character_name": "原创3D角色28组 04 · 冬岸旅人",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-04-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-05-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-05",
+      "character_name": "原创3D角色28组 05 · 暖棕飞行员",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-05-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-05-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-05",
+      "character_name": "原创3D角色28组 05 · 暖棕飞行员",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-05-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-05-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-05",
+      "character_name": "原创3D角色28组 05 · 暖棕飞行员",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-05-closeup-turnaround.png",
+        "assets/role-completion-20260927/r27-05-head_angles.png"
+      ]
+    },
+    {
+      "job_id": "r27-05-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-05",
+      "character_name": "原创3D角色28组 05 · 暖棕飞行员",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-05-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-06-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-06",
+      "character_name": "原创3D角色28组 06 · 极昼车手",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-06-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-06-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-06",
+      "character_name": "原创3D角色28组 06 · 极昼车手",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-06-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-06-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-06",
+      "character_name": "原创3D角色28组 06 · 极昼车手",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-06-closeup-turnaround.png",
+        "assets/role-completion-20260927/r27-06-head_angles.png"
+      ]
+    },
+    {
+      "job_id": "r27-06-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-06",
+      "character_name": "原创3D角色28组 06 · 极昼车手",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-06-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-07-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-07",
+      "character_name": "原创3D角色28组 07 · 格纹晴日",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-07-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-07-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-07",
+      "character_name": "原创3D角色28组 07 · 格纹晴日",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-07-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-07-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-07",
+      "character_name": "原创3D角色28组 07 · 格纹晴日",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-07-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-07-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-07",
+      "character_name": "原创3D角色28组 07 · 格纹晴日",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-07-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-08-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-08",
+      "character_name": "原创3D角色28组 08 · 星舰执礼官",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-08-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-08-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-08",
+      "character_name": "原创3D角色28组 08 · 星舰执礼官",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-08-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-08-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-08",
+      "character_name": "原创3D角色28组 08 · 星舰执礼官",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-08-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-08-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-08",
+      "character_name": "原创3D角色28组 08 · 星舰执礼官",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-08-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-09-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-09",
+      "character_name": "原创3D角色28组 09 · 金框书生",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-09-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-09-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-09",
+      "character_name": "原创3D角色28组 09 · 金框书生",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-09-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-09-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-09",
+      "character_name": "原创3D角色28组 09 · 金框书生",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-09-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-09-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-09",
+      "character_name": "原创3D角色28组 09 · 金框书生",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-09-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-10-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-10",
+      "character_name": "原创3D角色28组 10 · 白帽律动",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-10-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-10-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-10",
+      "character_name": "原创3D角色28组 10 · 白帽律动",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-10-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-10-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-10",
+      "character_name": "原创3D角色28组 10 · 白帽律动",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-10-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-10-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-10",
+      "character_name": "原创3D角色28组 10 · 白帽律动",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-10-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-12-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-12",
+      "character_name": "原创3D角色28组 12 · 灰调自在",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-12-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-12-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-12",
+      "character_name": "原创3D角色28组 12 · 灰调自在",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-12-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-12-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-12",
+      "character_name": "原创3D角色28组 12 · 灰调自在",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-12-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-12-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-12",
+      "character_name": "原创3D角色28组 12 · 灰调自在",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-12-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-13-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-13",
+      "character_name": "原创3D角色28组 13 · 铂银裁决",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-13-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-13-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-13",
+      "character_name": "原创3D角色28组 13 · 铂银裁决",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-13-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-13-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-13",
+      "character_name": "原创3D角色28组 13 · 铂银裁决",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-13-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-13-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-13",
+      "character_name": "原创3D角色28组 13 · 铂银裁决",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-13-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-14-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-14",
+      "character_name": "原创3D角色28组 14 · 赤棕锋芒",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-14-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-14-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-14",
+      "character_name": "原创3D角色28组 14 · 赤棕锋芒",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-14-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-14-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-14",
+      "character_name": "原创3D角色28组 14 · 赤棕锋芒",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-14-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-14-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-14",
+      "character_name": "原创3D角色28组 14 · 赤棕锋芒",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-14-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-15-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-15",
+      "character_name": "原创3D角色28组 15 · 紫墨镜语",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-15-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-15-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-15",
+      "character_name": "原创3D角色28组 15 · 紫墨镜语",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-15-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-15-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-15",
+      "character_name": "原创3D角色28组 15 · 紫墨镜语",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-15-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-15-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-15",
+      "character_name": "原创3D角色28组 15 · 紫墨镜语",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-15-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-16-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-16",
+      "character_name": "原创3D角色28组 16 · 暮紫静影",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-16-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-16-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-16",
+      "character_name": "原创3D角色28组 16 · 暮紫静影",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-16-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-16-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-16",
+      "character_name": "原创3D角色28组 16 · 暮紫静影",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-16-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-16-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-16",
+      "character_name": "原创3D角色28组 16 · 暮紫静影",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-16-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-17-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-17",
+      "character_name": "原创3D角色28组 17 · 绒耳暮歌",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-17-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-17-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-17",
+      "character_name": "原创3D角色28组 17 · 绒耳暮歌",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-17-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-17-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-17",
+      "character_name": "原创3D角色28组 17 · 绒耳暮歌",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-17-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-17-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-17",
+      "character_name": "原创3D角色28组 17 · 绒耳暮歌",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-17-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-18-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-18",
+      "character_name": "原创3D角色28组 18 · 深蓝逆风",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-18-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-18-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-18",
+      "character_name": "原创3D角色28组 18 · 深蓝逆风",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-18-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-18-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-18",
+      "character_name": "原创3D角色28组 18 · 深蓝逆风",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-18-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-18-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-18",
+      "character_name": "原创3D角色28组 18 · 深蓝逆风",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-18-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-19-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-19",
+      "character_name": "原创3D角色28组 19 · 墨冠文士",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-19-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-19-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-19",
+      "character_name": "原创3D角色28组 19 · 墨冠文士",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-19-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-19-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-19",
+      "character_name": "原创3D角色28组 19 · 墨冠文士",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-19-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-19-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-19",
+      "character_name": "原创3D角色28组 19 · 墨冠文士",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-19-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-20-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-20",
+      "character_name": "原创3D角色28组 20 · 玄衣听雨",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-20-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-20-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-20",
+      "character_name": "原创3D角色28组 20 · 玄衣听雨",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-20-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-20-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-20",
+      "character_name": "原创3D角色28组 20 · 玄衣听雨",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-20-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-20-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-20",
+      "character_name": "原创3D角色28组 20 · 玄衣听雨",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-20-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-21-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-21",
+      "character_name": "原创3D角色28组 21 · 苍穹银甲",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-21-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-21-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-21",
+      "character_name": "原创3D角色28组 21 · 苍穹银甲",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-21-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-21-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-21",
+      "character_name": "原创3D角色28组 21 · 苍穹银甲",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-21-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-21-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-21",
+      "character_name": "原创3D角色28组 21 · 苍穹银甲",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-21-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-22-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-22",
+      "character_name": "原创3D角色28组 22 · 清璃仙姬",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-22-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-22-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-22",
+      "character_name": "原创3D角色28组 22 · 清璃仙姬",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-22-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-22-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-22",
+      "character_name": "原创3D角色28组 22 · 清璃仙姬",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-22-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-22-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-22",
+      "character_name": "原创3D角色28组 22 · 清璃仙姬",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-22-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-23-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-23",
+      "character_name": "原创3D角色28组 23 · 蓝翎公子",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-23-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-23-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-23",
+      "character_name": "原创3D角色28组 23 · 蓝翎公子",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-23-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-23-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-23",
+      "character_name": "原创3D角色28组 23 · 蓝翎公子",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-23-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-23-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-23",
+      "character_name": "原创3D角色28组 23 · 蓝翎公子",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-23-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-24-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-24",
+      "character_name": "原创3D角色28组 24 · 赤绳游侠",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-24-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-24-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-24",
+      "character_name": "原创3D角色28组 24 · 赤绳游侠",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-24-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-24-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-24",
+      "character_name": "原创3D角色28组 24 · 赤绳游侠",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-24-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-24-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-24",
+      "character_name": "原创3D角色28组 24 · 赤绳游侠",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-24-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-25-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-25",
+      "character_name": "原创3D角色28组 25 · 素衣初行",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-25-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-25-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-25",
+      "character_name": "原创3D角色28组 25 · 素衣初行",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-25-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-25-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-25",
+      "character_name": "原创3D角色28组 25 · 素衣初行",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-25-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-25-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-25",
+      "character_name": "原创3D角色28组 25 · 素衣初行",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-25-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-27-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-27",
+      "character_name": "原创3D角色28组 27 · 赤金狐君",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-27-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-27-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-27",
+      "character_name": "原创3D角色28组 27 · 赤金狐君",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-27-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-27-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-27",
+      "character_name": "原创3D角色28组 27 · 赤金狐君",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-27-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-27-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-27",
+      "character_name": "原创3D角色28组 27 · 赤金狐君",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-27-expression_grid.png"
+      ]
+    },
+    {
+      "job_id": "r27-28-full_body",
+      "character_id": "human.3d-original-28-selected-20260924-28",
+      "character_name": "原创3D角色28组 28 · 霜白咒使",
+      "view_type": "full_body",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-28-full_body.png"
+      ]
+    },
+    {
+      "job_id": "r27-28-body_turnaround",
+      "character_id": "human.3d-original-28-selected-20260924-28",
+      "character_name": "原创3D角色28组 28 · 霜白咒使",
+      "view_type": "body_turnaround",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-28-body_turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-28-head_angles",
+      "character_id": "human.3d-original-28-selected-20260924-28",
+      "character_name": "原创3D角色28组 28 · 霜白咒使",
+      "view_type": "head_angles",
+      "status": "available",
+      "paths": [
+        "assets/3d/3d-closeup-turnaround-26-20260928/character-28-closeup-turnaround.png"
+      ]
+    },
+    {
+      "job_id": "r27-28-expression_grid",
+      "character_id": "human.3d-original-28-selected-20260924-28",
+      "character_name": "原创3D角色28组 28 · 霜白咒使",
+      "view_type": "expression_grid",
+      "status": "available",
+      "paths": [
+        "assets/role-completion-20260927/r27-28-expression_grid.png"
+      ]
+    }
+  ]
+}

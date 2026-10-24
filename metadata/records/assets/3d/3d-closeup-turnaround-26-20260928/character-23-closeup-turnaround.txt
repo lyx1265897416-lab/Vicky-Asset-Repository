@@ -1,0 +1,21 @@
+﻿原创3D角色28组 · 特写三视图 · 23 · 蓝翎公子
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create one premium Chinese otome semi-realistic 3D CG character turnaround sheet, 1536 x 1024 landscape 3:2, on solid pure white. Three equal head-and-upper-shoulder close-up panels in one horizontal row: left frontal eye-level, center true 90-degree profile facing screen right, right true 180-degree rear. The same adult fictional character, consistent scale, upright head, matching facial identity, hair, costume and accessories across all three views. Entire hair and ornaments fit within canvas. Refined luminous skin with subtle microtexture, individual groomed hair strands, detailed fabric and metal. Bright neutral studio lighting and soft dimensional shadows. No text, labels, watermark, panel borders, hands, scenery or additional characters. Character design: Male age 25. Long midnight-blue hair half-up, one slim icy silver streak on RIGHT side, small original brushed silver geometric crown clasp. Slate-blue eyes, broad oval face with soft cheek dimples, thicker straight eyebrows, medium slightly curved nose, wide cupid-bow lips, round square chin. Pale peach skin. Sapphire-blue layered brocade robes with navy collar, fine silver leaf embroidery and modest sculpted shoulder guards. Gentle knowing smile. The single white forelock is visible on viewer-right of the FRONT view only; rear hair is entirely dark blue-black with no silver or white streak. Rear ears fully covered by hair.
+
+独立文字提示词由已确认角色描述与本次三视图构图重建，未进行纯文字复现相似度验证；严格锁定身份请结合本图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-closeup-turnaround-26-20260928/originals/character-23-closeup-turnaround.png
+
+实际三视图生成或编辑提示词
+Use case: precise-object-edit. Edit target: the attached full resolution 1536x1024 three-view character sheet. Make ONE precise change only: in the RIGHTMOST REAR-VIEW PANEL recolor the single long white/silver hair streak to the SAME dark blue-black color as the surrounding hair, continuing natural hair texture. The entire rear-view hair must be dark blue-black with no white/gray streak. Critically KEEP the white/silver forelock in the LEFT FRONT VIEW unchanged, running down the viewer-right side of the face and chest. The white forelock exists only in front and cannot be seen from behind. Preserve the left front and center profile panels, facial identity, face, human profile ear, hairstyle shape, clothing, crown, framing, pure white background, lighting, layout, dimensions. Rear ears remain completely concealed. No other changes. Exactly the same triptych, not a new character.
+
+生成依据：
+metadata/evidence/3d-closeup-turnaround-26-20260928-23.json

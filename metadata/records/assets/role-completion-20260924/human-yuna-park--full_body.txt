@@ -1,0 +1,21 @@
+﻿Yuna Park · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+A single full-length studio photograph of a seventeen-year-old girl with short tousled honey-blonde bob, loose side part, blue-gray eyes, light freckles, soft youthful features and no glasses. Burgundy tailored blazer with fine tan piping and brass buttons over white collared shirt and dark V-neck sweater vest, charcoal burgundy subtle plaid pleated skirt, white ankle socks, brown penny loafers. A slim black document folder rests under one arm. Tall slender 7.8-head model proportions with long legs, standing naturally with a slight head tilt and calm direct gaze. Entire hairstyle and shoes visible with floor margin. Bright cream-white seamless studio, soft frontal daylight, open low-contrast shadows, real fine skin and hair texture and woven fabric detail. Portrait 2:3, no text or panels.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-yuna-park--full_body.json
+
+实际带参考图生成提示词
+The sole subject is YUNA, the short honey-blonde bob-haired girl at TOP RIGHT of image1. Preserve her exact face, blue-gray eyes, freckles, youthful seventeen-year-old appearance, short bob with loose side part, no glasses. Image2 outfit reference ONLY: top-left quadrant, LEFTMOST YUNA outfit: burgundy blazer with fine tan piping, white shirt, dark V-neck sweater vest, charcoal muted plaid pleated skirt, white ankle socks and dark brown penny loafers. Keep skirt length age-appropriate. About 7.8 heads tall long-legged proportions. Create ONE independent full-length front-facing studio photograph, entire hairstyle and shoes visible with generous margins, upright head, level shoulders, relaxed natural arms, long slender model proportions with anatomically normal face and limbs. Bright cream-white seamless background, soft frontal daylight, open shadows, delicate natural photographic skin texture, individual hair strands and fabric weave. Copy only the specified person's facial identity, not the other people in the reference boards. No text, labels, collage, panels or other people. Portrait 2:3.
+
+生成依据：
+imports/role-completion-20260924/events/human-yuna-park--full_body.json

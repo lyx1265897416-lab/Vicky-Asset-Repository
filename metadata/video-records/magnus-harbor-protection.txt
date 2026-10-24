@@ -1,0 +1,16 @@
+Vicky 视频样例｜Magnus Thorne · 近身保护 · 港口 V6
+
+类别：状态参考视频
+生图/视频模型：Seedance 2.5
+生成日期：未核实
+入库日期：2026-10-18
+原文件：03_港口_近身保护_角色一致性修订_V6_480p.mp4
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnfWLyj51ZYTBBZROdml2VBb
+文档修订：1619
+SHA-256：2d61b463e2a56815c6d32674effe315c830803926c7b54a4b20c51a5e62f8880
+
+03 港口近身保护｜最终局部编辑 prompt
+港口｜近身抬臂保护｜角色面部一致性修订
+Targeted final skin-tone and facial-identity refinement of this existing harbor video. Reference image1 is the final same-angle identity frame approved in direction by the user with a SLIGHTLY DEEPER BRONZE complexion. Reference image2 is the original exact male front/profile/back master. Preserve the corrected man's identity from these images. Whenever he turns to the camera, closely match image1's exact face shape, eyes/brows/nose/jaw, dark moustache and short beard, black hair and loose forehead strands. Crucially deepen only the natural SKIN ALBEDO by one small tonal step, matching image1: warm bronze/tan face, ear and neck, consistent through the whole head turn. Keep same skin undertone, normal pores, matte response and readable shadows. Do not darken his suit, sky, warehouse, environment or overall exposure. Do not make skin orange, red, gray, dirty, patchy or very dark. No shifting skin tone during motion, no pale face when he looks back. Retain source expressions, head motion, exact pose/timing/lip articulation and natural speaking movement; do not freeze the reference pose or paste a static face. Keep first-person camera close behind him, raised right ARM exiting screen right, hand/fingers entirely OUTSIDE frame, back torso toward viewer, no new people or hands, empty harbor, identical framing and action. Brown eyes only. Preserve original audio exactly, do not regenerate voice, foley or music. Same duration and 9:16 portrait, no added text or subtitles. Only the man's head/visible skin appearance is to be refined; all other image regions and motion should be preserved.
+
+说明：提示词来自文档，原始输入、后期编辑和成片反推分别保留；不是保证一条纯文字提示词可逐帧复现。

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-21",
+  "user_request": "文档中的音色加入音色库",
+  "document_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc",
+  "revision": 1857,
+  "scope": "Six current role voice attachments. Existing byte-identical records are retained; two previously unimported V2 attachments are included by this request. Historical pending-review wording is retained as provenance, not treated as a new instruction.",
+  "preserve_document_audition_bytes": true,
+  "subjective_listening": "Not independently re-auditioned in this import."
+}

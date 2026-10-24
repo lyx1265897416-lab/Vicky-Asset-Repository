@@ -1,0 +1,21 @@
+﻿男角色31组 · 第二版 · 23 · 深色正装 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Use case: photorealistic-natural. Create ONE original fictional adult male character, age 23–27, strikingly handsome with refined youthful romantic-lead appeal, natural charismatic gaze and excellent facial harmony. This must be a new invented person, not a celebrity likeness. Use the individual facial design described below while retaining beauty and subtle natural asymmetry. Clean groomed skin with fine natural pores, no artificial smoothing or exaggerated blemishes, clean-shaven unless specified. A polished yet believable everyday editorial photo, not a passport picture. Vertical 3:4 image, eye-level, head facing forward, direct eye contact, complete hair, both shoulders and half body framed to just above waist, relaxed elegant posture, face prominent. Entire background is flat opaque pure white #FFFFFF, bright soft frontal studio light, low shadow, natural skin texture, slight halation, 50mm lens, shallow depth of field with both eyes sharp. No props, text, logos, watermark, other people, collage, cutout, transparency or vignette. Man with medium olive-brown skin, short wavy black hair and neat close beard, refined self-assured charm, black blazer over pale-gray open shirt. NEW facial design: broad square face, rounded jaw angles, slender arched brows, slightly close-set amber-brown eyes, short rounded nose, full bowed upper lip and medium lower lip. Handsome age 28.
+
+保留本张已确认成图的完整原始纯文生图提示词；随机生成不能保证同脸，需要严格身份一致时同时使用本张已确认成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/male-white-portraits-31-v2-20260923/originals/character-23.png
+
+原始纯文生图提示词
+Use case: photorealistic-natural. Create ONE original fictional adult male character, age 23–27, strikingly handsome with refined youthful romantic-lead appeal, natural charismatic gaze and excellent facial harmony. This must be a new invented person, not a celebrity likeness. Use the individual facial design described below while retaining beauty and subtle natural asymmetry. Clean groomed skin with fine natural pores, no artificial smoothing or exaggerated blemishes, clean-shaven unless specified. A polished yet believable everyday editorial photo, not a passport picture. Vertical 3:4 image, eye-level, head facing forward, direct eye contact, complete hair, both shoulders and half body framed to just above waist, relaxed elegant posture, face prominent. Entire background is flat opaque pure white #FFFFFF, bright soft frontal studio light, low shadow, natural skin texture, slight halation, 50mm lens, shallow depth of field with both eyes sharp. No props, text, logos, watermark, other people, collage, cutout, transparency or vignette. Man with medium olive-brown skin, short wavy black hair and neat close beard, refined self-assured charm, black blazer over pale-gray open shirt. NEW facial design: broad square face, rounded jaw angles, slender arched brows, slightly close-set amber-brown eyes, short rounded nose, full bowed upper lip and medium lower lip. Handsome age 28.
+
+生成依据：
+metadata/evidence/male-white-portraits-31-v2-20260923/23.json

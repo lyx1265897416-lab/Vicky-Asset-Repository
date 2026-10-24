@@ -1,0 +1,50 @@
+﻿阳光少年感男 · ElevenLabs
+项目：英文音色选角 · 2026-10-13
+角色：阳光少年感男
+年龄设计：20–25岁（设计方向）
+身份用途：通用剧情角色
+音色标签：阳光少年感男
+模型：elevenlabs/eleven-v3
+入库依据：用户通过附件 vicky-voice-shortlist.json 选中 M03-elevenlabs-A，并明确要求“这些加入音色库”。
+原始样音：/Users/vicky/Interactive storyline/output/english-voice-auditions-20261013/audio/M03-elevenlabs-A.mp3
+试听/下载文件SHA256：c0da4b7ef7c08260b80d659d4a50477e1cea8a721711231d14033435e233adce
+原始音频（保留）：assets/voices/confirmed-20261013/english-voice-auditions-20261013-M03-elevenlabs-A.mp3
+原始SHA256：5423e43ae768e0febfb7f8a050dd4b91502ce0ca1897f2a0830f2fe5ea9c7910
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.11 LUFS；真实峰值：-2.24 dBTP
+响度处理记录：metadata/voice-loudness/english-voice-auditions-20261013-M03-elevenlabs-A-ee7e559bc44d1966f497.json
+去除开头等待：0.01秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.0秒；总计去除：0.01秒
+当前试听时长：6.95秒
+
+试听台词：
+You came! I saved you the best seat. Come on, the lights are about to go out. Trust me, this is going to be a good night.
+
+声音描述：
+已有预设声线 Liam，用 Eleven v3 生成表演版本。音色描述为选角方向，不是本次创建新声线的参数。
+Native American English. Adult male, 20–25. Studio quality. Bright light tenor with youthful adult energy, open vowels and crisp diction. Lively but intelligible pacing and playful pitch variation. Sincere, optimistic and spontaneous, like a friend with a wonderful idea.
+
+自动台词检查：
+自动转写与台词基本一致，已容许 alright/all right 与 gonna/going to 等写法差异；不是人工逐字校验。
+You came! I saved you the best seat. Come on, the lights are about to go out. Trust me, this is going to be a good night.
+
+已有生成参数：
+{
+  "voice_id": "Liam",
+  "text": "[excited] You came! I saved you the best seat. Come on, the lights are about to go out. Trust me, this is going to be a good night.",
+  "stability": 0.5
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Liam",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech",
+  "reuse_note": "使用同一模型与 voice_id 生成新台词；表演提示可另行调整。"
+}
+确认记录：imports/english-voice-auditions-20261013/confirmation.json
+imports/english-voice-auditions-20261013/jobs/M03-elevenlabs-A.json
+imports/english-voice-auditions-20261013/evidence/auditions.json
+imports/english-voice-auditions-20261013/evidence/transcripts.json
+imports/english-voice-auditions-20261013/evidence/source-notes.json

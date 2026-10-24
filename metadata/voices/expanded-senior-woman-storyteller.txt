@@ -1,0 +1,48 @@
+﻿高龄女讲述者
+项目：通用选角 · 多年龄身份音色
+角色：高龄女讲述者
+年龄设计：80–88岁
+身份用途：旁白与幻想
+音色标签：薄亮、细颗粒、悠悠
+模型：bytedance/seed-audio-1.0
+入库依据：用户要求全面补充不同年龄、身份、性别音色，本条为原创生成并入库的可选音色，尚未逐条主观定版。年龄与身份为设计方向。
+原始样音：https://storage.googleapis.com/waku-core-aicap/aicap/io/acj_cca98d91b9504ad9ababa4f5882c248c/00-b4c5d65c-0b1e-4038-8984-47a5bdf7c18f.mp3
+试听/下载文件SHA256：d03125eb7ce1f5aed69c8cb6793f31da187f14a207c40f652f367943a28c83cf
+原始音频（保留）：assets/voices/expanded-20260928/expanded-senior-woman-storyteller.mp3
+原始SHA256：89b23e9a39f145c2c789366f935bb6169b7744c5c9fe1f207d4be056594d3243
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.04 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/expanded-senior-woman-storyteller-4a4b77d28013e1589d07.json
+去除开头等待：0.07秒；处理后有效声音起点：0.12秒
+缩短过长静音：3处；去除结尾空白：0.0秒；总计去除：8.66秒
+当前试听时长：12.58秒
+
+试听台词：
+There used to be a garden here. Every spring, the gate would disappear behind the roses. I remember the smell more than anything.
+
+声音描述：
+A fictional woman aged eighty-four. Naturally aged light thin mezzo, delicate textured resonance, slightly wavering but intelligible sustained vowels, gentle reflective pauses; dignified vivid storytelling.
+
+自动台词检查：
+自动转写与设定台词逐词一致（不计标点）。
+There used to be a garden here. Every spring, the gate would disappear behind the roses. I remember the smell more than anything.
+
+已有生成参数：
+{
+  "prompt": "Produce a clean studio voice-library audition, ONE original fictional speaker only. Natural General American English. A fictional woman aged eighty-four. Naturally aged light thin mezzo, delicate textured resonance, slightly wavering but intelligible sustained vowels, gentle reflective pauses; dignified vivid storytelling. Dry close microphone, intelligible speech at comfortable loudness. No music, ambience, sound effects, second voice, laughter sound, introductory announcement or spoken directions. Speak ONLY the following exact English words and finish the last word completely, then leave a brief silence: \"There used to be a garden here. Every spring, the gate would disappear behind the roses. I remember the smell more than anything.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "pitch": 0,
+  "speed": 1,
+  "volume": 1
+}
+
+原创设计音色，标签为选角方向。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "后续同音色对白优先使用本样音作为声音参考；文字描述重新生成可能产生声线变化。"
+}
+确认记录：imports/voice-expansion-20260928/authorization.json
+imports/voice-expansion-20260928/receipts/expanded-senior-woman-storyteller.json
+imports/voice-expansion-20260928/transcripts/expanded-senior-woman-storyteller.json
+imports/voice-expansion-20260928/plan.json

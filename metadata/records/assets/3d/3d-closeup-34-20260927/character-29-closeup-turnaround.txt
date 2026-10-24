@@ -1,0 +1,24 @@
+﻿白底3D角色34组 · 特写三视图 · 29 · 银绒·猫耳帽 · 正面/正侧面/背面 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-27
+
+文生图提示词：
+Masculine gentle adult winter fashion character aged 24. Mushroom-gray soft layered fringe with visible eyebrows, gray-blue eyes, delicate angular adult face and natural lips. Off-white chunky cable-knit hoodie with two small softly rounded cat-ear shapes integrated into hood, hood fully visible, zipped up over cream crewneck, modest clothed chest. Relaxed neutral expression, hands out of frame and no finger at lips.
+
+Create one fictional adult in premium semi-realistic 2.5D/3D CG rendering, detailed individually resolved hair strands, natural delicate skin texture and crisp clothing and ornament materials. A landscape 1536x1024, 3:2 close-up head-and-upper-shoulders turnaround sheet. Three equal-width views in one horizontal row: LEFT true straight-on FRONT view with direct gaze, CENTER exact 90-degree PROFILE facing image-left, RIGHT exact 180-degree BACK view with no face visible. Same identity, hairstyle, clothing and accessory locations across all views. Camera at eye height, level upright head, neutral closed lips, matching head scale and crown levels, complete crown in frame. Pure opaque white background, soft even neutral studio lighting, natural cranial proportions. No text, labels, borders, watermarks, extra people, hands or full body.
+Rear view: knitted cat-ear hood is continuous and closed across its back, with no impossible hole or opening.
+
+按已确认身份与成图重建独立提示词，未验证纯文字重生成相似度；严格保持身份请结合原图。侧面和背面为生成补全。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-closeup-34-20260927/originals/character-29-closeup-turnaround.png
+
+最终图生图编辑提示词；完整历史见证据记录
+Edit this existing 1536x1024 character triptych. Keep the LEFT FRONT and CENTER SIDE PROFILE panels unchanged, identical character identity, clothes, lighting, scale, white background and layout. ONLY correct the RIGHT BACK VIEW panel: the character is wearing the hood UP, so the back of their head must be COVERED by the continuous CLOSED exterior knitted hood fabric. Replace the impossible large rear hood opening and exposed back hair with solid opaque matching chunky knitted fabric, rounded anatomically plausible hood volume and a subtle center seam. Keep both knitted cat ears on top and match the hood color and knit from the other two views. Back view must show the exterior of the hood, not its interior rim; absolutely no hole, no exposed hair or ears in right panel. Preserve right-panel shoulders and upper back of sweater. No text or labels.
+
+生成依据：
+metadata/evidence/3d-closeup-34-20260927/29.json

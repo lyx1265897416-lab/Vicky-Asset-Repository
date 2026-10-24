@@ -1,0 +1,26 @@
+﻿原创3D角色28组 28 · 霜白咒使 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create ONE landscape 3:2 full-body turnaround sheet: exactly THREE equal-size head-to-toe figures of the SAME character and costume, left strict FRONT, center strict 90-degree SIDE facing right, right strict BACK. All at same scale, height and foot baseline, all hair and footwear visible, arms naturally down. No extra portraits or panels. Character-specific body: 190 cm, long slender sorcerer silhouette. Approximately 8.0 to 8.2 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Same icy white high-collar mantle with coral lining, antique gold clasps and chains, ankle-length white ceremonial robe under mantle, ornate pale boots, flowing cloth not a modern suit.
+Premium semi-realistic dimensional 3D character CG: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Character design: Male age 30, fantasy sorcerer. Long snowy white hair half gathered, airy center-separated face-framing strands, slim muted coral-pink accent lock on one side. White brows, deep emerald eyes. Long diamond face, high cheekbones, substantial straight nose with angular tip, narrow relaxed lips, squared small chin, distinctly angled brows. Luminous pale skin. ONE small original turquoise diamond sigil at brow center. Icy-white high-collar textured mantle with muted red lining, original geometric antique-gold clasps and fine layered chains. Cool mysterious steady expression.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260927/events/r27-28-body_turnaround.json
+
+实际带参考图生成提示词
+Create ONE landscape 3:2 full-body turnaround sheet: exactly THREE equal-size head-to-toe figures of the SAME character and costume, left strict FRONT, center strict 90-degree SIDE facing right, right strict BACK. All at same scale, height and foot baseline, all hair and footwear visible, arms naturally down. No extra portraits or panels. Reference 1 locks face; reference 2 locks full body and every garment detail. Character-specific body: 190 cm, long slender sorcerer silhouette. Approximately 8.0 to 8.2 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Same icy white high-collar mantle with coral lining, antique gold clasps and chains, ankle-length white ceremonial robe under mantle, ornate pale boots, flowing cloth not a modern suit.
+Premium semi-realistic dimensional 3D character CG matching the reference exactly: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Identity reference: reproduce the supplied approved portrait as the same individual, not a lookalike. Use existing hairstyle and exact costume neckline, no new identity.
+Character identity notes: Male age 30, fantasy sorcerer. Long snowy white hair half gathered, airy center-separated face-framing strands, slim muted coral-pink accent lock on one side. White brows, deep emerald eyes. Long diamond face, high cheekbones, substantial straight nose with angular tip, narrow relaxed lips, squared small chin, distinctly angled brows. Luminous pale skin. ONE small original turquoise diamond sigil at brow center. Icy-white high-collar textured mantle with muted red lining, original geometric antique-gold clasps and fine layered chains. Cool mysterious steady expression.
+
+生成依据：
+imports/role-completion-20260927/events/r27-28-body_turnaround.json

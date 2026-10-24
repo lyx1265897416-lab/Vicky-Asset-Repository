@@ -1,0 +1,21 @@
+﻿服装31组 · 26 · 橄榄棕帆布挎包 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. Generate a NEW photorealistic clothing-library product photograph inspired by the described reference, not a copy of a screenshot. Pure opaque white #FFFFFF seamless background, bright soft frontal studio lighting, minimal soft contact shadow, crisp realistic fabric texture, true garment colors, no dramatic shadows. Portrait 2:3 canvas, complete centered objects with generous clear margin. Front-facing straight camera. No people, skin, head, neck, hands, legs, body, visible mannequin, stand, hanger, room, typography, logos, brand marks, watermarks, borders or collage. ONE isolated accessory product only: One olive-brown canvas crossbody messenger bag with large flap pockets and dark adjustable webbing strap. Large centered catalog object, realistic material texture and precise polished construction. No clothes, no wearing body or mannequin, no outfit, no additional props. A matched pair or integral components of the same product are allowed only when explicitly described.
+
+依据用户参考图的服装、色彩与材质重新生成；纯白无人展示。配饰独立生成，同款跨套装共用。
+
+
+来源：用户31张服装参考 · 参考 26
+
+原始生成提示词：
+Use case: product-mockup. Generate a NEW photorealistic clothing-library product photograph inspired by the described reference, not a copy of a screenshot. Pure opaque white #FFFFFF seamless background, bright soft frontal studio lighting, minimal soft contact shadow, crisp realistic fabric texture, true garment colors, no dramatic shadows. Portrait 2:3 canvas, complete centered objects with generous clear margin. Front-facing straight camera. No people, skin, head, neck, hands, legs, body, visible mannequin, stand, hanger, room, typography, logos, brand marks, watermarks, borders or collage. ONE isolated accessory product only: One olive-brown canvas crossbody messenger bag with large flap pockets and dark adjustable webbing strap. Large centered catalog object, realistic material texture and precise polished construction. No clothes, no wearing body or mannequin, no outfit, no additional props. A matched pair or integral components of the same product are allowed only when explicitly described.
+
+生成依据：
+imports/wardrobe-31-20260928/events/accessory-52.json

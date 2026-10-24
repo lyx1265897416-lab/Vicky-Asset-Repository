@@ -1,0 +1,21 @@
+﻿原创3D角色28组 · 特写三视图 · 22 · 清璃仙姬
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-27
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create one premium Chinese otome semi-realistic 3D CG character turnaround sheet, 1536 x 1024 landscape 3:2, on solid pure white. Three equal head-and-upper-shoulder close-up panels in one horizontal row: left frontal eye-level, center true 90-degree profile facing screen right, right true 180-degree rear. The same adult fictional character, consistent scale, upright head, matching facial identity, hair, costume and accessories across all three views. Entire hair and ornaments fit within canvas. Refined luminous skin with subtle microtexture, individual groomed hair strands, detailed fabric and metal. Bright neutral studio lighting and soft dimensional shadows. No text, labels, watermark, panel borders, hands, scenery or additional characters. Character design: Adult WOMAN age 27, elegant fantasy immortal. Long dark chestnut hair half-up with soft side-parted wisps, jade-gray almond eyes. Distinct adult oval face, longer midface, gently broad cheeks, straight subtly wide nose, tapered rounded jaw, medium arched brows, full rose lips. Luminous warm porcelain skin. Original delicate silver crown with asymmetric aqua crystal sprays, fine dangling earrings, ivory and pale-aqua fantasy gown with modest structured bodice and elegant translucent shoulder drapes, silver filigree necklace. Entire crown visible; arms relaxed down, no T-pose. Dignified serene expression. Long loose hair all cascades behind the shoulders and covers both ears completely in rear view.
+
+独立文字提示词由已确认角色描述与本次三视图构图重建，未进行纯文字复现相似度验证；严格锁定身份请结合本图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-closeup-turnaround-26-20260928/originals/character-22-closeup-turnaround.png
+
+实际三视图生成或编辑提示词
+Use case: precise-object-edit. Image 1 is the EDIT TARGET: a 1536x1024 three-panel character sheet. Edit ONLY the RIGHTMOST third, the full REAR view. The LEFT frontal and CENTER right-facing profile panels are locked; preserve them unchanged, including every facial feature, hair strand, outfit, position, scale and lighting. Do not alter front or side views to match the requested rear correction. If Image 2 is provided, it is the approved FRONT identity/hairstyle reference for anatomical hair routing. The rear must represent the SAME physical hairstyle rotated 180 degrees, using correct side mapping and occlusion. Keep true rear orientation, no face, same head scale and framing, premium semi-realistic 3D CG, pure white background, exactly three views, no labels or extra images. Specific correction: REAR PANEL ONLY: all long brown hair flows freely behind the shoulders and fully across the back, forming a broad continuous curtain. NO sections wrap forward over the chest. Side hair completely covers BOTH human ears in the rear view, with NO exposed ears or earlobes. Preserve exactly the established upper hairstyle, delicate silver/aquamarine headdress and coherent rear attachments; correct lower and side hair flow without adding jewelry.
+
+生成依据：
+metadata/evidence/3d-closeup-turnaround-26-20260928-22.json

@@ -1,0 +1,52 @@
+﻿26岁男声 · 道歉时放下防备 · Eleven v4
+项目：双模型年龄选角 · 2026-10-14
+角色：道歉时放下防备
+年龄设计：26岁（角色目标）
+身份用途：通用剧情角色
+音色标签：道歉时放下防备
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-age-shortlist.json 中将 A26M-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-age-casting-20261014/audio/A26M-eleven.mp3
+试听/下载文件SHA256：e288d8c8a19285550998ac8e85375ccaae05f3f0424f6f3e6a43bf4acef65808
+原始音频（保留）：assets/voices/voice-age-casting-20261014/original/A26M-eleven.mp3
+原始SHA256：91b644c57686b0cca86e7c84d3c77bb8eef54b86bebc3e17069f2f3519ed448b
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.75 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-age-casting-20261014-A26M-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.17秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：9.6秒
+
+试听台词：
+Can I start again? That sounded like I was blaming you. I'm not. I was embarrassed, and I made it your problem. I'm sorry. You didn't deserve that.
+
+声音描述：
+One-to-one unguarded conversation. Uneven thought-led rhythm with one honest emotional shift; no presenter diction or oversized dramatic emphasis.。
+One-to-one unguarded conversation. Uneven thought-led rhythm with one honest emotional shift; no presenter diction or oversized dramatic emphasis. Read each sentence once.
+固定预设 Eric 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Can I start again? That sounded like I was blaming you. I'm not. I was embarrassed, and I made it your problem. I'm sorry. You didn't deserve that.
+
+已有生成参数：
+{
+  "text": "[apologetic] Can I start again? That sounded like I was blaming you. I'm not. I was embarrassed, and I made it your problem. I'm sorry. You didn't deserve that.",
+  "voice_id": "Eric",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Eric",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-age-casting-20261014/confirmation.json
+imports/voice-age-casting-20261014/jobs/A26M-eleven.json
+imports/voice-age-casting-20261014/evidence/roles.json
+imports/voice-age-casting-20261014/evidence/qa.json
+imports/voice-age-casting-20261014/evidence/batch-plan.json

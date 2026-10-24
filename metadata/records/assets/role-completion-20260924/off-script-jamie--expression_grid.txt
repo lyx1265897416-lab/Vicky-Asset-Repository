@@ -1,0 +1,21 @@
+﻿Jamie Reed · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1278 × 1230
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photographic nine-expression reference sheet of fictional adult man age 21, fair lightly freckled skin, tousled chestnut short waves, hazel eyes, youthful cheek volume, straight slim nose, softly defined narrow jaw and natural full rose lips. Clothing: washed charcoal bomber jacket over gray hoodie and white tee, ivory loose cargo trousers and ivory suede shoes. EXACT 3 by 3 grid of nine equal head-and-shoulders closeups, same identity and eye color in every cell, complete hair or ears and hat with margin. Nine distinct restrained emotions: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyance, skepticism, shy affection. Front-facing level camera, head upright, do not change facial anatomy. matte cool-gray studio background, soft cool blue-gray daylight, even fill and subtle film grain. Natural skin pores, clear eyes and real fabric texture. Thin white gutters, no text, captions, other people or extra panels.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/off-script-jamie--expression_grid.json
+
+实际带参考图生成提示词
+Attached image is strict identity reference, preserve exact person or cat, existing age, coloring and photographic texture. Photographic nine-expression reference sheet of fictional adult man age 21, fair lightly freckled skin, tousled chestnut short waves, hazel eyes, youthful cheek volume, straight slim nose, softly defined narrow jaw and natural full rose lips. Clothing: washed charcoal bomber jacket over gray hoodie and white tee, ivory loose cargo trousers and ivory suede shoes. EXACT 3 by 3 grid of nine equal head-and-shoulders closeups, same identity and eye color in every cell, complete hair or ears and hat with margin. Nine distinct restrained emotions: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyance, skepticism, shy affection. Front-facing level camera, head upright, do not change facial anatomy. matte cool-gray studio background, soft cool blue-gray daylight, even fill and subtle film grain. Natural skin pores, clear eyes and real fabric texture. Thin white gutters, no text, captions, other people or extra panels.
+
+生成依据：
+imports/role-completion-20260924/events/off-script-jamie--expression_grid.json

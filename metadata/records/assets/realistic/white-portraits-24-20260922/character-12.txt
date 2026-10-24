@@ -1,0 +1,23 @@
+﻿白底角色24组 · 12 · 深棕卷发白色外搭 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1105 × 1424
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 1105:1424 (approximately 0.776:1), target canvas 1105 × 1424 pixels.
+
+Create one independent photorealistic studio portrait on a completely seamless pure white #FFFFFF background. Bright soft frontal light, balanced fill, low contrast, faint optical halation, natural pores and fine facial hair, detailed real cotton and knit fabric, realistic 50mm perspective, both eyes sharp and background clean. No room, scenery, props, gradient, vignette, frame, collage, text, branding or watermark. Keep the entire hairstyle inside the frame with a small white margin. One fictional young adult woman, approximately 18–22 years old, with voluminous long black-brown waves with center part, warm light olive skin, brown almond eyes, thicker curved dark brows, defined cheekbones, straight nose and full muted-pink lips; black crewneck tee under cream open overshirt, direct confident relaxed gaze. Frame a close head-and-shoulders to mid-torso portrait, both shoulders visible, gaze toward camera, subject large in frame; retain the specifically described head angle and pose. Clean lightly flushed natural skin and light everyday makeup, no heavy eyeliner or glossy beauty retouching.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/white-portraits-24-20260922/originals/character-12.png
+
+生成工具记录的提示词（可能依赖参考图）
+All images: wholly original adult high-school senior aged 18, reference is only a loose mood cue; invent a new face and identity. Seamless pure white studio background, no props, no text, no logos, no watermark. Bright high-key exposure, soft frontal 50mm portrait lighting, low shadow, subtle halation, natural skin texture, realistic hair strands, believable American high-school character-library photography, modest clothing, no celebrity likeness, no copied facial features or exact outfit. Reference 12 mood: confident dark-haired girl in a simple tee. Create a new Latina girl with voluminous shoulder-length black-brown waves, warm brown eyes, confident relaxed gaze, black ribbed crewneck tee under a cream overshirt. Three-quarter chest-up framing.
+
+生成依据：
+metadata/evidence/exec-8a7a5a47-2b8d-4016-aba0-4c08a60d9ca6.json

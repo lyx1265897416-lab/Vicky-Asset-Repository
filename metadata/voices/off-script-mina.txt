@@ -1,0 +1,47 @@
+﻿Mina Shah · 英国英语声线
+项目：别演，吻我 / OFF SCRIPT
+角色：Mina Shah
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。EP07当前生产脚本明确采用此样音的短版作为声音参考；此处保存完整原样音。
+原始样音：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/audio/Mina.mp3
+试听/下载文件SHA256：0a4a1c17b8c35bc982de5fc9fed2fa2aff4370f2bd7376e403660d2d034e8741
+原始音频（保留）：assets/voices/production-20260928/off-script-mina.mp3
+原始SHA256：d062246020b311f38f12b4f2f3aa7900b4e7072199b34934642acc2748dc524c
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.23 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/off-script-mina-29ea376c4b55aea413cb.json
+去除开头等待：2.75秒；处理后有效声音起点：0.12秒
+缩短过长静音：3处；去除结尾空白：0.05秒；总计去除：5.56秒
+当前试听时长：5.36秒
+
+试听台词：
+One more take. Forget the pose. Listen to each other, and let the scene happen.
+
+声音描述：
+清晰干脆的女中低音；有节奏，有温度，不高声训人。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "prompt": "Generate a clean studio dialogue voice audition. ONE original fictional speaker only. No music, no sound effects, no other voices. Voice direction (do not read these instructions aloud): A 29-year-old adult British woman. Natural British London accent, clear focused alto, brisk practical producer voice with warmth, understated dry humour, confident but not shouting. Speak ONLY this English dialogue, naturally, with a brief breath before the line and a subtle pause between sentences: \"One more take. Forget the pose. Listen to each other, and let the scene happen.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/off-script-mina/audio-Mina-request.json
+imports/production-voices-20260928/source-records/off-script-mina/atlas-data.json
+imports/production-voices-20260928/source-records/off-script-mina/prepare.py
+imports/production-voices-20260928/source-records/off-script-mina/requests.json

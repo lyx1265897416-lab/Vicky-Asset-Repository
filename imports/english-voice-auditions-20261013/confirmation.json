@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-13",
+  "kind": "explicit_user_selection",
+  "user_message": "这些加入音色库",
+  "attachment": "user-shortlist.json",
+  "selected_candidate_ids": [
+    "M01-minimax-A",
+    "M03-elevenlabs-A",
+    "M04-elevenlabs-A",
+    "F01-elevenlabs-A",
+    "F03-elevenlabs-A"
+  ],
+  "note": "本条用户消息明确授权将附件清单里的五条已试听候选加入音色库；不包含其他候选。"
+}

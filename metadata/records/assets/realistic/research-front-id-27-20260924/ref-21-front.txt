@@ -1,0 +1,21 @@
+﻿调研白底女角色27组 · 正面平视 · 参考21 · 蜜金半扎发浅绿吊带 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Create one standalone photorealistic female character portrait, 1086 x 1448 pixels, vertical 3:4. Strict frontal eye-level ID-photo composition with the entire head and upper torso visible, centered head and direct gaze, level shoulders, no head tilt or rotation. Balanced left and right cheek widths, cheekbone heights and jaw taper; level eyes and aligned nose, philtrum, lips and chin. Relaxed neutral expression. Solid pure white background, bright soft balanced frontal studio illumination, natural skin pores and fine hair detail, restrained makeup, gentle contrast and coherent warm neutral photographic grading. No scene, text, watermark, border, collage, extra person or visible hands. Honey-blonde long waves half tied with a black bow, fair warm skin, blue-gray eyes, arched brows, pink smiling lips and small hoop earrings. Pale sage shimmering thin-strap top with a gathered center detail.
+
+根据最新确认成图重建独立提示词；未进行纯文字重生成相似度验证，同脸复现需结合成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/research-front-id-27-20260924/originals/ref-21-front.png
+
+原始图生图编辑提示词
+Use case: identity-preserve facial-geometry correction. Edit the supplied portrait of this same character. The previous attempt failed because it retained a wider cheek on one side and a protruding unilateral cheekbone. This time visibly RECONSTRUCT the facial outline with strong bilateral anatomical symmetry, not merely turn the head. Match left and right zygomatic width, cheek volume, jaw angle, jaw taper, and chin contour at corresponding heights. Average the two sides into one balanced face; neither cheekbone should stick out more. Center the facial midsagittal line vertically at exactly half the canvas width: glabella, nose bridge, nose tip, philtrum, lip center and chin aligned. Equal eye heights, eye sizes and distances from midline, equal nostril widths, level mouth corners. Truly zero yaw, zero pitch and zero roll; eye-level straight-on camera and direct gaze. Both sides of the face should have equal apparent width and equal perspective. Neutral relaxed closed lips. Soft perfectly balanced frontal illumination, equal brightness on cheeks, no unilateral contour shadow. Preserve this character's recognizable eye color, skin tone, nose/lip character, age, beauty, hair color and original wardrobe/accessories. Hair may be gently swept clear of BOTH cheek and jaw edges so the complete balanced facial outline is visible; retain the existing hairstyle rather than copying hair across the face. Do NOT preserve the original facial asymmetry. Natural photographic skin texture with symmetric underlying bone structure, not a plastic mask or a visible mirror seam. Centered head, level shoulders square to camera. Exactly 1086 x 1448 pixels, vertical 3:4, same head-and-upper-torso ID portrait framing and white background. One single portrait only; no text, no lines, no collage, no watermark.
+
+生成依据：
+metadata/evidence/research-front-id-27-20260924/21.json

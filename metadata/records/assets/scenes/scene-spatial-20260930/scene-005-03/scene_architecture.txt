@@ -1,0 +1,26 @@
+﻿化妆间 · 建筑图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 化妆间.
+Environment: Empty theatre dressing room with illuminated vanity mirrors, counters, chairs and storage cabinets.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic architectural elevation or cut section of the principal facade / interior wall. Show openings, vertical structure, floor levels, stair and roof relationships where visible. Readable architectural profile with restrained white margin and a short elevation title.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-005-03--scene_architecture.png
+
+参考图辅助生成事件提示词
+Draw only the NORTH interior wall orthographic elevation: three rectangular lightbulb makeup mirrors above the single continuous counter with three stools. Plain wall on both ends. NO doors or windows on this north wall. Cream paint, warm bulbs, worn oak floor narrow strip. White page.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-005-03--scene_architecture.json
+previews/scene-spatial-20260930/visual-review.json

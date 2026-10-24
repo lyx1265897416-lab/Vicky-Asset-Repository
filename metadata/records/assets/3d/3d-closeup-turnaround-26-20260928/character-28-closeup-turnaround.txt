@@ -1,0 +1,21 @@
+﻿原创3D角色28组 · 特写三视图 · 28 · 霜白咒使
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-27
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create one premium Chinese otome semi-realistic 3D CG character turnaround sheet, 1536 x 1024 landscape 3:2, on solid pure white. Three equal head-and-upper-shoulder close-up panels in one horizontal row: left frontal eye-level, center true 90-degree profile facing screen right, right true 180-degree rear. The same adult fictional character, consistent scale, upright head, matching facial identity, hair, costume and accessories across all three views. Entire hair and ornaments fit within canvas. Refined luminous skin with subtle microtexture, individual groomed hair strands, detailed fabric and metal. Bright neutral studio lighting and soft dimensional shadows. No text, labels, watermark, panel borders, hands, scenery or additional characters. Character design: Male age 30, fantasy sorcerer. Long snowy white hair half gathered, airy center-separated face-framing strands, slim muted coral-pink accent lock on one side. White brows, deep emerald eyes. Long diamond face, high cheekbones, substantial straight nose with angular tip, narrow relaxed lips, squared small chin, distinctly angled brows. Luminous pale skin. ONE small original turquoise diamond sigil at brow center. Icy-white high-collar textured mantle with muted red lining, original geometric antique-gold clasps and fine layered chains. Cool mysterious steady expression. Long white hair falls entirely behind the shoulders and conceals both ears in rear view.
+
+独立文字提示词由已确认角色描述与本次三视图构图重建，未进行纯文字复现相似度验证；严格锁定身份请结合本图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-closeup-turnaround-26-20260928/originals/character-28-closeup-turnaround.png
+
+实际三视图生成或编辑提示词
+Use case: precise-object-edit. Image 1 is the EDIT TARGET: a 1536x1024 three-panel character sheet. Edit ONLY the RIGHTMOST third, the full REAR view. The LEFT frontal and CENTER right-facing profile panels are locked; preserve them unchanged, including every facial feature, hair strand, outfit, position, scale and lighting. Do not alter front or side views to match the requested rear correction. If Image 2 is provided, it is the approved FRONT identity/hairstyle reference for anatomical hair routing. The rear must represent the SAME physical hairstyle rotated 180 degrees, using correct side mapping and occlusion. Keep true rear orientation, no face, same head scale and framing, premium semi-realistic 3D CG, pure white background, exactly three views, no labels or extra images. Specific correction: REAR PANEL ONLY: all long white hair flows behind the shoulders and fully across the back as a broad continuous loose curtain, no sections routed forward to the chest. Both human ears must be completely covered by white side hair, no exposed ears or earlobes. Preserve the white hair's fine pink streaks, high tied portion, same gold crown and pin, red tassel and ivory costume. Do not change any ornament or invent new accessories.
+
+生成依据：
+metadata/evidence/3d-closeup-turnaround-26-20260928-28.json

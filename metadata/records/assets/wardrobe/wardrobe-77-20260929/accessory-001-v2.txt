@@ -1,0 +1,21 @@
+﻿服装77图 · 001/005/008/009/010/013/018/019/020/022/023/024/025 · 黑色宽布发带 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. One broad black soft satin/velvet fabric headband, a complete closed stretchy fabric loop, worn across the forehead; no rigid plastic U shape.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户77张服装参考 · 1 top left / 1 bottom middle / 3 left / 3 middle / 3 right / 4 top right / 5 middle / 5 right / 6 top left / 6 top right / 6 bottom left / 6 bottom middle / 6 bottom right
+
+原始生成提示词：
+Professional photorealistic single accessory product photo. Make ONLY one broad black soft fabric forehead headband, a complete closed stretchy fabric loop, no rigid U-shaped plastic. Use headband of top-left model as design reference. No clothing or head. Pure white background, soft light, entire accessory and fastening visible, portrait 2:3 1024x1536. No person, skin, mannequin, clothes, other objects, text or watermark.
+
+生成依据：
+imports/wardrobe-77-20260929/events/accessory-001-v2.json

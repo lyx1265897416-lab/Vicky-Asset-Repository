@@ -1,0 +1,21 @@
+﻿29 · 银绒·猫耳帽 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Adult man aged 25. Masculine gentle adult winter fashion character aged 24. Mushroom-gray soft layered fringe with visible eyebrows, gray-blue eyes, delicate angular adult face and natural lips. Off-white chunky cable-knit hoodie with two small softly rounded cat-ear shapes integrated into hood, hood fully visible, zipped up over cream crewneck, modest clothed chest. Cozy quiet smile, hands out of frame and no finger at lips. Complete the off-white cable-knit cat-ear hooded zip cardigan with cream straight-leg wool trousers and clean ivory low-top sneakers. Hood stays worn up in every view. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Exactly nine head-and-shoulders portraits of this ONE SAME person in a clean 3 by 3 equal panel expression grid, every face front-facing eye-level same scale and consistent face hair clothes. Row1 neutral, gentle closed-mouth smile, happy open smile; row2 surprise mouth O, worried frown, quiet sadness; row3 focused anger, skeptical raised eyebrow, playful small wink. Expressions clearly distinct but attractive and natural. Full hair and shoulders inside each cell. Square overall canvas. Narrow white gutters, no text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-29--expression_grid.json
+
+实际带参考图生成提示词
+Use attached approved portrait as strict identity, hairstyle, accessory and visual-style reference. Preserve THIS specific face and premium 3D look. Adult man aged 25. Masculine gentle adult winter fashion character aged 24. Mushroom-gray soft layered fringe with visible eyebrows, gray-blue eyes, delicate angular adult face and natural lips. Off-white chunky cable-knit hoodie with two small softly rounded cat-ear shapes integrated into hood, hood fully visible, zipped up over cream crewneck, modest clothed chest. Cozy quiet smile, hands out of frame and no finger at lips. Complete the off-white cable-knit cat-ear hooded zip cardigan with cream straight-leg wool trousers and clean ivory low-top sneakers. Hood stays worn up in every view. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Exactly nine head-and-shoulders portraits of this ONE SAME person in a clean 3 by 3 equal panel expression grid, every face front-facing eye-level same scale and consistent face hair clothes. Row1 neutral, gentle closed-mouth smile, happy open smile; row2 surprise mouth O, worried frown, quiet sadness; row3 focused anger, skeptical raised eyebrow, playful small wink. Expressions clearly distinct but attractive and natural. Full hair and shoulders inside each cell. Square overall canvas. Narrow white gutters, no text.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-29--expression_grid.json

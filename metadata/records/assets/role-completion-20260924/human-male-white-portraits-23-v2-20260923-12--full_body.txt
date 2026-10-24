@@ -1,0 +1,21 @@
+﻿男角色第二版 12 · 端正可靠 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic studio character asset. A 29-year-old East Asian man with a close crew cut and translucent smoke-gray rectangular glasses, plain black tee, solid everyday build. Facial features: long trapezoid face with heavier lower jaw, close-set hooded eyes, fine high arched brows, long broad-bridge nose, narrow mouth with full lower lip, slight chin cleft and uneven skin texture. Neutral friendly gaze. One independent single full-body front portrait, head to soles fully visible with generous white margins. Upright head, level shoulders, arms relaxed naturally. Tall8.2-head proportions, long legs while retaining original slim or sturdy build. Complete outfit with charcoal straight denim and black low-top sneakers. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve adult individuality without model beautification.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-12--full_body.json
+
+实际带参考图生成提示词
+Use reference to preserve exact same adult man, face, haircut, age, skin details and clothes. Photorealistic studio character asset. A 29-year-old East Asian man with a close crew cut and translucent smoke-gray rectangular glasses, plain black tee, solid everyday build. Facial features: long trapezoid face with heavier lower jaw, close-set hooded eyes, fine high arched brows, long broad-bridge nose, narrow mouth with full lower lip, slight chin cleft and uneven skin texture. Neutral friendly gaze. One independent single full-body front portrait, head to soles fully visible with generous white margins. Upright head, level shoulders, arms relaxed naturally. Tall8.2-head proportions, long legs while retaining original slim or sturdy build. Complete outfit with charcoal straight denim and black low-top sneakers. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve adult individuality without model beautification.
+
+生成依据：
+imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-12--full_body.json

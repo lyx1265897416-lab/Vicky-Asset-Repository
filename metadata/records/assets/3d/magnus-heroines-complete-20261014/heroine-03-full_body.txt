@@ -1,0 +1,21 @@
+﻿Magnus 女主 03 · 赤铜晴焰 · 全身照
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-14
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. One full-body frontal standing woman, long-lens undistorted view, complete head and shoes, relaxed arms, portrait 2:3. Graceful natural adult proportions about 7.8 heads tall. Character design: 25-year-old adult human woman. Copper-auburn shoulder-length loose curls, wispy asymmetrical fringe, blue-gray slightly hooded eyes. Compact oval face, wider cheeks, straight short nose with rounded tip, strong natural auburn brows, wider mouth with a distinctive fuller lower lip and subtle smile dimple. Fair peach skin with visible delicate freckles on nose and cheeks. Witty alert closed-mouth smile and confident playful gaze, clearly adult. Rust-red leather cropped jacket over a fully opaque ecru scoop-neck cotton shirt, small gold hoop earrings, no hairband. Contemporary creative city woman with lively courage, no childish styling. Current outfit (supersedes any conflicting clothing above): Fashion-forward contemporary city outfit: a sharply tailored BURNT-COPPER cropped leather biker jacket with defined shoulder seams and tapered waist, hem just above the waist, over the same fitted opaque ecru scoop-neck top tucked in. High-waisted charcoal structured A-line mini skirt, tasteful mid-thigh hem, subtle off-center wrap seam and small gunmetal buckle, no excessive straps. Sleek black knee-high fitted leather boots with almond-point toes and elegant 5cm heels. Bare knees, no tights. Keep original small gold hoops. Balanced graceful 7.8-head adult proportions with long legs, natural hips and waist, elegant neck, NOT oversized head, not extreme thinness. Contemporary spirited editorial fashion, not generic jeans and ankle boots.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-03-full_body.png
+
+实际生成提示词
+Use case: identity-preserve. Image 1 is the approved FACE IDENTITY reference; preserve this exact adult woman's facial geometry, eye color, skin tone, freckles, hair and jewelry. Image 2 is the REJECTED full-body version; redesign its body proportions and fashion as specified, do not repeat its outfit silhouette. Create ONE premium otome 2.5D/3D full-body frontal standing character portrait, 1024x1536, pure white backdrop, neutral bright studio light. Full head and both shoes visible with white margins. Camera level at mid torso, long-lens perspective, avoid foreshortening or wide-angle. Graceful upright posture, relaxed arms and empty hands. Visibly rendered delicate CG consistent with identity portrait, subtle skin texture, detailed hair strands. Aim 7.8 heads from skull crown to sole, long balanced legs, correctly placed knees, normal hands, refined shoulders/neck, natural healthy adult anatomy. Do not change identity. No text, watermark, additional characters or scene. Outfit and silhouette: Fashion-forward contemporary city outfit: a sharply tailored BURNT-COPPER cropped leather biker jacket with defined shoulder seams and tapered waist, hem just above the waist, over the same fitted opaque ecru scoop-neck top tucked in. High-waisted charcoal structured A-line mini skirt, tasteful mid-thigh hem, subtle off-center wrap seam and small gunmetal buckle, no excessive straps. Sleek black knee-high fitted leather boots with almond-point toes and elegant 5cm heels. Bare knees, no tights. Keep original small gold hoops. Balanced graceful 7.8-head adult proportions with long legs, natural hips and waist, elegant neck, NOT oversized head, not extreme thinness. Contemporary spirited editorial fashion, not generic jeans and ankle boots.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-03-full_body.json

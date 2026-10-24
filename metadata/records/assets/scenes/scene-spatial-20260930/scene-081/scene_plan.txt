@@ -1,0 +1,26 @@
+﻿多题材场景60组 · 33 · 竹林闭关小院 · 户型图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-01
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 多题材场景60组 · 33 · 竹林闭关小院.
+Environment:  A quiet Chinese cultivation retreat in a bamboo grove, small cream plaster cottage with gray upturned tile roof, warm timber lattice door open to an empty meditation cushion, low tea tray on a stone veranda, a narrow clear stream and stepping stones in foreground. Bamboo-filtered bright diffuse light, tactile natural moss and stone, original xianxia serenity, no people or animals.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic overhead CONCEPT PLAN. Depict footprint, connected zones, wall thickness, doors, windows, stairs, furniture footprints and circulation. For outdoors use a site plan of paths, terrain, bridges and water instead of domestic rooms. North is only design orientation. Compact labels; no invented metric dimensions. Flat diagram on white background.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-081--scene_plan.png
+
+参考图辅助生成事件提示词
+Produce a flat CAD-style 2D concept floor/site plan for the reference location. This is a diagram, NOT an illustration or isometric rendering. Camera perpendicular 90 degrees to ground; ALL furniture/structures horizontal footprint symbols only. ABSOLUTELY NO VERTICAL SURFACES OR SCENERY OR OBJECT FRONTS. Black filled wall strips, three thin parallel window lines, door quarter-circle arcs, furniture simple top-down rectangles/circles, stairs parallel lines with UP arrow. White background, flat pale zone colors. No lighting, shadows, depth, photographic textures or fake dimensions. Clearly label zones and access; infer unseen boundaries conservatively as dashed lines. Preserve exact major structure/door/window/furniture layout. Outdoors use paths, terrain contours, tree circles and water polygons. No people/animals. Title CONCEPT PLAN. Same scene: 多题材场景60组 · 33 · 竹林闭关小院 Use ONLY FLAT CAD SYMBOLS, like real estate floor plans or satellite maps. No wall fronts, no horizon, no room illustration. Every object is seen vertically from directly above. NO SCALE BAR OR DIMENSIONS.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-081--scene_plan.json
+previews/scene-spatial-20260930/visual-review.json

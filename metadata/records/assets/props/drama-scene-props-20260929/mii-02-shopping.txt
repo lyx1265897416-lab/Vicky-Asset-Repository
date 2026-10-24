@@ -1,0 +1,22 @@
+﻿咪养你 · 采购道具与包装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: precise-object-edit. Create one NEW high-resolution prop asset BOARD reconstructed for a cozy cat-care drama, not a crop or a storyboard. 4 columns × 3 rows, exactly 12 equal white cells, square or landscape canvas. Pure white seamless backgrounds, faint contact shadows, clean realistic product photography, matte natural materials, neutral soft daylight, no orange cast, no oily glossy CGI. Each cell contains ONLY the listed object or coherent set, fully visible and unobstructed with margin. Remove ALL cats, people, hands, body parts, rooms, scenery, dialogue, interface overlays, brands and watermarks. No labels or lettering except requested physical markings. Use the detailed shapes, colors and materials specified below. Rows left-to-right in this order: 1. empty small beige canvas shopping trolley on BLACK metal frame, two black wheels and black pull handle, front pocket as reference; 2. folded natural canvas grocery tote with handles; 3. small insulated grocery pouch with silver thermal interior and neutral fabric exterior; 4. small brown leather zip coin purse; 5. single cream grocery checklist with small egg, tomato, spinach illustrations and checkboxes, no readable words; 6. long narrow folded thermal shopping receipt with small nonlegible lines; 7. beige molded pulp egg carton open with six brown eggs; 8. clear clamshell box red strawberries; 9. clear closed clamshell box blueberries; 10. two small metal tomato cans with simple cream/red tomato illustration labels, no brand; 11. transparent bag green spinach leaves; 12. small white-and-blue cat food pouch, simple generic kibble icon, no brand, no realistic animal image. White product catalog, exact set.
+
+依据剧情画面及剧本道具描述重新生成，非原画面像素裁切。格序按从左至右、从上至下。具体轮廓纹理可能与原画面有细微差异；不将剧情中不可见细节视作已核实。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-reconstructed-20260929/mii-02-shopping.png
+
+原始生成提示词：
+Edit target: the attached prop board. Preserve ALL twelve objects and their shapes colors materials and 4x3 layout exactly. Replace ALL background and all transparency with solid fully opaque pure white. Remove every black/red/yellow pixel artifact in the empty background. Normal RGB product photography on white background, soft neutral contact shadows. Do not make transparent cutouts. Fully opaque white canvas. No new objects.
+
+生成依据：
+imports/drama-scene-props-20260929/evidence/mii-02-shopping.json
+imports/drama-scene-props-20260929/approval.json

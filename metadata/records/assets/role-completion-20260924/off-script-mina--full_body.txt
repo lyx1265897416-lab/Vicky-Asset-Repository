@@ -1,0 +1,21 @@
+﻿Mina Shah · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+One independent full-length studio photograph of adult woman age23 with medium warm-brown skin, thick dark eyebrows, brown almond eyes, medium straight nose, softly angular oval face, full lips and chin-length side-parted dark wavy bob, tiny silver studs. Wearing navy V-neck sweater over white collared shirt with visible hem, wide faded blue jeans, white sneakers, brown suede shoulder bag. Slender tall natural 7.7-head proportions with long legs, preserve original adult age and individual build. Perfect front-facing, level head and eyes, neutral expression, relaxed arms at sides, hands visible and feet on ground. Entire hair crown or hat and all shoes visible with generous whitespace, centered vertical2:3. Plain matte cool-gray studio background and matching floor, soft cool blue-gray daylight with even fill, subtle fine film grain, real pores, fine hair, matte skin, natural cloth weave, realistic85mm lens perspective. No stylized3D, wax skin, heavy retouching, strong warm tint, dramatic lighting or watermark. No collage, no labels, no other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/off-script-mina--full_body.json
+
+实际带参考图生成提示词
+Reference1 is authoritative facial identity and reference2 exact wardrobe. Preserve this individual and all current design choices. One independent full-length studio photograph of adult woman age23 with medium warm-brown skin, thick dark eyebrows, brown almond eyes, medium straight nose, softly angular oval face, full lips and chin-length side-parted dark wavy bob, tiny silver studs. Wearing navy V-neck sweater over white collared shirt with visible hem, wide faded blue jeans, white sneakers, brown suede shoulder bag. Slender tall natural 7.7-head proportions with long legs, preserve original adult age and individual build. Perfect front-facing, level head and eyes, neutral expression, relaxed arms at sides, hands visible and feet on ground. Entire hair crown or hat and all shoes visible with generous whitespace, centered vertical2:3. Plain matte cool-gray studio background and matching floor, soft cool blue-gray daylight with even fill, subtle fine film grain, real pores, fine hair, matte skin, natural cloth weave, realistic85mm lens perspective. No stylized3D, wax skin, heavy retouching, strong warm tint, dramatic lighting or watermark. No collage, no labels, no other people.
+
+生成依据：
+imports/role-completion-20260924/events/off-script-mina--full_body.json

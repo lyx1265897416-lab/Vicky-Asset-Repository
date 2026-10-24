@@ -1,0 +1,23 @@
+﻿Aria Solano · confirmed level-eye face turnaround
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1215 × 1295
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 243:259 (approximately 0.938:1), target canvas 1215 × 1295 pixels.
+
+Make a 2 by 2 facial turnaround sheet of one consistent fictional person. Aria, a 17-year-old girl with fair lightly freckled skin, large gray-blue eyes, soft dark eyebrows, delicate oval face, small straight nose, full natural rose lips, long chestnut-brown hair loosely parted near the center, black rectangular eyeglasses and small gold hoop earrings. White shirt collar and dark green sweater visible. Top-left full straight-on eye-level face, chin level and both eyes horizontally aligned; top-right true 90-degree profile facing right; bottom-left opposite 90-degree profile facing left; bottom-right three-quarter portrait. Glasses remain identical at each angle, fine clear lenses, same hairline and jaw, equal head scale from full hair crown to upper chest, neutral closed lips. Plain pale cream background, thin white dividers and tiny discreet view labels. Photorealistic live-action character photography, bright high-key cream-white exposure, soft frontal window daylight with generous fill, warm-neutral skin and pale ivory surroundings, low shadow density without flat or blown-out faces, subtle optical halation, realistic 50mm portrait perspective, fine individual hairs, faint freckles and visible natural pores. Youthful unretouched skin, restrained natural lips, no heavy makeup, oily gloss, plastic skin, HDR, dark teal-orange grading, anime or 3D rendering.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：assets/the_ninth_inning/v2_trendy/aria_face_orthographic.png
+
+生成工具记录的提示词（可能依赖参考图）
+Use case: photorealistic-natural. Asset type: identity reference sheet. Use the supplied image as the strict identity reference for Aria, specifically the upper-right female portrait. Create a clean orthographic facial close-up sheet with four equal panels: exact full frontal eye-level portrait, exact left 90-degree profile, exact right 90-degree profile, and exact 3/4 view. Aria must keep the same youthful European-American face, chestnut-brown medium-long center-parted hair, gray-blue eyes, black rectangular glasses, light freckles, same brow/nose/lip proportions and soft youthful jawline. Keep head upright, eyes on a perfectly horizontal level, camera at eye height, no chin up or down, no perspective distortion, no smile changes between panels, no hairstyle changes. Pale warm-cream background, soft frontal daylight, low contrast, natural skin microtexture, realistic live-action teen drama character bible photography. Show head and shoulders only, no clothing redesign, no text except tiny technical view labels, no logos, no mature face, no Asian facial features, no anime, no illustration, no 3D render, no beauty retouching. Keep the glasses in every view.
+
+生成依据：
+metadata/evidence/exec-085c4dd1-b165-4c36-9646-01077ec151b9.json

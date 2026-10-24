@@ -1,0 +1,46 @@
+﻿米粒 · 明亮活泼
+项目：海王子的准新娘
+角色：米粒 / Millie
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-speech-tts-2.0
+入库依据：用户明确要求「只改女主的音色，其他人的音色不改！」，保留当时既定声线。
+原始样音：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/audio/MIL.mp3
+试听/下载文件SHA256：10ccc874f5e4fcbc3e98cea8b1d4a22db51952ae31fbc3ab8bff7da3e5ec0844
+原始音频（保留）：assets/voices/confirmed-20260928/sea-mil.mp3
+原始SHA256：fcbf04bbf00c61474337f53a7e810d141b430614129fe2756c3db0cea66aec9a
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.28 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/sea-mil-1ea9677814f30ae94bb0.json
+去除开头等待：0.24秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.186秒；总计去除：0.426秒
+当前试听时长：9.63秒
+
+试听台词：
+I came for one shot of the reef. One! Somehow you found a secret palace and a very pretty problem. I'm okay, Skye. Make sure you are, too.
+
+声音描述：
+Young adult female 21, bright warm mid-high speaking register, quick playful first two sentences, smiling without squeaking, then genuine caring lower energy. Natural English, distinct lively friend voice, not cartoon. All dialogue must use consistent General American English; preserve individual timbre and age. No British or mixed-accent performance.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "text": "I came for one shot of the reef. One! Somehow you found a secret palace and a very pretty problem. I'm okay, Skye. Make sure you are, too.",
+  "voice": "mindy_en_es_id_pt_zh",
+  "language": "en",
+  "output_format": "mp3",
+  "sample_rate": 24000,
+  "speed": 1,
+  "voice_instruction": "Young adult female 21, bright warm mid-high speaking register, quick playful first two sentences, smiling without squeaking, then genuine caring lower energy. Natural English, distinct lively friend voice, not cartoon."
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/confirmed-voices-20260928/approval-evidence.json
+imports/confirmed-voices-20260928/source-records/sea-mil/voices.json
+imports/confirmed-voices-20260928/source-records/sea-mil/voice-MIL.json

@@ -1,0 +1,21 @@
+﻿白底女角色32组 07 · 雀斑刘海孔雀蓝T恤 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photographic full-body three-view turnaround of a fictional adult woman with balanced oval face, warm brown eyes, freckles and full muted rose lips. Produce a clean horizontal FULL BODY three-view turnaround: frontal, true 90-degree profile facing right, straight back, three evenly spaced complete figures with hair tops and soles aligned. Dark brown shoulder-length shaggy layered hair with straight wispy bangs, brown eyes, freckles, balanced symmetrical oval face, rose lips, thin hoop earrings. Peacock teal short-sleeve cotton crewneck tucked into high-rise light-wash wide-leg jeans and plain off-white canvas sneakers. Slender long-legged natural model proportions 7.8 heads tall, complete hands and shoes visible, neutral upright posture and arms relaxed by sides. Exact same person, hair length, outfit, body size and footwear in all panels. Photographic realism, high-key white seamless studio and floor, broad soft frontal daylight, open shadows, pores and fine hair and denim details. No text or decorative borders, no extra portraits or people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-front-id-32-20260923-07--body_turnaround.json
+
+实际带参考图生成提示词
+Exact same woman as image1 identity and image2 outfit and proportions. Produce a clean horizontal FULL BODY three-view turnaround: frontal, true 90-degree profile facing right, straight back, three evenly spaced complete figures with hair tops and soles aligned. Dark brown shoulder-length shaggy layered hair with straight wispy bangs, brown eyes, freckles, balanced symmetrical oval face, rose lips, thin hoop earrings. Peacock teal short-sleeve cotton crewneck tucked into high-rise light-wash wide-leg jeans and plain off-white canvas sneakers. Slender long-legged natural model proportions 7.8 heads tall, complete hands and shoes visible, neutral upright posture and arms relaxed by sides. Exact same person, hair length, outfit, body size and footwear in all panels. Photographic realism, high-key white seamless studio and floor, broad soft frontal daylight, open shadows, pores and fine hair and denim details. No text or decorative borders, no extra portraits or people.
+
+生成依据：
+imports/role-completion-20260924/events/human-front-id-32-20260923-07--body_turnaround.json

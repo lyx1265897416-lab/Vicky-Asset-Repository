@@ -1,0 +1,22 @@
+﻿电影场景第1批 · 02 · 夏日别墅早餐露台
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: a quiet northern Italian country villa's shaded breakfast loggia on a luminous summer morning. Weathered ivory stucco arches, faded sage shutters on one side, pale limestone floor, worn honey-brown small table with an off-white linen cloth, two mismatched cane chairs, two small coffee cups and a bowl of apricots. Camera is beneath the loggia looking diagonally through an arch toward soft orchard greens and a pale gravel footpath. A linen curtain lifted very slightly by breeze, no dramatic sunbeams. Foreground table clipped naturally at left, center clear, distant lawn readable. Beautiful imperfect lived-in villa, restrained material patina. Research inspiration: Call Me by Your Name's inherited lived-in villa and garden, entirely original layout. Emotion: summer intimacy, an unfinished conversation.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/film-scenes-20260928/images/02-summer-terrace.png
+
+生成事件提示词
+Generate one original cinematic environment photograph, landscape 3:2, full bleed, no collage, no borders, no captions. A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: a quiet northern Italian country villa's shaded breakfast loggia on a luminous summer morning. Weathered ivory stucco arches, faded sage shutters on one side, pale limestone floor, worn honey-brown small table with an off-white linen cloth, two mismatched cane chairs, two small coffee cups and a bowl of apricots. Camera is beneath the loggia looking diagonally through an arch toward soft orchard greens and a pale gravel footpath. A linen curtain lifted very slightly by breeze, no dramatic sunbeams. Foreground table clipped naturally at left, center clear, distant lawn readable. Beautiful imperfect lived-in villa, restrained material patina. Research inspiration: Call Me by Your Name's inherited lived-in villa and garden, entirely original layout. Emotion: summer intimacy, an unfinished conversation.
+
+生成依据：
+imports/film-scenes-01-20260928/events/02.json
+previews/film-scenes-20260928/verification.json

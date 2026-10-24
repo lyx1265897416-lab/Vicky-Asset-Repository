@@ -1,0 +1,21 @@
+﻿Magnus 女主 02 · 墨夜清醒 · 全身照
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Premium otome 2.5D/3D semi-realistic CG adult female character; subtly textured luminous skin, individual hair strands, detailed cloth and metal. Pure white backdrop, bright neutral studio light. No labels, logos or watermark. One full-body frontal standing woman, long-lens undistorted view, complete head and shoes, relaxed arms, portrait 2:3. Graceful natural adult proportions about 7.8 heads tall. Character design: 28-year-old adult human woman. Sleek black blunt jaw-length bob with a deep side part, dark brown narrow almond eyes. Long angular oval face, high sculpted cheekbones, broad straight brows, prominent slightly convex nose bridge, defined wide cupid-bow lips, strong softly squared jaw. Light olive complexion. A calm appraising direct gaze and a faint asymmetric closed-mouth smile. Tailored charcoal blazer worn over a fully opaque ivory silk crew-neck blouse, minimalist silver bar earrings. Refined modern professional, confident and independent, an intellectual equal to a powerful man. Subtle natural makeup, no glasses. Current outfit (supersedes any conflicting clothing above): The charcoal tailored blazer is hip-length over the ivory blouse. Add matching high-waisted charcoal straight-leg tailored trousers and black leather loafers. Tall slim adult physique, about 173 cm and 7.7 heads tall.
+
+独立提示词已重建；未经纯文字复现验证。严格保持身份请使用对应角色身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/magnus-heroines-complete-20261014/originals/heroine-02-full_body.png
+
+实际生成提示词
+Use case: identity-preserve. Input image 1 is the APPROVED identity portrait of one fictional adult woman. Preserve her specific face, eyes, nose, lips, cheek and jaw proportions, skin tone, freckles/beauty marks, hairline, hair color, hairstyle, makeup, earrings, necklace and existing upper costume EXACTLY. This is the same character, never redesign her. Premium otome 2.5D/3D semi-realistic CG, luminous subtly textured skin, individual hair strands, detailed fabric and metal. Pure solid white #FFFFFF backdrop, bright neutral soft studio light, no scenery, text, logos, watermarks or labels. Create ONE solo FULL-BODY frontal eye-level standing portrait, portrait 1024x1536. Entire head and feet inside canvas, generous clean margin above hair and below soles. Natural 7–8 heads adult proportions, no enlarged head, no exaggerated waist. Head upright and looking straight at viewer; relaxed symmetrical stance, arms comfortably separated from torso, empty hands at sides, five fingers each. A complete practical modern outfit matching her upper clothing. The charcoal tailored blazer is hip-length over the ivory blouse. Add matching high-waisted charcoal straight-leg tailored trousers and black leather loafers. Tall slim adult physique, about 173 cm and 7.7 heads tall.
+
+生成依据：
+metadata/evidence/magnus-heroines-complete-20261014-02-full_body.json

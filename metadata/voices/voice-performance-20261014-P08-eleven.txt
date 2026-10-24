@@ -1,0 +1,52 @@
+﻿重逢时藏不住的心动 · Eleven v4
+项目：角色表演试听 · 2026-10-14
+角色：重逢时藏不住的心动
+年龄设计：24岁（角色目标）
+身份用途：通用剧情角色
+音色标签：重逢时藏不住的心动
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-performance-shortlist.json 中将 P08-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-performance-20261014/audio/P08-eleven.mp3
+试听/下载文件SHA256：a2f943e14ff51b5a8c164ebca5a79f76e33cb57b80803949d358b947020fc0b2
+原始音频（保留）：assets/voices/voice-performance-20261014/original/P08-eleven.mp3
+原始SHA256：71a34093adecee15124ebe687628989d6b2c30bde106acab17482eb1819a66b4
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-22.23 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-performance-20261014-P08-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.09秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：13.44秒
+
+试听台词：
+Hey. You cut your hair. It looks... yeah, it looks good. I had this whole speech ready, and now you're here, and I can't remember any of it. I missed you. That's all.
+
+声音描述：
+轻松寒暄破功，最后坦白。
+A private reunion with someone she loves. An awkward half-smile and a searching pause, amused at herself, then a plain honest confession. Underplayed close conversation.
+固定预设 Jessica 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Hey, you cut your hair. It looks yeah, it looks good I had this whole speech ready and now you're here and I can't remember any of it. I missed you. That's all
+
+已有生成参数：
+{
+  "text": "[nervous] Hey. You cut your hair. It looks... yeah, it looks good. [small laugh] I had this whole speech ready, and now you're here, and I can't remember any of it. [softly] I missed you. That's all.",
+  "voice_id": "Jessica",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Jessica",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-performance-20261014/confirmation.json
+imports/voice-performance-20261014/jobs/P08-eleven.json
+imports/voice-performance-20261014/evidence/roles.json
+imports/voice-performance-20261014/evidence/qa.json
+imports/voice-performance-20261014/evidence/production-notes.json

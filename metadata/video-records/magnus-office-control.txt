@@ -1,0 +1,16 @@
+Vicky 视频样例｜Magnus Thorne · 冷静掌控 · 顶层办公室
+
+类别：状态参考视频
+生图/视频模型：未明确披露（制作包保留实际作业记录）
+生成日期：未核实
+入库日期：2026-10-18
+原文件：01_冷静掌控_顶层办公室_表演新版_480p.mp4
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnvwZA2GMJtWRvYqihv63LNd
+文档修订：1619
+SHA-256：279f477d5db7692ae0875392887fbea5357b0d0b816a0a9fd9affaf0f5497fd3
+
+01 顶层办公室｜生成 prompt
+冷静掌控｜顶层办公室
+A six-second dramatic scene in portrait 9:16, realistic refined 3D game CG. Use the reference for the exact adult Magnus Thorne identity, face, black hair, bronze skin, beard, black suit and physical environment. Preserve its restrained matte lighting and fabric/skin detail. BOTH irises remain DARK BROWN in every frame, no gold, yellow or glowing eyes: this is an ordinary plot scene, not the established climax. Natural human motion with decisive starts, real momentum, and soft settling. His thought and action continue through the spoken line; face, hands and torso do not take turns performing separate commands. React to the scene partner, not to a photography session. Economical purposeful gestures, asymmetrical weight, eyes leading a turn naturally. No prolonged neutral stare, no evenly paced head rotation, no repeated nod/blink cycle, no rigid puppet shoulders, no slow motion. One coherent shot. Keep hands anatomically connected and objects physically stable. All dialogue in fluent natural English, one male speaker, no additional words. Mature low chest baritone, lightly husky conversational tone with changing stress and expressive intention; not artificial TTS, monotone whisper or trailer voice. Speech must flow naturally and lip-sync. Generate matching ambience and synchronized action sounds; no background music, no subtitles, no text, no watermark. The offscreen visitor has just tried to renegotiate. Magnus already knows his answer. He closes the folder briskly and begins saying "The terms are final" WHILE the cover is still settling, glancing up at the visitor before his chin follows. On 'final' his palm releases its pressure and he pushes the closed folder a short distance toward the visitor, without losing eye contact. A small almost impatient breath leads directly into "We're done here." He eases back into the chair as he finishes, one shoulder settling before the other; the desk hand comes naturally to rest rather than staying in a posed gesture. His lips press briefly after the last word, gaze follows the visitor just off lens and then flicks once toward the exit. Calm certainty, a slight flash of impatience, no frowning mask or broad smile. The decisive folder action is quick, the conclusion conversational, the last live reaction brief. Start movement immediately, speak within the first second, complete speech by roughly 4 seconds, no long silent prelude or frozen end pose. Camera holds visitor eye level with restrained handheld human presence, no theatrical push-in. Sounds: cover and paper contact, subtle sleeve scrape and chair settling over quiet daytime office air and distant harbor hush.
+
+说明：提示词来自文档，原始输入、后期编辑和成片反推分别保留；不是保证一条纯文字提示词可逐帧复现。

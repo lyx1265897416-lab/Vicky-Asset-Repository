@@ -1,0 +1,23 @@
+﻿原创3D角色28组 01 · 银霜礼服 · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create ONE horizontal three-view closeup character sheet, front 0 degrees, exact 90-degree right-facing profile with only one eye visible, exact 180-degree rear. Equal scale, eye-level, whole hairstyle visible, shoulders crop, pure white background.
+Premium semi-realistic dimensional 3D character CG: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Character design: Male age 27. Ash-silver feathered medium hair, off-center part and airy waves; steel-blue almond eyes. Broader cheekbones, slightly long midface, low straight brows, soft square chin, wider straight nose with rounded tip, fuller asymmetric cupid bow lips. Warm ivory skin. Matte onyx ear studs. Black tailored suit, ivory shirt, slim graphite tie. Cool refined reserved gentleman.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260927/events/r27-01-head_angles.json
+
+实际带参考图生成提示词
+Edit this three-panel character turnaround sheet. Correct ONLY the CENTER panel, preserving the left frontal panel and right rear panel exactly. The center is currently angled slightly toward the viewer. Rotate the entire center head, neck, hairstyle, headpiece and shoulders an additional 15 degrees away from the viewer into a geometrically exact RIGHT-FACING 90-degree side profile. Only ONE eye, ONE eyebrow, ONE cheek, and ONE nostril should be visible. Far eye, far eyebrow and far lashes must be completely hidden behind the nasal bridge. Show a clean nose-mouth-chin silhouette at the right edge. Side face silhouette must read like a classical profile portrait, NOT a three-quarter view. Preserve this same fictional adult identity, facial proportions, hair, head ornaments, clothes and rendering quality. Retain 1536x1024 canvas, same head scale and placement, solid pure white background, same three panels, no text. Keep all highest ornaments inside the image.
+
+生成依据：
+imports/role-completion-20260927/events/r27-01-head_angles.json

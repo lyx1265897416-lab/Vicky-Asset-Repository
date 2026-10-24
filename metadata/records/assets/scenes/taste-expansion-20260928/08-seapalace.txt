@@ -1,0 +1,30 @@
+﻿梦幻海国 · 珍珠白观潮长廊 · 纯环境
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: stylized-concept
+Asset: pure environment scene for Vicky scene library.
+An empty airy sea-palace cloister with pearl-white arches, understated carved shell geometry, blue-silver details, shallow clear tidal channels beside a broad matte stone walkway, horizon of pale blue sea and distant delicate island towers, early morning glow. Place for characters to stand; no glossy mirror floor, no extravagant gold.
+Premium dimensional 3D romance game environment, airy dreamlike quality, physically tactile materials, pearl white stone, restrained fine silver and warm wood, soft lavender/seafoam accents, broad soft light, luminous exposure preserving texture, low contrast shadows, very subtle halation. Elegant, intimate and spatially plausible, not a cluttered game splash art, not dark or greasy. Single full-bleed landscape 1536x1024 image, not a grid.
+Strictly environment only: absolutely no people, bodies, faces, hands, silhouettes, distant pedestrians, reflections of people, animals, birds, fish, pets, mannequins, humanoid statues, character artwork or human figures on screens. No watermark, branding or captions. Keep clear usable space for later character compositing. Natural proportions, believable architecture, no fisheye, no excessive HDR, no greasy shine, no orange color cast.
+
+原生ImageGen生成。提示词可复用，但不保证像素级复现。编辑图保留原版备份。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/empty-scenes-expansion-20260928/originals/08-seapalace.png
+
+生成事件提示词
+Use case: stylized-concept
+Asset: pure environment scene for Vicky scene library.
+An empty airy sea-palace cloister with pearl-white arches, understated carved shell geometry, blue-silver details, shallow clear tidal channels beside a broad matte stone walkway, horizon of pale blue sea and distant delicate island towers, early morning glow. Place for characters to stand; no glossy mirror floor, no extravagant gold.
+Premium dimensional 3D romance game environment, airy dreamlike quality, physically tactile materials, pearl white stone, restrained fine silver and warm wood, soft lavender/seafoam accents, broad soft light, luminous exposure preserving texture, low contrast shadows, very subtle halation. Elegant, intimate and spatially plausible, not a cluttered game splash art, not dark or greasy. Single full-bleed landscape 1536x1024 image, not a grid.
+Strictly environment only: absolutely no people, bodies, faces, hands, silhouettes, distant pedestrians, reflections of people, animals, birds, fish, pets, mannequins, humanoid statues, character artwork or human figures on screens. No watermark, branding or captions. Keep clear usable space for later character compositing. Natural proportions, believable architecture, no fisheye, no excessive HDR, no greasy shine, no orange color cast.
+
+生成依据：
+imports/empty-scenes-expansion-20260928/events/08-seapalace.json
+imports/empty-scenes-expansion-20260928/visual-review.json

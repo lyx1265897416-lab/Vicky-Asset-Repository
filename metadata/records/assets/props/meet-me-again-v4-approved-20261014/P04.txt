@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · P04 · 订单、营业告示与零售纸品 · 白底道具参考板 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+High-detail pure white product reference board. Pure white reference board with twelve isolated product groups: blank price card, blank note card with empty date box, blank opening notice, blank reserved card, blank receipt roll and strip, blank kraft tags, blank order pad, open green cashbox, flat cardboard box, assembled cardboard box, garden twine, blank round stickers and hanging tags. Complete isolated objects, neutral light, no people, no hands, no environment, subtle shadows, no watermark, landscape 3:2.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/P04.png
+
+原始生成提示词：
+Edit the reference white product prop board. Replace ONLY the four illustrated invitation cards in TOP ROW with four completely plain blank paper records: empty cream price card, blank dated note card with small empty date box, blank opening-day notice on ivory paper, blank reserved card. Remove ALL drawings/illustrations from those four top row cards, keeping their size and position. Preserve the bottom two rows exactly: receipt roll and receipt, blank kraft tags with twine, order pad, open empty green cashbox, flat and assembled cardboard boxes, twine spool, blank round stickers and tags. No words, no drawings on top row. Pure white background, whole objects, no humans/hands. Highest native detail 3:2.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/P04.json
+imports/meet-me-again-v4-approved-20261014/approval.json

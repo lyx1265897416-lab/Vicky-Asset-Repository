@@ -1,0 +1,26 @@
+﻿电影场景第1批 · 05 · 晨雾里的石桥小径 · 户型图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 电影场景第1批 · 05 · 晨雾里的石桥小径.
+Environment: A richly observed film set with a specific emotional story, original architecture and arrangement, not a replica of a film frame. Vicky aesthetic: luminous high-key exposure with retained highlight detail, cream white, pale gray, warm natural brown, restrained pastel accents, broad soft daylight, filled low shadows, fine natural material texture and wear, very subtle film halation and grain, elegant believable photographic realism. Eye-level natural 50mm perspective, layered foreground/midground/background, gentle depth separation but environment clearly readable. Space reserved at central lower midground for future character compositing. ABSOLUTELY EMPTY ENVIRONMENT: no people, no characters, no animals, birds or insects, no human silhouettes, no human reflections, no hands, no faces on paintings, posters or screens, no statues or mannequins. No logos, watermarks, readable text. Avoid CGI real-estate renders, sterile showrooms, excessive bloom, orange grading, deep black shadows, ultrawide distortion. Scene: English countryside shortly after dawn in late spring, a small weathered pale stone footbridge crosses a narrow still stream at midground, softly curving footpath from lower right leads over it to a distant honey-stone manor partially hidden among trees. Soft rolling meadows and layers of thin silver morning mist; pale blue-white luminous sky, soft fresh sage greens, ivory wildflower patches. Camera standing beside a low worn timber gate in foreground, natural 50mm compression, no wide aerial view, an intimate navigable path and clear central stopping place on bridge. Soft front-side light through haze, no strong orange sunrise. Research inspiration: Pride & Prejudice's romantic English landscape and expressive natural light, newly designed setting. Emotion: a morning meeting that has not yet happened. No animals, birds or distant walkers whatsoever.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic overhead CONCEPT PLAN. Depict footprint, connected zones, wall thickness, doors, windows, stairs, furniture footprints and circulation. For outdoors use a site plan of paths, terrain, bridges and water instead of domestic rooms. North is only design orientation. Compact labels; no invented metric dimensions. Flat diagram on white background.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-025--scene_plan.png
+
+参考图辅助生成事件提示词
+Redraw this layout as a STRICT FLAT TWO DIMENSIONAL overhead floor/site plan, camera exactly vertical 90 degrees. CAD architectural floor plan, black linework and pale simple color fills on white. Zero perspective. Zero raised walls, vertical facades, furniture legs or visible window elevations. Existing spatial relationships unchanged: use horizontal footprints only, single large plan with clear labels and door arcs, no dimensions, no characters. Title CONCEPT PLAN. The reference is layout guide, not drawing style.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-025--scene_plan.json
+previews/scene-spatial-20260930/visual-review.json

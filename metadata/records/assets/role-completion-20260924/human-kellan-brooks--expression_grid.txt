@@ -1,0 +1,21 @@
+﻿Kellan Brooks · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Square photorealistic expression reference sheet, exactly three rows and three columns with thin white gutters, showing the same handsome eighteen-year-old young man in all nine cells. Tousled voluminous ash chestnut hair with uneven fringe, hazel olive eyes, delicate nose and cheek freckles, youthful angular jaw, straight nose, full pink lips, no beard. Light gray hoodie and dark navy varsity collar, bright cream-white seamless background and broad soft daylight, natural skin pores and strand-level hair texture. Eye-level front head-and-shoulders portraits, consistent head size and facial identity. Row one neutral relaxed closed lips, gentle closed-mouth smile, genuine happy toothy smile. Row two surprised raised eyebrows and slightly open mouth, worried furrowed brow, quiet sadness. Row three annoyed focused frown, skeptical raised eyebrow, shy small smile. Natural live-action expression changes, believable facial anatomy, restrained shadows and fine photographic grain. No labels, text, watermark, extra panels or additional characters.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-kellan-brooks--expression_grid.json
+
+实际带参考图生成提示词
+Create an EXACT 3 by 3 grid of nine distinct facial expressions of ONE SAME character: Kellan from the provided identity anchor. Preserve his eighteen-year-old handsome youthful face, hazel olive eyes, light freckles, tousled ash-chestnut hair, jaw, nose and lips precisely in all nine panels. Each cell is a complete eye-level straight-on head-and-shoulders close-up, equal scale, complete hair, thin white gutters. Wardrobe in every cell is the same gray hoodie with navy varsity collar as the identity reference. Row 1: neutral relaxed closed lips; warm small closed-mouth smile; genuine happy smile showing teeth. Row 2: surprised raised eyebrows and slightly open mouth; worried brow and tense lips; quietly sad eyes with downturned mouth. Row 3: annoyed focused brow and pressed lips; skeptical one raised eyebrow; shy bashful smile with eyes still looking toward camera. All emotions should be natural restrained live action expressions, anatomically coherent level eyes, no cartoon exaggeration or identity drift. Match reference bright cream-white background, soft high-key daylight, natural pores, gentle grain, real individual hair strands, delicate open shadows, photorealism. Do not age him up, no beard, no text or labels, no extra panels, no two characters. Square canvas. This is an expression asset for the exact existing character.
+
+生成依据：
+imports/role-completion-20260924/events/human-kellan-brooks--expression_grid.json

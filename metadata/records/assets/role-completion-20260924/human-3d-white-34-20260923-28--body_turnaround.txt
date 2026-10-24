@@ -1,0 +1,21 @@
+﻿28 · 烟岚·蓬松发 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Adult man aged 25. Masculine playful adult adventure lead aged 24. Smoky ash-brown voluminous messy short hair with lighter taupe tips, vivid deep teal-blue eyes, strong slightly squared face, subtly broad nose, lopsided restrained smile. Ivory textured knit crewneck with dark charcoal cardigan. Lively confident expression, differentiated facial geometry. Complete outfit ivory textured knit crewneck under charcoal chunky cardigan, taupe cargo trousers, brown leather ankle boots, silver compass pendant on dark cord and brown leather cross-body satchel from wearer right shoulder to left hip. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Three-panel full-body turnaround of the SAME adult man. LEFT: strict FRONT, CENTER: exact 90 degree SIDE profile facing image left, RIGHT: exact 180 degree BACK view. Identical hairstyle, clothes, accessories, proportions and scale in all three panels. All standing straight, head level, arms relaxed by sides, hands outside pockets. Entire hair to shoe soles with margin, aligned baseline. Elegant tall 8.3-head long-limbed model proportions, normal coherent anatomy. Landscape 3:2. No text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-28--body_turnaround.json
+
+实际带参考图生成提示词
+Use attached full-body image as strict identity and COMPLETE outfit reference. Adult man aged 25. Masculine playful adult adventure lead aged 24. Smoky ash-brown voluminous messy short hair with lighter taupe tips, vivid deep teal-blue eyes, strong slightly squared face, subtly broad nose, lopsided restrained smile. Ivory textured knit crewneck with dark charcoal cardigan. Lively confident expression, differentiated facial geometry. Complete outfit ivory textured knit crewneck under charcoal chunky cardigan, taupe cargo trousers, brown leather ankle boots, silver compass pendant on dark cord and brown leather cross-body satchel from wearer right shoulder to left hip. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Three-panel full-body turnaround of the SAME adult man. LEFT: strict FRONT, CENTER: exact 90 degree SIDE profile facing image left, RIGHT: exact 180 degree BACK view. Identical hairstyle, clothes, accessories, proportions and scale in all three panels. All standing straight, head level, arms relaxed by sides, hands outside pockets. Entire hair to shoe soles with margin, aligned baseline. Elegant tall 8.3-head long-limbed model proportions, normal coherent anatomy. Landscape 3:2. No text.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-28--body_turnaround.json

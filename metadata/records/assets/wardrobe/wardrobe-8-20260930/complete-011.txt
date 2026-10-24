@@ -1,0 +1,22 @@
+﻿服装8图 · 011 · 棕色羊羔绒蓝针织 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Dark brown cropped shearling jacket over cropped navy ribbed turtleneck, long navy ribbed wide-leg trousers with side pockets, dark brown shoes conservatively completed at hem.. Add ONLY these accessories: brown newsboy cap; brown wide studded belt with large round buckle; structured brown leather satchel with buckled pockets; pair of black leather gloves; dark brown rectangular sunglasses. Closed inventory: use each listed item exactly once and add no other objects.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装8图 · 图2 下排右
+
+原始生成提示词：
+Create one photorealistic COMPLETE hollow wardrobe outfit on pure white seamless background, soft studio light, portrait 2:3, fully uncropped with margins. Image 1 is the exact empty clothing ensemble; preserve its garments, shoes, materials and proportions. Image 2 is the original styling reference; use ONLY 下排右. Add ONLY this closed accessory inventory, each once: brown newsboy cap; brown wide studded belt with large round buckle; structured brown leather satchel with buckled pockets; pair of black leather gloves; dark brown rectangular sunglasses. Style these listed accessories as in the reference using invisible supports; bag beside ensemble. No human, hair, skin, body parts, mannequin or stands. No additional belts, scarves, ties, bags, jewelry, props or clothing. No text, watermark or collage.
+
+生成依据：
+imports/wardrobe-8-20260930/events/complete-011.json
+imports/wardrobe-8-20260930/source-02.json

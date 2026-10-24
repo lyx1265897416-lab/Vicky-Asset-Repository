@@ -1,0 +1,22 @@
+﻿捡到的黑猫 · 文件与配饰 · 修订图板
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-20
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+生成一张完整道具素材图，尺寸1536×1024。横幅两行道具图板，第一行四格：领养证书、临时寄养许可、空白伸缩夹诊所证、纸袋中折叠白衬衫黑夹克；第二行五格：半开防尘袋里的黑金王室礼服、细银发夹、银十字项链、纱布棉球消毒液、两双手递接半杯水玻璃杯。灰背景和清晰英文标签，哑光纸张、细腻金属、柔和写实产品照明，无人物脸。保持物品主体完整、结构比例可信，克制高光，精细材质，避免添加无关物品。
+
+按现有图像重建独立提示词，未做重新生成或相似度验证；本次复制原PNG，像素和构图不变。版本：现行资产图板
+
+
+来源：/Users/vicky/Interactive storyline/concepts/black-cat-boss/review-v4/assets/props-paper.png
+
+生成事件原始提示词
+Edit this original drama prop atlas, preserve grid and realistic semi-realistic CGI materials. Corrections: borrowed-clothes bag top-right must contain a folded BLACK LEATHER ZIPPER JACKET, white shirt and thin BLACK tie, not a suit blazer. In Royal Suit garment bag show black tailored suit with open white collar, gold fine embroidery, BURGUNDY diagonal sash and burgundy FABRIC ROSE at chest, matching this drama's Rhys look. Hairclip must be SIMPLE PLAIN SILVER BAR CLIP, no flower. Replace large amber pendant with June's tiny delicate SILVER CROSS on thin silver chain. Caption change to 'June Necklace (Silver)'. Other props and English captions unchanged. No Chinese text.
+
+生成依据：
+imports/interactive-story-props-20260929/evidence/bc-paper.json
+imports/interactive-story-props-20260929/approval.json

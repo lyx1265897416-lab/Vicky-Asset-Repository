@@ -1,0 +1,35 @@
+﻿宠物诊所 · 建筑图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 宠物诊所.
+Environment: Empty veterinary clinic reception with grey-green counter, shelves, waiting seats and connected consultation space.
+Visual medium: otome 2d5d 3d; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic architectural elevation or cut section of the principal facade / interior wall. Show openings, vertical structure, floor levels, stair and roof relationships where visible. Readable architectural profile with restrained white margin and a short elevation title.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-002-03--scene_architecture.png
+
+参考图辅助生成事件提示词
+Use case: infographic-diagram / spatial production design.
+Asset: Vicky environment library, scene-002-03, 宠物诊所, 建筑图. Generate one finished independent image, landscape 1536x1024 or larger.
+Input image 1 is the existing environment identity reference. 2 columns 3 rows: middle-right? CORRECTION middle-left panel ONLY: veterinary reception with grey green counter and shelves.
+Any additional reference is the same scene's concept floor/site plan and is the geometric source of truth. Keep its footprint, entrances, openings, adjacencies, landmark arrangement and orientation fixed.
+Request: ONE true flat ORTHOGRAPHIC architectural elevation of the most distinctive facade or interior wall of this space, following the supplied plan. For landscapes or bridges choose one clear lateral terrain/structure profile. Show vertical relationships, openings, stairs or rails where actually present. All elements on their genuine floor levels. Rooms that are adjacent on plan must NEVER become stacked storeys. ONE drawing, no collage, no cutaway dollhouse, no perspective, no fake metric dimensions. Fine architectural linework with original-palette material washes. Label the actual viewing direction.
+Maintain the architecture, distinctive objects, material vocabulary and visual character of the original. Do not reuse the reference board as the output. Rationally extrapolate only unseen geometry; it is a coherent concept reconstruction for story staging, not surveyed construction documentation. Use one internally consistent space, not a collage of unrelated rooms. Walls meet logically, doors connect traversable spaces, no blocked entrances or impossible staircases. NO people, NO characters, NO animals, NO silhouettes, NO human figures in reflections or posters, NO logos/watermarks. Small legible English labels only where useful. Avoid busy ornament, repeated generic layouts and unexplained disconnected rooms.
+Original design context (use only details compatible with target reference panel): 捡到的黑猫 · 院落／诊所／天台／异界门 · 纯环境修订
+
+STRICT SPATIAL SCOPE: Draw ONLY the target location 宠物诊所. Treat every other reference-board panel as a different unrelated location. Do not import props, cages, benches, stairs, furniture or rooms from other panels. Extrapolate only the immediate target footprint. Do NOT assemble a whole multi-function complex. For a room, confine plan to that room, with adjoining rooms dashed and unshown. For outdoor space show only site boundary and immediately bounding facades, no invented building interiors.
+IMPORTANT: The two inputs are the SAME SINGLE scene: 1 spatial material reference, 2 finalized flat layout. Ignore earlier board panel references. Match these precisely. No other places from any old board. Do NOT add unrelated buildings, cages, reception counters etc that are absent from these inputs. No scale bars or precise dimensions.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-002-03--scene_architecture.json
+previews/scene-spatial-20260930/visual-review.json

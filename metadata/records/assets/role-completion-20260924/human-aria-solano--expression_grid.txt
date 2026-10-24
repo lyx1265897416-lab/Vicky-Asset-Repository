@@ -1,0 +1,21 @@
+﻿Aria Solano · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+A square 3x3 photographic expression sheet of the same youthful seventeen-year-old girl, long chestnut hair, gray-blue eyes, freckles, black rectangular eyeglasses, small gold hoop earrings, white collared shirt and sage green cardigan. Nine consistent eye-level frontal head-and-shoulder portraits separated by thin white gutters on bright cream-white backgrounds. Row one calm neutral, slight pleased smile, happy toothy laugh. Row two surprise with raised brows and parted mouth, concern with pinched brow, quiet sadness. Row three irritation with lowered brows, skeptical raised eyebrow, shy small smile. Facial identity, hairstyle, wardrobe and camera scale consistent throughout; natural symmetrical eye placement and restrained believable acting. Bright gentle studio daylight with open shadows, realistic skin pores and hair strands, fine photographic texture, no plastic retouching. No text, labels, watermark, different people or extra panels.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-aria-solano--expression_grid.json
+
+实际带参考图生成提示词
+A square EXACT 3x3 nine-panel expression sheet of the exact same Aria character in the supplied reference: youthful teenage girl, long chestnut brown hair, gray-blue eyes, freckles, black rectangular glasses, small gold hoop earrings, white collared shirt with dark sage green knit cardigan. Preserve exact face identity, jaw, nose, lips, skin and eye colors, eyewear in all nine equal-sized eye-level frontal head-and-shoulders closeups. Bright cream-white backgrounds, soft frontal daylight, natural photographic texture, low contrast, no oily skin. Complete hair with margin above in each cell; thin white gutters. Row one: neutral calm; subtle pleased smile; happy laughing smile. Row two: surprised raised eyebrows and slightly parted lips; concerned tense brows; quiet sadness with soft downturned lips. Row three: irritated narrowed eyes; skeptical one raised eyebrow; shy embarrassed small smile. Eyes remain naturally aligned, expression changes must be distinct but restrained believable live action acting, no caricature. No makeup change, maturity increase, text, labels, different identities or extra panels.
+
+生成依据：
+imports/role-completion-20260924/events/human-aria-solano--expression_grid.json

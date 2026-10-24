@@ -1,0 +1,21 @@
+﻿男角色第二版 08 · 沉稳踏实 · 九宫格表情 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic studio character asset. A 32-year-old East Asian man with a short textured crop, plain black pocket tee, sturdy average build and reassuring neutral expression. Facial features: rectangular head with a wider square jaw, slightly high hairline, deep-set narrow eyes, thick low straight brows, broad flat nose with round tip, wide mouth and thin lips, slight smile lines and natural stubble. Approachable everyday man. Exact3x3 grid with nine equal head-and-shoulder portraits of the SAME man, complete hair with margin in every panel. Front-facing level camera and upright head. Nine distinct natural expressions in row order: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyed frown, skeptical eyebrow, wry amused smile. Keep facial anatomy, hair and eye color consistent, thin white gutters, no extra cells.  Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve adult individuality without model beautification.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-08--expression_grid.json
+
+实际带参考图生成提示词
+Use reference to preserve exact same adult man, face, haircut, age, skin details and clothes. Photorealistic studio character asset. A 32-year-old East Asian man with a short textured crop, plain black pocket tee, sturdy average build and reassuring neutral expression. Facial features: rectangular head with a wider square jaw, slightly high hairline, deep-set narrow eyes, thick low straight brows, broad flat nose with round tip, wide mouth and thin lips, slight smile lines and natural stubble. Approachable everyday man. Exact3x3 grid with nine equal head-and-shoulder portraits of the SAME man, complete hair with margin in every panel. Front-facing level camera and upright head. Nine distinct natural expressions in row order: neutral, gentle closed smile, happy toothy smile; surprise, worry, quiet sadness; annoyed frown, skeptical eyebrow, wry amused smile. Keep facial anatomy, hair and eye color consistent, thin white gutters, no extra cells.  Pure white seamless studio, bright soft frontal daylight and balanced fill, natural skin pores and individual hair, low shadows, real cotton texture, realistic50mm perspective, no text, no labels or logos, no 3D illustration. Preserve adult individuality without model beautification.
+
+生成依据：
+imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-08--expression_grid.json

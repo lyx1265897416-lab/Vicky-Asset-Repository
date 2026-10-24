@@ -1,0 +1,22 @@
+﻿咪养你 · 清洁与植物道具
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: precise-object-edit. Create one NEW high-resolution prop asset BOARD reconstructed for a cozy cat-care drama, not a crop or a storyboard. 4 columns × 3 rows, exactly 12 equal white cells, square or landscape canvas. Fully OPAQUE white seamless backgrounds, RGB image, absolutely NO transparent pixels, faint contact shadows, clean realistic product photography, matte natural materials, neutral soft daylight, no orange cast, no oily glossy CGI. Each cell contains ONLY the listed object or coherent set, fully visible and unobstructed with margin. Remove ALL cats, people, hands, body parts, rooms, scenery, dialogue, interface overlays, brands and watermarks. No labels or lettering except requested physical markings. Use the detailed shapes, colors and materials specified below. Rows left-to-right in this order: 1 short light-oak-handled broom and muted dustyblue dustpan; 2 cream flat mop with gray cloth pad; 3 small cream watering can; 4 little white daisies in ivory pot; 5 small succulent in neutral ceramic pot; 6 clean unused white toilet brush with cylindrical holder; 7 pair pale blue waterproof cleaning paw mittens, EMPTY mittens only, no paws; 8 generic cream laundry detergent bottle and measuring cup; 9 pale blue dish soap pump bottle with rectangular sponge; 10 small lightwood dish drying rack with few white dishes; 11 small white pedal wastebin closed; 12 three folded cream and pale blue cleaning cloths. 4x3 orderly board. Objects rendered as physical household props from a cozy cat-care drama. No faces, no characters. Solid opaque white background throughout.
+
+依据剧情画面及剧本道具描述重新生成，非原画面像素裁切。格序按从左至右、从上至下。具体轮廓纹理可能与原画面有细微差异；不将剧情中不可见细节视作已核实。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-reconstructed-20260929/mii-05-cleaning.png
+
+原始生成提示词：
+Use case: precise-object-edit. Create one NEW high-resolution prop asset BOARD reconstructed from the props visible in these reference drama frames, not a crop or a storyboard. 4 columns × 3 rows, exactly 12 equal white cells, square or landscape canvas. Fully OPAQUE white seamless backgrounds, RGB image, absolutely NO transparent pixels, faint contact shadows, clean realistic product photography, matte natural materials, neutral soft daylight, no orange cast, no oily glossy CGI. Each cell contains ONLY the listed object or coherent set, fully visible and unobstructed with margin. Remove ALL cats, people, hands, body parts, rooms, scenery, dialogue, interface overlays, brands and watermarks. No labels or lettering except requested physical markings. Keep practical shapes/colors/material details from reference. Rows left-to-right in this order: 1 short light-oak-handled broom and muted dustyblue dustpan; 2 cream flat mop with gray cloth pad; 3 small cream watering can; 4 little white daisies in ivory pot; 5 small succulent in neutral ceramic pot; 6 clean unused white toilet brush with cylindrical holder; 7 pair pale blue waterproof cleaning paw mittens, EMPTY mittens only, no paws; 8 generic cream laundry detergent bottle and measuring cup; 9 pale blue dish soap pump bottle with rectangular sponge; 10 small lightwood dish drying rack with few white dishes; 11 small white pedal wastebin closed; 12 three folded cream and pale blue cleaning cloths. 4x3 orderly board. Objects rendered as physical household props from a cozy cat-care drama. No faces, no characters. Solid opaque white background throughout.
+
+生成依据：
+imports/drama-scene-props-20260929/evidence/mii-05-cleaning.json
+imports/drama-scene-props-20260929/approval.json

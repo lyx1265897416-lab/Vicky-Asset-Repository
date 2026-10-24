@@ -1,0 +1,21 @@
+﻿Aria Solano · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Horizontal three-view photographic turnaround of one identical seventeen-year-old girl, long chestnut brown wavy hair, gray-blue eyes, black rectangular glasses, natural freckles and small gold hoop earrings. Straight front, strict right-facing side profile, straight back, all complete from hair to soles, aligned at same heights with generous margins. Slender long-legged model build about 7.8 heads tall, natural upright posture, same wardrobe throughout: relaxed navy zip hoodie, white collared shirt, burgundy striped tie, navy pleated skirt, bare legs without tights, ivory high-top canvas sneakers, small black shoulder bag on her right shoulder. Soft cream-white studio background and floor, bright soft neutral daylight, low contrast and detailed realistic skin, hair and fabric. No titles, labels, text, frames or other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-aria-solano--body_turnaround.json
+
+实际带参考图生成提示词
+Create a horizontal three-view full-length turnaround of Aria, the SAME character as image 1 with exact youthful facial identity, gray-blue eyes, freckles, black rectangular glasses and long chestnut hair. Image2 is the exact current costume: navy zip hoodie, white shirt, loose burgundy striped tie, navy pleated skirt, bare legs with no tights, ivory high-top canvas sneakers, small black shoulder bag. Exactly THREE evenly spaced complete figures: straight front, true 90 degree right-facing profile, straight rear view. Same slender long-legged 7.8-head model proportions throughout. Head and soles aligned at same heights, all footwear visible with margins. Neutral upright standing posture, arms relaxed except where naturally holding the bag strap, no head tilt, natural anatomy. Preserve clothing length, bag side and hair length between views. Bright cream-white studio, gentle natural frontal daylight, true photographic pores and hair and fabric texture, low contrast and open shadows, no text or labels.
+
+生成依据：
+imports/role-completion-20260924/events/human-aria-solano--body_turnaround.json

@@ -1,0 +1,21 @@
+﻿白底3D角色34组 · 21 · 玄珀·古风 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create a single adult character aged 22–28 in a premium semi-realistic 2.5D/3D romance-game CG portrait. Refined sculpted facial modeling, subtly expressive eyes, natural anatomical proportions, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Chest-up vertical 3:4 composition, near-frontal eye-level camera, shoulders visible, hands outside frame, complete hairstyle. Opaque white studio background, soft neutral frontal key light and gentle fill, no colored cast. No text, logos, watermark, UI or borders. Masculine composed fantasy swordsman aged 27. Dark black wavy swept-back hair with two shorter loose forehead strands, warm amber narrow eyes, strong cheekbones, broad squared chin, straight nose, medium warm skin. Ink-black overlapping robe with muted slate-blue textured lapels and simple silver collar clasp, no weapons in frame. Reserved noble charisma, refined CG.
+
+独立文字提示词依据本批角色描述和定稿修订整理；未进行纯文字重生成相似度验证。严格锁脸时同时使用已确认原图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-white-34-20260923/originals/character-21.png
+
+角色生成提示词及后续修订记录
+Use case: stylized-concept. Create ONE original adult character portrait for a cohesive premium 3D romance-game character collection. Polished 2.5D/3D sculpted digital character, unmistakably high-end CG, refined attractive facial modeling, anatomically elegant proportions, expressive eyes only subtly enlarged, detailed groomed individual hair strands, soft realistic subsurface scattering with restrained skin microtexture and low sheen, dimensional fabric and metals. Not a live-action photograph, not flat anime, not a doll or plastic toy. All characters aged 22-28. Clean opaque pure white #FFFFFF seamless background with no gray gradient, scenery or props behind them. Consistent neutral soft frontal studio key plus subtle modeling fill, clean whites, no warm color cast. Portrait 3:4 composition, chest-up, camera at eye level, entire hairstyle and any head accessory inside frame with white margin, face mostly frontal, shoulders visible, no hands in frame. Single person only. No text, no numbers, no logos, no watermark, no signature, no border. References are inspiration ONLY: design a distinct new identity, significantly redesign facial proportions, eye shape, nose, jaw, hairstyle details, jewelry and costume while retaining the broad temperament and palette. Do not merely retouch or reproduce the source character. Character 21: Masculine composed fantasy swordsman aged 27. Dark black wavy swept-back hair with two shorter loose forehead strands, warm amber narrow eyes, strong cheekbones, broad squared chin, straight nose, medium warm skin. Ink-black overlapping robe with muted slate-blue textured lapels and simple silver collar clasp, no weapons in frame. Reserved noble charisma, refined CG. Input image 1 is the source mood reference ONLY: invent a clearly different person as described. Input image 2 is the RENDERING STYLE ANCHOR ONLY: match its 3D surface quality, refined facial sculpting, soft neutral white lighting and portrait crop. DO NOT copy the style anchor's identity, hair, clothes, jewelry or fantasy genre. Follow this character's specified genre and wardrobe. Retain a distinct original identity, no recycled same-face cast.
+
+生成依据：
+metadata/evidence/3d-white-34-20260923-21.json

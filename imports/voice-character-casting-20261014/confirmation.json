@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-14T06:24:39.897849+00:00",
+  "user_message": "将我选择的加入音色库",
+  "selection": "user-shortlist.json",
+  "selected": [
+    "C01-eleven",
+    "C03-eleven",
+    "C03-gemini",
+    "C04-eleven",
+    "C04-gemini",
+    "C06-eleven",
+    "C06-gemini",
+    "C08-eleven",
+    "C08-gemini",
+    "C09-eleven",
+    "C09-gemini",
+    "C11-eleven",
+    "C11-gemini",
+    "C12-gemini",
+    "C13-eleven",
+    "C13-gemini",
+    "C15-eleven",
+    "C15-gemini",
+    "C16-eleven"
+  ],
+  "not_imported": [
+    "C01-gemini",
+    "C02-gemini-B",
+    "C16-gemini"
+  ],
+  "note": "仅导入附件中 decision=keep 的本批所选条目；保留用户试听版本的原始字节和完整表演节奏。"
+}

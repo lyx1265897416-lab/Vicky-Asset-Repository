@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · P03 · 记忆本与事实记录 · 白底道具参考板 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+High-detail pure white product reference board. 8 cells in 4x2 grid: sage linen hardbound notebook closed; same notebook open to blank faint ruled pages with one taped receipt; blue ballpoint pen; ivory fact card blank; kraft medical document folder closed with unprinted papers; blank dated journal page with empty date box and no writing; plain unbranded cream smartphone front with dark inactive screen; same phone back. Consistent notebook identity, no invented words or personal data. Complete isolated objects, neutral light, no people, no hands, no environment, subtle shadows, no watermark, landscape 3:2.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/P03.png
+
+原始生成提示词：
+Use case: product-mockup. Generate a high-detail production asset review board for a romantic coastal greenhouse otome 3D interactive drama. Landscape 3:2 white background, equally spaced spacious grid, complete separate objects in each cell, no cropping or overlap. Fine natural realistic 3D materials matching cream linen / muted sage / aged oak / terracotta / brown leather, no orange cast. Entire background PURE WHITE with only very subtle contact shadows. NO humans, hands, animals, mannequin, environment, watermark, labels or captions. No panel outlines. Board P03: 8 cells in 4x2 grid: sage linen hardbound notebook closed; same notebook open to blank faint ruled pages with one taped receipt; blue ballpoint pen; ivory fact card blank; kraft medical document folder closed with unprinted papers; blank dated journal page with empty date box and no writing; plain unbranded cream smartphone front with dark inactive screen; same phone back. Consistent notebook identity, no invented words or personal data.. All unspecified paper text stays completely BLANK for later story typesetting; never generate gibberish. Not a movie screenshot. Highest native quality.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/P03.json
+imports/meet-me-again-v4-approved-20261014/approval.json

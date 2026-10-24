@@ -1,0 +1,21 @@
+﻿白底3D角色17组 · 正面平视 · 11 · 墨棕西装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1122 × 1402
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one original fictional character as a premium realistic-stylized 3D game cinematic render with physically based materials. Straight-on front-facing eye-level head-and-shoulders ID portrait, upright head, level shoulders, both eyes looking into the camera, neutral 85mm perspective, no tilt or three-quarter view. Center the complete hairstyle and ornaments with a small white top margin and crop at upper chest. Opaque pure white #FFFFFF background, balanced soft neutral studio lighting, dimensional face, subtle natural skin microtexture and subsurface scattering, crisp detailed eyes, individual strand hair, richly detailed cloth and metal. Maintain a coherent refined 3D aesthetic without flat illustration shading, plastic skin or a live-action photograph appearance. No hands, text, logos, watermarks, UI buttons, borders or collage. Vertical 4:5 canvas. An adult man with dark brown short swept-back textured hair and a few loose forehead strands, gray eyes, harmonious softly tapered jaw, proportionate chin, elegant cheekbone planes, balanced midface, straight refined nose and natural closed rose lips. No mole near the mouth or lower cheek. Elegant chocolate-black three-piece suit, dark patterned tie, silver tie clip and satin pocket square. Calm sophisticated expression, natural masculine facial modeling with no excessively square jaw or hollow cheeks.
+
+独立提示词按已确认成图整理，未进行重新生成相似度验证；严格保持身份时请同时使用已确认图片作为参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-front-17-20260923/originals/character-11.png
+
+原始正面照生成或修订提示词
+One portrait only, vertical 4:5, pure opaque white background. Front-on eye-level ID headshot, head upright, gaze directly into the lens, shoulders level, frame head and upper chest, full hairstyle visible with a small white top margin. Soft balanced studio lighting. Premium realistic-stylized 3D game cinematic character render, no text, no watermark, no UI, no collage. Use case: character facial design refinement. The user is unhappy with this man's facial features; produce a visibly improved facial redesign, not the same face with minor smoothing. Retain the adult man's dark swept hair, gray eyes, elegant chocolate-black three-piece suit, tie and silver tie clip, reserved sophisticated character. Keep his masculine elegance but reduce the blunt heavy wide lower jaw and rigid stern mask. Sculpt a more harmonious softly tapered jaw, a defined but natural proportionate chin, elegant cheekbone planes with less hollow cheeks, a slightly shorter balanced midface, straight refined nose with a subtly rounded defined tip. Eyes more expressive and naturally almond-shaped, dimensional eyelids and engaging clear gray irises, relax the angry brow compression; groomed defined brows with a gentle natural arch. Lips naturally proportioned, clear cupid's bow with a slightly fuller lower lip, neutral relaxed mouth with a subtle approachable expression, no smile showing teeth. Handsome, refined young ADULT man, believable modeled anatomy, attractive features with individuality, not feminine and not exaggerated. Maintain realistic-stylized 3D sculptural depth, fine skin texture with controlled highlights, intricate groomed hair and premium tailored fabric. NO mole below either mouth corner; no facial beauty spot. This is a meaningful refinement of facial structure while retaining the overall character design.
+
+生成依据：
+metadata/evidence/3d-front-17-20260923/11.json

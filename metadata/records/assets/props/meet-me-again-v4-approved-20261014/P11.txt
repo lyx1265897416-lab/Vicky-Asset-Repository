@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · P11 · 洛温手绘约会卡·笨拙涂鸦 · 白底道具参考板 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+High-detail pure white product reference board. Four separate cream cards in 2x2 on white: clumsy blue pen coffee mug, badly drawn upside-down fish with waves, simple crooked greenhouse, blank card. No words, no fancy professional illustration. Complete isolated objects, neutral light, no people, no hands, no environment, subtle shadows, no watermark, landscape 3:2.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/P11.png
+
+原始生成提示词：
+Generate one white background PROP BOARD with exactly four separated cream-paper cards in a 2x2 grid, each complete and same size. Top left: clumsy amateur pen doodle of crooked coffee mug; top right: deliberately VERY BAD FUNNY naive ballpoint doodle of 3 wavy lines and a simple upside-down fish, like a person with zero drawing skill; bottom left: clumsy crooked outline of a glass greenhouse with 3 square panes and tiny stick-leaf pot; bottom right: completely blank cream paper card. Only 5-15 imperfect simple pen strokes per drawing, no professional illustration, no decorative frame, no shading in drawings, no legible text. Fine realistic paper material, pure white backdrop, soft subtle shadows, no hands/body/people. Romantic comedy hero badly hand-drawn date invitation props. Landscape 3:2 highest native quality.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/P11.json
+imports/meet-me-again-v4-approved-20261014/approval.json

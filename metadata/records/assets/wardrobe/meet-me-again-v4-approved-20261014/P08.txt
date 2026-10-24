@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · P08 · 服装互动道具·外套与针织衫 · 无人服装状态板 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+High-detail pure white product reference board. 4 cells 2x2 grid of UNWORN clothing product references: youthful man's brown suede jacket fully spread front on white; same jacket folded neatly; cream cable-knit crewneck sweater fully spread front; same sweater folded. No mannequin, body, skin, hands, hanger, room. Soft realistic 3D fabric detail, restrained natural color. Complete isolated objects, neutral light, no people, no hands, no environment, subtle shadows, no watermark, landscape 3:2.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/P08.png
+
+原始生成提示词：
+Edit first WHITE UNWORN clothing board only to match clothes of adult male in SECOND character reference; do not include person. Keep four-cell layout (jacket spread, jacket folded, sweater spread, sweater folded). Jacket must be exact brown textured suede/leather short jacket with offset-looking visible front zip edges, pointed broad collar, seam design and natural worn surface in second reference. Sweater exact cream cable-knit crewneck pattern and tone. Every item complete, no bodies/mannequin/hands/hanger. Pure white, subtle shadows, no text. Highest native detail 3:2.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/P08.json
+imports/meet-me-again-v4-approved-20261014/approval.json

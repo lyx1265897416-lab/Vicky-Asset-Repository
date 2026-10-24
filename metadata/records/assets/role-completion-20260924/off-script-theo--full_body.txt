@@ -1,0 +1,21 @@
+﻿Theo Hart · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+One independent full-length photographic portrait of fictional adult man age 26, fair skin, dark almost-black center-part wavy hair, gray-green eyes, thick brows, angular cheekbones and moderately square jaw, straight nose and full natural lips, wearing open cream short-sleeve textured shirt over white crew-neck tee, brown wide straight jeans, black belt, silver wristwatch and black gum-sole sneakers. Same face as closeup identity, slim athletic 8.3-head tall long-legged proportions, clean youthful adult face, natural hands. Direct front full body, level upright head and shoulders, neutral closed mouth, relaxed standing arms at sides, feet on ground. Entire hair and shoes visible with wide margins; no body clipping, no panels, no other people. matte cool-gray studio background, soft cool blue-gray daylight, even fill and subtle film grain. Real pores, individual hair and visible woven texture, 85mm perspective, no beauty filter, no text. Portrait 2:3.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/off-script-theo--full_body.json
+
+实际带参考图生成提示词
+Reference1 strict face; reference2 strict complete wardrobe and proportions. Extract the design into ONE new independent full-body photograph of the same person, not a triptych. One independent full-length photographic portrait of fictional adult man age 26, fair skin, dark almost-black center-part wavy hair, gray-green eyes, thick brows, angular cheekbones and moderately square jaw, straight nose and full natural lips, wearing open cream short-sleeve textured shirt over white crew-neck tee, brown wide straight jeans, black belt, silver wristwatch and black gum-sole sneakers. Same face as closeup identity, slim athletic 8.3-head tall long-legged proportions, clean youthful adult face, natural hands. Direct front full body, level upright head and shoulders, neutral closed mouth, relaxed standing arms at sides, feet on ground. Entire hair and shoes visible with wide margins; no body clipping, no panels, no other people. matte cool-gray studio background, soft cool blue-gray daylight, even fill and subtle film grain. Real pores, individual hair and visible woven texture, 85mm perspective, no beauty filter, no text. Portrait 2:3.
+
+生成依据：
+imports/role-completion-20260924/events/off-script-theo--full_body.json

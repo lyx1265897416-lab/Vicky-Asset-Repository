@@ -1,0 +1,21 @@
+﻿27 · 冰羽·银发 · 头部多角度 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Adult man aged 25. Masculine ethereal adult fantasy healer aged 25. Frost-white fine short hair with lifted textured crown and diagonal fringe kept clear of both eyes, pale sea-glass green eyes, long oval face, defined cheekbones, refined slightly convex nose. Pearl-gray high-neck layered tunic with matte silver collar clasp. Calm solemn expression; elegant human adult, not elf, no bare torso. Complete outfit pearl-gray high-neck embroidered tunic and flowing ankle-length matching outer robe with silver clasps and shoulder ornaments, pearl satin straight trousers, ivory calf-high boots. Maintain human ears and white-silver hair. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Six evenly sized head-and-shoulders portraits of this ONE SAME person, in a 3 columns by 2 rows landscape grid. Top row left: exact FRONT centered symmetrical level face directly at camera; top center: head turned 45 degrees toward IMAGE LEFT; top right: exact 90 degree PROFILE toward IMAGE LEFT only one eye visible. Bottom row left: head turned 45 degrees toward IMAGE RIGHT; bottom center: exact 90 degree PROFILE toward IMAGE RIGHT only one eye visible; bottom right: exact 180 degree BACK OF HEAD no face visible. All at eye-level, upright, complete hairstyle within each cell, same scale and outfit neckline. Neutral expression. Never duplicate orientation or mirror accessories; anatomically consistent turns. Narrow white gutters, no text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-27--head_angles.json
+
+实际带参考图生成提示词
+Use attached approved portrait as strict identity, hairstyle, accessory and visual-style reference. Preserve THIS specific face and premium 3D look. Adult man aged 25. Masculine ethereal adult fantasy healer aged 25. Frost-white fine short hair with lifted textured crown and diagonal fringe kept clear of both eyes, pale sea-glass green eyes, long oval face, defined cheekbones, refined slightly convex nose. Pearl-gray high-neck layered tunic with matte silver collar clasp. Calm solemn expression; elegant human adult, not elf, no bare torso. Complete outfit pearl-gray high-neck embroidered tunic and flowing ankle-length matching outer robe with silver clasps and shoulder ornaments, pearl satin straight trousers, ivory calf-high boots. Maintain human ears and white-silver hair. Premium semi-realistic 2.5D/3D romance-game CG, refined sculpted facial modeling, softly expressive eyes, detailed individual hair strands, restrained skin microtexture and low sheen, dimensional fabric and metal materials. Pure opaque white background, bright soft neutral frontal key and gentle fill, no colored cast, no text labels borders watermark or UI. Six evenly sized head-and-shoulders portraits of this ONE SAME person, in a 3 columns by 2 rows landscape grid. Top row left: exact FRONT centered symmetrical level face directly at camera; top center: head turned 45 degrees toward IMAGE LEFT; top right: exact 90 degree PROFILE toward IMAGE LEFT only one eye visible. Bottom row left: head turned 45 degrees toward IMAGE RIGHT; bottom center: exact 90 degree PROFILE toward IMAGE RIGHT only one eye visible; bottom right: exact 180 degree BACK OF HEAD no face visible. All at eye-level, upright, complete hairstyle within each cell, same scale and outfit neckline. Neutral expression. Never duplicate orientation or mirror accessories; anatomically consistent turns. Narrow white gutters, no text. TOP MIDDLE nose points to LEFT image edge and BOTTOM LEFT nose points to RIGHT image edge, showing opposing cheeks.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-white-34-20260923-27--head_angles.json

@@ -1,0 +1,21 @@
+﻿白底3D角色17组 10 · 粉白双马尾 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with platinum pale pink hair in long twin ponytails and soft layered fringe, sea green eyes, refined natural facial proportions and pale peach skin with subtle pores. Pink satin bow and floral hair ornaments, heart-shaped gold earrings, black leather collar with antique gold buckles over a high lace neckline. Pink and white floral dress with opaque bodice, fine lace ruffles and a large pink bow. Realistic modeled facial planes, subtle subsurface scattering and restrained specular highlights; avoid flat anime shading, oversized doll eyes, waxy skin or plastic doll appearance. Continue the floral pink-white dress into a knee-length bell-shaped lace skirt with opaque petticoat and large waist bow, bare legs with ivory ankle socks and pink Mary Jane flats. Slim healthy tall 173 cm proportions, not a doll body. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-front-17-20260923-10--full_body.json
+
+实际带参考图生成提示词
+Premium refined semi-realistic 2.5D/3D character render, sculpted beautiful face, delicate skin microtexture and subsurface scattering, crisp eyes, fine individual hair strands, richly detailed fabric and metal physically based materials. Pure opaque white seamless studio background, bright soft neutral frontal light with fill, no colored cast, no text, no labels, no border, no watermark. Preserve CG material finish, not a photograph or flat illustration. An adult woman with platinum pale pink hair in long twin ponytails and soft layered fringe, sea green eyes, refined natural facial proportions and pale peach skin with subtle pores. Pink satin bow and floral hair ornaments, heart-shaped gold earrings, black leather collar with antique gold buckles over a high lace neckline. Pink and white floral dress with opaque bodice, fine lace ruffles and a large pink bow. Realistic modeled facial planes, subtle subsurface scattering and restrained specular highlights; avoid flat anime shading, oversized doll eyes, waxy skin or plastic doll appearance. Continue the floral pink-white dress into a knee-length bell-shaped lace skirt with opaque petticoat and large waist bow, bare legs with ivory ankle socks and pink Mary Jane flats. Slim healthy tall 173 cm proportions, not a doll body. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3. Use attached approved portrait as exact identity and clothing reference. Preserve face age, eye color, hairstyle and original adornments. Skull-to-chin head remains normal length and small relative to long-limbed full body, no enlarged head, no elongated neck. Complete shoes, hair ornaments and skirt hem within frame.
+
+生成依据：
+imports/role-completion-20260924/events/human-3d-front-17-20260923-10--full_body.json

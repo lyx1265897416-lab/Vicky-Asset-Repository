@@ -1,0 +1,21 @@
+﻿服装39组 · 39 · 红白爱心夏日套装 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Bright red cropped long-sleeve open bolero shrug, fitted white graphic camisole with black words GURLS JUST NO.1 and red heart, light washed blue loose knee-length denim shorts, white ribbed crew socks, red white chunky canvas sneakers with sculptural white soles.. Add ONLY these accessories: White cotton bucket hat with tiny pastel floral print and softly frayed brim; Small cream floral-print rectangular tote with red leather trim, red twin handles and long narrow red shoulder strap; Narrow black leather belt with small gold decorative buckle; Long fine gold necklace with tiny pendant, full closed chain; Bright lime-green thick square sunglasses with gray translucent lenses. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户39张服装参考 · 参考 39
+
+原始生成提示词：
+Use case: precise-object-edit. Input image 1 is the approved hollow garment ensemble. Preserve its EXACT clothing, layering, silhouette, colors, shoes and material. Input image 2 is original styling reference, ONLY for the accessories listed below. Create one complete styled outfit on a pure uniform WHITE seamless background, portrait 2:3, soft studio light, full uncropped framing. Add ONLY these 5 listed accessories, no other objects: 1. White cotton bucket hat with tiny pastel floral print and softly frayed brim; 2. Small cream floral-print rectangular tote with red leather trim, red twin handles and long narrow red shoulder strap; 3. Narrow black leather belt with small gold decorative buckle; 4. Long fine gold necklace with tiny pendant, full closed chain; 5. Bright lime-green thick square sunglasses with gray translucent lenses. Attach those listed accessories naturally to the garment at realistic scale where possible; otherwise display the small listed object neatly adjacent. STRICT: do NOT add any unlisted hat, cap, eyeglasses, sunglasses, handbag, belt, jewelry, props or footwear. No person, skin, body parts, head, face, hands, visible mannequin, stand, text captions or watermark. Empty neckline and sleeves.
+
+生成依据：
+imports/wardrobe-39-20260928/events/complete-39-v2.json

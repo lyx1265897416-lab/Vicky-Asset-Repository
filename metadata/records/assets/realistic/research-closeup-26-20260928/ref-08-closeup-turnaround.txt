@@ -1,0 +1,21 @@
+﻿调研白底女角色26组 · 脸部三视图 · 参考08 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create a photorealistic character head-and-shoulders turnaround on a solid pure white background, landscape 1536 x 1024. Three equally sized portraits of one identical woman in a horizontal row: left strictly frontal looking straight at the camera, center exact 90-degree profile facing image-right, right exact 180-degree back view facing away. Entire hairstyle and accessories visible, aligned head scale and height, close portrait framing ending below the shoulders. Soft balanced bright studio illumination, natural skin texture, realistic hair strands and coherent warm-neutral grading. Level eyes and balanced cheeks in the front view, centered nose, philtrum, lips and chin, upright head and neutral relaxed expression. The profile has only its near eye visible, and the rear reveals no face. No text, labels, logos, watermark, frames or scenery. Character appearance and clothing: Brown hair loosely tied back with fine face-framing strands and sunglasses resting on the head, fair warm skin, hazel eyes, softly arched brows. Brown long-sleeved scoop-neck top over a cream halter underlayer. Both hazel eyes have equal natural almond-shaped openings, matching iris sizes and balanced eyelid openness, with a straight gaze. Harmonious frontal facial layout: horizontal eye line and balanced eye openings, straight centered nose, aligned Cupid bow and chin, level lip corners and balanced cheek widths.
+
+根据用户确认的最终三视图和角色正面描述整理独立提示词；未做纯文字重生成相似度验证，同脸复现需结合成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/research-closeup-26-20260928/originals/ref-08-closeup-turnaround.png
+
+原始图生图编辑提示词
+Correct the LEFT FRONT portrait of image 1 using image 2 as the authoritative corrected face. Replace the old twisted facial geometry with the balanced front-facing face of image 2. This is a holistic alignment correction of brows, eyes, nose, lips, cheeks and chin together: level pupils, equal natural eye openings and matching brows, central vertical nose-bridge/philtrum/Cupid-bow/chin alignment, level lip corners with neutral relaxed closed lips, equal cheek widths and cheekbone heights. Head upright with zero yaw/pitch/roll; direct forward gaze. Preserve the same fictional woman, original hazel eye color and warm fair skin tone, natural texture, hairstyle and sunglasses. Keep her beauty and original identity. Retain original brown top, cream underlayer, original size/framing and pure white background. The middle is still the same strict right-facing profile and the right is the same rear view; preserve both these panels. Return the full 1536x1024 three-view sheet, left front / middle profile / right back. No text or borders.
+
+生成依据：
+metadata/evidence/research-closeup-26-20260928/08.json

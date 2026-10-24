@@ -1,0 +1,26 @@
+﻿原创3D角色28组 24 · 赤绳游侠 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Create ONE landscape 3:2 full-body turnaround sheet: exactly THREE equal-size head-to-toe figures of the SAME character and costume, left strict FRONT, center strict 90-degree SIDE facing right, right strict BACK. All at same scale, height and foot baseline, all hair and footwear visible, arms naturally down. No extra portraits or panels. Character-specific body: 182 cm, compact muscular martial artist with long legs. Approximately 8.0 to 8.2 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Charcoal gray layered long martial robe with restrained red seam details, crimson sash, split outer hem over narrow dark trousers, charcoal tall martial boots.
+Premium semi-realistic dimensional 3D character CG: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Character design: Male age 24, youthful adult martial artist. Long espresso-brown hair in a high ponytail bound with a muted crimson ribbon, divided loose fringe framing forehead. Warm brown eyes, compact square-oval face, strong cheekbones, slightly upturned short nose, thick rounded brows, full lower lip and broad chin. Warm beige skin. Charcoal and gray layered martial robes, ivory inner collar, restrained red seam detail and abstract woven pattern. Alert candid expression; hands out of frame, relaxed upright.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260927/events/r27-24-body_turnaround.json
+
+实际带参考图生成提示词
+Create ONE landscape 3:2 full-body turnaround sheet: exactly THREE equal-size head-to-toe figures of the SAME character and costume, left strict FRONT, center strict 90-degree SIDE facing right, right strict BACK. All at same scale, height and foot baseline, all hair and footwear visible, arms naturally down. No extra portraits or panels. Reference 1 locks face; reference 2 locks full body and every garment detail. Character-specific body: 182 cm, compact muscular martial artist with long legs. Approximately 8.0 to 8.2 anatomical heads tall from skull crown (exclude tall hair, crown, ears and hat) to soles. Long elegant legs and arms, natural normal neck, proportionate head; do not fake height with heels, tiny shrunken head, stretched neck or camera distortion. Different characters retain distinctive builds. Full outfit: Charcoal gray layered long martial robe with restrained red seam details, crimson sash, split outer hem over narrow dark trousers, charcoal tall martial boots.
+Premium semi-realistic dimensional 3D character CG matching the reference exactly: finely sculpted face, delicate luminous skin microtexture, soft subsurface scattering, crisp eyes, individual wispy hair strands, detailed fabric and metal. Pure opaque white seamless studio background, bright soft neutral frontal light with balanced fill, subtle contact shadow. No text, labels, watermark, frame or collage borders. Preserve original age, facial anatomy, ethnicity, hair, eyes and accessories.
+Identity reference: reproduce the supplied approved portrait as the same individual, not a lookalike. Use existing hairstyle and exact costume neckline, no new identity.
+Character identity notes: Male age 24, youthful adult martial artist. Long espresso-brown hair in a high ponytail bound with a muted crimson ribbon, divided loose fringe framing forehead. Warm brown eyes, compact square-oval face, strong cheekbones, slightly upturned short nose, thick rounded brows, full lower lip and broad chin. Warm beige skin. Charcoal and gray layered martial robes, ivory inner collar, restrained red seam detail and abstract woven pattern. Alert candid expression; hands out of frame, relaxed upright.
+
+生成依据：
+imports/role-completion-20260927/events/r27-24-body_turnaround.json

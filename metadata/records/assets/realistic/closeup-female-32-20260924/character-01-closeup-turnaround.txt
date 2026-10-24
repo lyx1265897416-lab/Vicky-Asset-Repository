@@ -1,0 +1,22 @@
+﻿白底女角色32组 · 特写三视图 · 01 · 正面/正侧面/背面 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-23
+时区：America/Los_Angeles
+图像尺寸：1880 × 836
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Create a photorealistic character turnaround sheet of one fictional adult woman. Long straight near-black hair parted slightly off center, softly rounded oval face, fair warm skin, dark almond eyes, straight soft brows, small rounded nose, natural pink lips, plain white crewneck T-shirt. Wide horizontal 1880 x 836 canvas with three equal view areas. Left: exact frontal view looking directly at the camera. Center: exact 90-degree profile with nose pointing to image right. Right: exact 180-degree rear view with no face visible. Same identity, hairstyle, hair color, clothing and accessories in all views. Eye-level camera, upright head, aligned crown and chin heights, identical head scale, complete hairstyle and head-and-upper-chest framing. Pure white seamless background, bright soft balanced studio lighting with minimal shadows, natural skin texture and fine hairs, realistic 50mm perspective. Neutral relaxed expression and closed lips. Hair must retain physically consistent placement over the shoulders in all three angles. In the rear view, both ears are completely hidden behind the continuous long dark hair silhouette; no visible ear lobes or skin slivers. No text, numbers, labels, borders, separators, watermark, props, hands or full body.
+
+依据已确认成图、原角色资料及修正要求重建独立文生图提示词，未进行纯文字重生成相似度验证；严格保持身份时需结合此成图。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/closeup-female-32-20260924/originals/character-01-closeup-turnaround.png
+
+原始生成提示词：
+Use case: precise-object-edit / identity-preserve. Edit the supplied photorealistic fictional woman three-view portrait sheet with a surgical continuity correction. Preserve her exact identity, all facial proportions, expression, age, skin texture, clothing, accessories, lighting, head scale, eye-level camera and triptych layout. Same wide 9:4 canvas, target 1881 x 836, pure white seamless background, no text or borders. Return ONE corrected triptych. Change ONLY THE RIGHTMOST BACK VIEW: correct the rear viewpoint to precisely 180 degrees, camera centered directly behind the back of her head, zero head turn, head upright. BOTH EARS MUST BE COMPLETELY INVISIBLE, fully occluded by her dark hair and the rear head silhouette. Replace the two visible skin-colored ear slivers at the left and right edges with natural continuous strands of the same dark hair. No ear outlines, lobes or pink skin patches at ear level. Keep the long straight hair, crown, hair length and white shirt otherwise unchanged. Preserve LEFT FRONT and CENTER 90-DEGREE PROFILE images exactly, including their visible ears. Do not alter the hairstyle in the front or profile. This is rear-camera occlusion only.
+
+生成依据：
+metadata/evidence/closeup-female-32-20260924/01.json
+imports/closeup-female-32-20260924/records/01.json

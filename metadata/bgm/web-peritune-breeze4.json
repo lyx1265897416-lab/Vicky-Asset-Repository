@@ -1,0 +1,91 @@
+{
+  "id": "web-peritune-breeze4",
+  "asset_kind": "bgm",
+  "name": "Breeze4",
+  "original_title": "Breeze4",
+  "artist": "PeriTune / Sei Mutsuki",
+  "origin": "web",
+  "project": "网络精选 · PeriTune / Sei Mutsuki",
+  "project_id": "web-peritune",
+  "episodes": [],
+  "category": "奇幻民族",
+  "tags": [
+    "奇幻民族",
+    "凯尔特",
+    "轻快",
+    "田园"
+  ],
+  "status": "confirmed",
+  "model": null,
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-web-20260929/evidence/web-peritune-breeze4.json",
+    "imports/bgm-web-20260929/download-records/web-peritune-breeze4.json",
+    "imports/bgm-web-20260929/evidence/web-peritune-breeze4.html",
+    "imports/bgm-web-20260929/evidence/peritune-terms.html",
+    "imports/bgm-web-20260929/evidence/cc-by-4.html",
+    "imports/bgm-web-20260929/evidence/research-notes.json"
+  ],
+  "variants": [
+    {
+      "id": "3cd385accb15a09f",
+      "track_id": "web-peritune-breeze4",
+      "path": "assets/bgm/web-20260929/web-peritune-breeze4/original.mp3",
+      "bytes": 3740544,
+      "sha256": "3cd385accb15a09f0f07f456be4500098e2794b7bc84f4d0bee140931491b8cb",
+      "extension": ".mp3",
+      "label": "官方原始 MP3",
+      "duration_seconds": 155.82999999999998,
+      "source": "https://peritune.com/music/PerituneMaterial_Breeze4.mp3",
+      "sources": [
+        "https://peritune.com/music/PerituneMaterial_Breeze4.mp3"
+      ],
+      "decode_check": "passed",
+      "decoded_seconds": 155.78,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "http_content_length": 3740544,
+      "http_content_type": "audio/mpeg",
+      "final_url": "https://peritune.com/music/PerituneMaterial_Breeze4.mp3",
+      "checked_on": "2026-09-29",
+      "http_headers": {
+        "Server": "nginx",
+        "Date": "Tue, 29 Sep 2026 12:00:59 GMT",
+        "Content-Type": "audio/mpeg",
+        "Content-Length": "3740544",
+        "Connection": "close",
+        "Last-Modified": "Thu, 22 Apr 2021 14:06:00 GMT",
+        "ETag": "\"391380-5c0902dd04200\"",
+        "Accept-Ranges": "bytes"
+      }
+    }
+  ],
+  "default_variant": "3cd385accb15a09f",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "可商用 · 需署名",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://peritune.com/about/",
+    "track_url": "https://peritune.com/breeze4",
+    "checked_on": "2026-09-29",
+    "basis": "发布于 2021-04-22，官方授权页说明 2026-02 及以前曲目继续 CC BY 4.0。",
+    "attribution": "Breeze4 — PeriTune (Sei Mutsuki)\nSource: https://peritune.com/breeze4\nLicensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "usage_notes": [
+      "免费商用须署名：保留作者、曲名、来源和 CC BY 4.0 链接；若剪辑、循环或改编，请说明改动。"
+    ],
+    "content_id_note": "作者提示 YouTube 可能出现第三方误认领；可凭官方曲目与授权信息提出异议。"
+  },
+  "popularity": {
+    "tier": "风格补齐",
+    "priority": 30,
+    "basis": "用于补齐曲风和剧情场景，未宣称高热。",
+    "source_url": "https://peritune.com/breeze4",
+    "checked_on": "2026-09-29"
+  },
+  "credit_download": "assets/bgm/web-20260929/web-peritune-breeze4/CREDITS.txt",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
+  },
+  "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。发布于 2021-04-22，官方授权页说明 2026-02 及以前曲目继续 CC BY 4.0。"
+}

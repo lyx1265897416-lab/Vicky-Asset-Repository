@@ -1,0 +1,21 @@
+﻿咪 / 年糕 / tteokbokki · 37号奶油围裙 · 头部多角度 · 补齐
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-12
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-12
+
+文生图提示词：
+Use case: identity-preserve. Asset type: head-angle reference sheet for a character library. Output ONE landscape 3-columns by 2-rows contact sheet, six equally sized HEAD AND UPPER-CHEST portraits, NOT full-body views. Exact same realistic golden-orange shorthaired tabby cat: very round plush head, small upright pink-inner ears, huge round dark olive eyes, broad ivory muzzle/chin/chest, pink triangular nose, fine white whiskers, delicate orange forehead tabby stripes. Keep cream woven apron with narrow straps and blue fish patch; no hat, bow or other garments. Reading order: top left perfectly straight-on centered front, top middle three-quarter with nose pointing toward LEFT of image, top right three-quarter with nose pointing RIGHT; bottom left exact 90-degree profile pointing LEFT, bottom middle exact90-degree profile pointing RIGHT, bottom right exact180-degree back-of-head showing ears and apron neck straps. All head rotations genuinely distinct, opposite profiles not duplicates; rear panel contains NO face or eye. Eye-level camera, head upright, neutral attentive expression, identical cat scale; complete ears and entire head with safe margins in each panel. Keep anatomy that of a real cat, never humanoid. Soft pale warm ivory studio/window background, bright diffuse morning daylight, delicate realistic fur strands and natural skin of nose, cream neutral-warm photographic quality. Thin cream dividers. No titles, labels, numbers, text, UI or watermarks.
+
+独立文生图提示词根据实际生成提示词整理；仅文字未验证近乎一致。严格保持小猫身份与围裙细节请配合 37 号原图。
+
+
+来源：imports/mii-wardrobe-completion-20261012/events/mii-apron-head-angles.json
+
+实际带身份与服装参考图生成提示词
+Use case: identity-preserve. Asset type: head-angle reference sheet for a character library. The supplied cat photograph is the sole strict identity and wardrobe reference for Mii / Niangao / tteokbokki image 37. Output ONE landscape 3-columns by 2-rows contact sheet, six equally sized HEAD AND UPPER-CHEST portraits, NOT full-body views. Exact same realistic golden-orange shorthaired tabby cat: very round plush head, small upright pink-inner ears, huge round dark olive eyes, broad ivory muzzle/chin/chest, pink triangular nose, fine white whiskers, delicate orange forehead tabby stripes. Keep cream woven apron with narrow straps and blue fish patch; no hat, bow or other garments. Reading order: top left perfectly straight-on centered front, top middle three-quarter with nose pointing toward LEFT of image, top right three-quarter with nose pointing RIGHT; bottom left exact 90-degree profile pointing LEFT, bottom middle exact90-degree profile pointing RIGHT, bottom right exact180-degree back-of-head showing ears and apron neck straps. All head rotations genuinely distinct, opposite profiles not duplicates; rear panel contains NO face or eye. Eye-level camera, head upright, neutral attentive expression, identical cat scale; complete ears and entire head with safe margins in each panel. Keep anatomy that of a real cat, never humanoid. Soft pale warm ivory studio/window background, bright diffuse morning daylight, delicate realistic fur strands and natural skin of nose, same cream neutral-warm photographic quality as reference. Thin cream dividers. No titles, labels, numbers, text, UI or watermarks.
+
+生成依据：
+imports/mii-wardrobe-completion-20261012/events/mii-apron-head-angles.json

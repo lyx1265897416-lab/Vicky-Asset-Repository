@@ -1,0 +1,81 @@
+{
+  "id": "black-cat-boss--bgm-vael",
+  "asset_kind": "bgm",
+  "name": "Vael · 王庭暗流",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [
+    "EP04"
+  ],
+  "tags": [
+    "王庭",
+    "悬念"
+  ],
+  "status": "confirmed",
+  "model": "未取得原始模型记录",
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-vael/concepts/black-cat-boss/剧集/EP03/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-vael/concepts/black-cat-boss/剧集/EP04/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-vael/concepts/black-cat-boss/剧集/EP05/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-vael/concepts/black-cat-boss/剧集/EP02/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-vael/concepts/black-cat-boss/剧集/EP01/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-vael/concepts/black-cat-boss/剧集/EP06/剧集图.json"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--bgm-vael",
+      "key": "bgm-vael",
+      "family": "black-cat-boss",
+      "name": "Vael · 王庭暗流",
+      "tags": [
+        "王庭",
+        "悬念"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 237 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP04/音乐/bgm-vael.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP04/音乐/bgm-vael.mp3"
+      ],
+      "sha256": "8e8658c60bceda49e56d957f8d598645553472fc8b82527f26530cb4222adad3",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "8e8658c60bceda49",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-vael/8e8658c60bceda49.mp3",
+      "bytes": 2674029
+    },
+    {
+      "track_key": "black-cat-boss--bgm-vael",
+      "key": "bgm-vael",
+      "family": "black-cat-boss",
+      "name": "Vael · 王庭暗流",
+      "tags": [
+        "王庭",
+        "悬念"
+      ],
+      "label": "网页压缩版",
+      "duration_seconds": 90.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 96 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP04/视频/web/bgm-vael.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP04/视频/web/bgm-vael.mp3",
+        "concepts/black-cat-boss/播放器/dist/media/bgm/bgm-vael.mp3"
+      ],
+      "sha256": "24c36bee41a9f50f103f5b831ae8d644a43cf539c19d2559bb7cc4fc9636c7f5",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "24c36bee41a9f50f",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-vael/24c36bee41a9f50f.mp3",
+      "bytes": 1080620
+    }
+  ],
+  "default_variant": "8e8658c60bceda49",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}

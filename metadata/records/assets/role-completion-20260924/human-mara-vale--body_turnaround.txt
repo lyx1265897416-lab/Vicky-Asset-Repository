@@ -1,0 +1,21 @@
+﻿Mara Vale · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic full-body model turnaround sheet of an eighteen-year-old girl with warm light olive-beige freckled skin, hazel-green eyes, thick dark eyebrows, full natural lips, defined cheekbones, soft oval-square jaw, long voluminous center-parted ash-brown waves, small silver hoops, no glasses. Brick-red raincoat over charcoal knit sweater, graphite loose cargo trousers and gray trail sneakers. Three equal vertical panels side by side: true front, true left profile, true back. Same attractive youthful person in all views. Slender natural 7.7-head tall fashion proportions, long legs, consistent height and body shape. Neutral upright standing stance, arms relaxed slightly away from hips, hands visible, feet on same baseline. Entire person including full hair and shoes in each panel with generous white margin, no cropping. Bright cream-white seamless background, soft neutral studio daylight, low contrast, real skin texture, individual hair fibers, physically realistic cloth seams and drape. No text, arrows, labels, logos or other people.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-mara-vale--body_turnaround.json
+
+实际带参考图生成提示词
+Produce a full-body turnaround using attached reference as strict same-person and exact-costume guide. Preserve her identity and outfit in every angle. Photorealistic full-body model turnaround sheet of an eighteen-year-old girl with warm light olive-beige freckled skin, hazel-green eyes, thick dark eyebrows, full natural lips, defined cheekbones, soft oval-square jaw, long voluminous center-parted ash-brown waves, small silver hoops, no glasses. Brick-red raincoat over charcoal knit sweater, graphite loose cargo trousers and gray trail sneakers. Three equal vertical panels side by side: true front, true left profile, true back. Same attractive youthful person in all views. Slender natural 7.7-head tall fashion proportions, long legs, consistent height and body shape. Neutral upright standing stance, arms relaxed slightly away from hips, hands visible, feet on same baseline. Entire person including full hair and shoes in each panel with generous white margin, no cropping. Bright cream-white seamless background, soft neutral studio daylight, low contrast, real skin texture, individual hair fibers, physically realistic cloth seams and drape. No text, arrows, labels, logos or other people.
+
+生成依据：
+imports/role-completion-20260924/events/human-mara-vale--body_turnaround.json

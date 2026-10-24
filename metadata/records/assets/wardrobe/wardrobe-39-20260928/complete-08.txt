@@ -1,0 +1,21 @@
+﻿服装39组 · 08 · 灰T橄榄工装裤 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Light-gray oversized short-sleeve plain T-shirt, dark olive very wide cargo trousers with large side flap pockets, black chunky leather lace-up shoes.. Add ONLY these accessories: Brown baseball cap with small white intertwined NY embroidery and curved brim; One fine gold chain bracelet with complete clasp. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户39张服装参考 · 参考 8
+
+原始生成提示词：
+Use case: product-mockup. Premium photorealistic wardrobe catalog asset. Portrait 2:3, pure white seamless background, soft neutral studio illumination, realistic fabric and metal texture, subtle contact shadows, whole object uncropped with generous margin. No captions, price labels, watermarks, surroundings or people. Complete styled ensemble: Light-gray oversized short-sleeve plain T-shirt, dark olive very wide cargo trousers with large side flap pockets, black chunky leather lace-up shoes. Accessories: Brown baseball cap with small white intertwined NY embroidery and curved brim; One fine gold chain bracelet with complete clasp. One assembled front-facing hollow invisible-mannequin outfit; all wearable accessories attached naturally at correct scale, handbag hanging beside outfit, glasses and hat aligned above EMPTY neckline with no head. Jewelry arranged naturally but no skin. Absolutely no person, body parts, skin, mannequin or stand. No handheld drinks, phone, flowers or microphones. Input image 1 is the approved hollow garment ensemble: keep its exact garment designs, proportions, colors and materials unchanged. Input image 2 is original styling reference: use ONLY its accessories. Add the listed accessories to image 1. Keep the white background and no body, skin, mannequin, display head, face or hands. Accessories that cannot attach without a body may float neatly adjacent.
+
+生成依据：
+imports/wardrobe-39-20260928/events/complete-08.json

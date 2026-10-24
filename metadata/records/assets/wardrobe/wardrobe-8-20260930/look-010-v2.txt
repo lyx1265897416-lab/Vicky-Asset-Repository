@@ -1,0 +1,22 @@
+﻿服装8图 · 010 · 深棕长外套 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic wardrobe product image, pure white background, soft studio light, portrait 2:3, no person, skin, body parts, visible mannequin or stand. Entire object fully visible. Chocolate tailored calf-length coat dress, black sheer tights displayed hollow with no skin inside, black pointed stiletto pumps. Exclude detachable fur stole and belt.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：服装8图 · 图2 下排中
+
+原始生成提示词：
+Edit this wardrobe product photograph. Remove all flesh-colored or anatomical legs inside the hosiery. Render empty translucent neutral gray-black pantyhose fabric, white backdrop visible through it, no skin, knees, calf anatomy or mannequin. Keep the hosiery pattern and all other clothes and shoes. Preserve all other materials and cuts, pure white background, fully uncropped portrait 2:3. No human, visible body, face, hair, mannequin, stand or new objects.
+
+生成依据：
+imports/wardrobe-8-20260930/events/look-010-v2.json
+imports/wardrobe-8-20260930/source-02.json

@@ -1,0 +1,21 @@
+﻿完整造型 · 26 · 灰麻花连帽针织
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. One complete styled outfit, photorealistic product catalog image, portrait 2:3, pure white seamless background, soft studio light. Invisible hollow clothing with no person, body, skin or visible mannequin. Clothing: Oversized gray cable-knit zip-front hooded cardigan open over white button-up shirt, washed charcoal wide-leg jeans, white sneakers.  Accessories: One olive-brown canvas crossbody messenger bag with large flap pockets and dark adjustable webbing strap.  All attachable accessories worn naturally on the ensemble at realistic scale. Unattachable tiny accessories arranged adjacent to the ensemble. Full uncropped framing, no text, logos or watermark.
+
+依据已入库服装和独立配饰合成完整无人造型。精确单品请从套装详情打开原始服装与配饰图。
+
+
+来源：服装31组 · 参考 26 · 已入库服装与配饰组合
+
+原始生成提示词：
+Use case: precise-object-edit. Replace ONLY the black background and dramatic glow with a pure opaque white #FFFFFF seamless background and bright soft neutral studio lighting. Remove ALL halo, glow, vignette, spotlight. Preserve this exact empty gray cable-knit hooded cardigan, white shirt, charcoal wide-leg jeans, white sneakers, olive-brown canvas crossbody messenger bag, same proportions, seams and complete 2:3 framing. Product-only, no human, skin or mannequin. Match white-background clothing catalog photography.
+
+生成依据：
+imports/wardrobe-complete-31-20260928/events/complete-26.json

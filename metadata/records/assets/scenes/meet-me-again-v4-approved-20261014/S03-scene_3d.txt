@@ -1,0 +1,22 @@
+﻿今天再喜欢我一次 V4 · S03-scene_3d · 温室水槽工作区 · 三维概念图 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-14
+
+文生图提示词：
+Greenhouse work nook in sage glass frames and cream stone, white apron-front ceramic utility sink in aged oak cabinet at left, aged brass tap and coiled dark green hose, towel rail and separate clothing hook above, open double sage doors to adjacent table workspace, terracotta plants, stone paving, sea visible through right glazing. Empty environment. One standalone axonometric three-dimensional cutaway dollhouse concept view on off-white background. Show entire spatial volume and adjoining circulation. Remove roof only for legibility, preserve structure and furniture. No floorplan panels. Landscape 3:2, no watermark, no people or animals.
+
+用户确认的原始 PNG，未裁切、重编码、调色或放大。空间图为栅格概念参考，未展示区域及跨视图几何不视为已验证；道具和服装保留整张图板。独立提示词未进行复现相似度验证。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/asset-review-v1/images/S03-scene_3d.png
+
+原始生成提示词：
+Vicky scene library S03-scene_3d. Reference is the scene master candidate. Service nook at rear of same greenhouse; ceramic utility sink in oak workbench, simple brass faucet with detachable green hose and connector, wall towel rack, separate clothing hook away from water, potted herbs, clear space for two adults. Opens directly to main table area, no separate house. A single axonometric 3D cutaway dollhouse view on off-white background; remove roof to reveal spatial volume and circulation. Keep furniture locations and wall geometry. No other view panels. Same architecture/material/prop identity; infer unseen space minimally. Fine naturalistic romantic 3D environment where appropriate. No people, silhouettes, hands, animals, watermark. Landscape 3:2 highest native quality. Dedicated separate conceptual reference image for this view type.
+
+生成依据：
+imports/meet-me-again-v4-approved-20261014/evidence/S03-scene_3d.json
+imports/meet-me-again-v4-approved-20261014/approval.json

@@ -1,0 +1,21 @@
+﻿服装77图 · 050 · 山茶花黑白芭蕾短裙 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Ivory strapless fitted peplum bodice with black top edge and white camellias, black full tulle mini skirt; no invented shoes.. Add ONLY these accessories: 黑色超宽檐网纱礼帽; 双层珍珠项链; 金色圆耳饰一对; 黑色菱格金链山茶花手提包. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户77张服装参考 · 19 foreground
+
+原始生成提示词：
+Edit this outfit product image. Remove the entire pair of black gloves at the bottom left, including their bows/cuffs. Those gloves are unwanted extras. Keep exactly the ivory black camellia bodice and black tulle skirt, one black net-veil hat, one pearl necklace, one pair of gold earrings, and one black quilted flower handbag. Preserve all these remaining objects and their details. No shoes, gloves, person, body parts, mannequin, text or other objects. Pure white background.
+
+生成依据：
+imports/wardrobe-77-20260929/events/complete-050-v2.json

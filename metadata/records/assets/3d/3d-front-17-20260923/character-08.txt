@@ -1,0 +1,23 @@
+﻿白底3D角色17组 · 正面平视 · 08 · 玄金凤钗
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22
+时区：America/Los_Angeles
+图像尺寸：1122 × 1402
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Create one original fictional character as a premium realistic-stylized 3D game cinematic render with physically based materials. Straight-on front-facing eye-level head-and-shoulders ID portrait, upright head, level shoulders, both eyes looking into the camera, neutral 85mm perspective, no tilt or three-quarter view. Center the complete hairstyle and ornaments with a small white top margin and crop at upper chest. Opaque pure white #FFFFFF background, balanced soft neutral studio lighting, dimensional face, subtle natural skin microtexture and subsurface scattering, crisp detailed eyes, individual strand hair, richly detailed cloth and metal. Maintain a coherent refined 3D aesthetic without flat illustration shading, plastic skin or a live-action photograph appearance. No hands, text, logos, watermarks, UI buttons, borders or collage. Vertical 4:5 canvas. An adult woman with glossy black hair in two buns, softly separated fringe and long face-framing strands, mint gray eyes and pale softly textured skin. Rose gold phoenix hairpins with delicate chains. Black high-collar fitted traditional fantasy dress, rose gold piping and floral fasteners, fine dark floral material pattern.
+
+独立提示词按已确认成图整理，未进行重新生成相似度验证；严格保持身份时请同时使用已确认图片作为参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/3d-front-17-20260923/originals/character-08.png
+
+原始正面照生成或修订提示词
+Use case: identity-preserve. Edit the supplied generated character into a strictly FRONT-FACING, EYE-LEVEL passport/ID photo composition. This is the SAME fictional adult character, not a new character or redesign. Preserve the exact facial identity, gender presentation, eye color, hair color and hairstyle, skin tone, distinctive facial marks, clothing design, jewelry and head ornaments of the input. Preserve the premium realistic-stylized 3D modeled rendering and detailed materials.
+Camera: exactly at the subject's eye height, straight-on 85mm portrait lens, zero camera roll. Head straight and upright, nose on centerline, BOTH eyes looking straight into lens, both cheeks equally visible, no head tilt, no three-quarter angle, no profile. Torso and shoulders face directly forward; shoulders level, relaxed neutral expression, lips gently closed. Turn the person to face camera physically; do not merely crop the existing pose.
+Composition: one centered head-and-shoulders portrait, vertical 4:5 format, crop at upper chest, show the complete hair and headdress with a small clear margin above, no hands in frame. Match an elegant character ID portrait, not an actual ID document. Pure opaque white #FFFFFF background edge to edge, bright soft balanced studio lighting, no background shadows, no vignette or gradient. Fine skin microtexture, dimensional natural face, crisp eyes, strand hair. No text, no labels, no logo, no watermark, no border, no collage. Do not add or remove accessories. Output just one finished image.
+
+生成依据：
+metadata/evidence/3d-front-17-20260923/08.json

@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-11",
+  "user_feedback": "这个不是男声",
+  "withdrawn_reference": "assets/voices/confirmed-20261011/meet-me-again-rowan-original-reference.wav",
+  "withdrawn_range": [
+    59.38,
+    62.95
+  ],
+  "retained_requested_anchor": "Our friendship? at 0:28.15-0:29.40",
+  "scope": "原声卡片改回用户图1指定那一句。不得用错误补充片段生成男主配音。"
+}

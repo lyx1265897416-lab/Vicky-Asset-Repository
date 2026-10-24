@@ -1,0 +1,23 @@
+﻿Current continuity-locked Rian court costume
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-18
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-23
+
+文生图提示词：
+Output one image, aspect ratio 941:1672 (approximately 0.563:1), target canvas 941 × 1672 pixels.
+
+Vertical medium portrait from the top of hair to hips of an exceptionally beautiful slim adult male merfolk prince with very pale porcelain skin, amber-gold almond eyes, elegant long narrow face, high soft cheekbones, straight fine nose, muted rose lips, delicate pointed ears, long flowing silver-lavender hair with loose waves and airy parted bangs, silver-blue dangling earring and a fine silver necklace with a small blue gemstone pendant. He turns his face slightly left and looks thoughtfully out of frame. Bare right shoulder; translucent ivory-silver one-shoulder toga held on the left shoulder by an ornate silver brooch, pearls and several pale-blue gemstone chains. A softly draped shallow V neckline reveals upper chest, with refined anatomy. Light-catching ripples of blue water and slender gilded palace columns behind. Premium romantic otome 2.5D/3D fantasy illustration with softly sculpted dimensional features, luminous translucent porcelain skin, extremely detailed wispy hair strands, pearlescent silk, silver filigree, crystals and gemstones; pale icy blue, silver, lavender and champagne light, bright diffused bloom, polished rendering and soft depth of field. No cartoon outlines, coarse skin, gritty live-action texture, dark murky lighting or watermark.
+
+文字可复用构图、气质与质感，但随机采样可能改变脸部细节；未验证仅凭文字可达到近乎一致。需要严格锁脸时请同时使用此图作为身份参考。
+
+
+来源：projects/the-sea-princes-almost-bride/角色设计/v7-continuity/images/RIA_court_medium_v07.png
+
+生成工具记录的提示词（可能依赖参考图）
+Precise object edit of image 1, an approved adult male otome 2.5D/3D character film first frame. Image 1 is the EDIT TARGET: preserve its exact composition, face, head angle, gaze, silver-lavender hair, body, lighting, palace background, white pearlescent toga, crescent shoulder brooch and necklace. Image 2 is the AUTHORITATIVE JEWELRY AND CHEST reference, not a new face/pose. Fix ONLY two continuity errors. (1) Remove the extra inner white triangular cloth flap crossing his exposed chest underneath the long hair on the image-left side, the small underlayer that slopes from the image-left pectoral area up into the center of the V neckline. Reveal his natural skin beneath it, with coherent pectoral anatomy and the existing skin tone. Keep the long hair strands over that skin. The remaining main toga must have ONE clean continuous diagonal neckline running from the brooch on image-right shoulder down toward image-left torso. NO inner vest, no second crossed neckline, no cloth triangle filling the exposed chest, no new straps. Do not remove or redesign the rest of the toga. (2) Replace the earrings with the EXACT ones visible in image 2, matched side by side to the same anatomical ears: delicate silver connectors, round lustrous white pearl bead details and long translucent very pale icy-blue pear-shaped drops. Copy the visible bead order, lengths relative to jaw and the existing ear-fin hanging jewelry from image 2; preserve asymmetry where present. Do not retain image 1's uniform long string of many little beads ending in a dark cobalt blue drop. Necklace remains its existing blue drop, distinct from pale translucent earring drops. No other alterations. No text, no annotations or red boxes. Return one portrait image with exactly the framing/aspect ratio of image 1.
+
+生成依据：
+metadata/evidence/exec-d21459e9-e7d0-4d0f-86b1-ea1c5345dd89.json

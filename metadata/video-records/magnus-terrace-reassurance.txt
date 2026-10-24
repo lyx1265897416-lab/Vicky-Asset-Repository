@@ -1,0 +1,16 @@
+Vicky 视频样例｜Magnus Thorne · 克制放柔 · 庄园露台
+
+类别：状态参考视频
+生图/视频模型：未明确披露（制作包保留实际作业记录）
+生成日期：未核实
+入库日期：2026-10-18
+原文件：04_克制放柔_庄园露台_表演新版_480p.mp4
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnsSQ1xIwiDNh6Y6vicwmlrh
+文档修订：1619
+SHA-256：c5fafc63f6a49a1fd04c0c28daca19fe341c1543ff0670ebfad32c2660035161
+
+04 庄园露台｜生成 prompt
+克制放柔｜庄园露台
+A six-second dramatic scene in portrait 9:16, realistic refined 3D game CG. Use the reference for the exact adult Magnus Thorne identity, face, black hair, bronze skin, beard, black suit and physical environment. Preserve its restrained matte lighting and fabric/skin detail. BOTH irises remain DARK BROWN in every frame, no gold, yellow or glowing eyes: this is an ordinary plot scene, not the established climax. Natural human motion with decisive starts, real momentum, and soft settling. His thought and action continue through the spoken line; face, hands and torso do not take turns performing separate commands. React to the scene partner, not to a photography session. Economical purposeful gestures, asymmetrical weight, eyes leading a turn naturally. No prolonged neutral stare, no evenly paced head rotation, no repeated nod/blink cycle, no rigid puppet shoulders, no slow motion. One coherent shot. Keep hands anatomically connected and objects physically stable. All dialogue in fluent natural English, one male speaker, no additional words. Mature low chest baritone, lightly husky conversational tone with changing stress and expressive intention; not artificial TTS, monotone whisper or trailer voice. Speech must flow naturally and lip-sync. Generate matching ambience and synchronized action sounds; no background music, no subtitles, no text, no watermark. The guest opposite has just admitted they don't know what to say. Magnus responds directly, already lowering his cup in an ordinary relaxed motion, and says "You're safe here" before the cup reaches the saucer. The cup lands once with a soft clink, fingers release it and his hand withdraws naturally, not in separate ceremonial steps. His eyes stay on the guest; the brows soften as he realizes the reassurance is landing, a small warm exhale almost becomes a smile then settles. He leans a little closer from the hips while saying "Take your time", with gentle conviction and no sugary performance. After the words, he briefly glances toward the cup to give the guest breathing room, then returns his attention; one corner of the mouth warms slightly, no full grin or prolonged smile pose. Relaxation should be visible in his shoulders and hand, not just his lips. Brisk casual cup movement, intimate flowing line, a short generous pause: uneven, alive rhythm. First line begins within about the first second, finish speaking around 3.8 seconds and leave a brief thoughtful aftermath. Stable seated-guest camera, no constant dramatic dolly. Quiet breeze and sparse dripping from the eaves, subtle ceramic and sleeve sounds. Keep the approved soft neutral matte face, subdued house light and dark stone table without oily golden shine.
+
+说明：提示词来自文档，原始输入、后期编辑和成片反推分别保留；不是保证一条纯文字提示词可逐帧复现。

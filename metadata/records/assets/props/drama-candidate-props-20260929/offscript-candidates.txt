@@ -1,0 +1,22 @@
+﻿别演，吻我 · 备选道具 · 排练、录制与约会
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-29
+时区：America/Los_Angeles
+图像尺寸：1448 × 1086
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-29
+
+文生图提示词：
+Use case: product-mockup. Create a NEW high-resolution prop asset catalog board with exactly 12 separate cells arranged 4 columns by 3 rows. These are candidate props for future drama production. Each listed object or coherent set goes in one cell, in row-major order. 1 small matte black tabletop phone tripod with EMPTY clamp, no phone; 2 black wired lavalier microphone with clip and neatly coiled cable; 3 slim charcoal powerbank with short white cable; 4 set of silver looseleaf binding rings and black binder clips beside punched loose cream pages; 5 sharpened pencils, eraser, muted yellow highlighter; 6 one clean ivory rehearsal schedule page on flat gray backing with seven empty columns and sparse gray lines, no text; 7 simple folding black canvas rehearsal chair entire chair; 8 medium olive canvas zip duffel bag with handles; 9 full-length charcoal zip garment bag on hanger, no clothing visible; 10 pair compact black stage walkietalkies; 11 small dark handheld presenter remote with two buttons; 12 closed burgundy restaurant menu folio beside a plain offwhite folded table napkin. Real photographic props for contemporary London independent theater, restrained navy olive burgundy and charcoal palette, practical modest scale, no theatrical luxury. FULLY OPAQUE PURE WHITE seamless backgrounds, RGB not transparency. Soft neutral studio illumination, faint contact shadows, natural tactile materials, no oily highlights. Every item fully visible and wholly contained inside its cell with generous white margin. No people, hands, bodies, mannequins, rooms, brand logos, watermarks or cell labels. No extra objects. Landscape 4:3 canvas. Maintain consistent photographic catalog tone throughout.
+
+本批为新设计的备选道具，基于剧本场景和合理制作需求；不代表已出镜或剧情已定稿。格序从左到右、从上到下。
+
+
+来源：/Users/vicky/Interactive storyline/output/drama-props-candidates-20260929/offscript-candidates.png
+
+原始生成提示词：
+Use case: product-mockup. Create a NEW high-resolution prop asset catalog board with exactly 12 separate cells arranged 4 columns by 3 rows. These are candidate props for future drama production. Each listed object or coherent set goes in one cell, in row-major order. 1 small matte black tabletop phone tripod with EMPTY clamp, no phone; 2 black wired lavalier microphone with clip and neatly coiled cable; 3 slim charcoal powerbank with short white cable; 4 set of silver looseleaf binding rings and black binder clips beside punched loose cream pages; 5 sharpened pencils, eraser, muted yellow highlighter; 6 one clean ivory rehearsal schedule page on flat gray backing with seven empty columns and sparse gray lines, no text; 7 simple folding black canvas rehearsal chair entire chair; 8 medium olive canvas zip duffel bag with handles; 9 full-length charcoal zip garment bag on hanger, no clothing visible; 10 pair compact black stage walkietalkies; 11 small dark handheld presenter remote with two buttons; 12 closed burgundy restaurant menu folio beside a plain offwhite folded table napkin. Real photographic props for contemporary London independent theater, restrained navy olive burgundy and charcoal palette, practical modest scale, no theatrical luxury. FULLY OPAQUE PURE WHITE seamless backgrounds, RGB not transparency. Soft neutral studio illumination, faint contact shadows, natural tactile materials, no oily highlights. Every item fully visible and wholly contained inside its cell with generous white margin. No people, hands, bodies, mannequins, rooms, brand logos, watermarks or cell labels. No extra objects. Landscape 4:3 canvas. Maintain consistent photographic catalog tone throughout.
+
+生成依据：
+imports/drama-candidate-props-20260929/evidence/offscript-candidates.json
+imports/drama-candidate-props-20260929/approval.json

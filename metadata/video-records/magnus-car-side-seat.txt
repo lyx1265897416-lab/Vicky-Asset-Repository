@@ -1,0 +1,16 @@
+Vicky 视频样例｜Magnus Thorne · 同排邻座 · 车内回应
+
+类别：状态参考视频
+生图/视频模型：未明确披露（制作包保留实际作业记录）
+生成日期：未核实
+入库日期：2026-10-18
+原文件：02_车内_邻座侧向视角_新台词_V5_480p.mp4
+来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnginkqWfyj9q91ph7bdhzBf
+文档修订：1619
+SHA-256：b912b9d110bd3fdd0b0927636c7dcfe4767edce4fb1e721600f35f7aa2771ac5
+
+02 车内邻座｜生成 prompt
+车内｜同排邻座视角｜沉稳强势回应
+Six-second single continuous shot, portrait 9:16, refined realistic 3D game CG. Match the exact input adult Magnus identity, black swept hair, bronze skin, beard, black tailored suit and matte subdued lighting. Brown eyes always, no gold. TRUE SIDE-BY-SIDE rear-seat camera: the woman occupies the RIGHT rear seat, Magnus the LEFT rear seat on the SAME row. Camera is the woman's eyes, looking directly SIDEWAYS to his RIGHT side profile. Initial nose and chest point to vehicle front, SCREEN LEFT. Keep his torso facing the windshield all along. Camera never moves forward, never orbits, never turns this into a front-seat interview. Only Magnus is visible, no additional people, no visible woman/body/hair/reflection. The woman's questioning silence is the trigger. He knows she has many questions and confidently decides when they will be answered. He begins speaking immediately while his head turns toward her at his right, his body still facing forward. EXACT dialogue, fluent English: "I'll answer your questions—in time. For now, stay here with me." Deliver the first clause as a clear promise, 'in time' as a brief firm boundary, then 'For now, stay here with me' as a low definite instruction, NOT a tentative plea, not sugary reassurance or invitation. Mature steady chest baritone, slightly husky and resonant, understated authority, natural connected phrases and real emotional intention. No excessive pauses, no theatrical villain growl, no robotic TTS, no added words. Whole line should fit naturally in about five seconds, begin within first half-second. His eyes find the LENS where the woman beside him sits, jaw and brow settle into calm certainty. A slight controlled lean of the near shoulder, then a composed attentive gaze expecting her response. No broad smile, no ingratiating eyebrow dance or repeated nodding. Lips and face move naturally with speech; grounded shoulders and breathing, not a frozen doll. Keep the exact side-on seat/shoulder geometry and tan leather door/window/headrest from the reference even as his head turns three-quarter toward the lens. No touching or reaching. Quiet cabin ventilation, light leather/sleeve rustle, no music, subtitles or text.
+
+说明：提示词来自文档，原始输入、后期编辑和成片反推分别保留；不是保证一条纯文字提示词可逐帧复现。

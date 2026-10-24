@@ -1,0 +1,37 @@
+﻿斯凯 · 洛娜参考声线
+项目：海王子的准新娘
+角色：斯凯 / Skye
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：用户选择洛娜参考声线
+原始样音：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/audio/P02-seed-audio-v14.mp3
+试听/下载文件SHA256：740b8e2b9cd7de3a8d4b6ab64ac435cb17d648319fd16155ad2cf5ceebd8d053
+原始音频（保留）：assets/voices/confirmed-20260928/sea-sky.mp3
+原始SHA256：f4ae88c65f0c9d36ee4af0d6e59eea6d63ee057fa1d83dc60afdecf1e54f4872
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.1 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/sea-sky-b31a467df1cf0fc445f6.json
+去除开头等待：0.59秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.8秒；总计去除：1.39秒
+当前试听时长：2.61秒
+
+试听台词：
+My friend. Yellow jacket. Where is she?
+
+声音描述：
+Youthful adult woman, selected Lorna reference, natural contemporary General American. Distinct from other female characters.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/confirmed-voices-20260928/approval-evidence.json
+imports/confirmed-voices-20260928/source-records/sea-sky/voices.json

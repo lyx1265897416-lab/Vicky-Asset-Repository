@@ -1,0 +1,66 @@
+{
+  "id": "magnus-doc-20261019-mus_magnus_confrontation_v2",
+  "asset_kind": "bgm",
+  "name": "别替我决定 · 对峙升级 · V2",
+  "project": "Magnus Thorne",
+  "project_id": "magnus-thorne-document",
+  "category": "剧情配乐",
+  "episodes": [],
+  "tags": [
+    "Magnus Thorne",
+    "文档确认版",
+    "剧情配乐",
+    "一次性",
+    "V2"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/music-v2.5",
+  "parameters": {
+    "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second dramatic hybrid string and dark electronic cue at104 BPM, D minor with brief chromatic upper-neighbor tension. Precisely articulated repeating cello figure, insistent restrained kick, clipped low piano chord responses, ticking percussion and rising viola countermelody. 0-8s contained confrontation; 8-20s rhythmic layers accumulate and harmony tightens; 20s sudden beat of near silence for a decisive line; 21-33s forceful return with octave low strings and rhythmic displacement; 33-40s unresolved uneasy sustained chord with a short pulse underneath. Tension must evolve, not stay flat. No gunshots, horror shrieks, enormous trailer hits or constant cymbal wash.",
+    "music_length_ms": 40000,
+    "force_instrumental": true,
+    "output_format": "mp3_48000_192"
+  },
+  "prompt": "Compose an ORIGINAL instrumental cue for a sophisticated contemporary dark-romance interactive drama, adult mutual attraction, dangerous secrets, charismatic powerful male lead. Strong emotional tension and immediately recognizable rhythm, not generic ambient wallpaper. Clear on phone speakers through mid-bass harmonics, not only sub-bass. No vocals, words, breathing, choir, spoken samples or environmental effects. Original melody and arrangement, no quotations from existing recordings. Musical sections must visibly change in energy while leaving midrange space for dialogue. 40-second dramatic hybrid string and dark electronic cue at104 BPM, D minor with brief chromatic upper-neighbor tension. Precisely articulated repeating cello figure, insistent restrained kick, clipped low piano chord responses, ticking percussion and rising viola countermelody. 0-8s contained confrontation; 8-20s rhythmic layers accumulate and harmony tightens; 20s sudden beat of near silence for a decisive line; 21-33s forceful return with octave low strings and rhythmic displacement; 33-40s unresolved uneasy sustained chord with a short pulse underneath. Tension must evolve, not stay flat. No gunshots, horror shrieks, enormous trailer hits or constant cymbal wash.",
+  "source_records": [
+    "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+    "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+  ],
+  "variants": [
+    {
+      "id": "110e8d011a7bf166",
+      "path": "assets/bgm/magnus-doc-20261019/MUS_MAGNUS_CONFRONTATION_V2.mp3",
+      "sha256": "110e8d011a7bf16655e7351d02ec37a8db88a1ea351161a3b613928b8ebc55e6",
+      "label": "文档原版 · V2",
+      "duration_seconds": 40.03,
+      "extension": ".mp3",
+      "bytes": 961388,
+      "sources": [
+        "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcntlLbbiibRC75e23iZ3TF7y",
+        "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/tension-v2/audio/MUS_MAGNUS_CONFRONTATION_V2.mp3"
+      ],
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "decode_check": "passed"
+    }
+  ],
+  "default_variant": "110e8d011a7bf166",
+  "confirmation": {
+    "date": "2026-10-19",
+    "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+  },
+  "provenance_note": "原文档音频逐字节保留；别替我决定 · 对峙升级。用途：当前实际发生的婚约争执、家族施压或对峙；女主单纯表达边界、暂停或纠正不自动触发。设计节奏：低弦重复→短弦加速→留白→压迫回归→未解决尾音，实际适配须听审。 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcntlLbbiibRC75e23iZ3TF7y",
+  "source_revision": 1619,
+  "source_block_id": "doxcntlLbbiibRC75e23iZ3TF7y",
+  "generation_date": null,
+  "generation_date_note": "未取得可核实生成时间戳。",
+  "imported_on": "2026-10-19",
+  "historical_generation_status": "Technical decode/level checks passed; no independent listening approval; arc timestamps are design intent.",
+  "production_processing": {
+    "loop": false,
+    "loop_crossfade_seconds": null,
+    "gain_db": null,
+    "duration_seconds": 40.0,
+    "source_duration_seconds": null
+  }
+}

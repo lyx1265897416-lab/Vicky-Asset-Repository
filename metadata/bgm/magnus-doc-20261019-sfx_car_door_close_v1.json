@@ -1,0 +1,66 @@
+{
+  "id": "magnus-doc-20261019-sfx_car_door_close_v1",
+  "asset_kind": "bgm",
+  "name": "车门关闭 · V1",
+  "project": "Magnus Thorne",
+  "project_id": "magnus-thorne-document",
+  "category": "动作音效",
+  "episodes": [],
+  "tags": [
+    "Magnus Thorne",
+    "文档确认版",
+    "动作音效",
+    "一次性",
+    "V1"
+  ],
+  "status": "confirmed",
+  "model": "elevenlabs/sound-effects-v2",
+  "parameters": {
+    "prompt": "One isolated luxury sedan door closing gently but securely: a smooth short movement, one deep cushioned thump and precise latch click, then complete natural decay. Single closing action, not repeated or slammed. Clean close foley, no opening, engine, alarm, footsteps, speech, music or ambience.",
+    "duration": 3,
+    "loop": false,
+    "prompt_influence": 0.65
+  },
+  "prompt": "One isolated luxury sedan door closing gently but securely: a smooth short movement, one deep cushioned thump and precise latch click, then complete natural decay. Single closing action, not repeated or slammed. Clean close foley, no opening, engine, alarm, footsteps, speech, music or ambience.",
+  "source_records": [
+    "imports/magnus-confirmed-assets-20261019/audio-verification.json",
+    "imports/magnus-confirmed-assets-20261019/provenance/magnus-sound-complete-20261017/manifest.json"
+  ],
+  "variants": [
+    {
+      "id": "8b71aa77211bed32",
+      "path": "assets/bgm/magnus-doc-20261019/SFX_CAR_DOOR_CLOSE_V1.mp3",
+      "sha256": "8b71aa77211bed325458adf04327f0db74c8ea47a9b4726cf80a5b42de1a4286",
+      "label": "文档原版 · V1",
+      "duration_seconds": 3.02,
+      "extension": ".mp3",
+      "bytes": 73196,
+      "sources": [
+        "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnzeAXgMevZAK6GgQviWryEh",
+        "/Users/vicky/Interactive storyline/outputs/magnus-sound-complete-20261017/audio/SFX_CAR_DOOR_CLOSE_V1.mp3"
+      ],
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "decode_check": "passed"
+    }
+  ],
+  "default_variant": "8b71aa77211bed32",
+  "confirmation": {
+    "date": "2026-10-19",
+    "note": "按用户本次要求归档文档现行非待定素材；原始文件与制作时审听状态分别保留。"
+  },
+  "provenance_note": "原文档音频逐字节保留；一次性｜车门关｜关门低响与锁扣落定 原始生成参数、循环/剪辑处理及历史状态见来源记录，不以技术解码检查冒充重新听审。",
+  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnzeAXgMevZAK6GgQviWryEh",
+  "source_revision": 1619,
+  "source_block_id": "doxcnzeAXgMevZAK6GgQviWryEh",
+  "generation_date": null,
+  "generation_date_note": "未取得可核实生成时间戳。",
+  "imported_on": "2026-10-19",
+  "historical_generation_status": "generated; decode and level checks passed; listening approval pending",
+  "production_processing": {
+    "loop": false,
+    "loop_crossfade_seconds": 0,
+    "gain_db": -6.105,
+    "duration_seconds": 3.0,
+    "source_duration_seconds": 3.0
+  }
+}

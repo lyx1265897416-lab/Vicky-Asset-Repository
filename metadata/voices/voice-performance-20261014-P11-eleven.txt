@@ -1,0 +1,52 @@
+﻿清冷威严角色的私人一面 · Eleven v4
+项目：角色表演试听 · 2026-10-14
+角色：清冷威严角色的私人一面
+年龄设计：36岁（角色目标）
+身份用途：通用剧情角色
+音色标签：清冷威严角色的私人一面
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-performance-shortlist.json 中将 P11-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-performance-20261014/audio/P11-eleven.mp3
+试听/下载文件SHA256：984f4209cc67337959a40b483146a228f18b46faeba9358831f7c815193b7092
+原始音频（保留）：assets/voices/voice-performance-20261014/original/P11-eleven.mp3
+原始SHA256：a4d53db8620a21bc13bc38cb14b06bd7c10bc4969540bcbcc6fca58c1bcf08d4
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-22.73 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-performance-20261014-P11-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.11秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：13.44秒
+
+试听台词：
+Close the door. Please. I know what they told you, and I know you don't trust me. That's fair. But if you walk out there tonight... I can't protect you. Stay. Just until morning.
+
+声音描述：
+命令式开场，转为压着的担心。
+In private with someone he is afraid to lose. Controlled authority softens on please; no grand villain performance. Admit the limitation honestly, then make stay almost a plea.
+固定预设 Adam 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+Close the door, please. I know what they told you, and I know you don't trust me. That's fair. But if you walk out there tonight, I can't protect you. Stay just until morning.
+
+已有生成参数：
+{
+  "text": "[quietly commanding] Close the door. [softly] Please. I know what they told you, and I know you don't trust me. That's fair. [strained] But if you walk out there tonight... I can't protect you. [softly] Stay. Just until morning.",
+  "voice_id": "Adam",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Adam",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-performance-20261014/confirmation.json
+imports/voice-performance-20261014/jobs/P11-eleven.json
+imports/voice-performance-20261014/evidence/roles.json
+imports/voice-performance-20261014/evidence/qa.json
+imports/voice-performance-20261014/evidence/production-notes.json

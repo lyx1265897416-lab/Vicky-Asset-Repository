@@ -1,0 +1,44 @@
+﻿June · 参考对白声线
+项目：黑猫老板
+角色：June
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：wavespeed-ai/qwen3-tts/voice-clone
+入库依据：用户指定参考声线，随后批准该版进入视频制作；导入当前制作采用的 v4.4 样音。
+原始样音：/Users/vicky/Interactive storyline/concepts/black-cat-boss/review-v4/audio/v44/june-ref.mp3
+试听/下载文件SHA256：3380d23a6775eca3a7018d5529ce914c61c895f614cd0e0faed7747537f912f7
+原始音频（保留）：assets/voices/confirmed-20260928/black-cat-june-ref.mp3
+原始SHA256：cb199a3950d01e1aa5651e7dece92ed1a2f331f66c44b4848848f3d8459f3a11
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.19 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/black-cat-june-ref-8ba59a06db2e7e63b689.json
+去除开头等待：0秒；处理后有效声音起点：0.09秒
+缩短过长静音：0处；去除结尾空白：0.0秒；总计去除：0.0001秒
+当前试听时长：10.783秒
+
+试听台词：
+It's tap water, Your Highness. You don't have to earn a place here. Stay. That's the whole sentence. Wait. Are you all right? You went quiet.
+
+声音描述：
+Reference-conditioned synthetic audition, using an lightly denoised single-speaker dialogue excerpt from the supplied episode. Preserve the reference voice character while testing humor, vulnerability and concern on this story’s lines.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "audio": "https://storage.googleapis.com/waku-core-aicap/uploads/usr_4a6e5fb234d64da0a9429e519b299f07/49da67d44599402da3820f0e435a22ea/female-clean.wav",
+  "reference_text": "She's not a stranger. We've worked together since we were kids.",
+  "text": "It's tap water, Your Highness. You don't have to earn a place here. Stay. That's the whole sentence. Wait. Are you all right? You went quiet.",
+  "language": "English"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/confirmed-voices-20260928/approval-evidence.json
+imports/confirmed-voices-20260928/source-records/black-cat-june-ref/voices.json
+imports/confirmed-voices-20260928/source-records/black-cat-june-ref/june-ref-job.json
+imports/confirmed-voices-20260928/source-records/black-cat-june-ref/当前交接.md

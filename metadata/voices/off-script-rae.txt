@@ -1,0 +1,45 @@
+﻿Rae Collins · 英国英语声线
+项目：别演，吻我 / OFF SCRIPT
+角色：Rae Collins
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。在做剧集角色包中的现行配角声音参考样音；按本次扩大范围收录，不表示已有逐条独立定版记录。
+原始样音：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/audio/Rae.mp3
+试听/下载文件SHA256：bc439c28072748930dd154af549d21cb385dcd0d9d7a25c845cddf42b6b6055d
+原始音频（保留）：assets/voices/production-20260928/off-script-rae.mp3
+原始SHA256：3450707daca64a1e934a22e7d682959faaf14a268139cf8ae41942221da1dbd7
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.02 LUFS；真实峰值：-2.25 dBTP
+响度处理记录：metadata/voice-loudness/off-script-rae-2a07d5169e2fb8ac1473.json
+去除开头等待：0.13秒；处理后有效声音起点：0.12秒
+缩短过长静音：1处；去除结尾空白：0.154秒；总计去除：2.594秒
+当前试听时长：6.19秒
+
+试听台词：
+It's an offer, Theo. Not a decision. Call me when you know what you can actually promise.
+
+声音描述：
+略低、利落的成熟女声；信息明确，没有反派腔。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "prompt": "Generate a clean studio dialogue voice audition. ONE original fictional speaker only. No music, no sound effects, no other voices. Voice direction (do not read these instructions aloud): A 38-year-old adult British woman. A precise dry contralto, polished contemporary English accent, clipped economical phrasing. Calm incisive professional voice, not cruel and not robotic. Speak ONLY this English dialogue, naturally, with a brief breath before the line and a subtle pause between sentences: \"It's an offer, Theo. Not a decision. Call me when you know what you can actually promise.\"",
+  "output_format": "mp3",
+  "sample_rate": 48000,
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/off-script-rae/audio-Rae-request.json
+imports/production-voices-20260928/source-records/off-script-rae/atlas-data.json

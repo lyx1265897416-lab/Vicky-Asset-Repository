@@ -1,0 +1,46 @@
+﻿Vael · 剧集对白声线
+项目：黑猫老板
+角色：Vael
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-speech-tts-2.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。现行production-v5配角对白，样音来自 E02-04-L1。
+原始样音：/Users/vicky/Interactive storyline/concepts/black-cat-boss/production-v5/audio/E02-04-L1.mp3
+试听/下载文件SHA256：f1944342529798ce6db9ee1130be65eedf33d85425e3573e8eaaea7f7db93d58
+原始音频（保留）：assets/voices/production-20260928/black-cat-vael.mp3
+原始SHA256：2709c1028596e5fa71c6afe864fe5bbfa61152421c81bd6ee5f7d5983dac3895
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.12 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/black-cat-vael-7e676ae4b46b34416731.json
+去除开头等待：0.22秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.35秒；总计去除：0.57秒
+当前试听时长：3.27秒
+
+试听台词：
+I'm looking for a black cat. A notch in his right ear.
+
+声音描述：
+Conversational understated American English, listening to a real scene partner. Natural short breaths and thought pauses; dry humor when appropriate, no announcer cadence or theatrical declamation.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "text": "I'm looking for a black cat. A notch in his right ear.",
+  "voice": "magnus_en_zh",
+  "language": "en",
+  "sample_rate": 48000,
+  "output_format": "mp3",
+  "voice_instruction": "Conversational understated American English, listening to a real scene partner. Natural short breaths and thought pauses; dry humor when appropriate, no announcer cadence or theatrical declamation."
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/black-cat-vael/E02-04-L1.json
+imports/production-voices-20260928/source-records/black-cat-vael/produce_audio.py
+imports/production-voices-20260928/source-records/black-cat-vael/当前交接.md

@@ -1,0 +1,21 @@
+﻿男角色第二版 18 · 质朴坚毅 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic studio character asset. A 28-year-old East Asian man with casually spiky short black hair, olive corduroy overshirt over white tee, neutral honest expression. Facial features: long narrow face, sharp high cheekbones, hooded wide-set eyes, uneven medium eyebrows, long curved nose with a narrow tip, small mouth with full lower lip, tapered chin, visible light acne marks and warm medium skin. Lean everyday build. washed charcoal relaxed straight jeans and olive canvas sneakers. Three-panel full-body turnaround sheet. LEFT strict FRONT, CENTER exact90degree SIDE facing image-left, RIGHT exact180degree BACK. Same man, same outfit, same tall natural8.3-head proportions and long legs in all three panels. Neutral upright posture, relaxed arms, level head. Entire hair to soles included with generous margins; identical scale and baseline. Horizontal3:2 canvas, three equal columns. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-18--body_turnaround.json
+
+实际带参考图生成提示词
+Use attached full-body portrait to preserve exact identity, hair, age, full outfit and body type including heavyset build where applicable. Keep hands outside pockets. Photorealistic studio character asset. A 28-year-old East Asian man with casually spiky short black hair, olive corduroy overshirt over white tee, neutral honest expression. Facial features: long narrow face, sharp high cheekbones, hooded wide-set eyes, uneven medium eyebrows, long curved nose with a narrow tip, small mouth with full lower lip, tapered chin, visible light acne marks and warm medium skin. Lean everyday build. washed charcoal relaxed straight jeans and olive canvas sneakers. Three-panel full-body turnaround sheet. LEFT strict FRONT, CENTER exact90degree SIDE facing image-left, RIGHT exact180degree BACK. Same man, same outfit, same tall natural8.3-head proportions and long legs in all three panels. Neutral upright posture, relaxed arms, level head. Entire hair to soles included with generous margins; identical scale and baseline. Horizontal3:2 canvas, three equal columns. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-male-white-portraits-23-v2-20260923-18--body_turnaround.json

@@ -1,0 +1,50 @@
+﻿温柔知性女 · ElevenLabs
+项目：英文音色选角 · 2026-10-13
+角色：温柔知性女
+年龄设计：28–36岁（设计方向）
+身份用途：通用剧情角色
+音色标签：温柔知性女
+模型：elevenlabs/eleven-v3
+入库依据：用户通过附件 vicky-voice-shortlist.json 选中 F01-elevenlabs-A，并明确要求“这些加入音色库”。
+原始样音：/Users/vicky/Interactive storyline/output/english-voice-auditions-20261013/audio/F01-elevenlabs-A.mp3
+试听/下载文件SHA256：074c3489570b9924d47e334b455ca2cba182d8fede9d16579944828995ac4399
+原始音频（保留）：assets/voices/confirmed-20261013/english-voice-auditions-20261013-F01-elevenlabs-A.mp3
+原始SHA256：d21ad1b5965459416077eb1bdda8c1560d44302b2447df117bd5d3255111af84
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.25 LUFS；真实峰值：-4.75 dBTP
+响度处理记录：metadata/voice-loudness/english-voice-auditions-20261013-F01-elevenlabs-A-4da4a876e410ba1e1f79.json
+去除开头等待：0秒；处理后有效声音起点：0.02秒
+缩短过长静音：0处；去除结尾空白：0.02秒；总计去除：0.02秒
+当前试听时长：8.14秒
+
+试听台词：
+Let us take this one step at a time. We know what happened. Now we need to understand why. Start wherever you feel ready.
+
+声音描述：
+已有预设声线 Sarah，用 Eleven v3 生成表演版本。音色描述为选角方向，不是本次创建新声线的参数。
+Native American English. Adult female, 28–36. Studio quality. Warm smooth mezzo voice with balanced resonance and clean precise diction. Moderate unhurried pace and even grounded intonation. Calm, intelligent and warmly confident; gentle presence with quiet authority.
+
+自动台词检查：
+自动转写与台词基本一致，已容许 alright/all right 与 gonna/going to 等写法差异；不是人工逐字校验。
+Let us take this one step at a time. We know what happened. Now we need to understand why. Start wherever you feel ready.
+
+已有生成参数：
+{
+  "voice_id": "Sarah",
+  "text": "[calmly] Let us take this one step at a time. We know what happened. Now we need to understand why. Start wherever you feel ready.",
+  "stability": 0.5
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Sarah",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/eleven-creative/playground/text-to-speech",
+  "reuse_note": "使用同一模型与 voice_id 生成新台词；表演提示可另行调整。"
+}
+确认记录：imports/english-voice-auditions-20261013/confirmation.json
+imports/english-voice-auditions-20261013/jobs/F01-elevenlabs-A.json
+imports/english-voice-auditions-20261013/evidence/auditions.json
+imports/english-voice-auditions-20261013/evidence/transcripts.json
+imports/english-voice-auditions-20261013/evidence/source-notes.json

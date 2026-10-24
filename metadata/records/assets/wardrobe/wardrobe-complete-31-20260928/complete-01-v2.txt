@@ -1,0 +1,21 @@
+﻿完整造型 · 01 · 白衬衫灰牛仔
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: product-mockup. One complete styled outfit, photorealistic product catalog image, portrait 2:3, pure white seamless background, soft studio light. Invisible hollow clothing with no person, body, skin or visible mannequin. Clothing: relaxed white cotton button-up shirt with open collar and softly rolled sleeves, casually half tucked into extremely wide washed charcoal-gray denim jeans with authentic seam details and soft stacked hems; pair of white and charcoal low-top sneakers underneath. Preserve a relaxed youthful campus streetwear silhouette. The shirt and pants have natural three-dimensional drape but absolutely no body visible.  Accessories: One burgundy woven necktie with thin diagonal ivory and charcoal stripes, loosely knotted, full length visible. ; One soft black canvas shoulder tote bag with long black straps, plain unprinted fabric. ; One silver keychain with a small matte black oval charm and simple black cross pendant, hanging vertically.  All attachable accessories worn naturally on the ensemble at realistic scale. Unattachable tiny accessories arranged adjacent to the ensemble. Full uncropped framing, no text, logos or watermark.
+
+依据已入库服装和独立配饰合成完整无人造型。精确单品请从套装详情打开原始服装与配饰图。
+
+
+来源：服装31组 · 参考 01 · 已入库服装与配饰组合
+
+原始生成提示词：
+Use case: precise-object-edit. In this image change ONLY one detail: remove the plain black belt and silver rectangular buckle from the jeans waistband. Jeans retain their own waistband, button and belt loops. Keep the dangling black cross keychain attached directly to a denim belt loop. Keep the white shirt, burgundy striped tie, black tote, gray jeans, sneakers, silhouette, photoreal fabric, soft lighting, pure white background and full 2:3 framing EXACTLY unchanged. No person or skin.
+
+生成依据：
+imports/wardrobe-complete-31-20260928/events/complete-01.json

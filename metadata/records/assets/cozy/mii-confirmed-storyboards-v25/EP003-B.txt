@@ -1,0 +1,51 @@
+﻿今天不要上班，咪养你 · 已确认分镜 · EP003-B · 一只猫的采购清单 · 水手装完整路线
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-18
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-13
+
+文生图提示词：
+Create ONE finished photographic storyboard contact sheet, exactly FOUR columns by THREE rows of twelve equally sized portrait frames, read left to right and top to bottom. Overall portrait 3:4 canvas1086x1448, clean thin cream gutters and tiny panel numbers01-12 only. Every frame is a real warm natural lifestyle photograph, genuine fur and textiles, soft cream/ivory and pale oak surroundings, gentle daylight indoors and coherent warm evening light when specified. The same compact golden-orange shorthaired tabby kitten in every panel, very round plush cheeks, ivory muzzle/chin/chest, huge round dark-olive eyes and black pupils, tiny pink nose, fine white whiskers and delicate tabby stripes; real rounded feline paws, no extra limbs, human fingers on cat or floating tools. Home garment when indicated: tiny near-square cream linen chest bib nested between forelegs, blue fish pocket applique, bib width around half chest, bottom above belly with legs and belly fur exposed. Forelegs occlude bib side edges. Narrow curved neck loop and separate lower chest band with a tiny back knot and short ties; no crossed back harness. Exterior outfit A when specified: yellow short-sleeve tee, blue denim bib overalls, tan wooden buttons and red knitted bow. Outfit B: white sailor cap with plain navy band, pale-blue short-sleeve shirt with navy square sailor collar and two white stripes, white front buttons and plain navy cat trousers with a tail opening; no necktie or hat emblem. Small white pleated chef toque only in cooking scenes where indicated. Cleaning garment only where specified: plain pale-blue round-neck short smock with elastic sleeve cuffs, front opening, no pockets, navy sailor collar or layered home bib. Owner camera POV whenever described, only the explicitly needed zero to two anatomically connected hands with powder-blue white-piped pajama cuffs enter from camera-bottom; no visible owner face, hair, torso, reflection or detached third arm. In solo shopping, cooking and household chores no helping human hands; supermarket clerk is a separate adult NPC only in specified frames. One frozen action per frame, alternatives are separate frames, not repeated cats or mixed branch outcomes. English phone UI when indicated, no dialogue captions, story title, balloons or control buttons. The following Chinese shot directions are production instructions, never render them as captions. Preserve the depicted wardrobe and pose separately for each numbered frame.
+
+Panel01: B搓袋 — 完整水手装含帽，真实猫爪搓开生鲜薄袋。
+Panel02: B检查番茄 — 水手猫翻看新鲜番茄下表面，车内蛋盒青菜，非罐头路线。
+Panel03: B番茄罐头 — 水手猫将错拿的豆罐归位，爪边正确番茄罐；另有菠菜与奶酪。
+Panel04: B拍水果 — 水手猫同一手机朝货架草莓蓝莓拍照，此时两盒未进车。
+Panel05: B草莓入车 — 水手猫将一盒草莓放购物布袋上层，车内不出现蓝莓。
+Panel06: B蓝莓入车 — 替代路线水手猫检查蓝莓盒盖扣紧，车内不出现草莓。
+Panel07: B求助店员 — 水手猫仰头，参考栗棕低髻中年女店员下蹲递猫粮，双方真实接触小袋。
+Panel08: B检查鸡蛋 — 水手猫看打开六只蛋的小盒，确认后合上；新鲜番茄与青菜在车里。
+Panel09: B冷藏奶酪 — 水手猫把小份奶酪放入保冷袋，旁边番茄罐和菠菜。
+Panel10: B支付 — 同一店员在收银台，水手猫站稳定矮踏台用手机触碰支付器。
+Panel11: B长收据 — 猫看长于前腿的小票，两爪有支撑，购物袋在车内。
+Panel12: B门垫卡轮 — 水手猫在家门口将低购物车轻轻倒退摆正轮子，车未腾空。
+
+独立文生图提示词根据已确认成图及当前镜头索引整理；实际原图曾使用身份参考与局部返修，仅文字未验证近乎一致。原始生成提示词、真实生成日期和审图备注另行保留。
+
+
+来源：/Users/vicky/Interactive storyline/projects/mii-takes-care-of-you/导演制作-v2.5/images/EP003-B.png
+
+历史生图事件的实际提示词（可能依赖身份参考或原图编辑）
+Create a finished photorealistic storyboard contact sheet, EXACTLY 12 equal portrait panels in 4 columns and 3 rows, read left to right then top to bottom. Overall portrait 3:4 page, request high detail 2160x2880. Thin clean cream gutters, tiny panel numbers 01 to 12 only, no other captions, no dialogue balloons, no title. Each panel should feel like a beautiful real lifestyle photograph with 9:16 framing, not a drawing, not 3D animation. Same adorable golden-orange shorthaired tabby kitten with creamy muzzle, large dark olive eyes, pink nose, compact REAL feline body and round paws, same face as references in all frames. Never human hands on the cat, never extra limbs, no floating props. Human woman's hands only when described; owner adult ash-blonde FULLY LOOSE hair and powder blue white-piped cotton pajamas. Owner POV wherever present, hands and cuffs suffice; do not add observer owner to solo supermarket shots. Cozy modest cream-and-oak home, natural detailed fur, believable weight and occlusion, gentle warm photographic light. Mostly closed mouths; dialogue moments at natural neutral pre-speech rather than constant open mouth. Home apron is short cream linen with blue fish pocket, tucked BETWEEN forelegs, forelegs overlap fabric edges. Clothing must physically wrap shoulders/back/upper arms, not pasted bibs; normal crew neck, not turtleneck. Same low beige fabric grocery trolley and ivory-cased black-front phone when used. No subtitles or choice buttons baked into panels. A/B panels are ALTERNATIVES, one cat per panel, never clones or two incompatible outfits/foods mixed. Depict the specified KEY MOMENT, not multiple exposures within a panel. Use supplied references as identity/costume/style only; invent shot composition as described.
+
+BRANCH SUPPLEMENT BR03 水手装采购与食材对应
+All visible cats wear FULL sailor outfit, including hat. Do not use redbow outfit. Mother absent from supermarket. Menu and fruit alternatives remain separate.
+01. B搓袋: 完整水手装含帽，真实猫爪搓开生鲜薄袋。
+02. B检查番茄: 水手猫翻看新鲜番茄下表面，车内蛋盒青菜，非罐头路线。
+03. B番茄罐头: 水手猫将错拿的豆罐归位，爪边正确番茄罐；另有菠菜与奶酪。
+04. B拍水果: 水手猫同一手机朝货架草莓蓝莓拍照，此时两盒未进车。
+05. B草莓入车: 水手猫将一盒草莓放购物布袋上层，车内不出现蓝莓。
+06. B蓝莓入车: 替代路线水手猫检查蓝莓盒盖扣紧，车内不出现草莓。
+07. B求助店员: 水手猫仰头，参考栗棕低髻中年女店员下蹲递猫粮，双方真实接触小袋。
+08. B检查鸡蛋: 水手猫看打开六只蛋的小盒，确认后合上；新鲜番茄与青菜在车里。
+09. B冷藏奶酪: 水手猫把小份奶酪放入保冷袋，旁边番茄罐和菠菜。
+10. B支付: 同一店员在收银台，水手猫站稳定矮踏台用手机触碰支付器。
+11. B长收据: 猫看长于前腿的小票，两爪有支撑，购物袋在车内。
+12. B门垫卡轮: 水手猫在家门口将低购物车轻轻倒退摆正轮子，车未腾空。
+
+生成依据：
+imports/mii-confirmed-storyboards-20261013/events/EP003-B.json
+imports/mii-confirmed-storyboards-20261013/confirmation.json
+imports/mii-confirmed-storyboards-20261013/snapshot/jobs.json

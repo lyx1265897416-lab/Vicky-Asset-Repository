@@ -1,0 +1,36 @@
+﻿海岸夜市 · 多角度图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 海岸夜市.
+Environment: Unoccupied coastal night market with small stalls, warm lanterns, canopies and open lanes beside the harbour.
+Visual medium: otome 2d5d 3d; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent multi-angle image sheet with 4 clearly separated views of the same location. Show complementary eye-level views and relevant close details. Maintain the same physical positions of entrances, windows, stairs, furniture and landmark objects across views; no mirrored rearrangement. Small A/B/C/D labels only.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-008-02--scene_angles.png
+
+参考图辅助生成事件提示词
+Use case: infographic-diagram / spatial production design.
+Asset: Vicky environment library, scene-008-02, 海岸夜市, 多角度图. Generate one finished independent image, landscape 1536x1024 or larger.
+Input image 1 is the existing environment identity reference. Reference board has 2 columns and 2 rows. Use ONLY top-right for this location; ignore all other places.
+Any additional reference is the same scene's concept floor/site plan and is the geometric source of truth. Keep its footprint, entrances, openings, adjacencies, landmark arrangement and orientation fixed.
+Request: One dedicated four-view camera sheet, tidy 2 by 2 panels labeled VIEW 1 NORTH, VIEW 2 EAST, VIEW 3 SOUTH, VIEW 4 WEST. Four genuinely different eye-level views looking from SOUTH toward NORTH, WEST toward EAST, NORTH toward SOUTH, EAST toward WEST respectively around the SAME MAIN SPACE (for a multiroom suite, four views of main living area only; do not switch rooms). Match supplied layout plan exactly; repeated landmarks must occupy geometrically consistent locations. One must closely recover original reference view. Preserve original rendering medium, illumination, color palette and characteristic props. No mirrored duplicates, no different locations, no floorplan or diagrams.
+Maintain the architecture, distinctive objects, material vocabulary and visual character of the original. Do not reuse the reference board as the output. Rationally extrapolate only unseen geometry; it is a coherent concept reconstruction for story staging, not surveyed construction documentation. Use one internally consistent space, not a collage of unrelated rooms. Walls meet logically, doors connect traversable spaces, no blocked entrances or impossible staircases. NO people, NO characters, NO animals, NO silhouettes, NO human figures in reflections or posters, NO logos/watermarks. Small legible English labels only where useful. Avoid busy ornament, repeated generic layouts and unexplained disconnected rooms.
+Original design context (use only details compatible with target reference panel): 人鱼王子的假新娘 · 港口／夜市／呼吸礁／议事厅 · 纯环境修订
+
+STRICT SPATIAL SCOPE: Draw ONLY the target location 海岸夜市. Treat every other reference-board panel as a different unrelated location. Do not import props, cages, benches, stairs, furniture or rooms from other panels. Extrapolate only the immediate target footprint. Do NOT assemble a whole multi-function complex. For a room, confine plan to that room, with adjoining rooms dashed and unshown. For outdoor space show only site boundary and immediately bounding facades, no invented building interiors.
+LABEL OVERRIDE: Label the four camera panels A, B, C, D only (no compass directions). Show the entrance view, left oblique view, reverse view, right oblique view of ONE coherent location with fixed furniture. Avoid misleading cardinal direction captions.
+REFERENCE ORDER OVERRIDE: Image1 is final target plan, Image2 original board for colors/materials ONLY. Follow first image's single footprint. On the second board use only the target panel named above, never other locations. Fantasy sea palace, pearl/ivory stone and restrained gold/cyan, preserve original painterly visual medium. For harbor retain wood/stone/turquoise sea. No compass caption except in floorplans, camera labels A B C D only. NO people, human statues, animals or portraits.
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-008-02--scene_angles.json
+previews/scene-spatial-20260930/visual-review.json

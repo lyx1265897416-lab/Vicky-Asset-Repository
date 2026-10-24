@@ -1,0 +1,51 @@
+﻿洛温 · D1 Reserved Young Man
+项目：今天，再喜欢我一次
+角色：洛温 / Rowan
+年龄设计：角色27岁
+身份用途：男主角
+音色标签：Reserved Young Man
+模型：minimax/speech-02-hd
+入库依据：新的男声选 D1（Reserved Young Man），女声 B 和整体 BGM 保持。
+原始样音：/Users/vicky/Documents/waku内容/borrow-me-tomorrow/voice-casting/men-young/takes/D1.wav
+试听/下载文件SHA256：2ee3320c827be1cd2a77eac63c42a291e3f27ccf2542746e253be10be4f181ba
+原始音频（保留）：assets/voices/confirmed-20261012/meet-me-again-rowan-D1.wav
+原始SHA256：6b639f22ddfe2011b6827aa66517f569ff30d5297d6d3bf2a3465f85c04a8cf5
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.02 LUFS；真实峰值：-2.26 dBTP
+响度处理记录：metadata/voice-loudness/meet-me-again-rowan-D1-df4724cc6ebd008dfc8f.json
+去除开头等待：0.06秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.2033秒；总计去除：0.2633秒
+当前试听时长：9.39秒
+
+试听台词：
+Morning. I know the way. Seeing you still makes me nervous. I'd like to hold your hand. Yes, but I wanted this, too.
+
+声音描述：
+用户选定 D1 Reserved Young Man，年轻、清亮内敛的角色方向；自然音高/语速，不加混响。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "voice_id": "English_ReservedYoungMan",
+  "language_boost": "English",
+  "sample_rate": 44100,
+  "bitrate": 256000,
+  "format": "mp3",
+  "channel": "1",
+  "speed": 1,
+  "volume": 1,
+  "pitch": 0,
+  "emotion": "neutral"
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "reuse_note": "正式对白调用 minimax/speech-02-hd + English_ReservedYoungMan；不是原演员声音克隆。"
+}
+确认记录：imports/meet-me-again-D1-20261012/choice-evidence.json
+/Users/vicky/Documents/waku内容/borrow-me-tomorrow/production/selected-d1-20261012/selection.json
+/Users/vicky/Documents/waku内容/borrow-me-tomorrow/production/male-casting-young-20261012/jobs/D1-params.json

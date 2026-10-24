@@ -1,0 +1,44 @@
+﻿Theo Hart · 英国英语声线
+项目：别演，吻我 / OFF SCRIPT
+角色：Theo Hart
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：bytedance/seed-audio-1.0
+入库依据：按用户本次“所有在做剧集音色”要求入库。EP07当前生产脚本明确采用此样音的短版作为声音参考；此处保存完整原样音。
+原始样音：/Users/vicky/Interactive storyline/concepts/off-script/character-design/asset-map-v2/audio/Theo-v3.mp3
+试听/下载文件SHA256：adee9d10a1e2e13c09e21f55e8c0f7b04a8fa4108bd1c23a6c8816ef49e98e93
+原始音频（保留）：assets/voices/production-20260928/off-script-theo.mp3
+原始SHA256：e524c580980463b267a814c396f4b77737472d26513dee9ac80ceb796ed65cc7
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.26 LUFS；真实峰值：-3.5 dBTP
+响度处理记录：metadata/voice-loudness/off-script-theo-27b1f8d39dc4cd086dd9.json
+去除开头等待：0.11秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.074秒；总计去除：0.184秒
+当前试听时长：2.24秒
+
+试听台词：
+Look at me, Jamie. I want you here.
+
+声音描述：
+低沉、有共鸣，但仍是年轻人；短句、留白，不刻意压成气泡音。
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "prompt": "Clean film dialogue voice audition. ONE original fictional speaker, a 23-year-old British man with a restrained, resonant young baritone and educated southern English accent. Calm, firm, intimate, clear. No growling, no music, no sound effects. Read ONLY these exact words, including the final word completely: \"Look at me, Jamie. I want you here.\" Leave a short silence after the last word. Do not read any directions aloud.",
+  "output_format": "mp3",
+  "sample_rate": 48000
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/production-voices-20260928/import-evidence.json
+imports/production-voices-20260928/source-records/off-script-theo/audio-Theo-v3-request.json
+imports/production-voices-20260928/source-records/off-script-theo/atlas-data.json
+imports/production-voices-20260928/source-records/off-script-theo/prepare.py
+imports/production-voices-20260928/source-records/off-script-theo/requests.json

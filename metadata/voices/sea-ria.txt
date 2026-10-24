@@ -1,0 +1,40 @@
+﻿雷恩 · M3 暖沙磁性
+项目：海王子的准新娘
+角色：雷恩 / Rian
+年龄设计：未标注
+身份用途：剧集角色
+音色标签：详见声音描述
+模型：minimax/voice-design
+入库依据：用户选择男主 M3
+原始样音：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/audio/RIA-M3-selected.mp3
+试听/下载文件SHA256：3d741a1a74dcf6148c92df193e19880b997dc3f54a95a5a4e33cf96fca329ead
+原始音频（保留）：assets/voices/confirmed-20260928/sea-ria.mp3
+原始SHA256：eb125ef25b6865299c59197ae528ad5d0c91c88e935ff16f0a2afa2c90838392
+响度标准：−18 LUFS；真实峰值不超过−1.5 dBTP
+实测响度：-18.27 LUFS；真实峰值：-4.0 dBTP
+响度处理记录：metadata/voice-loudness/sea-ria-384efbea1a93666d805e.json
+去除开头等待：0.04秒；处理后有效声音起点：0.12秒
+缩短过长静音：0处；去除结尾空白：0.185秒；总计去除：0.225秒
+当前试听时长：9.33秒
+
+试听台词：
+Come closer. There's something I haven't told you. I wasn't waiting for the tide to change. I was waiting for you. But if you want me to leave, just say the word.
+
+声音描述：
+A magnetic young male voice age26, warm husky baritone with rich chest resonance and a fine soft sandy texture, contemporary General American English. Relaxed confident natural speech, a smiling edge, dark honey tone that is full rather than thin or nasal. Close personal conversation, fluid rhythm, playful first phrase then sincere. Rasp is subtle and smooth, not damaged, coarse, creaky or elderly. Never boom or whisper. Clean dry professional audio, spoken not sung. All dialogue must use consistent General American English; preserve individual timbre and age. No British or mixed-accent performance.
+
+自动台词检查：
+见来源记录
+
+
+已有生成参数：
+{
+  "voice_description": "A magnetic young male voice age26, warm husky baritone with rich chest resonance and a fine soft sandy texture, contemporary General American English. Relaxed confident natural speech, a smiling edge, dark honey tone that is full rather than thin or nasal. Close personal conversation, fluid rhythm, playful first phrase then sincere. Rasp is subtle and smooth, not damaged, coarse, creaky or elderly. Never boom or whisper. Clean dry professional audio, spoken not sung."
+}
+
+原始音频保留。试听与下载使用统一响度版本，不改变音高或语速。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{}
+确认记录：imports/confirmed-voices-20260928/approval-evidence.json
+imports/confirmed-voices-20260928/source-records/sea-ria/voices.json
+imports/confirmed-voices-20260928/source-records/sea-ria/manifest.json

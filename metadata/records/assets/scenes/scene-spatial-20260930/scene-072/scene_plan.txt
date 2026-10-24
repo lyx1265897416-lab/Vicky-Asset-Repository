@@ -1,0 +1,26 @@
+﻿多题材场景60组 · 24 · 室内垂直农场的收获廊 · 户型图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 多题材场景60组 · 24 · 室内垂直农场的收获廊.
+Environment:  A beautiful near-future urban vertical farm interior with layered hydroponic lettuce and herbs, cream frame structures, transparent irrigation channels, soft daylight roof and a warm wood packing station with empty baskets. Broad central aisle receding gently, no robotic faces, no neon purple grow lights, no animals or workers. Lush realistic greenery with practical technological details.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent orthographic overhead CONCEPT PLAN. Depict footprint, connected zones, wall thickness, doors, windows, stairs, furniture footprints and circulation. For outdoors use a site plan of paths, terrain, bridges and water instead of domestic rooms. North is only design orientation. Compact labels; no invented metric dimensions. Flat diagram on white background.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-072--scene_plan.png
+
+参考图辅助生成事件提示词
+Create ONE clear TRUE FLAT 2D floor plan or outdoor site plan reconstructing this exact reference scene, for staging and spatial understanding. Show only this location and immediate footprint, not a whole unrelated complex. Preserve distinctive architecture, openings, landmarks and furniture positions. Infer unseen bounds conservatively, mark inferred extension dashed. Black technical lines on white, pale zone fills, wall thickness, door arcs, windows, furniture horizontal footprint symbols, outdoor paths/water/terrain where relevant. North arrow is conceptual sheet orientation. No perspective, no raised walls, no fake dimension/scale numbers, no people or animals. Small English zone labels, title CONCEPT PLAN, large uncluttered plan. Good proportions and connected walkable passages. Landscape format. Scene: 多题材场景60组 · 24 · 室内垂直农场的收获廊
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-072--scene_plan.json
+previews/scene-spatial-20260930/visual-review.json

@@ -1,0 +1,26 @@
+﻿电影场景第2批 · 17 · 画室里未完成的春天
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：原始文生图提示词
+提示词整理日期：2026-09-28
+
+文生图提示词：
+Use case: photorealistic-natural. Create ONE original cinematic environment photograph, full-bleed landscape 1536x1024, no collage or text. Vicky taste: luminous high-key exposure preserving texture, cream-white/pale-gray/warm-brown base, restrained pastel accents; broad diffused frontal/window fill and low-contrast shadows, fine tactile natural material imperfections, light film grain and subtle halation. A believable emotionally specific film location, not a sterile property advertisement or plastic CGI render. Natural 40-50mm eye-level perspective, believable scale, layered space, moderate depth of field keeping the environment legible. No fisheye. Strict pure environment: absolutely no people, humans, hands, body parts, silhouettes, distant walkers, human reflections, portraits, mannequins, humanoid statues, animals, birds, insects, fish or sentient plants. No screen faces, logos, watermarks, captions or readable signage. Create original composition inspired by researched film-set principles, not a film screenshot. 
+Scene: A modest 19th-century young artist's studio with high north-facing windows, ivory plaster walls, pale aged wood floor and exposed beams. Two easels to left hold unfinished landscapes and botanical studies only, a wooden paint trolley with modest pigments, linen cloth, ceramic pitcher with a few white flowers, one empty plain chair. Tall shelves with canvas backs, open rear door toward a bright interior landing. Art-making traces feel specific and warm, center floor open, fine paint smears and natural dust visible, no portrait art, no statues or anatomical casts.
+Research direction: 连通的生活空间、年轻人的创作痕迹与亲密尺度; original reinterpretation, retain Vicky lighting rather than copying the movie's color grading.
+
+电影美术研究后原创生成；电影剧照未作为库内素材。内置ImageGen生成，提示词不保证像素级复现。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/film-scenes-02-20-20260928/images/17-spring-art-studio.png
+
+生成事件提示词
+Use case: photorealistic-natural. Create ONE original cinematic environment photograph, full-bleed landscape 1536x1024, no collage or text. Vicky taste: luminous high-key exposure preserving texture, cream-white/pale-gray/warm-brown base, restrained pastel accents; broad diffused frontal/window fill and low-contrast shadows, fine tactile natural material imperfections, light film grain and subtle halation. A believable emotionally specific film location, not a sterile property advertisement or plastic CGI render. Natural 40-50mm eye-level perspective, believable scale, layered space, moderate depth of field keeping the environment legible. No fisheye. Strict pure environment: absolutely no people, humans, hands, body parts, silhouettes, distant walkers, human reflections, portraits, mannequins, humanoid statues, animals, birds, insects, fish or sentient plants. No screen faces, logos, watermarks, captions or readable signage. Create original composition inspired by researched film-set principles, not a film screenshot. 
+Scene: A modest 19th-century young artist's studio with high north-facing windows, ivory plaster walls, pale aged wood floor and exposed beams. Two easels to left hold unfinished landscapes and botanical studies only, a wooden paint trolley with modest pigments, linen cloth, ceramic pitcher with a few white flowers, one empty plain chair. Tall shelves with canvas backs, open rear door toward a bright interior landing. Art-making traces feel specific and warm, center floor open, fine paint smears and natural dust visible, no portrait art, no statues or anatomical casts.
+Research direction: 连通的生活空间、年轻人的创作痕迹与亲密尺度; original reinterpretation, retain Vicky lighting rather than copying the movie's color grading.
+
+生成依据：
+imports/film-scenes-02-20260929/events/17.json
+previews/film-scenes-02-20-20260928/verification.json

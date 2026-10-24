@@ -1,0 +1,21 @@
+﻿Aria Solano · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+A single fully clothed teenage girl, seventeen, with long chestnut brown hair, gray-blue eyes, small gold hoop earrings, light freckles, a natural youthful oval face and black rectangular glasses. Full-length front photograph, slender 7.8-head model proportions, long legs, relaxed standing pose, one hand holding a small black shoulder bag strap and the other in the hoodie pocket. Navy oversized zip hoodie over white collared shirt, loose burgundy striped tie, navy pleated skirt, bare legs without tights, ivory high-top canvas sneakers. Entire hair and soles in frame, bright cream-white seamless studio and softly visible floor, natural frontal daylight, open shadows, low contrast, real pores and cloth texture, gentle photographic film grain. Head level and soft neutral gaze toward camera. One person only, no panel layout, labels or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-aria-solano--full_body.json
+
+实际带参考图生成提示词
+Create a single full-length frontal studio photograph of Aria, the exact teenage girl in image 1; image 1 is the ONLY facial identity anchor. Preserve her youthful 17-year-old face, gray-blue eyes, nose, lips, natural freckles, black rectangular glasses and long chestnut brown hair. Image 2 is wardrobe ONLY; use the leftmost outfit: relaxed navy zip hoodie, crisp white shirt, loosely tied burgundy striped necktie, navy pleated skirt, bare legs WITHOUT tights or pantyhose, ivory high-top canvas sneakers and small black shoulder bag. Single fully clothed person, straight upright natural standing posture, balanced weight, head level and looking directly at camera, both hands visible and relaxed, no tilted head. Tall slender fashion proportions 7.8 heads tall, long anatomically natural legs, not short stocky proportions, youthful face not aged up. Complete head and shoes with white floor margin, portrait 2:3 format. Bright cream-white studio, gentle broad frontal daylight with open shadows, natural skin microtexture and hair flyaways and cloth fibers, photorealistic bright American coming-of-age film character asset. No labels, text, collage or additional people.
+
+生成依据：
+imports/role-completion-20260924/events/human-aria-solano--full_body.json

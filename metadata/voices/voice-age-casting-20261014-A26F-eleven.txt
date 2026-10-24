@@ -1,0 +1,52 @@
+﻿26岁女声 · 紧张后的释然 · Eleven v4
+项目：双模型年龄选角 · 2026-10-14
+角色：紧张后的释然
+年龄设计：26岁（角色目标）
+身份用途：通用剧情角色
+音色标签：紧张后的释然
+模型：elevenlabs/eleven-v4
+入库依据：用户在 vicky-age-shortlist.json 中将 A26F-eleven 标为 keep，并明确要求加入音色库。
+原始样音：/Users/vicky/Interactive storyline/output/voice-age-casting-20261014/audio/A26F-eleven.mp3
+试听/下载文件SHA256：d13b324fc0bba88a0d24104d933d950db963c03e729b57a8836b9c6259dae2a2
+原始音频（保留）：assets/voices/voice-age-casting-20261014/original/A26F-eleven.mp3
+原始SHA256：1fca4dda3b9df4fa69b04f8abb22fb57f1d465e68f9add65db40521b3c564dd2
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-22.54 LUFS；真实峰值：-2.0 dBTP
+响度处理记录：metadata/voice-loudness/voice-age-casting-20261014-A26F-eleven-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.09秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：9.84秒
+
+试听台词：
+They said yes. I had to ask them to repeat it because I thought I'd heard it wrong. We actually did it. Oh, I'm shaking. Give me a second. I'm okay.
+
+声音描述：
+One-to-one unguarded conversation. Uneven thought-led rhythm with one honest emotional shift; no presenter diction or oversized dramatic emphasis.。
+One-to-one unguarded conversation. Uneven thought-led rhythm with one honest emotional shift; no presenter diction or oversized dramatic emphasis. Read each sentence once.
+固定预设 Alice 的表演版本，非本轮新设计声线；角色年龄为目标，不代表预设说话人的真实年龄。
+
+自动台词检查：
+自动转写用于字词复核；不将自动指标作为真人感评分。此版本已由用户试听选定。
+They said yes. I had to ask them to repeat it because I thought I'd heard it wrong. We actually did it. Oh, I'm shaking. Give me a second. I'm okay.
+
+已有生成参数：
+{
+  "text": "[excited, slightly breathless] They said yes. I had to ask them to repeat it because I thought I'd heard it wrong. We actually did it. Oh, I'm shaking. Give me a second. I'm okay.",
+  "voice_id": "Alice",
+  "stability": 0.35,
+  "similarity": 0.75
+}
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。现成音色请使用相同模型版本与预设 ID 复用。
+商用许可与复用信息：
+{
+  "preset_id": "Alice",
+  "provider": "ElevenLabs",
+  "official_url": "https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices",
+  "reuse_note": "使用相同模型、预设 ID 及保存的表演参数生成新台词；新台词的表现仍需试听。"
+}
+确认记录：imports/voice-age-casting-20261014/confirmation.json
+imports/voice-age-casting-20261014/jobs/A26F-eleven.json
+imports/voice-age-casting-20261014/evidence/roles.json
+imports/voice-age-casting-20261014/evidence/qa.json
+imports/voice-age-casting-20261014/evidence/batch-plan.json

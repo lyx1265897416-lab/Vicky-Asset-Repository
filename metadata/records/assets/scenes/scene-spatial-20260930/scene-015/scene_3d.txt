@@ -1,0 +1,26 @@
+﻿古风雅致 · 临水书斋 · 纯环境 · 三维图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-01
+
+文生图提示词：
+Use case: spatial production design. Scene: 古风雅致 · 临水书斋 · 纯环境.
+Environment: An empty fictional classical Chinese garden study, warm pale elm joinery, delicate lattice windows, cream lime plaster, linen drape, low writing desk, ceramic tea set, unfurled blank paper, open view to a small lotus pond and pale stone bridge. Refined ivory and muted celadon palette, bright diffuse morning. Cinematic physical set photography, no dynastic accuracy claim, no red-gold palace spectacle. Original cinematic location photography for an intimate romance story. Vicky's aesthetic: bright high-key but retained highlight texture; cream white, pale gray, warm natural brown with restrained muted accent color; soft broad frontal/window fill, gentle low-contrast shadows; tactile plaster, wood, linen, glass and stone; very subtle film halation and grain, clean luminous air. Lived-in details without clutter, beautiful but plausible real location rather than showroom CGI. 35-50mm natural perspective, midground environment clearly legible with gently softer far depth. Strictly environment only: absolutely no people, bodies, faces, hands, silhouettes, distant pedestrians, reflections of people, animals, birds, fish, pets, mannequins, humanoid statues, character artwork or human figures on screens. No watermark, branding or captions. Keep clear usable space for later character compositing. Natural proportions, believable architecture, no fisheye, no excessive HDR, no greasy shine, no orange color cast.
+Visual medium: realistic live action; keep the scene's stated palette, light and tactile materials.
+Required image format: ONE independent elevated three-quarter axonometric cutaway / dollhouse image. Remove roof and selected foreground walls to expose the connected spatial volume, floor levels, entrances, furniture and surroundings. Outdoor locations use an elevated terrain model. Clear layered depth, white presentation margin, no inset pictures.
+A coherent environment-only concept reconstruction for story staging. No people, characters, animals, humanoid statues, faces, silhouettes or human reflections. Legible spatial proportions and usable paths. Not surveyed construction documentation.
+
+根据原场景生成并逐张目视检查的概念空间资料；未展示区域属于设计推演，图间可能存在细节差异；不是实测施工图或可编辑三维模型。独立提示词未经过逐张重生成复现验证。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/previews/scene-spatial-20260930/images/scene-015--scene_3d.png
+
+参考图辅助生成事件提示词
+Use case: spatial production design. Create 三维图 for 古风雅致 · 临水书斋 · 纯环境. Image 1 is the geometric source of truth. Image 2 is original material and style reference. One large roofless axonometric 3D dollhouse cutaway of the entire plan, coherent wall heights, all key furnishings and access visible, white page. For outdoors a raised site massing model. Keep the plan footprint, doors, windows, fixed landmarks and circulation exactly consistent. Concept reconstruction, not measured construction. Match original color palette and rendering style, detailed legible clean image, landscape. NO people, animals, silhouettes or figures on posters. No fake measurements, no watermarks. 
+
+生成依据：
+imports/scene-spatial-20260930/events/scene-015--scene_3d.json
+previews/scene-spatial-20260930/visual-review.json

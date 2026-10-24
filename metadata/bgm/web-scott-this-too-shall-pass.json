@@ -1,0 +1,88 @@
+{
+  "id": "web-scott-this-too-shall-pass",
+  "asset_kind": "bgm",
+  "name": "This Too Shall Pass",
+  "original_title": "This Too Shall Pass",
+  "artist": "Scott Buckley",
+  "origin": "web",
+  "project": "网络精选 · Scott Buckley",
+  "project_id": "web-scott",
+  "episodes": [],
+  "category": "悲伤抒情",
+  "tags": [
+    "悲伤抒情",
+    "弦乐",
+    "回忆",
+    "希望"
+  ],
+  "status": "confirmed",
+  "model": null,
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-web-20260929/evidence/web-scott-this-too-shall-pass.json",
+    "imports/bgm-web-20260929/download-records/web-scott-this-too-shall-pass.json",
+    "imports/bgm-web-20260929/evidence/research-notes.json",
+    "imports/bgm-web-20260929/evidence/cc-by-4.html"
+  ],
+  "variants": [
+    {
+      "id": "4c0a2e9351906fd2",
+      "track_id": "web-scott-this-too-shall-pass",
+      "path": "assets/bgm/web-20260929/web-scott-this-too-shall-pass/original.mp3",
+      "bytes": 17885773,
+      "sha256": "4c0a2e9351906fd2f793634aeb3bceddf6171999b5388a79e600aa489413ae4a",
+      "extension": ".mp3",
+      "label": "官方原始 MP3",
+      "duration_seconds": 447.09,
+      "source": "https://www.scottbuckley.com.au/library/wp-content/uploads/2021/01/sb_thistooshallpass.mp3",
+      "sources": [
+        "https://www.scottbuckley.com.au/library/wp-content/uploads/2021/01/sb_thistooshallpass.mp3"
+      ],
+      "decode_check": "passed",
+      "decoded_seconds": 447.05,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, stereo, fltp, 320 kb/s",
+      "http_content_length": 17885773,
+      "http_content_type": "audio/mpeg",
+      "final_url": "https://www.scottbuckley.com.au/library/wp-content/uploads/2021/01/sb_thistooshallpass.mp3",
+      "checked_on": "2026-09-29",
+      "http_headers": {
+        "last-modified": "Fri, 08 Jan 2021 16:05:07 GMT",
+        "accept-ranges": "bytes",
+        "content-length": "17885773",
+        "content-type": "audio/mpeg",
+        "date": "Tue, 29 Sep 2026 12:08:05 GMT",
+        "server": "Apache"
+      }
+    }
+  ],
+  "default_variant": "4c0a2e9351906fd2",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "可商用 · 需署名",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://www.scottbuckley.com.au/library/using-this-music/",
+    "track_url": "https://www.scottbuckley.com.au/library/this-too-shall-pass/",
+    "checked_on": "2026-09-29",
+    "basis": "作者本曲页与 Using This Music 页明确 CC BY 4.0；原作 MP3（不含主题改编曲）。",
+    "attribution": "\"This Too Shall Pass\" by Scott Buckley — released under CC-BY 4.0. www.scottbuckley.com.au\nSource: https://www.scottbuckley.com.au/library/this-too-shall-pass/\nLicense: https://creativecommons.org/licenses/by/4.0/",
+    "usage_notes": [
+      "免费商用须署名：保留作者、曲名、来源和 CC BY 4.0 链接；若剪辑、循环或改编，请说明改动。",
+      "YouTube 须将署名放在视频简介中。作者另要求配合影像等媒体使用；勿单独转售或上传音乐流媒体，勿登记 Content ID / 音频指纹。"
+    ],
+    "content_id_note": "未在 YouTube 简介署名可能收到作者的 Content ID 认领；补全后按作者申诉指引处理。"
+  },
+  "popularity": {
+    "tier": "风格补齐",
+    "priority": 21,
+    "basis": "用于补齐曲风和剧情场景，未宣称高热。",
+    "source_url": "https://www.scottbuckley.com.au/library/this-too-shall-pass/",
+    "checked_on": "2026-09-29"
+  },
+  "credit_download": "assets/bgm/web-20260929/web-scott-this-too-shall-pass/CREDITS.txt",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
+  },
+  "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。作者本曲页与 Using This Music 页明确 CC BY 4.0；原作 MP3（不含主题改编曲）。"
+}

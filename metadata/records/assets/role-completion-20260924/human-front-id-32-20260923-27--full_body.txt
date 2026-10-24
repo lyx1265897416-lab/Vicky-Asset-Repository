@@ -1,0 +1,21 @@
+﻿白底女角色32组 27 · 棕长直发蓝碎花 · 单人全身照 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-25
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-25
+
+文生图提示词：
+Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One fictional adult woman age 23, long straight center-parted chestnut brown hair, softly oval face, fair peach complexion, hazel-green eyes, full muted rose lips. Navy blue small cream floral knee-length A-line dress with gathered tie neckline, short puff sleeves and fitted waist, delicate layered gold round coin and blue oval pendant necklaces, bare lower legs, navy flat Mary Jane shoes. Tall elegant female fashion-model anatomy with approximately 7.8 anatomical head lengths from skull crown to bare-foot soles. Head including skull but excluding hair volume is about 12.8% of total standing body height, visibly smaller relative to the body than a 6–7-head figure. Long naturally proportioned legs and arms, normal-length neck, natural shoulder width and pelvis. Do not elongate her face or neck or merely enlarge shoes. Straight camera with no foreshortening. One full-length straight front portrait, relaxed standing arms by sides, full hair and soles, vertical 2:3.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/revisions/human-front-id-32-20260923-27--full_body/20260925T044816262872/event.json
+
+实际带参考图生成提示词
+Use case: identity-preserve. Produce one full-body photograph of the EXACT woman in this portrait. Preserve her exact face, long straight center-parted chestnut hair, hazel-green eyes, warm fair skin, delicate gold and blue pendant necklaces, blue small-cream-floral fabric, puff sleeves and gathered tie neckline. Extend the blue floral garment into ONE continuous fitted-waist knee-length A-line DRESS with the same fabric all the way to its hem. Bare lower legs, navy flat Mary Jane shoes, no trousers. Tall elegant female fashion-model anatomy with approximately 7.8 anatomical head lengths from skull crown to bare-foot soles. Head including skull but excluding hair volume is about 12.8% of total standing body height, visibly smaller relative to the body than a 6–7-head figure. Long naturally proportioned legs and arms, normal-length neck, natural shoulder width and pelvis. Do not elongate her face or neck or merely enlarge shoes. Straight camera with no foreshortening. One straight FRONT full-length portrait from complete hair through both soles, arms relaxed at sides, head upright, shoulders level. 1024x1536 vertical, skull crown about y=90 chin about y=270 soles y=1490; body height 7.8 anatomical head lengths. Bright pure-white studio, even soft daylight, natural photographic skin and hair, no CG, text or logos.
+
+生成依据：
+imports/role-completion-20260924/revisions/human-front-id-32-20260923-27--full_body/20260925T044816262872/event.json

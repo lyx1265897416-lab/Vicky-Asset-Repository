@@ -1,0 +1,21 @@
+﻿白底角色 06 · 黑长发回眸米色针织 · 全身三视图 · 本轮补充
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-24
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-24
+
+文生图提示词：
+Photorealistic character asset of one young adult woman age18–22 with very long straight near-black hair parted slightly off-center, fair neutral skin, warm brown almond eyes, delicate arched brows, refined straight nose, oval face and full natural pink lips, wearing warm oatmeal scoop-neck fine rib-knit long-sleeve top, high-waisted dark indigo wide-leg jeans and brown flat loafers. A three-panel full-body turnaround contact sheet, same person and same complete outfit in every panel. LEFT strict FRONT, CENTER exact90degree SIDE profile facing image-left, RIGHT exact180degree BACK. Natural upright posture, arms relaxed down and fingers visible, same height and ground baseline. Tall slender7.8-head proportions, long legs. Hair crown to shoe soles entirely visible in all3panels, ample margins above and below. No perspective shortening, no cropped feet. Horizontal3:2 canvas with three equal width panels and thin white gutters. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-06--body_turnaround.json
+
+实际带参考图生成提示词
+Use the reference as absolute full-body identity and clothing source. Keep exact face, hair, body proportions, every garment detail, shoes and colors. Do not change styling. Photorealistic character asset of one young adult woman age18–22 with very long straight near-black hair parted slightly off-center, fair neutral skin, warm brown almond eyes, delicate arched brows, refined straight nose, oval face and full natural pink lips, wearing warm oatmeal scoop-neck fine rib-knit long-sleeve top, high-waisted dark indigo wide-leg jeans and brown flat loafers. A three-panel full-body turnaround contact sheet, same person and same complete outfit in every panel. LEFT strict FRONT, CENTER exact90degree SIDE profile facing image-left, RIGHT exact180degree BACK. Natural upright posture, arms relaxed down and fingers visible, same height and ground baseline. Tall slender7.8-head proportions, long legs. Hair crown to shoe soles entirely visible in all3panels, ample margins above and below. No perspective shortening, no cropped feet. Horizontal3:2 canvas with three equal width panels and thin white gutters. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+
+生成依据：
+imports/role-completion-20260924/events/human-white-portraits-24-20260922-06--body_turnaround.json

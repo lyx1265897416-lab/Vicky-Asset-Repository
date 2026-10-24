@@ -1,0 +1,22 @@
+﻿小红书穿搭5篇 · 033 · 米褐绒面夹克与棕裤 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-30
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-09-30
+
+文生图提示词：
+Photorealistic complete hollow outfit, no person, skin or visible mannequin, pure white seamless background, soft studio light, portrait 2:3, fully uncropped. Garments: Taupe suede-like stand collar blouson with toggles, white inner shirt, chocolate brown wide-leg trousers, brown shoes.. Add ONLY these accessories: A gray brown paisley printed scarf worn from trouser waistband, shown detached and fully spread with loose folds.; A silver trouser key chain with hook, short linked chain, key-shaped metal charms and a narrow brown leather tassel, shown detached as one accessory.; A dark brown felt fedora with medium brim and darker grosgrain hatband.; A pair of dark brown leather gloves, both complete, arranged side by side.; A medium dark brown soft leather handbag with two short rounded handles and slightly slouchy body.. Use each accessory once. Neckties are tied with one knot and the narrow tail hidden; for sweater layers tuck the long tail under the sweater. No additional accessories or props.
+
+根据服装参考生成无人商品展示。遮挡或未展示的细节采用保守补全；文字和品牌细节仅为视觉参考。未进行逐图重新生成相似度验证。
+
+
+来源：用户5篇小红书穿搭参考 · 笔记2-图15 整图
+
+原始生成提示词：
+Edit this exact product image. Remove the paisley scarf from the neck completely. Keep only ONE paisley scarf draped from the trouser waistband at the hip. Remove the separate floating duplicate scarf on the right. Keep only ONE trouser chain attached at the hip, remove the extra floating chain on the right. Preserve the hat, pair of brown gloves and bag. Preserve all other garment cuts, colors, textures and proportions. Keep pure white background, fully visible uncropped outfit and accessories, hollow empty garments without human body, skin or mannequin. Do not add anything.
+
+生成依据：
+imports/wardrobe-xhs-5-20260930/events/complete-033-v2.json
+imports/wardrobe-xhs-5-20260930/source-02.json

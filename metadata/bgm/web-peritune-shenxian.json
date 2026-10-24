@@ -1,0 +1,91 @@
+{
+  "id": "web-peritune-shenxian",
+  "asset_kind": "bgm",
+  "name": "Shenxian",
+  "original_title": "Shenxian",
+  "artist": "PeriTune / Sei Mutsuki",
+  "origin": "web",
+  "project": "网络精选 · PeriTune / Sei Mutsuki",
+  "project_id": "web-peritune",
+  "episodes": [],
+  "category": "古风东方",
+  "tags": [
+    "古风东方",
+    "仙侠",
+    "古典",
+    "优雅"
+  ],
+  "status": "confirmed",
+  "model": null,
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-web-20260929/evidence/web-peritune-shenxian.json",
+    "imports/bgm-web-20260929/download-records/web-peritune-shenxian.json",
+    "imports/bgm-web-20260929/evidence/web-peritune-shenxian.html",
+    "imports/bgm-web-20260929/evidence/peritune-terms.html",
+    "imports/bgm-web-20260929/evidence/cc-by-4.html",
+    "imports/bgm-web-20260929/evidence/research-notes.json"
+  ],
+  "variants": [
+    {
+      "id": "11a21ed30a8d3ad7",
+      "track_id": "web-peritune-shenxian",
+      "path": "assets/bgm/web-20260929/web-peritune-shenxian/original.mp3",
+      "bytes": 6999552,
+      "sha256": "11a21ed30a8d3ad75aa8ba5162dc567dcdf204497e596fcb58e35623515e8d82",
+      "extension": ".mp3",
+      "label": "官方原始 MP3",
+      "duration_seconds": 291.62,
+      "source": "https://peritune.com/music/PerituneMaterial_Shenxian.mp3",
+      "sources": [
+        "https://peritune.com/music/PerituneMaterial_Shenxian.mp3"
+      ],
+      "decode_check": "passed",
+      "decoded_seconds": 291.58,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 192 kb/s",
+      "http_content_length": 6999552,
+      "http_content_type": "audio/mpeg",
+      "final_url": "https://peritune.com/music/PerituneMaterial_Shenxian.mp3",
+      "checked_on": "2026-09-29",
+      "http_headers": {
+        "Server": "nginx",
+        "Date": "Tue, 29 Sep 2026 12:00:51 GMT",
+        "Content-Type": "audio/mpeg",
+        "Content-Length": "6999552",
+        "Connection": "close",
+        "Last-Modified": "Thu, 04 Jun 2020 20:28:00 GMT",
+        "ETag": "\"6ace00-5a747fb0cf400\"",
+        "Accept-Ranges": "bytes"
+      }
+    }
+  ],
+  "default_variant": "11a21ed30a8d3ad7",
+  "license": {
+    "id": "CC-BY-4.0",
+    "name": "可商用 · 需署名",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "source_url": "https://peritune.com/about/",
+    "track_url": "https://peritune.com/blog/2020/06/05/shenxian/",
+    "checked_on": "2026-09-29",
+    "basis": "发布于 2020-06-05，官方授权页说明 2026-02 及以前曲目继续 CC BY 4.0。",
+    "attribution": "Shenxian — PeriTune (Sei Mutsuki)\nSource: https://peritune.com/blog/2020/06/05/shenxian/\nLicensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "usage_notes": [
+      "免费商用须署名：保留作者、曲名、来源和 CC BY 4.0 链接；若剪辑、循环或改编，请说明改动。"
+    ],
+    "content_id_note": "作者提示 YouTube 可能出现第三方误认领；可凭官方曲目与授权信息提出异议。"
+  },
+  "popularity": {
+    "tier": "风格补齐",
+    "priority": 38,
+    "basis": "用于补齐曲风和剧情场景，未宣称高热。",
+    "source_url": "https://peritune.com/blog/2020/06/05/shenxian/",
+    "checked_on": "2026-09-29"
+  },
+  "credit_download": "assets/bgm/web-20260929/web-peritune-shenxian/CREDITS.txt",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户要求大量检索可商用 BGM 作为 Vicky 资产库补充；按此范围收录免费署名许可的官方版本。"
+  },
+  "provenance_note": "从作者官方网站下载并保留原始 MP3，无重新编码。已核对授权依据、传输完整性与全曲解码。发布于 2020-06-05，官方授权页说明 2026-02 及以前曲目继续 CC BY 4.0。"
+}

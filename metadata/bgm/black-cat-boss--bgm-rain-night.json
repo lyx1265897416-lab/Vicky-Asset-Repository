@@ -1,0 +1,84 @@
+{
+  "id": "black-cat-boss--bgm-rain-night",
+  "asset_kind": "bgm",
+  "name": "雨夜相遇",
+  "project": "黑猫上司",
+  "project_id": "black-cat-boss",
+  "episodes": [
+    "EP01"
+  ],
+  "tags": [
+    "雨夜",
+    "悬念",
+    "初遇"
+  ],
+  "status": "confirmed",
+  "model": "未取得原始模型记录",
+  "parameters": {},
+  "prompt": null,
+  "source_records": [
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-rain-night/concepts/black-cat-boss/剧集/EP03/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-rain-night/concepts/black-cat-boss/剧集/EP04/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-rain-night/concepts/black-cat-boss/剧集/EP05/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-rain-night/concepts/black-cat-boss/剧集/EP02/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-rain-night/concepts/black-cat-boss/剧集/EP01/剧集图.json",
+    "imports/bgm-interactive-20260929/evidence/black-cat-boss--bgm-rain-night/concepts/black-cat-boss/剧集/EP06/剧集图.json"
+  ],
+  "variants": [
+    {
+      "track_key": "black-cat-boss--bgm-rain-night",
+      "key": "bgm-rain-night",
+      "family": "black-cat-boss",
+      "name": "雨夜相遇",
+      "tags": [
+        "雨夜",
+        "悬念",
+        "初遇"
+      ],
+      "label": "原始完整版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 221 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP01/音乐/bgm-rain-night.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP01/音乐/bgm-rain-night.mp3"
+      ],
+      "sha256": "0ce4c2bc344ac41bb6e6c1340fb149264845f610641d200302c7294c2ddc5056",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "0ce4c2bc344ac41b",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-rain-night/0ce4c2bc344ac41b.mp3",
+      "bytes": 1659405
+    },
+    {
+      "track_key": "black-cat-boss--bgm-rain-night",
+      "key": "bgm-rain-night",
+      "family": "black-cat-boss",
+      "name": "雨夜相遇",
+      "tags": [
+        "雨夜",
+        "悬念",
+        "初遇"
+      ],
+      "label": "网页压缩版",
+      "duration_seconds": 60.02,
+      "audio_description": "Stream #0:0: Audio: mp3 (mp3float), 48000 Hz, stereo, fltp, 96 kb/s",
+      "source": "concepts/black-cat-boss/剧集/EP01/视频/web/bgm-rain-night.mp3",
+      "sources": [
+        "concepts/black-cat-boss/剧集/EP01/视频/web/bgm-rain-night.mp3",
+        "concepts/black-cat-boss/播放器/dist/media/bgm/bgm-rain-night.mp3"
+      ],
+      "sha256": "5329cf34c9dd2949e689d74639960163f6f71df28ee2950ff8745302307db100",
+      "extension": ".mp3",
+      "decode_check": "passed",
+      "id": "5329cf34c9dd2949",
+      "path": "assets/bgm/interactive-20260929/black-cat-boss--bgm-rain-night/5329cf34c9dd2949.mp3",
+      "bytes": 720620
+    }
+  ],
+  "default_variant": "0ce4c2bc344ac41b",
+  "confirmation": {
+    "date": "2026-09-29",
+    "note": "用户明确要求：把项目文件夹下所有互动剧集内涉及的BGM全部加入Vicky资产库的BGM（背景音乐库）。"
+  },
+  "provenance_note": "保留现有音频原始字节；完全相同的副本按SHA-256合并。同一曲目的压缩、剪辑与混音版作为版本保留；不重新生成或重新压缩音频。"
+}
