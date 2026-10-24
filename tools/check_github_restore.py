@@ -47,7 +47,7 @@ def main():
             assert target.stat().st_size == record['size'] and digest(target) == sha, path
             verified.append({'path': path, 'sha256': sha, 'size': record['size']})
     proof = {'snapshot': tag, 'status': 'passed', 'bundle': name, 'files': verified,
-             'method': 'Downloaded the private GitHub release bundle, verified its SHA-256, and restored three assets with exact size and SHA-256.'}
+             'method': 'Downloaded the GitHub release bundle, verified its SHA-256, and restored three assets with exact size and SHA-256.'}
     (CACHE / f'{tag}-restore-check.json').write_text(json.dumps(proof, ensure_ascii=False, indent=2) + '\n')
     pack.unlink()
     print(json.dumps(proof, ensure_ascii=False, indent=2))

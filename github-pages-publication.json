@@ -1,0 +1,38 @@
+{
+  "release": "ada0d4db00e307417084be71",
+  "bytes": 809155611,
+  "files": 13368,
+  "counts": {
+    "images": 4217,
+    "voices": 181,
+    "music": 108,
+    "videos": 7
+  },
+  "backup_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/releases/latest",
+  "voice_files_unchanged": true,
+  "source_media_unchanged": true,
+  "url": "https://lyx1265897416-lab.github.io/Vicky-Asset-Repository/",
+  "published_on": "2026-10-23",
+  "timezone": "America/Los_Angeles",
+  "repository_visibility": "public",
+  "site_branch": "gh-pages",
+  "site_commit": "ff9ab11a21579e2012f09e65a996f5ffe874f4a6",
+  "https_enforced": true,
+  "build_conclusion": "success",
+  "build_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/actions/runs/40060567038",
+  "verification": {
+    "public_http": 200,
+    "first_six_images_loaded": true,
+    "desktop_overflow": false,
+    "mobile_width": 390,
+    "mobile_overflow": false,
+    "numeric_search": "12 returned Aria Solano",
+    "full_prompt_characters": 1582,
+    "local_voice_playback": true,
+    "local_video_metadata_seconds": [
+      17,
+      85.632993
+    ],
+    "wechat_or_iphone_real_device_tested": false
+  }
+}

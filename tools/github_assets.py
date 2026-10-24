@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish and restore complete Vicky asset snapshots in the private GitHub repository."""
+"""Publish and restore complete Vicky asset snapshots in the GitHub repository."""
 import argparse, hashlib, json, os, shutil, subprocess, tarfile, time, threading
 from concurrent.futures import ThreadPoolExecutor
 from collections import Counter
