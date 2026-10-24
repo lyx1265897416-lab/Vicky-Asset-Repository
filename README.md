@@ -1,5 +1,13 @@
 # Vicky 资产库 · 初始版
 
+## 在线浏览
+
+固定网页地址：[Vicky 资产库](https://lyx1265897416-lab.github.io/Vicky-Asset-Repository/)。GitHub Pages 从 `gh-pages` 分支发布，不依赖本机服务或终端窗口。仓库与完整备份公开可访问。
+
+网页包含全部已确认目录、序号搜索、角色图片、详情与提示词、音色、背景音乐和视频。受 Pages 站点容量限制，图片使用最大边 1280 px 的 WebP 展示副本，背景音乐使用 AAC 网页试听副本；角色音色与视频保留原字节。页面明确标注展示版，原始尺寸与生成记录继续保留，完整原文件通过页首和页尾的 Release 入口获取。
+
+后续更新：先更新本机资产库，再执行 `python3 tools/prepare_github_pages.py`（需要 Pillow、imageio-ffmpeg）。导出到 `deployment/github-pages/public/`，保留目录中的独立 `gh-pages` Git checkout；验证后在该目录提交并推送 `gh-pages`。脚本会检查文件引用、音色字节及小于 950 MB 的发布预算，超出时阻止发布。完整备份另按下方快照流程更新，保留历史 Release。
+
 ## 本机启动与恢复
 
 macOS 双击 `打开资产库.command`：在独立终端启动服务，确认就绪后打开 `http://127.0.0.1:8768/`。服务不依赖 Codex 会话，异常退出后 5 秒重试；保留该终端窗口，按 Ctrl+C 可停止。关闭终端、电脑关机或退出登录后需重新双击启动。
@@ -8,11 +16,11 @@ macOS 双击 `打开资产库.command`：在独立终端启动服务，确认就
 
 ## GitHub 完整资产快照
 
-最新同步批次：`snapshot-2026-10-23`，包含当前 4,217 张图片、181 条音色、108 组背景音乐和 7 条视频样例。完整备份仍为私有仓库；仓库和 Release 链接需登录有权限的 GitHub 账号，不能作为公开资产库网页访问。
+最新同步批次：`snapshot-2026-10-23`，包含当前 4,217 张图片、181 条音色、108 组背景音乐和 7 条视频样例。完整备份已于 2026-10-23 经所有者授权改为公开；完整原文件在 Releases，直接浏览请使用下方网页地址。
 
-仓库：[Vicky-Asset-Repository](https://github.com/lyx1265897416-lab/Vicky-Asset-Repository)（私有）。应用源码和根目录索引使用 Git 版本管理；图片、音频、参考、预览、导入历史、验证记录、资产元数据及语音模型保存在同一仓库的 Releases。`github-content-manifest.json` 按原路径记录每个文件的 SHA-256、大小和素材包位置，相同内容只上传一份，恢复时会还原全部原路径。
+仓库：[Vicky-Asset-Repository](https://github.com/lyx1265897416-lab/Vicky-Asset-Repository)（公开）。应用源码和根目录索引使用 Git 版本管理；图片、音频、参考、预览、导入历史、验证记录、资产元数据及语音模型保存在同一仓库的 Releases。`github-content-manifest.json` 按原路径记录每个文件的 SHA-256、大小和素材包位置，相同内容只上传一份，恢复时会还原全部原路径。
 
-首次取回完整内容（需要有此私有仓库权限，并安装、登录 GitHub CLI）：
+首次取回完整内容（需要安装、登录 GitHub CLI；公开仓库不需要额外成员权限）：
 
 ```sh
 git clone git@github.com:lyx1265897416-lab/Vicky-Asset-Repository.git
