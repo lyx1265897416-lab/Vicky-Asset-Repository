@@ -1,8 +1,8 @@
 """Create a read-only Pages gallery below GitHub's 1 GB site limit.
 
-Original media remain in the repository's verified Releases. Voice recordings,
-video files and source records are copied byte-for-byte; images and music have
-clearly labelled web copies. Never edits the local gallery or original media.
+Original media remain in the repository's verified Releases. Voice recordings
+and source records are copied byte-for-byte; images, music and oversized video
+have labelled web copies. Never edits the local gallery or original media.
 """
 from concurrent.futures import ThreadPoolExecutor
 import hashlib
@@ -30,6 +30,10 @@ def main():
     inventory = json.loads((export / 'upload-manifest.json').read_text())
     catalog = json.loads((ROOT / 'gallery-manifest.json').read_text())
     music = {v['path'] for track in catalog.get('bgm', []) for v in track['variants']}
+    web_videos = {v['id'] for v in catalog.get('videos', []) if (ROOT / v['path']).stat().st_size >= 100_000_000}
+    for video in catalog.get('videos', []):
+        if video['id'] in web_videos:
+            video['pages_web_copy'] = True
     OUT.mkdir(parents=True, exist_ok=True)
     CACHE.mkdir(parents=True, exist_ok=True)
     files = {entry['path']: entry for entry in inventory['files']}
@@ -48,6 +52,17 @@ def main():
                     image = ImageOps.exif_transpose(original)
                     image.thumbnail((1280, 1280), Image.Resampling.LANCZOS)
                     image.save(cached, 'WEBP', quality=80, method=4)
+        elif suffix == '.mp4' and source.stat().st_size >= 100_000_000:
+            relative = f'web/videos/{entry["sha256"]}-web.mp4'
+            cached = CACHE / Path(relative).name
+            if not cached.exists():
+                temporary = cached.with_suffix('.tmp.mp4')
+                subprocess.run([ffmpeg, '-hide_banner', '-loglevel', 'error', '-y',
+                                '-i', str(source), '-c:v', 'libx264', '-preset', 'fast',
+                                '-crf', '24', '-maxrate', '4M', '-bufsize', '8M',
+                                '-pix_fmt', 'yuv420p', '-threads', '4', '-c:a', 'aac',
+                                '-b:a', '128k', '-movflags', '+faststart', str(temporary)], check=True)
+                temporary.replace(cached)
         elif path in music:
             relative = f'web/music/{entry["sha256"]}-80k.m4a'
             cached = CACHE / Path(relative).name
@@ -105,10 +120,13 @@ def main():
     start = html.index('const manifest=') + len('const manifest=')
     end = html.index(';\nconst assets=manifest.assets;', start)
     compact = rewrite(json.loads(html[start:end]))
+    for video in compact.get('videos', []):
+        if video['id'] in web_videos:
+            video['pages_web_copy'] = True
     html = html[:start] + json.dumps(compact, ensure_ascii=False, separators=(',', ':')).replace('<', '\\u003c') + html[end:]
     html = html.replace('下载原图', '下载展示图').replace('<dt>图像尺寸</dt>', '<dt>原图尺寸</dt>')
     html = re.sub(r'<div class="footer">.*?</div>',
-                  f'<div class="footer">图片与背景音乐为网页展示版；角色音色、视频保留原文件。<a href="{BACKUP}" target="_blank" rel="noopener">完整原文件备份 ↗</a></div>', html, flags=re.S)
+                  f'<div class="footer">图片、背景音乐和超大视频使用网页展示版；角色音色保留原文件。<a href="{BACKUP}" target="_blank" rel="noopener">完整原文件备份 ↗</a></div>', html, flags=re.S)
     html = html.replace('<details class="library-overview">', f'<p class="pages-edition">网页展示版 · <a href="{BACKUP}" target="_blank" rel="noopener">完整原文件备份 ↗</a></p><details class="library-overview">', 1)
     html = html.replace('</head>', '<style>.pages-edition{font-size:13px;color:#6b625b}.pages-edition a,.footer a{color:#365747}.pages-edition{margin:8px 0 0}.footer{line-height:1.8}</style></head>', 1)
     (OUT / 'index.html').write_text(html)
@@ -121,6 +139,11 @@ def main():
     music_js = OUT / 'gallery-bgm.js'
     music_js.write_text(music_js.read_text().replace(".extension.slice(1).toUpperCase()", ".path.split('.').pop().toUpperCase()")
                         .replace('下载当前版本', '下载网页试听版'))
+    video_js = OUT / 'gallery-videos.js'
+    video_js.write_text(video_js.read_text()
+                        .replace('· 原文件</div>', "· ${v.pages_web_copy?'网页播放版':'原文件'}</div>")
+                        .replace('>下载原视频</button>', ">${v.pages_web_copy?'下载网页视频':'下载原视频'}</button>")
+                        .replace("${v.playback?", "${v.pages_web_copy?'<p class=\"source\">超大视频使用网页播放版；原文件请从完整备份获取。</p>':v.playback?"))
     (OUT / '.nojekyll').write_text('')
     wanted.add('.nojekyll')
     # Remove files from a previous export, while leaving an existing Git checkout intact.
@@ -130,6 +153,8 @@ def main():
     total = sum(path.stat().st_size for path in OUT.rglob('*') if path.is_file() and '.git' not in path.relative_to(OUT).parts)
     if total >= 950_000_000:
         raise RuntimeError(f'Pages export exceeds safe budget: {total:,} bytes')
+    assert all(path.stat().st_size < 100_000_000 for path in OUT.rglob('*')
+               if path.is_file() and '.git' not in path.relative_to(OUT).parts), 'File exceeds GitHub Git limit'
     for entry in compact['assets']:
         assert (OUT / entry['path']).is_file(), entry['path']
     for voice in compact.get('voices', []):
