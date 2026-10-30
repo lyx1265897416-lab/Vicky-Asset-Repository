@@ -1,7 +1,7 @@
 {
   "release": "ada0d4db00e307417084be71",
-  "bytes": 809155611,
-  "files": 13368,
+  "bytes": 848682255,
+  "files": 17525,
   "counts": {
     "images": 4217,
     "voices": 181,
@@ -16,10 +16,10 @@
   "timezone": "America/Los_Angeles",
   "repository_visibility": "public",
   "site_branch": "gh-pages",
-  "site_commit": "ff9ab11a21579e2012f09e65a996f5ffe874f4a6",
+  "site_commit": "ce338493ed592df448f1ef2ee2ecd926683b5f51",
   "https_enforced": true,
   "build_conclusion": "success",
-  "build_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/actions/runs/40060567038",
+  "build_url": "https://github.com/lyx1265897416-lab/Vicky-Asset-Repository/actions/runs/41024226180",
   "verification": {
     "public_http": 200,
     "first_six_images_loaded": true,
@@ -33,6 +33,27 @@
       17,
       85.632993
     ],
-    "wechat_or_iphone_real_device_tested": false
+    "wechat_or_iphone_real_device_tested": false,
+    "desktop_dom_nodes": 1379,
+    "initial_cards": 48,
+    "previous_initial_cards": 1767,
+    "previous_dom_nodes": 44354,
+    "live_pagination": true,
+    "live_full_catalog_search": true,
+    "live_full_prompt": true
+  },
+  "last_updated_on": "2026-10-30",
+  "performance": {
+    "before_html_bytes": 9643804,
+    "after_html_bytes": 17371,
+    "catalog_bytes": 7820714,
+    "application_bytes": 116250,
+    "assets": 4217,
+    "page_size": 48,
+    "catalog": "web/catalog-19b047165fe6bba4.json",
+    "application": "web/app-bb430b9ddf9b260c.js",
+    "bootstrap": "web/start-b3a9770f63bd5754.js",
+    "thumbnail_files": 4154,
+    "thumbnail_bytes": 41214778
   }
 }
