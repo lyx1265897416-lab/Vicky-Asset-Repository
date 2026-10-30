@@ -24,7 +24,7 @@
     "public_http": 200,
     "first_six_images_loaded": true,
     "desktop_overflow": false,
-    "mobile_width": 390,
+    "mobile_width": 404,
     "mobile_overflow": false,
     "numeric_search": "12 returned Aria Solano",
     "full_prompt_characters": 1582,
@@ -40,7 +40,12 @@
     "previous_dom_nodes": 44354,
     "live_pagination": true,
     "live_full_catalog_search": true,
-    "live_full_prompt": true
+    "live_full_prompt": true,
+    "requested_mobile_width": 390,
+    "requested_desktop_width": 1280,
+    "actual_browser_width": 404,
+    "desktop_viewport_override_verified": false,
+    "viewport_note": "The in-app browser remained constrained to 404 px despite viewport requests; desktop width 1280 was not reverified in this run."
   },
   "last_updated_on": "2026-10-30",
   "performance": {
