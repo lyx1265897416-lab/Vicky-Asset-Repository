@@ -17,6 +17,7 @@ import sys
 
 from PIL import Image, ImageOps
 from imageio_ffmpeg import get_ffmpeg_exe
+from optimize_gallery_export import optimize
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'deployment/github-pages/public'
@@ -150,7 +151,9 @@ def main():
     for path in OUT.rglob('*'):
         if path.is_file() and '.git' not in path.relative_to(OUT).parts and path.relative_to(OUT).as_posix() not in wanted:
             path.unlink()
-    total = sum(path.stat().st_size for path in OUT.rglob('*') if path.is_file() and '.git' not in path.relative_to(OUT).parts)
+    performance = optimize(OUT)
+    exported_files = [path for path in OUT.rglob('*') if path.is_file() and '.git' not in path.relative_to(OUT).parts]
+    total = sum(path.stat().st_size for path in exported_files)
     if total >= 950_000_000:
         raise RuntimeError(f'Pages export exceeds safe budget: {total:,} bytes')
     assert all(path.stat().st_size < 100_000_000 for path in OUT.rglob('*')
@@ -159,7 +162,7 @@ def main():
         assert (OUT / entry['path']).is_file(), entry['path']
     for voice in compact.get('voices', []):
         assert (OUT / voice['path']).read_bytes() == (ROOT / next(v['path'] for v in catalog['voices'] if v['id'] == voice['id'])).read_bytes()
-    receipt = {'release': inventory['release'], 'bytes': total, 'files': len(wanted), 'counts': inventory['counts'],
+    receipt = {'release': inventory['release'], 'bytes': total, 'files': len(exported_files), 'counts': inventory['counts'], 'performance': performance,
                'backup_url': BACKUP, 'voice_files_unchanged': True, 'source_media_unchanged': True,
                'url': 'https://lyx1265897416-lab.github.io/Vicky-Asset-Repository/'}
     (OUT.parent / 'inventory.json').write_text(json.dumps(receipt, ensure_ascii=False, indent=2) + '\n')
