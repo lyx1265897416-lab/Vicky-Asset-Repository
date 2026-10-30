@@ -1,0 +1,22 @@
+﻿Rafael 公寓与修车店 · 建筑图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Two vertically stacked architectural exterior studies on white: beige urban apartment facade with planted balcony above, low brick motorcycle workshop with metal roller shutter and green motorcycle below. Neutral sunny light. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/BP89b7Tb3oBmBExntTUc4ECXnHc.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: vertical 9:16 architectural reference board for a premium realistic otome 2.5D/3D story package. Input image 1 is the layout/material master, not an edit target. Create TWO large separate exterior views stacked vertically with a clean WHITE gutter and no labels or captions. TOP: ordinary renovated older coastal-city low-rise apartment building with worn warm-ivory plaster, subtle aged masonry, dark window frames, simple black iron balcony railing, potted greenery. Focus on one floor's wide shallow balcony and window arrangement compatible with the reference two-bedroom apartment; soft daylight, ordinary neighborhood with no recognizable landmarks. BOTTOM: modest independent vintage motorcycle workshop in a low red-brick industrial building, wide dark metal roller shutter at front LEFT partly raised, separate glass pedestrian door and simple wood reception visible inside at front RIGHT, warm lamp over entry. Exterior matches the reference lower workshop. A small glimpse of forest-green motorcycle and rear tool wall can be visible. Coherent brick, wood, metal material, restrained realistic 3D detail. No people, logos, readable shop name, street address, country cues, watermark, diagrams or bottom text.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/121.json

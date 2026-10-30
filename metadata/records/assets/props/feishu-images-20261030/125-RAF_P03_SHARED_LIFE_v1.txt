@@ -1,0 +1,22 @@
+﻿Rafael · 共享生活物件 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+White-background household prop board with two round wooden key bowls containing keys at top, long dark door handles and cream shopping-list pad at center, folded beige chunky knit blanket and sage cushion below. Realistic soft studio light. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/AHBsbJgD6o4LTPxyfkjcA66fn1d.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: vertical 9:16 isolated prop design board for a polished otome 2.5D/3D story content package. Premium realistic 3D catalog rendering with excellent materials, soft studio light and delicate contact shadows, pure white background. Objects have consistent believable scale within each grouping, plenty of separation, complete silhouettes, no cut-off edges. No people, hands, human reflections, labels, titles, footer, logos, watermarks, brands, readable personal information or gibberish writing. Input image 1 is apartment material/prop reference. Design a clean board showing the small shared-life props already implied by this two-adult-roommate apartment. TOP: a shallow warm wood entry key bowl containing two ordinary separate metal key rings with simple house keys, viewed from three-quarter and a small overhead view. MIDDLE: a slim light-grey refrigerator-door sample panel with two tiny plain magnets holding a small cream paper shopping list, its content represented only by a handful of quiet abstract checkboxes and short grey strokes, no readable names, addresses or made-up words. BOTTOM: a folded oatmeal knit throw and a small green cushion matching shared living sofa, positioned together as quiet common-area items. Keep board minimal; no packages, personal letters, passports, ID, bedroom keys with identifying tags or character possessions invented as plot clues. Match warm oak/ivory/sage materials of scene, no room rendering.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/125.json

@@ -1,0 +1,22 @@
+﻿Rafael 公寓与修车店 · 平面图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Two vertically stacked orthographic top-down furnished floor plans: compact apartment bedroom bathroom kitchen living room and balcony above; rectangular motorcycle workshop with bike workbenches and storage below. Warm realistic architectural materials, walls and door openings clearly visible. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/O7rxbclmdoSDKqxYzJFcwZcinYc.png
+
+原始生成提示词：
+Use case: infographic-diagram. Asset type: ARCHITECTURAL FLOOR PLAN sheet, vertical 9:16. Reference image 1 shows apartment above and motorcycle workshop below. Translate both into a true flat 2D architectural plan seen straight vertically downward, 90 DEGREES overhead, ZERO perspective, ZERO visible upright wall faces or building facade. Two stacked separate plans on pure white paper. Crisp dark thin wall lines, lightly warm-grey flat furniture silhouettes, sparse pale oak/sage color accents. Show only footprints of beds, sofas, counters and motorcycle, flat standard door-swing arcs, white gaps for windows. TOP apartment: upper-left double bedroom with left exterior window and headboard against top wall, upper-right second independent single bedroom, narrow central hall and small rear bathroom, hallway connects to public living area below; entry nook lower-left, sofa left, kitchen L at right, dining center-right, long balcony at bottom with toolbox at its right corner. Match reference connectivity and footprints. BOTTOM rectangular shop: lower-left wide roller entry opening, lower-right pedestrian door/reception counter, central-left red lift with small green bike footprint, rear/top tool bench, right workbench/parts storage, open walking aisle through center-right. Every room has a sensible access opening. It must read as a clean professional simplified flat architectural floor-plan diagram, not a dollhouse rendering, no perspective, no shadows, no axonometric, no diagonal tilt. No text, dimensions, letters, numeric labels, arrows, legends, people or footer.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/123.json

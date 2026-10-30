@@ -1,0 +1,21 @@
+﻿Ryan Blake · 角色主图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-22
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Adult young man with warm hazel eyes, light nose freckles, softly angular face, tousled auburn-brown short hair, clean shaven. Dark indigo short-sleeve work overshirt with brass buttons and small brass buckles, black crewneck tee, wide dark work trousers and black work boots. Single front-facing eye-level chest-up portrait with complete hair and shoulders visible. Premium semi-realistic 2.5D/3D romance-game character rendering, finely modeled face, soft matte skin microtexture, detailed hair strands and fabric, broad soft frontal illumination, pure white studio background, no additional people, logos or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/HydIb85sxog2mvxRqKlcKgchnJb.png
+
+原始生成提示词：
+CRITICAL CAMERA AND HEAD GEOMETRY: This must be a true straight-on FRONT / EYE-LEVEL identity portrait. Camera optical axis horizontal at the subject's EYE HEIGHT, centered exactly between the eyes, no low or high angle. Face sagittal plane parallel to image plane. ZERO head yaw, ZERO head roll, ZERO head pitch; head neutrally upright, NOT tipped backward, NO raised chin, NO upward gaze. Shoulders square and level, sternum faces camera. Eyes on one horizontal line, both ears at the same height, nose centered, equally visible cheeks and jaw sides, gaze straight forward. Natural level jaw and relaxed neck with head resting over torso. No three-quarter view, no tilted fashion pose, no reclining perspective or nostril-emphasizing angle. Portrait focal-length perspective. Framing from full hair to upper chest; entire shoulders, neutral expression with only tiny natural friendliness. Invariant viewing angle takes priority over poses in ALL reference images. Use case: stylized-concept. Asset type: first-round character approval portrait for a contemporary coastal-city romance ensemble. One single adult character on pure white seamless studio background, front-facing eye-level upper-chest-up portrait, complete hair and both shoulders visible, relaxed neck, generous breathing room. Premium otome 2.5D / semi-realistic 3D character-render style matching the STYLE reference: finely modeled attractive adult facial planes, subtle natural skin microtexture and soft subsurface scattering, detailed individual hair strands, realistic woven/knit material, clear eyes, broad soft frontal light, restrained matte highlights. Beautiful contemporary game-character art, not a photograph, not cartoon lineart, not wax/plastic doll skin. No text, name, logo, watermark, props or other people. The style-reference person is NOT the subject; do not copy their facial identity, hair or clothing. The wardrobe reference controls garment design only, never character identity. Input roles: image 1 STYLE ONLY, image 2 WARDROBE ONLY. Create a NEW distinct adult male motorcycle-shop apprentice Ryan Blake, age 22, youthful but unmistakably adult. Lean fit build, light warm ivory skin with sparse natural freckles over nose, hazel eyes, lively natural eyebrows, gently angular narrow oval face, slightly upturned medium nose, thinner upper lip and open friendly small smile. Textured short copper-brown hair with loose uneven fringe, clean-shaven. He looks alert, capable and enthusiastic, not childish or goofy. Match the wardrobe image: open short-sleeve dark indigo cotton work shirt, black contrast collar, small brass utility fastening details and chest pockets, black plain crewneck undershirt. No cap, no tools, no tattoos, no grease on face, no copied black hair or dominant mature face from style reference.
+
+生成依据：
+imports/feishu-images-20261030/evidence/091.json

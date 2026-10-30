@@ -1,0 +1,22 @@
+﻿Cole 小酒吧 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Cozy narrow wood-paneled neighborhood bar at night, polished dark wood counter left, stools, amber pendant lamps, bottles on back bar, warm reflections and blue evening light through far window. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/KGT0b9bMKo8wvNxfzMBcg8TTnTc.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: polished story environment for an otome 2.5D/3D character content package. Vertical portrait 9:16 image. Premium cinematic realistic 3D rendering, beautiful restrained textures, physically coherent room geometry, crisp details, soft natural lighting. No people, silhouettes, body parts, human reflections, text, titles, captions, logos, watermark or bottom lettering. No identifiable country, real city, brand or street address. Single continuous full-frame evening interior of Cole's small neighborhood bar, a story's previously visited setting. Quiet modest cozy local venue: warm wood counter along one side, dark stools, subdued amber wall lamps, understated shelves with unbranded bottles and glasses, a few small tables and chairs, visible clear path from counter toward an ordinary exit door. Friendly lived-in coastal neighborhood atmosphere, tasteful understated decor; no VIP club, no opulent lounge, no stage. Eye-level wide-enough room view with balanced foreground, late evening blue darkness beyond windows. The setting must not depict a confrontation, romance, drinking person or any character. No legible signage, brand bottles or city identifiers.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/118.json

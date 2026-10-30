@@ -1,0 +1,21 @@
+﻿咪 · 床头手机剧情帧 · 飞书文档收录
+生图模型：来源图片的生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：480 × 854
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+First-person high-angle photograph-like still of black smartphone lying face up on light oak bedside cabinet, pale blue pajama-clad wrist and hand reaching toward it at lower right, soft cream curtains, clear warm morning light, no visible face. Preserve the described composition and visible materials; detailed high-quality rendering, no extra objects or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/KU72bSJB4obSZqxvLYucof7Lnbe.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/feishu-images-20261030/evidence/295.json

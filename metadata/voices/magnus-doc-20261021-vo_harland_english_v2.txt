@@ -1,99 +1,52 @@
 ﻿Harland Royce · 文档角色音 V2
-文档来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn54SVh233kr3DZqqAl8Fmnb
-保留文档原始试听及完整表演节奏。
+项目：Magnus Thorne
+角色：Harland Royce
+年龄设计：60多岁（角色目标）
+身份用途：剧集角色
+音色标签：六十多岁长者的成熟低男声，厚实稳健、轻微岁月颗粒；有分量但不虚弱、不过度沙哑。
+模型：bytedance/seed-audio-1.0
+入库依据：用户本次明确要求将文档中的音色加入音色库。本条为文档现行 V2 附件，按原字节入库；保留文档历史待试听备注，不冒称已完成独立主观审听。
+原始样音：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn54SVh233kr3DZqqAl8Fmnb
+试听/下载文件SHA256：280b12c45184c428ba1976b693002bbb77a1d2e36376e6ab93ff1829168b5461
+原始音频（保留）：assets/voices/magnus-doc-20261021/VO_HARLAND_English_V2.mp3
+原始SHA256：280b12c45184c428ba1976b693002bbb77a1d2e36376e6ab93ff1829168b5461
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-20.65 LUFS；真实峰值：0.73 dBTP
+响度处理记录：metadata/voice-loudness/magnus-doc-20261021-vo_harland_english_v2-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.3秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：20.1秒
+
+试听台词：
+Sit down, Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.
+
+声音描述：
+Generate a natural acted spoken dialogue recording in native General American English. One original fictional male character: Harland Royce, a distinguished silver-haired elder in his sixties, physically strong, well-groomed gray beard, formal tailoring, decades of leadership. He must audibly sound older and more seasoned than men in their30s or40s, without sounding frail or very elderly. A rich substantial bass-baritone, grounded chest resonance, gently weathered fine vocal grain and mature resonance. The age comes from a lived-in timbre and unhurried assurance, not an artificially lowered pitch. Strong clear voice, intact breath support, no tremor, wheeze, feeble quaver, exaggerated rasp, growling or cartoon grandpa. Speak to a younger man sitting across a small table in a private conversation. He cares about the consequences and is trying to make Magnus think, not performing a villain speech. 'Sit down, Magnus' is quietly firm and personal. Let 'consider what they will cost' carry measured concern rather than anger. On 'more than you alone', emphasize the wider responsibility with calm weight. 'Speak plainly' is direct but never barked. The final sentence is a real request for understanding, with subtle warmth under authority. Natural linked phrasing, varied sentence cadence and small meaningful pauses. Not slow word-by-word reading, radio announcer, audiobook, sermon, customer-service voice or a young man imitating an elder. Ordinary low conversational volume, intelligible consonants and restrained natural breaths. Dry clean studio recording, single speaker, no music, room ambience, effects, echo or other voices. Speak exactly these words, no added commentary or spoken directions:
+Sit down, Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.
+
+自动台词检查：
+沿用与源文件哈希匹配的原制作自动转写；不代替本次主观听审。
+Sit down Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.
+
+已有生成参数：
 {
-  "id": "magnus-doc-20261021-vo_harland_english_v2",
-  "name": "Harland Royce · 文档角色音 V2",
-  "project": "Magnus Thorne",
-  "character": "Harland Royce",
-  "character_id": "human.harland-magnus-doc-20261019",
-  "gender": "male",
-  "language": "en",
-  "accent_direction": "通用美式英语（制作目标，未重新主观审听）",
-  "age_group": "老年",
-  "age_range": "60多岁（角色目标）",
-  "role_group": "剧集角色",
-  "timbre": "六十多岁长者的成熟低男声，厚实稳健、轻微岁月颗粒；有分量但不虚弱、不过度沙哑。",
-  "tags": [
-    "Magnus Thorne",
-    "文档音色",
-    "V2",
-    "飞书导入20261021"
-  ],
-  "path": "assets/voices/magnus-doc-20261021/VO_HARLAND_English_V2.mp3",
-  "sha256": "280b12c45184c428ba1976b693002bbb77a1d2e36376e6ab93ff1829168b5461",
-  "duration_seconds": 20.1,
-  "source": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn54SVh233kr3DZqqAl8Fmnb",
-  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcn54SVh233kr3DZqqAl8Fmnb",
-  "text": "Sit down, Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.",
-  "direction": "Generate a natural acted spoken dialogue recording in native General American English. One original fictional male character: Harland Royce, a distinguished silver-haired elder in his sixties, physically strong, well-groomed gray beard, formal tailoring, decades of leadership. He must audibly sound older and more seasoned than men in their30s or40s, without sounding frail or very elderly. A rich substantial bass-baritone, grounded chest resonance, gently weathered fine vocal grain and mature resonance. The age comes from a lived-in timbre and unhurried assurance, not an artificially lowered pitch. Strong clear voice, intact breath support, no tremor, wheeze, feeble quaver, exaggerated rasp, growling or cartoon grandpa. Speak to a younger man sitting across a small table in a private conversation. He cares about the consequences and is trying to make Magnus think, not performing a villain speech. 'Sit down, Magnus' is quietly firm and personal. Let 'consider what they will cost' carry measured concern rather than anger. On 'more than you alone', emphasize the wider responsibility with calm weight. 'Speak plainly' is direct but never barked. The final sentence is a real request for understanding, with subtle warmth under authority. Natural linked phrasing, varied sentence cadence and small meaningful pauses. Not slow word-by-word reading, radio announcer, audiobook, sermon, customer-service voice or a young man imitating an elder. Ordinary low conversational volume, intelligible consonants and restrained natural breaths. Dry clean studio recording, single speaker, no music, room ambience, effects, echo or other voices. Speak exactly these words, no added commentary or spoken directions:\nSit down, Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.",
-  "model": "bytedance/seed-audio-1.0",
-  "provider": "ByteDance / WaveSpeed",
-  "parameters": {
-    "prompt": "Generate a natural acted spoken dialogue recording in native General American English. One original fictional male character: Harland Royce, a distinguished silver-haired elder in his sixties, physically strong, well-groomed gray beard, formal tailoring, decades of leadership. He must audibly sound older and more seasoned than men in their30s or40s, without sounding frail or very elderly. A rich substantial bass-baritone, grounded chest resonance, gently weathered fine vocal grain and mature resonance. The age comes from a lived-in timbre and unhurried assurance, not an artificially lowered pitch. Strong clear voice, intact breath support, no tremor, wheeze, feeble quaver, exaggerated rasp, growling or cartoon grandpa. Speak to a younger man sitting across a small table in a private conversation. He cares about the consequences and is trying to make Magnus think, not performing a villain speech. 'Sit down, Magnus' is quietly firm and personal. Let 'consider what they will cost' carry measured concern rather than anger. On 'more than you alone', emphasize the wider responsibility with calm weight. 'Speak plainly' is direct but never barked. The final sentence is a real request for understanding, with subtle warmth under authority. Natural linked phrasing, varied sentence cadence and small meaningful pauses. Not slow word-by-word reading, radio announcer, audiobook, sermon, customer-service voice or a young man imitating an elder. Ordinary low conversational volume, intelligible consonants and restrained natural breaths. Dry clean studio recording, single speaker, no music, room ambience, effects, echo or other voices. Speak exactly these words, no added commentary or spoken directions:\nSit down, Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.",
-    "output_format": "wav",
-    "sample_rate": 48000,
-    "speed": 1,
-    "pitch": 0,
-    "volume": 1
-  },
-  "status": "confirmed",
-  "sample_kind": "original_voice_design",
-  "voice_identity": "project asset ID, not a provider-persistent voice ID",
-  "confirmation": {
-    "kind": "explicit_document_import",
-    "note": "用户本次明确要求将文档中的音色加入音色库。本条为文档现行 V2 附件，按原字节入库；保留文档历史待试听备注，不冒称已完成独立主观审听。"
-  },
-  "confirmation_evidence": "imports/feishu-voices-20261021/confirmation.json",
-  "source_records": [
-    "imports/feishu-voices-20261021/voices-section.json",
-    "imports/feishu-voices-20261021/audio-checks.json",
-    "imports/feishu-voices-20261021/provenance/harland/request.json",
-    "imports/feishu-voices-20261021/provenance/harland/asr.json",
-    "imports/feishu-voices-20261021/provenance/harland/quality.json"
-  ],
-  "document_description": "六十多岁长者的成熟低男声，厚实稳健、轻微岁月颗粒；有分量但不虚弱、不过度沙哑。V2 为重新演绎样音，待试听定版。",
-  "historical_document_status": "待试听定版",
-  "observed_transcript": "Sit down Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.",
-  "transcript_note": "沿用与源文件哈希匹配的原制作自动转写；不代替本次主观听审。",
-  "verification": {
-    "decode": "passed",
-    "document_bytes_preserved": true,
-    "source_bytes_matched": true,
-    "transcript_exact_words": true,
-    "listening_review": "未重新做主观听审；用户本次授权文档音色入库。"
-  },
-  "approved_playback": {
-    "path": "assets/voices/magnus-doc-20261021/VO_HARLAND_English_V2.mp3",
-    "sha256": "280b12c45184c428ba1976b693002bbb77a1d2e36376e6ab93ff1829168b5461",
-    "measurement_record": "metadata/voice-loudness/magnus-doc-20261021-vo_harland_english_v2-approved.json"
-  },
-  "reuse_note": "文档声音ID是项目资产编号，并非服务商持久音色ID。保存原样音与模型参数，复用新台词仍需试听。",
-  "imported_on": "2026-10-21",
-  "original_audio": {
-    "path": "assets/voices/magnus-doc-20261021/VO_HARLAND_English_V2.mp3",
-    "sha256": "280b12c45184c428ba1976b693002bbb77a1d2e36376e6ab93ff1829168b5461"
-  },
-  "normalization": {
-    "target_lufs": -20.0,
-    "measured_lufs": -20.65,
-    "true_peak_dbtp": 0.73,
-    "true_peak_ceiling_dbtp": -2.0,
-    "source_lufs": -20.65,
-    "record": "metadata/voice-loudness/magnus-doc-20261021-vo_harland_english_v2-approved.json",
-    "policy": {
-      "method": "approved_audition_fixed_gain",
-      "preserve_timing": true,
-      "reprocess": false
-    }
-  },
-  "onset_cleanup": {
-    "removed_seconds": 0,
-    "signal_onset_seconds": 0.3,
-    "preroll_seconds": null,
-    "internal_pauses_preserved": true,
-    "long_pauses_shortened": 0,
-    "trailing_removed_seconds": 0,
-    "total_removed_seconds": 0
-  }
+  "prompt": "Generate a natural acted spoken dialogue recording in native General American English. One original fictional male character: Harland Royce, a distinguished silver-haired elder in his sixties, physically strong, well-groomed gray beard, formal tailoring, decades of leadership. He must audibly sound older and more seasoned than men in their30s or40s, without sounding frail or very elderly. A rich substantial bass-baritone, grounded chest resonance, gently weathered fine vocal grain and mature resonance. The age comes from a lived-in timbre and unhurried assurance, not an artificially lowered pitch. Strong clear voice, intact breath support, no tremor, wheeze, feeble quaver, exaggerated rasp, growling or cartoon grandpa. Speak to a younger man sitting across a small table in a private conversation. He cares about the consequences and is trying to make Magnus think, not performing a villain speech. 'Sit down, Magnus' is quietly firm and personal. Let 'consider what they will cost' carry measured concern rather than anger. On 'more than you alone', emphasize the wider responsibility with calm weight. 'Speak plainly' is direct but never barked. The final sentence is a real request for understanding, with subtle warmth under authority. Natural linked phrasing, varied sentence cadence and small meaningful pauses. Not slow word-by-word reading, radio announcer, audiobook, sermon, customer-service voice or a young man imitating an elder. Ordinary low conversational volume, intelligible consonants and restrained natural breaths. Dry clean studio recording, single speaker, no music, room ambience, effects, echo or other voices. Speak exactly these words, no added commentary or spoken directions:\nSit down, Magnus. Before you make any promises, consider what they will cost. Your choices affect more than you alone. Speak plainly. We need to understand what has changed.",
+  "output_format": "wav",
+  "sample_rate": 48000,
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1
 }
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "provider": "ByteDance / WaveSpeed",
+  "reuse_note": "文档声音ID是项目资产编号，并非服务商持久音色ID。保存原样音与模型参数，复用新台词仍需试听。"
+}
+确认记录：imports/feishu-voices-20261021/confirmation.json
+imports/feishu-voices-20261021/voices-section.json
+imports/feishu-voices-20261021/audio-checks.json
+imports/feishu-voices-20261021/provenance/harland/request.json
+imports/feishu-voices-20261021/provenance/harland/asr.json
+imports/feishu-voices-20261021/provenance/harland/quality.json

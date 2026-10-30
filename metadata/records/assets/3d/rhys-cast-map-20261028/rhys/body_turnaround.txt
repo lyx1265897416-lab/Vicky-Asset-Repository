@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Rhys · 人形 · 全身三视图 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Adult man with deep brown tousled short hair, gray eyes, refined softly tapered angular face, exactly two dark feline ears on the crown in addition to ordinary human ears, one long dark furry tail rooted at the sacrum. Tall slim 8–9-head proportions excluding cat ears, long legs, normal-size elegant feet. White long-sleeve shirt, loose black tie, narrow black choker, washed charcoal wide-leg jeans, silver hip chain and refined black leather shoes. Three aligned full-body front, true side profile and rear views, same figure scale, complete feet and all anatomy visible. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/assets/rhys-turnaround-v2.png
+
+原始生成提示词：
+Create THREE-view full length FRONT, strict LEFT PROFILE facing left, BACK sheet of the EXACT revised Rhys in reference1. This revised proportion replaces bulky shoes/short legs from previous version. Match slender long legs and small refined leather shoes. 8–8.5 heads excluding hair/cat ears, natural head and shoulders. Same white shirt loose tie/choker charcoal jeans silver hipchain. TWO crown cat ears plus normal human ears, one sacral tail. All three full figures same scale and baseline, tall landscape canvas, no cropped feet or ears. No text. Fine semi-realistic 3D white studio.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

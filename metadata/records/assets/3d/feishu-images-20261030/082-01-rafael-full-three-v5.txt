@@ -1,0 +1,25 @@
+﻿Rafael Ortega · 全身三视图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：1774 × 887
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Adult 26-year-old man with warm olive-tan skin, deep brown almond eyes, thick dark brows, straight nose, full defined lips, strong broad jaw with rounded chin, messy wavy black short hair, clean shaven. Dark botanical tattoos on his anatomical right neck and arm. Washed charcoal crewneck T-shirt, short thin silver chain, loose heavily faded blue jeans with worn hems, black shoes. Three full-length views in one horizontal row: front, true side, back. Identical height and clothing, aligned grounded feet, all limbs visible. Premium semi-realistic 2.5D/3D romance-game character rendering, finely modeled face, soft matte skin microtexture, detailed hair strands and fabric, broad soft frontal illumination, pure white studio background, no additional people, logos or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/IF36bzsryo8Qrpx09gqcwM4Bnmd.png
+
+原始生成提示词：
+Use case: identity-preserve / precise compositing. Image 1 is the EXACT APPROVED HEAD/face/skin/hair and rendering master. Image 2 is a finished body layout with intentionally blank head areas, and is the EDIT TARGET. The old wrong heads were removed so no other facial identity is available. Fill only the blank head/neck regions with the person in Image 1. Reproduce Image 1's actual face and material finish as faithfully as compositing the original head, not a new interpretation: relaxed narrow-almond deep brown eyes with realistic upper eyelids, thick natural brows, straight adult nose, broad mature jaw and blunt chin, full soft lips, neutral closed mouth, warm olive-tan skin, subtle natural pores and realistic facial planes, messy black wavy hair with individual thin strands. The source is premium realistic 2.5D/3D otome, not cel/anime or plastic low-detail illustration. No beauty retouch, changed age, new eye/nose/lip design, carved/cellular artifacts or generic game face.
+Keep every part of the filled bodies below the neck exactly as Image 2, including head-to-body scale implied by the existing neck slots, body locations, shoulders, waist, pelvis, long legs, fuller lower jeans, hands, black shoes, right anatomical arm tattoos, cloth folds and shadows. No body reconstruction, compression, enlargement or reframing. Seamlessly match the skin at the neck. Restore the right anatomical neck tattoo from Image 1.
+Output EXACT same 1774x887 2:1 sheet as Image 2. Exactly three full-body figures, existing body positions preserved: LEFT strict front (head centered above its neck near x=330), CENTER true 90-degree right-facing profile (head above neck near x=880), RIGHT rear view (head near x=1430). The three head crowns around y=20, chins/nape around y=130–145, preserve head heights about 115px, matching the body scale and original long-leg proportions.
+The FRONT head is the exact approved portrait head in Image 1 uniformly scaled, with identical face anatomy and realistic rendering. The SIDE is that same head physically rotated, preserving the same straight nose, projected full lips, mature jaw, chin and hair, not a different man. BACK shows that same black wavy hair from rear. Same exact head size in all views, no enlarged heads. Neutral upright head over shoulder, chin level, no forward neck.
+Reproduce the approved face at full available clarity while retaining the body's fixed size. No added portrait inset, fourth figure, text, panels or borders. Complete all three heads and all existing feet; unchanged white studio background.
+
+生成依据：
+imports/feishu-images-20261030/evidence/082.json

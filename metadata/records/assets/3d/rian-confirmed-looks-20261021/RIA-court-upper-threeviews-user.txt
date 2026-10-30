@@ -1,7 +1,21 @@
-Rian · 宫廷白袍 · 上半身三视图 · 用户确认
-同一角色：Rian
-原图 SHA256：c90600b904d65423da3b3bffe6357450d791a25a932ccb40409578fcc5aca5a1
-生成模型与日期：未知（用户附件）
+﻿Rian · 宫廷白袍 · 上半身三视图 · 用户确认
+生图模型：未知（用户上传图片，未提供生成记录）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1514 × 1038
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-21
 
-按成图重建的描述：
+文生图提示词：
 A three-panel upper-body turnaround of adult merfolk prince Rian: left profile, frontal view, right profile. Long layered silver-lavender hair, violet-blue translucent fin ears, pale luminous skin, pearl earrings with icy-blue teardrop gems, blue teardrop pendant. White pearlescent one-shoulder court robe, crescent brooch, pearl chains and blue gemstones. White background, bright clear high-detail romantic otome 2.5D/3D illustration, consistent face proportions across all three panels.
+
+用户附件原样保存，未重绘或压缩。描述为按成图重建，严格保持形象时须使用原图参考。
+
+
+来源：/var/folders/nd/prqg9fln68dchnxcnb349h5h0000gn/T/codex-clipboard-61eb4989-6d27-4472-a29d-191fb2786246.png
+
+未取得原始生成提示词
+未取得
+
+生成依据：
+imports/rian-court-upper-threeviews-20261021/authorization.json

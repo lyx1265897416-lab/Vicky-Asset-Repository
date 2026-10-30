@@ -1,0 +1,27 @@
+﻿User · Rafael 女主 · 全身三视图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-23
+时区：America/Los_Angeles
+图像尺寸：1774 × 887
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Adult woman with pale warm skin, hazel-gray eyes, balanced oval face, softly full pink lips, long honey-beige blonde layered wavy hair with an off-center part. Ivory open cardigan, horizontal charcoal and white striped fitted top, ivory high-waisted wide-leg trousers tied at waist, closed-toe dark shoes. Slender natural adult proportions. Three full-length views in one horizontal row: front, true side, back. Identical height and clothing, aligned grounded feet, all limbs visible. Premium semi-realistic 2.5D/3D romance-game character rendering, finely modeled face, soft matte skin microtexture, detailed hair strands and fabric, broad soft frontal illumination, pure white studio background, no additional people, logos or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/Skmgb9UQCoe5sexiO2MclJ8YnNc.png
+
+原始生成提示词：
+Use case: identity-preserve. Create a corrected full-body orthographic turnaround for User / Heroine.
+INPUT ROLES: Image 1 is the APPROVED FULL-BODY MASTER. It governs ALL body proportions, head size, shoulder width, waist height, hip width, arm length, leg length, knee height, foot size and outfit. Image 2 is only the approved high-detail face identity reference, never a body-proportion reference.
+OUTPUT COMPOSITION: a wide 2:1 canvas containing EXACTLY THREE equal portrait 2:3 panels side by side (three 1024x1536 panels on a 3072x1536 sheet, or the identical aspect ratio). Leave generous horizontal white margins instead of compressing a person to fit. LEFT front, CENTER pure 90-degree right-facing side profile, RIGHT straight back. All three figures have identical hair-top and sole baselines and the SAME body/head scale as Image 1.
+CRITICAL FRONT: reproduce Image 1's existing full-body figure as faithfully as a direct proportional copy; uniform scale only. Do not redraw its torso shorter or broader. Match the original vertical distances from crown to chin, chin to shoulder, waist, crotch, knees and soles. Preserve original tall silhouette, shoulder-to-height and head-to-body ratios exactly. No squashing, no oversized head, no shortened legs, no arbitrary new fashion-model ratio.
+SIDE AND BACK: rotate that same proportion-locked figure, do not invent a new body. Side posture must be balanced upright and relaxed: head centered over neck and shoulders, visible ear vertically above shoulder, ribcage over pelvis, pelvis over planted heels. Gently settle chin to horizontal, draw skull back to neutral. No forward-thrust head, no neck jutting, no hunch, rounded shoulders, slouch, exaggerated arched lower back, chest thrust or locked knees. Arms hang naturally. Long neutral neck, shoulders relaxed. The side and back retain the approved limb length and head size.
+Same adult woman with long ash-blonde wavy hair, gray-blue eyes; square neck cream knit with black horizontal stripes on torso and plain cream sleeves, striped hip sash tied on her anatomical left hip (viewer right front), white wide-leg trousers, black closed-toe flats covering all toes. No visible toes. Preserve approved long-leg proportion, neck length and body shape.
+Premium Vicky realistic otome 2.5D/3D finish and precise face from Image 2, detailed hair, eyes and cloth matching source. Full hair and full shoes visible in all panels, enough top/bottom white margin, same soft studio lighting and white seamless background. Three views only. No labels, typography, logo, border or decorative elements.
+
+生成依据：
+imports/feishu-images-20261030/evidence/088.json

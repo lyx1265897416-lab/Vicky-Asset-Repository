@@ -1,0 +1,25 @@
+﻿Evan Miller · 面部三视图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-23
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Adult man with light cool skin, gray-green eyes, angular long face and defined jaw, swept-back ash-blonde short hair, clean shaven. Fitted black button shirt with sleeves rolled to forearms, black belt and straight black trousers, polished black shoes. Upright reserved bearing. Three equal head-and-shoulder views in one horizontal row: straight front, true left profile, rear. Consistent scale and identity. Premium semi-realistic 2.5D/3D romance-game character rendering, finely modeled face, soft matte skin microtexture, detailed hair strands and fabric, broad soft frontal illumination, pure white studio background, no additional people, logos or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/KuEAbqTQ9olKjgxDH8KcOBnxncc.png
+
+原始生成提示词：
+Use case: identity-preserve / character production reference. Evan Miller. Input Image 1 is the user-approved facial master and SOLE identity/skin/hair/rendering reference.
+ONE landscape character head turnaround sheet, three equally sized columns in one horizontal row. LEFT: exact front head-and-shoulders at eye level, neutral expression. CENTER: true 90 degree side profile facing viewer right, nose silhouette clear, NOT a three-quarter face. RIGHT: true 180 degree rear head-and-shoulders view, back of hair and nape, no face. Same head height and scale aligned horizontally. Enough white space around all hair. Show the exact original facial anatomy, mature proportions and hair silhouette; rotate the same head. No perspective distortion.
+Identity and approved costume: Adult man, ash blonde swept side-part short hair, gray-green eyes, angular refined longish face, subtle lips, clean shaven. Same black open-collar long sleeve shirt tucked into black pleated trousers, black loafers. Approved natural tall body proportions, do not elongate or compress.
+Style: preserve the original premium Vicky otome semi-realistic 2.5D/3D finish, modeled facial planes, precise realistic eye shapes, natural skin detail and fine individual hair strands, rich but soft studio lighting. Do not beautify into a generic face or switch to cel anime, photograph, sketch or low-detail plastic.
+Clean seamless pure white background. Landscape 1536x1024 composition with evenly aligned views, no cut-off hair/feet, no extra panels, no titles or logos, no decorative frames, no accessories/props not in source. Small unobtrusive English view/emotion labels below each view are allowed only; do not put text over the character. Keep the person's exact eye spacing, nose, mouth, jaw, age, complexion and identifying marks.
+
+生成依据：
+imports/feishu-images-20261030/evidence/099.json

@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Mochi · 三花猫 · 面部身份锚 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：1159 × 1358
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+One fluffy adult calico domestic cat, rounded softly flattened face, green eyes, pink nose, white muzzle chest and paws, distinct black orange and white patches. Natural feline anatomy, four paws, one fluffy tail, no clothes or human features. Preserve the patch map in the supplied confirmed identity reference. One front eye-level identity close-up, whole head visible, neutral expression, clear eyes and face geometry. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/assets/mochi-face.png
+
+原始生成提示词：
+Mochi, exactly this round flat-faced longhaired calico domestic cat with pale green eyes, white muzzle/chest/paws, orange/black asymmetric patches, fluffy tail. Preserve patch locations when rotating. No collar, no anthropomorphism. ONE single perfectly front facing head-and-upper-shoulders identity anchor portrait, neutral expression, centered level eyes, full hair and ears included, no perspective distortion, plain white background.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

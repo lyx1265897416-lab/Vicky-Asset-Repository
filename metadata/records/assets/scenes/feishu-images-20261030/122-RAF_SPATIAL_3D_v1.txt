@@ -1,0 +1,22 @@
+﻿Rafael 公寓与修车店 · 三维图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Two vertically stacked furnished isometric cutaway models on white: compact warm wood-floor apartment with bedroom kitchen living room balcony, and rectangular industrial motorcycle workshop with green motorcycle tools and red cabinets. Orthographic architectural miniature, coherent walls. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/M7KHbafwHozZeOx8OFScPJDUnyb.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: RAF_SPATIAL_3D, a polished production reference image for a contemporary romance game, vertical 9:16 canvas. Create TWO separate highly detailed isometric cutaway dioramas stacked vertically with generous white negative space, no text, no letters, no labels, no people. Upper diorama: a modest renovated old coastal-city apartment, realistic adult roommates' home, two separate private bedrooms at rear joined by a clear small corridor to an open shared kitchen/living area in front, entry nook with key bowl at front-left, balcony across the front/right of living room. Rafael bedroom rear-left: queen bed headboard against rear wall, broad window on left exterior wall, bedside table on bed's right side, door at front-right with unobstructed passage alongside bed. Other private bedroom rear-right, closed room only minimally furnished. Shared area: compact pale-sage kitchen on right wall, dark graphite coffee machine on counter, warm oak table, oatmeal sofa on left, floor-to-ceiling balcony doorway at front-right, toolbox tucked in balcony corner. Warm oak, ivory plaster, charcoal textiles, sage ceramic accents, everyday lived-in clean, no luxury mansion. Lower diorama: small independent vintage-motorcycle repair workshop in old industrial unit, rectangular ground-floor space, large roller entrance front-left, modest glass reception door front-right, reception desk right-front, tool pegboard along rear wall, red hydraulic motorcycle lift center-left with one deep forest-green vintage road motorcycle and aged cognac-brown leather saddle, metal workbench rear-right, compact tool cabinet near rear wall, clear central walking/service aisle; legally equipped street motorcycle not racing machine. Desaturated brick, grey concrete, blackened steel, small forest-green accents. Both complete distinct structures on clean white studio background. Premium otome 2.5D/3D art direction: believable materials, restrained soft rendering, cinematic subtle light, smooth broad highlights, fine coherent textures, no heavy outlines, no anime flatness, no photogrammetry grit. Physically clear doors and circulation, all furniture supported, not dollhouse mini-toys. No captions, typography, dimensions, arrows or decorative frames.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/122.json

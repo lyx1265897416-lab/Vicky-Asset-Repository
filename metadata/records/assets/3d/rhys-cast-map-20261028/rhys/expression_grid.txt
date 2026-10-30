@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Rhys · 人形 · 九宫格表情 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：1222 × 1287
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Adult man with deep brown tousled short hair, gray eyes, refined softly tapered angular face, exactly two dark feline ears on the crown in addition to ordinary human ears, one long dark furry tail rooted at the sacrum. Tall slim 8–9-head proportions excluding cat ears, long legs, normal-size elegant feet. White long-sleeve shirt, loose black tie, narrow black choker, washed charcoal wide-leg jeans, silver hip chain and refined black leather shoes. Nine equal head closeups in a3x3 grid of natural neutral, smiling, concerned, surprised, listening, speaking and related restrained emotions, exact same identity in every cell. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/assets/rhys-expressions.png
+
+原始生成提示词：
+Rhys, same deep brown hair, gray eyes, exact TWO cat ears on crown PLUS human ears. White shirt, loose black tie and black choker as image2. Slim 8.5 head proportions, one sacral dark tail. Ears all fully visible. ONE 3x3 nine-panel expression sheet, same front-facing head-and-shoulders scale and identity, complete head/ears within each tile. Natural nuanced distinct expressions: neutral, small smile, amused, skeptical, concerned, surprised, annoyed, sad, tender. No cartoon exaggeration.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

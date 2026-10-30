@@ -1,10 +1,22 @@
-Rian · 人鱼形态 · 全身三视图
-同一角色：Rian（sea.rian）
-原图 SHA256：57be757f4e2534a5c3caf19ff2ef3df376338af0f056d1f683f42b3cb17c1174
-生成日期：未核实
+﻿Rian · 人鱼形态 · 全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-21
 
-重建描述：
+文生图提示词：
 Adult male merfolk prince Rian, long silver-lavender hair, elegant slender face and blue-purple fin ears. Front, side and rear merfolk full-body views. Broad pelvis transitioning into one long silver-lavender scaled tail and translucent fins, white one-shoulder drapery, pearl and blue gemstone jewelry. Bright, clear premium romantic otome 2.5D/3D fantasy rendering; soft luminous skin, fine hair strands, consistent proportions and pale silver-lavender palette. Preserve the approved Rian identity. No text or watermark.
 
-项目提示词：
+原图直接归档，未重绘或压缩。文字为独立描述重建；严格锁定形象时同时使用原图参考。
+
+
+来源：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/images/RIA-sea.png
+
+项目保留的生成提示词（可能依赖参考图）
 Edit this same Rian sea form three-view sheet. Primary change requested: WIDER hips and WIDER fish tail. Keep full vertical length and head-to-waist : waist-to-tailtip approximately3:7. Preserve head face slim male chest arms long silver-lavender hair fin ears pearl-drop earrings and left shoulder mantle. Widen pelvic transition and upper scaly tail roughly20–25% in FRONT and BACK, give a strong gracefully broad hip line with smooth male lower abdomen-to-fishtail transition, not pinched pencil pelvis. Middle tail retains visibly more width and substantial muscular aquatic volume, taper slowly and continuously to narrow caudal peduncle. Widen fan fluke moderately15%, keep elegant translucency. SIDE VIEW must gain plausible round depth in pelvis and upper tail and preserve side-on narrow fluke. Not female hourglass anatomy, not bulky human thighs, no legs. Increase spacing between figures if necessary so widened tail doesn't overlap adjacent figure. Same neutral pale bluegray background and polished dimensional 3D otome rendering; preserve original full lengths and full tail tips in frame. Only FRONT SIDE BACK labels.
+
+生成依据：
+imports/rian-confirmed-looks-20261021/manifest.json
+imports/rian-confirmed-looks-20261021/RIA-sea-v09.txt

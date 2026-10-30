@@ -1,0 +1,22 @@
+﻿Rafael 公寓与修车店 · 多角度 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Six-panel architectural environment reference: two compact green-duvet bedroom views top, two sunlit cream apartment living kitchen views middle, two industrial motorcycle workshop views bottom. Consistent room layouts, no people. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/NwgZbLkeioVSD2xMloqcodAknLc.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: multi-angle spatial reference board, portrait 9:16, premium realistic otome 2.5D/3D rendering. Input image 1 is the overall apartment/workshop geometry master; input image 2 is Rafael bedroom identity/material continuity; input image 3 is workshop identity/material continuity. Create a clean TWO COLUMNS by THREE ROWS contact sheet of six distinct human-eye-level rendered views, separated by narrow white gutters, no labels. Row 1: two opposing views of the SAME bedroom, one toward wooden headboard and left black-framed window/ivory curtains, other back toward front-right doorway/clear bedside passage. Preserve ivory/gray linen, olive throw, right wooden bedside table with water glass and screen-down phone. Row 2: two opposing views of SAME shared living-kitchen, sofa left, sage kitchen right, oak dining table, glazed balcony with red toolbox at balcony right; view toward balcony and reverse toward central hall/two separate rear bedroom doors. Row 3: SAME brick workshop viewed from roller entrance toward black rear tool wall with green cabinets and forest-green motorcycle on red lift, and reverse view toward front roller entrance and front-right glass door/reception counter. Keep each room coherent in mirrored viewpoints, no arbitrary rearrangement of doors, windows or furniture. Soft warm natural light, sharp material detail, no humans, text, logos, footer, country/address cues.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/120.json

@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · June · 杏桃短波波 · 角色主图 · 用户确认
+生图模型：历史素材（具体生成模型未核实）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Adult woman with an apricot honey-blonde chin-length softly waved bob, gray-blue eyes, ivory flower hairclip on her own left, delicate balanced adult face and slender 7–8-head proportions. Brown leather jacket over ivory blouse, small oval pendant. Warm restrained friendly expression. Single clean standalone character main portrait, unobstructed identity and outfit, white studio background. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/refs/2-1-0.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

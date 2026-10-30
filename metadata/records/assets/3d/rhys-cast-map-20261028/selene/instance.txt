@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Selene · 退誓执行者 · 角色主图 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Adult woman with composed angular elegant face, golden eyes, long ash-silver hair in a half-up braided style. Black ceremonial floor-length gown with intricate restrained gold embroidery and high standing collar, dark shoes. Slender mature 7–8-head proportions, poised formal bearing, no animal ears or tail. This is the black-cat-boss Selene, not Selene Arkwright of the Magnus story. Single clean standalone character main portrait, unobstructed identity and outfit, white studio background. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/assets/selene-main.png
+
+原始生成提示词：
+Selene, long ash silver half-up braided hair, amber gold eyes and dignified adult woman face exactly image1. Same black antique gold embroidered high collar ceremonial robe with structured shoulders and waistbelt as image2, same cut and embroidery. Tall 7.75 heads, human ears only. ONE single three-quarter waist-up hero portrait, relaxed professional demeanor, looking slightly beside camera; no hands in foreground.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

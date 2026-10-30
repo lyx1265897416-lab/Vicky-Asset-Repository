@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Vael · 王庭使者 · 头部多角度 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Adult tall slim man with pale skin, angular refined face, golden eyes, silver-gray long hair tied in a low ponytail with loose face-framing strands. Black turtleneck, long charcoal coat, black tailored trousers and dark leather shoes; discreet clipped chest ID badge. Composed reserved expression, long elegant 8–9-head proportions. Fully human form without animal ears or tail; distinct identity from Rhys. Six distinct close head views with front, opposite left and right three-quarter angles, opposite profiles and rear, consistent hair and face scale. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/assets/vael-angles.png
+
+原始生成提示词：
+Vael, angular adult face gold eyes, silver-gray layered hair and long low ponytail, NO cat ears or tail. Long dark charcoal double breasted wool coat black turtleneck black trousers and black leather shoes, left lapel ID badge. Tall slim 8.5 heads. ONE 2x3 contact sheet of SIX head-and-shoulder views: front, left three-quarter, right three-quarter, left profile, right profile, rear head. Exact same head scale and neutral expression, complete hair and ears in each panel. Clean even white gutters.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

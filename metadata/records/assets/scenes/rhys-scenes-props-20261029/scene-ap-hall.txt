@@ -1,0 +1,25 @@
+﻿黑猫剧场景道具 · 公寓 AP · 入户与走廊 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-29
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-29
+
+文生图提示词：
+View north through one partly open south entrance from enclosed communal corridor into apartment. West kitchen left, blue sofa east right, window north. Single oak coffee table with thin top and four slim legs west of sofa. West counter sink south nearer entrance, single induction cooktop farther north toward refrigerator. Inward opening entrance hinges west. No outdoor street. Portrait high-resolution asset for ONE NIGHT NINE LIVES, refined semi-realistic 3D romance-drama rendering, softly stylized physically believable forms, clear detail, soft balanced lighting and clean midtones. Restrained ivory, sage and wood palette; no muddy dark cast, oily glare, people, animals, hands, captions, UI or watermarks. Correct perspective, grounded objects and coherent scale. 
+
+独立提示词按最终选用图及修订要求重建；原始参考图提示词和后续修订链另存。严格空间一致性须结合已关联场景设计资料与原图，未宣称纯文字可精确复现。
+
+
+来源：/Users/vicky/Interactive storyline/output/rhys-scenes-props-20261029/assets/scene-ap-hall.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/rhys-scenes-props-20261029/authorization.json
+imports/rhys-scenes-props-20261029/evidence/manifest.json
+imports/rhys-scenes-props-20261029/evidence/generation-sources.json
+imports/rhys-scenes-props-20261029/evidence/records/fixed1.json
+imports/rhys-scenes-props-20261029/evidence/records/fixed2.json

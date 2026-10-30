@@ -1,0 +1,22 @@
+﻿Rafael · 工作工具与工单 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+White-background mechanic prop reference board: large red wheeled tool chest and small red toolbox, steel spanners sockets and screwdriver, dark chain sprocket, rag, plain clipboard with work-order sheet and leather work gloves. Detailed industrial materials. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/QerCbTUYToxWMDxbjlycV0bfnBe.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: vertical 9:16 isolated prop design board for a polished otome 2.5D/3D story content package. Premium realistic 3D catalog rendering with excellent materials, soft studio light and delicate contact shadows, pure white background. Objects have consistent believable scale within each grouping, plenty of separation, complete silhouettes, no cut-off edges. No people, hands, human reflections, labels, titles, footer, logos, watermarks, brands, readable personal information or gibberish writing. Input image 1 is existing workshop identity/material reference. Neatly compose a motorcycle mechanic's work props board in three separated groups. TOP: same red powder-coated metal rolling tool chest with several drawers, one slightly open with neatly ordered sockets; adjacent smaller closed portable red metal toolbox with carry handle, used slight honest wear. MIDDLE: believable steel open-end/box wrenches, socket ratchet with socket row, digital caliper with blank/off display, small motorcycle brake component and clean work rag, evenly spaced without overlapping confusingly. BOTTOM: one plain tan clipboard holding an appointment/inspection work-order sheet represented by clean grey empty grid lines and a few checkboxes only, no readable words/customer details; beside a plain pencil and a small pair of workshop protective gloves. Crisp steel/rubber/canvas textures, realistic tool construction. No unsafe instructions, oil spills, weapons, face illustration, logos, readable brands or numbers.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/126.json

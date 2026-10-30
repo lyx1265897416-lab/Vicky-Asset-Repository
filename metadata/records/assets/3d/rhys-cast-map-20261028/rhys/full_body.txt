@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Rhys · 人形 · 单人全身照 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：977 × 1609
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Adult man with deep brown tousled short hair, gray eyes, refined softly tapered angular face, exactly two dark feline ears on the crown in addition to ordinary human ears, one long dark furry tail rooted at the sacrum. Tall slim 8–9-head proportions excluding cat ears, long legs, normal-size elegant feet. White long-sleeve shirt, loose black tie, narrow black choker, washed charcoal wide-leg jeans, silver hip chain and refined black leather shoes. One complete head-to-toe or whole animal body neutral standing view, all extremities visible, natural balanced proportions and ground contact. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/third-character-map-20261028/assets/rhys-full-v2.png
+
+原始生成提示词：
+USER REJECTED previous full figure: feet too big, head visually too small, legs appear short. Correct proportion: shoe size shrink ~18%, slim refined leather shoes rather than bulky platform appearance; reduce trouser pooling and excess width around shins, modestly lengthen visible legs ~6%, slightly raise waist/crotch, head +5% and shoulders a little narrower. Keep anatomically coherent 8-8.5 heads excluding ears/hair; normal torso; cannot merely tiny-head stretch. Exact same adult face hair gray eyes, TWO crown cat ears PLUS human ears, ONE tail; same white shirt loose tie choker washed charcoal jeans silver hipchain. White clean background, detailed semi-realistic 3D, sharp quality. One head-to-toe front figure. Match all unmodified identity and outfit.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/cast/manifest.json

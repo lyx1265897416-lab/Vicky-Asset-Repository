@@ -1,0 +1,22 @@
+﻿Rafael · 复古摩托与护具 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+White-background motorcycle design board with two opposite side three-quarter views of same dark forest-green vintage motorcycle with tan leather saddle, chrome engine and black tires; black helmet, charcoal riding jacket, gloves and boots arranged along bottom. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/Rx36bLP9PoJKFmxpX6Rc6GjKnYf.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: vertical 9:16 isolated prop design board for a polished otome 2.5D/3D story content package. Premium realistic 3D catalog rendering with excellent materials, soft studio light and delicate contact shadows, pure white background. Objects have consistent believable scale within each grouping, plenty of separation, complete silhouettes, no cut-off edges. No people, hands, human reflections, labels, titles, footer, logos, watermarks, brands, readable personal information or gibberish writing. Input image 1 is the exact motorcycle identity reference, not an edit target; use SAME deep forest-green fuel tank, matching green fenders, aged cognac brown ribbed leather saddle, black spoked wheels/rubber, silver/chrome engine/exhaust, ordinary mirrors, front round lamp and rear lamp/turn signals. TOP roughly two-thirds: two separated complete views of that SAME vintage motorcycle, front three-quarter and rear opposite three-quarter stacked with clear air between, remove lift and workshop, rest on side stand on white. No readable plate or tank branding. Bike is a client's restoration/service project, no gift bow or automatic road-ready claim. BOTTOM roughly one-third: a separate neatly arranged protective riding gear group: one matte dark full-face helmet with closed visor, charcoal protective motorcycle jacket, pair of gloves, pair of ankle-covering riding boots. No rider/mannequin/body parts. Consistent product render quality, material separation sharp, no text including helmet decals.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/127.json

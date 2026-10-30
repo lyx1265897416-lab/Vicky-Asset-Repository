@@ -1,0 +1,22 @@
+﻿黑猫剧角色地图 · Volunteer · 收容所志愿者 · 头部多角度 · 用户确认
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-10-28
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-28
+
+文生图提示词：
+Kind mature male shelter volunteer about45–50, hazel-brown eyes, softly angular face, short wavy brown hair with silver temples and light salt-and-pepper stubble. Subtle age lines. Navy hip-length hooded waterproof jacket, olive rib-knit crewneck sweater, khaki cargo trousers tucked into slim dark-gray mid-calf rubber work boots, navy lanyard and white paw-pictogram badge. Balanced about8-head mature human proportions, slightly tired trustworthy presence. No animal ears or tail; distinct from Vael. Six distinct close head views with front, opposite left and right three-quarter angles, opposite profiles and rear, consistent hair and face scale. Clean bright neutral white studio lighting and background, fine semi-realistic high-quality 3D character art, delicate skin or fur and fabric detail, consistent anatomical proportions, soft matte surfaces, no oily highlights, no muddy shadows, no extra people, no typography or watermark.
+
+独立文生图描述按已确认图重建；严格同脸需使用身份参考，未验证仅文字再生成相似度。参考图编辑提示词若仅保存局部任务段，明确标为片段，不冒充完整原始提示词。
+
+
+来源：/Users/vicky/Interactive storyline/output/volunteer-character-map-20261028/assets/volunteer-angles.png
+
+原始生成提示词：
+Six head-and-shoulders views in an evenly spaced 3 columns x 2 rows sheet. TOP ROW: frontal (nose centered), three-quarter TURNED TO IMAGE LEFT (nose visibly points left), three-quarter TURNED TO IMAGE RIGHT (nose visibly points right). BOTTOM ROW: full profile nose pointing LEFT EDGE, full profile nose pointing RIGHT EDGE, back of head. All 6 distinct angles. Same mature male identity and clothes. Same light and scale. No captions.
+
+生成依据：
+imports/rhys-cast-map-20261028/authorization.json
+imports/rhys-cast-map-20261028/evidence/volunteer/manifest.json

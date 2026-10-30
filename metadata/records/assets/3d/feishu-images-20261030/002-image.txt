@@ -1,0 +1,21 @@
+﻿Magnus · 视频入口界面参考 · 飞书文档收录
+生图模型：来源图片的生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：814 × 1508
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Vertical midnight romance video landing interface. Dark teal moonlit evergreen forest silhouettes at top, nearly black background. Small gold uppercase title, centered gold serif Midnight Garage heading, small white synopsis, wide rounded gold Watch button, outlined Skip video button below. Restrained cinematic mobile UI. Preserve the described composition and visible materials; detailed high-quality rendering, no extra objects or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/PZTebY682ogJMpxFIyBcCl45nZe.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/feishu-images-20261030/evidence/002.json

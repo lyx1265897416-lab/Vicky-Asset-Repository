@@ -1,0 +1,21 @@
+﻿社区超市店员 · 主图 · 飞书文档收录
+生图模型：来源图片的生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：825 × 1100
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Friendly mature adult female grocery clerk with light skin, brown eyes, brown hair tied in low loose bun, cream rolled-sleeve shirt and sage green apron, smiling in small neighborhood grocery with fresh produce wooden shelves and warm window daylight, realistic photographic portrait. Preserve the described composition and visible materials; detailed high-quality rendering, no extra objects or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/VGg4bjEuFoVp7gxo2YncRAwDnIf.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/feishu-images-20261030/evidence/300.json

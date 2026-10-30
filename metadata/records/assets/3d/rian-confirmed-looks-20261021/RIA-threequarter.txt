@@ -1,10 +1,22 @@
-Rian · 宫廷白袍 · 侧脸与配饰细节
-同一角色：Rian（sea.rian）
-原图 SHA256：535fb5daada02cd5b47869f628ef6fa54a085e9cf0aa9da51575872f7e78e879
-生成日期：未核实
+﻿Rian · 宫廷白袍 · 侧脸与配饰细节
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-21
 
-重建描述：
+文生图提示词：
 Adult male merfolk prince Rian, long silver-lavender hair, elegant slender face and blue-purple fin ears. Three-quarter portrait showing court robe shoulder clasp and pearl earrings ending in translucent pale-blue drops. Bright, clear premium romantic otome 2.5D/3D fantasy rendering; soft luminous skin, fine hair strands, consistent proportions and pale silver-lavender palette. Preserve the approved Rian identity. No text or watermark.
 
-项目提示词：
+原图直接归档，未重绘或压缩。文字为独立描述重建；严格锁定形象时同时使用原图参考。
+
+
+来源：/Users/vicky/Interactive storyline/projects/the-sea-princes-almost-bride/角色设计/角色资产地图-v8-20260920/images/RIA-threequarter.png
+
+项目保留的生成提示词（可能依赖参考图）
 Create ONE large head-and-upper-shoulders close-up of the SAME Rian from image1, age23 male otome character. Turn head35 degrees toward viewer left, eye-level camera and no head tilt, looking gently just left of camera. Match image1 narrow graceful face and flowing contour, BUT slightly narrower softer cheekbone on VIEWER RIGHT next to visible ear: cheekbone barely projects, cheek-to-jaw outline is one smooth continuous taper, no angular bulging zygoma, no square masseter or stretched wide midface. Lean elegant adult face, preserve natural masculine jaw with softly tapered chin, expressive almond blue-gray eyes, silver lavender fringe and longhair, translucent fin ears. Ear jewels two white pearls then long ice-blue drop exact from image2. Natural relaxed closed lips. Same polished 3D modeled otome game CG as reference screenshot, sculptural planes soft, NOT flat anime and not realistic photo, not overlarge doll eyes. Plain pale blue-gray background, symmetrical soft studio light. Single portrait no layout and no lettering. Narrower cheek silhouette is the primary change. Do not make long pointy nose or gaunt cheeks.
+
+生成依据：
+imports/rian-confirmed-looks-20261021/manifest.json
+imports/rian-confirmed-looks-20261021/RIA-threequarter.txt

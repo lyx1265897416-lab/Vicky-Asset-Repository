@@ -1,0 +1,22 @@
+﻿Rafael 沿海路线 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-24
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Sunlit curving stone-paved coastal road, stone parapet and wooden bench, blue ocean to left, green trees, hazy headland and distant seaside village, peaceful late-afternoon warm light. Detailed realistic 3D environment/prop production reference, soft believable light, neutral color, sharp materials, no people, captions or watermarks.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/IHinbs4tOoXsnmxX0jKc2ihinNh.png
+
+原始生成提示词：
+Use case: stylized-concept. Asset type: polished story environment for an otome 2.5D/3D character content package. Vertical portrait 9:16 image. Premium cinematic realistic 3D rendering, beautiful restrained textures, physically coherent room geometry, crisp details, soft natural lighting. No people, silhouettes, body parts, human reflections, text, titles, captions, logos, watermark or bottom lettering. No identifiable country, real city, brand or street address. Single continuous full-frame location concept of an unnamed modern coastal city's quiet seafront route as a POSSIBLE future date location, not an event already happening. Human eye-level view from a small coastal overlook beside a gentle two-way paved coastal road curving along sea, safe simple guardrail and pedestrian path, low scrubby coastal greenery, calm muted blue sea and distant coastline. Soft clear morning/late afternoon light, tranquil inviting ordinary place, warm stone and weathered metal. Include a small simple bench only if composition benefits. No people, vehicles, motorcycles, racing, romantic decorations, luxury resort, country-specific road signs, address or recognizable landmark. Premium otome 3D environment quality. Natural plausible road and pedestrian separation.
+
+
+生成依据：
+imports/feishu-images-20261030/evidence/119.json

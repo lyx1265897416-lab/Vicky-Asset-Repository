@@ -1,0 +1,21 @@
+﻿User · Rafael 女主 · 角色主图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-22
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Adult woman with pale warm skin, hazel-gray eyes, balanced oval face, softly full pink lips, long honey-beige blonde layered wavy hair with an off-center part. Ivory open cardigan, horizontal charcoal and white striped fitted top, ivory high-waisted wide-leg trousers tied at waist, closed-toe dark shoes. Slender natural adult proportions. Single front-facing eye-level chest-up portrait with complete hair and shoulders visible. Premium semi-realistic 2.5D/3D romance-game character rendering, finely modeled face, soft matte skin microtexture, detailed hair strands and fabric, broad soft frontal illumination, pure white studio background, no additional people, logos or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/ZHNGbop0uojFzIxuWOrcwhjynkc.png
+
+原始生成提示词：
+Vicky premium otome semi-realistic 2.5D/3D character art, softly modeled adult face, fine hair, natural skin microtexture, soft broad neutral studio light, pure white background. No photograph, no cartoon outlines, no text, no watermark, ONE person. Strict straight front, eye-level face: level pupils and brows, nose centered, both cheeks/ears equally visible, zero head yaw, zero roll, neutral pitch. Head's centerline perfectly vertical over sternum, mouth corners level, shoulders level. No tilted head, no three-quarter turn, no chin lift, gaze straight at viewer. Identity-preserving subtle face edit of image1. SAME adult Western woman, ash-blonde long loose wavy hair, bluegray eyes, light beige skin, same striped square-neck knit top and cream sleeves. User asks face just a LITTLE shorter: reduce vertical face length about 4–5%, mainly a subtly shorter lower midface and chin, retain same nose, eye shape, lip shape, adult cheekbones and recognizable identity. Do not widen the face much or turn into round childlike doll. Fine natural facial geometry with intact adult jaw. Portrait full hair to upper chest with both shoulders visible, same white studio and soft material finish. Relaxed dropped shoulders and naturally open neck space, no shrug.
+
+生成依据：
+imports/feishu-images-20261030/evidence/085.json

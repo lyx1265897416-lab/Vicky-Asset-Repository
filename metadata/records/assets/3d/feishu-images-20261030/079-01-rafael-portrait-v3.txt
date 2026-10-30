@@ -1,0 +1,21 @@
+﻿Rafael Ortega · 角色主图 · 飞书文档收录
+生图模型：内置 ImageGen（具体版本未披露）
+生成日期：2026-10-22
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-10-30
+
+文生图提示词：
+Adult 26-year-old man with warm olive-tan skin, deep brown almond eyes, thick dark brows, straight nose, full defined lips, strong broad jaw with rounded chin, messy wavy black short hair, clean shaven. Dark botanical tattoos on his anatomical right neck and arm. Washed charcoal crewneck T-shirt, short thin silver chain, loose heavily faded blue jeans with worn hems, black shoes. Single front-facing eye-level chest-up portrait with complete hair and shoulders visible. Premium semi-realistic 2.5D/3D romance-game character rendering, finely modeled face, soft matte skin microtexture, detailed hair strands and fabric, broad soft frontal illumination, pure white studio background, no additional people, logos or watermark.
+
+按文档成图重建的独立文生图描述；原始提示词有可靠同哈希记录时另存。未验证纯文字重生成一致性，严格同脸请结合原图。界面截图/视频帧的描述不冒充原始生图提示词。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/feishu-images-20261030/originals/DQfnbkRDxodJfgxFbz8ckgOcnui.png
+
+原始生成提示词：
+Use case: stylized-concept / character approval. ONE adult character, upper-chest-up portrait on seamless pure white. Vicky premium otome 2.5D/semi-realistic 3D game character render, detailed modeled facial planes, subtle skin microtexture and subsurface scattering, fine hair strands, matte fabric, soft broad frontal studio lighting. No photograph, no cartoon outlines, no doll-like wax. No text, watermark, props, collage. CRITICAL: strict front view like a straight passport portrait. Camera at pupils, horizontal optical axis; face coronal plane parallel to image plane. Zero yaw/roll; neutral head pitch, chin gently settled, relaxed neck, eyes looking straight ahead. No raised chin, no low angle, no head tilt. Both ears level and equal cheek visibility; natural small nostril visibility only. Full hair and both shoulders in frame, generous top margin. IDENTITY-PRESERVING EDIT of image1. The reference chin is raised and camera too low: reconstruct exactly the SAME Rafael face from true eye-level instead. Lower chin angle slightly until midface is square to camera, NOT head bowed. Maintain 26-year-old warm olive-tan skin, dark-brown eyes, strong eyebrows, straight nose, full lips, strong jaw, tousled short wavy black hair, no beard. Keep charcoal crewneck T-shirt, thin silver chain, same viewer-left neck tattoo and visible same-side arm tattoo. Change only the camera/head geometry, retain his recognizable identity and 3D finish.
+
+生成依据：
+imports/feishu-images-20261030/evidence/079.json

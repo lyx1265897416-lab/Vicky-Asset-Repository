@@ -1,99 +1,52 @@
 ﻿Luca Marlowe · 文档角色音 V2
-文档来源：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnftToyVDdKyWaLDe6EyRanf
-保留文档原始试听及完整表演节奏。
+项目：Magnus Thorne
+角色：Luca Marlowe
+年龄设计：32岁（角色目标）
+身份用途：剧集角色
+音色标签：温暖清晰的中低男声，利落可靠；自然连读与轻重音，前段简洁汇报，后段温和安抚。
+模型：bytedance/seed-audio-1.0
+入库依据：用户本次明确要求将文档中的音色加入音色库。本条为文档现行 V2 附件，按原字节入库；保留文档历史待试听备注，不冒称已完成独立主观审听。
+原始样音：https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnftToyVDdKyWaLDe6EyRanf
+试听/下载文件SHA256：566191abebc0afdd561118613cbf87deaba497666646c6b5cfb3afc59b60bb85
+原始音频（保留）：assets/voices/magnus-doc-20261021/VO_LUCA_English_V2.mp3
+原始SHA256：566191abebc0afdd561118613cbf87deaba497666646c6b5cfb3afc59b60bb85
+播放规则：保留用户选定的试听文件；不再裁剪停顿或呼吸
+实测响度：-21.11 LUFS；真实峰值：0.72 dBTP
+响度处理记录：metadata/voice-loudness/magnus-doc-20261021-vo_luca_english_v2-approved.json
+去除开头等待：0秒；处理后有效声音起点：0.17秒
+缩短过长静音：0处；去除结尾空白：0秒；总计去除：0秒
+当前试听时长：15.88秒
+
+试听台词：
+The elevator is clear, sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything, just call. I'll handle it.
+
+声音描述：
+Generate a clean natural acted dialogue recording in native General American English, one original fictional male voice only. Luca Marlowe, age32, an intelligent capable executive assistant speaking quietly to someone two feet away, not addressing an audience. Attractive warm medium-low male voice with relaxed vocal placement, light natural grain and conversational brightness. Not an exaggerated deep bass. He has just checked the corridor and is reassuring his boss. First sentence is a quick matter-of-fact update; connect it naturally to the next sentence. Let unstressed words reduce naturally, vary phrase length, use tiny spontaneous pauses for thought rather than identical pauses after every sentence. The final two sentences have understated reassuring warmth and a slight smile in the voice; 'I'll handle it' is easy confidence, not a slogan. Ordinary indoor speaking volume, not whispering or seductive breathiness. Believable off-the-cuff screen acting, never customer service, announcer, audiobook, robotic evenly stressed enunciation, rigid metronomic pacing or theatrical gravitas. Short natural breaths only where a real speaker needs them; no exaggerated sighs, laughs, filler words or added sounds. Dry studio voice, no music, environment, reverb or other people. Speak the following English dialogue exactly, with no directions spoken aloud:
+The elevator is clear, sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything, just call. I'll handle it.
+
+自动台词检查：
+沿用与源文件哈希匹配的原制作自动转写；不代替本次主观听审。
+The elevator is clear sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything just call. I'll handle it.
+
+已有生成参数：
 {
-  "id": "magnus-doc-20261021-vo_luca_english_v2",
-  "name": "Luca Marlowe · 文档角色音 V2",
-  "project": "Magnus Thorne",
-  "character": "Luca Marlowe",
-  "character_id": "human.luca-magnus-doc-20261019",
-  "gender": "male",
-  "language": "en",
-  "accent_direction": "通用美式英语（制作目标，未重新主观审听）",
-  "age_group": "青年",
-  "age_range": "32岁（角色目标）",
-  "role_group": "剧集角色",
-  "timbre": "温暖清晰的中低男声，利落可靠；自然连读与轻重音，前段简洁汇报，后段温和安抚。",
-  "tags": [
-    "Magnus Thorne",
-    "文档音色",
-    "V2",
-    "飞书导入20261021"
-  ],
-  "path": "assets/voices/magnus-doc-20261021/VO_LUCA_English_V2.mp3",
-  "sha256": "566191abebc0afdd561118613cbf87deaba497666646c6b5cfb3afc59b60bb85",
-  "duration_seconds": 15.88,
-  "source": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnftToyVDdKyWaLDe6EyRanf",
-  "source_url": "https://japy03oxab.feishu.cn/wiki/G4ojwsQrDiK3gikgYHUcv7y8nQc#doxcnftToyVDdKyWaLDe6EyRanf",
-  "text": "The elevator is clear, sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything, just call. I'll handle it.",
-  "direction": "Generate a clean natural acted dialogue recording in native General American English, one original fictional male voice only. Luca Marlowe, age32, an intelligent capable executive assistant speaking quietly to someone two feet away, not addressing an audience. Attractive warm medium-low male voice with relaxed vocal placement, light natural grain and conversational brightness. Not an exaggerated deep bass. He has just checked the corridor and is reassuring his boss. First sentence is a quick matter-of-fact update; connect it naturally to the next sentence. Let unstressed words reduce naturally, vary phrase length, use tiny spontaneous pauses for thought rather than identical pauses after every sentence. The final two sentences have understated reassuring warmth and a slight smile in the voice; 'I'll handle it' is easy confidence, not a slogan. Ordinary indoor speaking volume, not whispering or seductive breathiness. Believable off-the-cuff screen acting, never customer service, announcer, audiobook, robotic evenly stressed enunciation, rigid metronomic pacing or theatrical gravitas. Short natural breaths only where a real speaker needs them; no exaggerated sighs, laughs, filler words or added sounds. Dry studio voice, no music, environment, reverb or other people. Speak the following English dialogue exactly, with no directions spoken aloud:\nThe elevator is clear, sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything, just call. I'll handle it.",
-  "model": "bytedance/seed-audio-1.0",
-  "provider": "ByteDance / WaveSpeed",
-  "parameters": {
-    "prompt": "Generate a clean natural acted dialogue recording in native General American English, one original fictional male voice only. Luca Marlowe, age32, an intelligent capable executive assistant speaking quietly to someone two feet away, not addressing an audience. Attractive warm medium-low male voice with relaxed vocal placement, light natural grain and conversational brightness. Not an exaggerated deep bass. He has just checked the corridor and is reassuring his boss. First sentence is a quick matter-of-fact update; connect it naturally to the next sentence. Let unstressed words reduce naturally, vary phrase length, use tiny spontaneous pauses for thought rather than identical pauses after every sentence. The final two sentences have understated reassuring warmth and a slight smile in the voice; 'I'll handle it' is easy confidence, not a slogan. Ordinary indoor speaking volume, not whispering or seductive breathiness. Believable off-the-cuff screen acting, never customer service, announcer, audiobook, robotic evenly stressed enunciation, rigid metronomic pacing or theatrical gravitas. Short natural breaths only where a real speaker needs them; no exaggerated sighs, laughs, filler words or added sounds. Dry studio voice, no music, environment, reverb or other people. Speak the following English dialogue exactly, with no directions spoken aloud:\nThe elevator is clear, sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything, just call. I'll handle it.",
-    "output_format": "wav",
-    "sample_rate": 48000,
-    "speed": 1,
-    "pitch": 0,
-    "volume": 1
-  },
-  "status": "confirmed",
-  "sample_kind": "original_voice_design",
-  "voice_identity": "project asset ID, not a provider-persistent voice ID",
-  "confirmation": {
-    "kind": "explicit_document_import",
-    "note": "用户本次明确要求将文档中的音色加入音色库。本条为文档现行 V2 附件，按原字节入库；保留文档历史待试听备注，不冒称已完成独立主观审听。"
-  },
-  "confirmation_evidence": "imports/feishu-voices-20261021/confirmation.json",
-  "source_records": [
-    "imports/feishu-voices-20261021/voices-section.json",
-    "imports/feishu-voices-20261021/audio-checks.json",
-    "imports/feishu-voices-20261021/provenance/luca/request.json",
-    "imports/feishu-voices-20261021/provenance/luca/asr.json",
-    "imports/feishu-voices-20261021/provenance/luca/quality.json"
-  ],
-  "document_description": "温暖清晰的中低男声，利落可靠；自然连读与轻重音，前段简洁汇报，后段温和安抚。V2 为重新演绎样音，待试听定版。",
-  "historical_document_status": "待试听定版",
-  "observed_transcript": "The elevator is clear sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything just call. I'll handle it.",
-  "transcript_note": "沿用与源文件哈希匹配的原制作自动转写；不代替本次主观听审。",
-  "verification": {
-    "decode": "passed",
-    "document_bytes_preserved": true,
-    "source_bytes_matched": true,
-    "transcript_exact_words": true,
-    "listening_review": "未重新做主观听审；用户本次授权文档音色入库。"
-  },
-  "approved_playback": {
-    "path": "assets/voices/magnus-doc-20261021/VO_LUCA_English_V2.mp3",
-    "sha256": "566191abebc0afdd561118613cbf87deaba497666646c6b5cfb3afc59b60bb85",
-    "measurement_record": "metadata/voice-loudness/magnus-doc-20261021-vo_luca_english_v2-approved.json"
-  },
-  "reuse_note": "文档声音ID是项目资产编号，并非服务商持久音色ID。保存原样音与模型参数，复用新台词仍需试听。",
-  "imported_on": "2026-10-21",
-  "original_audio": {
-    "path": "assets/voices/magnus-doc-20261021/VO_LUCA_English_V2.mp3",
-    "sha256": "566191abebc0afdd561118613cbf87deaba497666646c6b5cfb3afc59b60bb85"
-  },
-  "normalization": {
-    "target_lufs": -20.0,
-    "measured_lufs": -21.11,
-    "true_peak_dbtp": 0.72,
-    "true_peak_ceiling_dbtp": -2.0,
-    "source_lufs": -21.11,
-    "record": "metadata/voice-loudness/magnus-doc-20261021-vo_luca_english_v2-approved.json",
-    "policy": {
-      "method": "approved_audition_fixed_gain",
-      "preserve_timing": true,
-      "reprocess": false
-    }
-  },
-  "onset_cleanup": {
-    "removed_seconds": 0,
-    "signal_onset_seconds": 0.17,
-    "preroll_seconds": null,
-    "internal_pauses_preserved": true,
-    "long_pauses_shortened": 0,
-    "trailing_removed_seconds": 0,
-    "total_removed_seconds": 0
-  }
+  "prompt": "Generate a clean natural acted dialogue recording in native General American English, one original fictional male voice only. Luca Marlowe, age32, an intelligent capable executive assistant speaking quietly to someone two feet away, not addressing an audience. Attractive warm medium-low male voice with relaxed vocal placement, light natural grain and conversational brightness. Not an exaggerated deep bass. He has just checked the corridor and is reassuring his boss. First sentence is a quick matter-of-fact update; connect it naturally to the next sentence. Let unstressed words reduce naturally, vary phrase length, use tiny spontaneous pauses for thought rather than identical pauses after every sentence. The final two sentences have understated reassuring warmth and a slight smile in the voice; 'I'll handle it' is easy confidence, not a slogan. Ordinary indoor speaking volume, not whispering or seductive breathiness. Believable off-the-cuff screen acting, never customer service, announcer, audiobook, robotic evenly stressed enunciation, rigid metronomic pacing or theatrical gravitas. Short natural breaths only where a real speaker needs them; no exaggerated sighs, laughs, filler words or added sounds. Dry studio voice, no music, environment, reverb or other people. Speak the following English dialogue exactly, with no directions spoken aloud:\nThe elevator is clear, sir. Security is waiting upstairs. I'll stay by the entrance and keep this discreet. If you need anything, just call. I'll handle it.",
+  "output_format": "wav",
+  "sample_rate": 48000,
+  "speed": 1,
+  "pitch": 0,
+  "volume": 1
 }
+
+原始音频保留。试听与下载保留已确认试听版本的原字节、完整停顿与呼吸。参考驱动声线需保留原参考；文字描述不保证精确复现。
+商用许可与复用信息：
+{
+  "provider": "ByteDance / WaveSpeed",
+  "reuse_note": "文档声音ID是项目资产编号，并非服务商持久音色ID。保存原样音与模型参数，复用新台词仍需试听。"
+}
+确认记录：imports/feishu-voices-20261021/confirmation.json
+imports/feishu-voices-20261021/voices-section.json
+imports/feishu-voices-20261021/audio-checks.json
+imports/feishu-voices-20261021/provenance/luca/request.json
+imports/feishu-voices-20261021/provenance/luca/asr.json
+imports/feishu-voices-20261021/provenance/luca/quality.json
