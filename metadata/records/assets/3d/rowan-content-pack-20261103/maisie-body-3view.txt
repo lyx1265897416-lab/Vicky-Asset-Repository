@@ -1,0 +1,23 @@
+﻿麦溪 Maisie · 全身三视图 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Premium semi-realistic detailed 2.5D/3D romance-game character art, luminous natural skin shader, fine hair strands and tactile fabric, neutral soft studio lighting, solid white background, no yellow tint, no text, watermark or props. Adult young woman with long warm-brown wavy hair, a thin side braid, green eyes, light freckles, a small golden leaf clip on her left side and matching leaf drop earrings. Cream square-neck puff-sleeve blouse with lace neckline, olive-green embroidered lace-up bodice, flowing ankle-length olive-green skirt and light-brown low-heeled ankle boots. No rings or necklace. Three equal panels of the same full body: straight front, exact side and straight back, identical scale and standing pose, complete head and feet with white margins. Clear garment construction and natural relaxed posture.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/character-assets/maisie-body-3view.png
+
+原始生成提示词：
+Use case: identity-preserve. Production character reference asset for a romantic narrative game. Match the original reference's soft realistic detailed 3D romance-game CG style, luminous natural skin, detailed strands and fabric texture, clean warm color, no yellow tint, no flat anime or cartoon, no photographic style shift. Plain white background, soft even studio illumination, crisp edges. No text, watermark, borders or scenery. Identity and costume continuity are paramount.
+Maisie, adult young woman. Precisely preserve the reference face, very long warm brown wavy hair, green eyes, light freckles, side thin braid and small golden leaf hair clip on HER LEFT (viewer right in front view), matching golden leaf dangling earrings. Cream square-neck puff-sleeved blouse with lace neckline; moss olive green leaf-embroidered lace-up fitted bodice; flowing ankle-length olive green skirt; light brown low-heeled ankle boots. Short nude nails. No rings or necklace. Preserve exact face shape and eye scale, not cartoon exaggeration.
+Input 1 authoritative FACE identity. Input 2 authoritative FULL OUTFIT, body silhouette and garment construction reference: reproduce it faithfully across views. Generate a full-body turnaround sheet in landscape 3:2, exactly THREE figures side by side on a shared baseline: FRONT, true 90-degree SIDE facing image-left, and BACK facing away. Identical height, same clothing, same neutral relaxed posture with arms resting slightly away from body. Complete crown-to-sole figures with safe white margins, no cropped shoes or hair. Consistent hair length, garment hem, boots, material and colors across all three. No props, no text. Nora's apron bow if present stays on her anatomical left front as in fullbody reference; Maisie's hair reaches past waist consistently.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/07.json

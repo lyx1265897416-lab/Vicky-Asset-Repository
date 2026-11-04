@@ -1,0 +1,21 @@
+﻿诺拉 Nora · 身份母版 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Premium semi-realistic detailed 2.5D/3D romance-game character art, luminous natural skin shader, fine hair strands and tactile fabric, neutral soft studio lighting, solid white background, no yellow tint, no text, watermark or props. Adult woman aged 38 with a softly angular oval face, warm hazel almond eyes, short dark-chestnut asymmetrical side-part bob, long sweep on her right and opposite side tucked behind the ear. Ivory linen band-collar button blouse, sage gray-olive linen bib apron with a plain pocket and waist ties, warm-beige straight linen trousers and simple brown leather flat ankle boots. No jewelry.Centered head-and-shoulders portrait to mid chest, soft friendly restrained expression, no hands.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Interactive storyline/projects/meet-me-again-deepspace-20261013/storyboard-images-v1/characters/nora-style-v2.png
+
+原始生成提示词：
+Create one ORIGINAL FEMALE SUPPORTING CHARACTER for the exact high-end 2.5D/3D romance-game visual universe of the provided male character reference. Reference is RENDERING STYLE ONLY. Nora is a 38-year-old friendly competent bakery owner: short dark chestnut side-part bob tucked behind one ear, hazel almond eyes, soft cheekbones, clean refined oval face, warm knowing small smile, cream collarless linen blouse, sage green apron. Explicitly render her as an idealized 3D GAME CHARACTER like Love and Deepspace, not a photographed actor. Use stylized sculpted eyelids and clean elegant larger eyes, simplified smooth facial surfaces, carefully designed facial proportions, softly luminous skin shader, sculpted hair masses with fine separated silky strands, restrained mouth creases, softly volumetric nose, very subtle skin detail. Same level of stylization as reference male. Mature adult presence expressed by calm eyes and composed smile, NOT coarse skin, NOT deep wrinkles or nasolabial folds. Do not masculinize her or copy his face. No live action, no photographic skin, no hyperreal pore pattern, no realistic documentary headshot, no flat anime, no cel outlines, no plastic toy. Plain white background, soft neutral studio light, centered head-and-shoulders portrait to mid-chest, no hands, no full body, no text or collage. Crisp native render.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/15.json

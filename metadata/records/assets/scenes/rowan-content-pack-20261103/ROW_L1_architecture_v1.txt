@@ -1,0 +1,21 @@
+﻿L1-architecture 建筑资料图 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Vertical 9:16 detailed warm natural daylight coastal romance-game CG environment, pale cream limestone, muted sage-green joinery, flowering plants and a distant blue bay. No people, animals or watermarks. A cream-stone cottage stands on the left, an attached sage-framed greenhouse with peaked glass roof on the right, connected through a door in the shared stone wall. The greenhouse contains a long oak table and rear sink; its right glazing faces the sea. In front is a small planted courtyard, central flagstone path and one closed double sage wooden gate between dry-stone posts with daisy pots. A blank hanging wood sign is left of the gate, cobbled lane outside, wisteria overhead and lavender by the wall. The sea and coastal village are distant to the right. Vertical architectural reference sheet with four horizontal drawing bands: street elevation, greenhouse sea-facing elevation, open cottage-connection door embedded in the cream-stone side wall with desk room visible, and longitudinal conceptual section from lane through gate and garden path into greenhouse, arranged left to right. Thin technical cut lines, light sage/stone fills, material strip at bottom, no measurements.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/scene-assets/ROW_L1_architecture_v1.png
+
+原始生成提示词：
+Edit Image 1, the four-band architectural sheet. Image 2 provides plan relationships. Keep top TWO bands, all headings, bottom material strip, canvas dimensions VERTICAL 9:16 and styling unchanged. Correct ONLY the THIRD and FOURTH drawing bands. THIRD 'COTTAGE CONNECTION': show the connecting sage wood door physically EMBEDDED IN THE SOLID CREAM STONE WALL of the cottage (left wall), with door OPEN and cottage desk room visible through it. Do NOT put this connecting door on a glass end wall. Greenhouse glass roof and sea-facing right windows remain, long oak table visible. FOURTH 'LONGITUDINAL SECTION': replace entire picture with a clean side-on orthographic architectural longitudinal cutaway from STREET to GATE to GARDEN PATH to GREENHOUSE, arranged LEFT TO RIGHT. At far left short outside lane, then closed waist-high gate seen edge-on and boundary post, then garden path in middle, then greenhouse lengthwise section on right with gabled glass roof ridge shown side-on, central long oak table seen long-side and rear sink at far right. A simple one-level line for ground, fine black cut-lines, light stone/sage material fills. Omit cottage mass from this section because it lies beside the cut, not in the path. NO gate beside cottage facade. No dimensions, no added labels beyond existing headings. The section is a conceptual drawing, not a second exterior photograph. Keep gate/path/greenhouse connection unambiguous.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/23.json

@@ -1,0 +1,21 @@
+﻿L1-plan 平面图 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Vertical 9:16 detailed warm natural daylight coastal romance-game CG environment, pale cream limestone, muted sage-green joinery, flowering plants and a distant blue bay. No people, animals or watermarks. A cream-stone cottage stands on the left, an attached sage-framed greenhouse with peaked glass roof on the right, connected through a door in the shared stone wall. The greenhouse contains a long oak table and rear sink; its right glazing faces the sea. In front is a small planted courtyard, central flagstone path and one closed double sage wooden gate between dry-stone posts with daisy pots. A blank hanging wood sign is left of the gate, cobbled lane outside, wisteria overhead and lavender by the wall. The sea and coastal village are distant to the right. Strict 90-degree overhead conceptual architectural floor plan on pale ivory, thick flat wall section lines, thin glazing frames, overhead furniture, door swing arcs. Gate is a thin closed double leaf between square post footprints. Labels COTTAGE, GREENHOUSE, GARDEN, GATE, LANE and a rightward SEA VIEW arrow; header COURTYARD / CONCEPT PLAN; footer LAYOUT REFERENCE - NOT TO SCALE. No perspective elevations, dimensions or north arrow.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/scene-assets/ROW_L1_plan_v1.png
+
+原始生成提示词：
+Use case: precise-object-edit. Image 1 is a courtyard layout to convert into a STRICT ARCHITECTURAL FLOOR PLAN; image 2 is the desired orthographic drawing style only, ignore its subject. Preserve image 1's plot layout exactly: cottage left, greenhouse right, connecting doorway, long table, rear sink, front garden, one closed front gate and outside lane at bottom, sea direction right. But change projection to TRUE 90-DEGREE VERTICAL OVERHEAD, with NO visible elevations or tilted objects. Walls drawn as thick flat section lines. Gate must be a thin closed double-leaf line between two square stone post footprints, NOT an upright gate facade. Glazing as thin frame lines. Doors as standard thin plan leaves and swing arcs. Hanging sign as small post footprint, NOT a front-facing signboard. Furniture viewed strictly overhead. Simplify foliage so paths and doorways readable. Change cottage desk props to closed GREEN notebook, blank cream card, BLUE pen, glass and cream phone. No drawn writing. Pale warm ivory background, muted sage and stone material fills, fine dark technical linework with enough texture to relate to source. Vertical 9:16 canvas with full site inside safe margins. Retain concise labels COTTAGE, GREENHOUSE, GARDEN, GATE, LANE. Replace sea blue strip with a right-pointing arrow labeled SEA VIEW, so no water directly abuts site. Header 'COURTYARD / CONCEPT PLAN'. Footer 'LAYOUT REFERENCE - NOT TO SCALE'. No north arrow, no dimensions or invented measurements.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/24.json

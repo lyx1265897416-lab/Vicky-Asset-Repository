@@ -1,0 +1,23 @@
+﻿L6 海边平缓步道 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Vertical 9:16 detailed warm natural daylight coastal romance-game CG environment, pale cream limestone, muted sage-green joinery, flowering plants and a distant blue bay. No people, animals or watermarks. Wide level pale stone coastal footpath curving toward a small cream village, low limestone parapet on the right beside calm blue sea, olive foliage, grasses and white wildflowers left, simple dark lamp, distant headland and small distant sage greenhouse.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/scene-assets/ROW_L6_vertical_v1.png
+
+原始生成提示词：
+Use case: identity-preserve, environment continuity. Output a finished VERTICAL 9:16 portrait scene asset (target 1080x1920), full bleed, no border, no watermark, no people or animals. Warm bright clear coastal morning/daylight, rich natural greens, translucent blue bay, soft realistic high-end romance-game CG with detailed materials matching the input. No heavy orange tint, no gloomy desaturation. Preserve the referenced place's architecture, materials and recognisable details; do not mirror it.
+Input image is existing scene master. Recompose the same coastal footpath into VERTICAL 9:16. Level flagstone path sweeps from foreground towards upper-left village, low stone parapet separating path from calm blue bay on RIGHT, wildflowers and long grasses uphill on LEFT, the same cream stone coastal village with modest tower and green hillside across cove, distant rocky headland, a few tiny moored fishing boats. Clear mild daylight, gentle breeze in grasses only. No stairs, no steep descent, no railings replacing wall, no people. Retain room for two people to walk side-by-side.
+One scene only, vertical 9:16.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/21.json

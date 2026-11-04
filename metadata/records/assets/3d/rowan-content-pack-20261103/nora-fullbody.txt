@@ -1,0 +1,23 @@
+﻿诺拉 Nora · 单人全身照 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Premium semi-realistic detailed 2.5D/3D romance-game character art, luminous natural skin shader, fine hair strands and tactile fabric, neutral soft studio lighting, solid white background, no yellow tint, no text, watermark or props. Adult woman aged 38 with a softly angular oval face, warm hazel almond eyes, short dark-chestnut asymmetrical side-part bob, long sweep on her right and opposite side tucked behind the ear. Ivory linen band-collar button blouse, sage gray-olive linen bib apron with a plain pocket and waist ties, warm-beige straight linen trousers and simple brown leather flat ankle boots. No jewelry. One complete front-view standing figure, crown to boot soles with white margins, neutral expression, relaxed level shoulders and arms by the sides, hands and feet fully visible. Vertical composition.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/character-assets/nora-fullbody.png
+
+原始生成提示词：
+Use case: identity-preserve. Production character reference asset for a romantic narrative game. Match the original reference's soft realistic detailed 3D romance-game CG style, luminous natural skin, detailed strands and fabric texture, clean warm color, no yellow tint, no flat anime or cartoon, no photographic style shift. Plain white background, soft even studio illumination, crisp edges. No text, watermark, borders or scenery. Identity and costume continuity are paramount.
+Nora, adult woman, exact separate identity from the reference: softly angular oval face, warm hazel eyes, short dark brown asymmetrical side-part bob with long sweep on HER RIGHT (viewer left in front view), opposite side tucked behind ear, natural subtle friendly mouth. Keep original age, distinct face and short hair. Ivory linen band-collar button blouse, sage/gray-olive linen bib apron matching reference. Extend practical outfit with a knee-length apron with a plain front pocket and waist ties over straight warm beige linen trousers, simple brown leather flat ankle boots. No additional jewelry or props.
+Input image: identity reference, not an image to collage. Generate a single full-body front-view standing character from crown to boot soles, portrait 2:3 composition, entire body centered with white margins. Relaxed symmetrical neutral stance, arms resting slightly away from torso, both hands fully visible naturally open, feet separated modestly, neutral attentive expression. No objects. Preserve facial likeness closely. No cropped hair, hands, feet.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/10.json

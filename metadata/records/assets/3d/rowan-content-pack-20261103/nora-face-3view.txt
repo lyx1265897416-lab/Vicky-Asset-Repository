@@ -1,0 +1,21 @@
+﻿诺拉 Nora · 面部三视图 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Premium semi-realistic detailed 2.5D/3D romance-game character art, luminous natural skin shader, fine hair strands and tactile fabric, neutral soft studio lighting, solid white background, no yellow tint, no text, watermark or props. Adult woman aged 38 with a softly angular oval face, warm hazel almond eyes, short dark-chestnut asymmetrical side-part bob, long sweep on her right and opposite side tucked behind the ear. Ivory linen band-collar button blouse, sage gray-olive linen bib apron with a plain pocket and waist ties, warm-beige straight linen trousers and simple brown leather flat ankle boots. No jewelry. Three equal panels of the same head arranged left to right: exact 90-degree left-facing profile, straight front and exact 90-degree right-facing profile. Head and upper shoulders, identical scale, complete hair silhouette, neutral expression. White gaps between views.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/character-assets/nora-face-3view.png
+
+原始生成提示词：
+Use case: identity-preserve. Image 1 is the edit target: three-view face sheet. Image 2 is original identity and hair reference. Correct the hair asymmetry in the TWO PROFILE PANELS ONLY. The central frontal portrait is authoritative: long swept fringe is HER RIGHT, ear tucked side is HER LEFT. In the LEFT profile panel nose points image-left and her LEFT cheek is visible: show the neat tucked behind ear side, no long fringe drooping in front of this near eye. In the RIGHT panel nose points image-right and her RIGHT cheek is visible: show the longer sweeping fringe across near temple with hair partly obscuring that ear. Keep the same bob length, face and hair volume. Center front portrait stays entirely unchanged. Keep layout, white background, exact facial identity, three poses, scale, clothing, color and lighting unchanged. Make only the specified local hair/accessory correction. No text.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/11.json

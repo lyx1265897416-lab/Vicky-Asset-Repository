@@ -1,0 +1,23 @@
+﻿L2 温室主厅与长桌 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Vertical 9:16 detailed warm natural daylight coastal romance-game CG environment, pale cream limestone, muted sage-green joinery, flowering plants and a distant blue bay. No people, animals or watermarks. Inside a sage metal-and-glass greenhouse, cottage stone wall left and sea-facing glazing right. A long rustic oak table with a white daisy pitcher and potted plants runs down the center, wooden chairs, nursery shelves and terracotta pots, hanging wisteria, small sage checkout counter and clear flagstone walkways. Show roof and floor.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/scene-assets/ROW_L2_vertical_v1.png
+
+原始生成提示词：
+Use case: identity-preserve, environment continuity. Output a finished VERTICAL 9:16 portrait scene asset (target 1080x1920), full bleed, no border, no watermark, no people or animals. Warm bright clear coastal morning/daylight, rich natural greens, translucent blue bay, soft realistic high-end romance-game CG with detailed materials matching the input. No heavy orange tint, no gloomy desaturation. Preserve the referenced place's architecture, materials and recognisable details; do not mirror it.
+Input image is the existing scene master. Convert the reference environment to a thoughtful vertical cinematic establishing shot, backing the camera slightly if necessary rather than simply losing the room to a crop. Cottage stone wall remains LEFT, sea-facing glazing RIGHT. Pale sage greenhouse mullions and peaked glass roof, central rustic oak long table with white pitcher of daisies and several potted plants, simple wooden chairs, terracotta pots and plants on shelves, wisteria and hanging plants overhead, small sage checkout counter near the entrance on right. Keep clear walkways either side of table, visible roof and flagstone floor. Exactly this place, unoccupied.
+One scene only, NOT a contact sheet. Vertical 9:16 output.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/17.json

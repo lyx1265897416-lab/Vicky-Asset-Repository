@@ -1,0 +1,23 @@
+﻿L3 温室水槽工作角 · Rowan角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-03
+
+文生图提示词：
+Vertical 9:16 detailed warm natural daylight coastal romance-game CG environment, pale cream limestone, muted sage-green joinery, flowering plants and a distant blue bay. No people, animals or watermarks. Potting and wash corner with a white ceramic farmhouse sink and brass tap on a pale stone counter, rustic timber frame below, coiled green hose, towel rail and hooks on cream stone wall left. Central passage through sage glazed doors to the long-table greenhouse, sea glazing on right, terracotta plants and discreet soil bag, clear walkway.
+
+独立文生图描述按已选成图整理；原始编辑提示词另存。未验证纯文字重生成同脸/空间一致性；严格连续性请结合身份母版和原图。空间资料属于概念参考，不是实测建筑资料。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/scene-assets/ROW_L3_vertical_v1.png
+
+原始生成提示词：
+Use case: identity-preserve, environment continuity. Output a finished VERTICAL 9:16 portrait scene asset (target 1080x1920), full bleed, no border, no watermark, no people or animals. Warm bright clear coastal morning/daylight, rich natural greens, translucent blue bay, soft realistic high-end romance-game CG with detailed materials matching the input. No heavy orange tint, no gloomy desaturation. Preserve the referenced place's architecture, materials and recognisable details; do not mirror it.
+Input image is the existing scene master. Recompose this exact potting and wash corner into a VERTICAL 9:16 scene showing the sink work area clearly at left, center passage through sage-framed glass door to greenhouse long table, and sea-facing glazing on right. Large single white ceramic farmhouse sink with brass faucet on a rough pale stone countertop, rustic timber frame underneath, coiled green hose, towel rail and plain hooks on left cream stone wall, terracotta pots and a discreet soil sack below counter, wisteria overhead. Keep sink and hose functional and visible, full walkway clear. Preserve greenhouse materials and sea on right. No people.
+One scene only, NOT a contact sheet. Vertical 9:16 output.
+
+生成依据：
+imports/rowan-content-pack-20261103/evidence/18.json
