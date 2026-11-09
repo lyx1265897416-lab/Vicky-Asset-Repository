@@ -1,0 +1,22 @@
+﻿Kellan Brooks · 单人胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22（母图生成日期）
+时区：America/Los_Angeles
+图像尺寸：454 × 563
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-08
+
+文生图提示词：
+Create a single-character instance asset for Kellan Brooks. Kellan Brooks, youthful male with tousled ash-brown hair, olive-green eyes, natural skin and gray hoodie / navy varsity jacket. Preserve this exact established character identity, clothing, natural facial proportions and realistic photographic texture. No other characters. Bright soft daylight. Show one chest-up portrait.
+
+本文件为已确认母图的单角色裁切。下方文字是按单角色整理的重建提示词，原始提示词属于母图。
+
+2026-11-08 按用户要求从已确认组图无损拆出单角色区域；未重新生图、未改脸。裁切坐标与像素一致性验证见依据文件。
+来源：assets/realistic/the-ninth-inning/full-cast-current.png
+
+母图原始生成提示词（非本次裁切指令）
+Precise edit: in the supplied six-person cast board, change only the bottom-center Mara portrait. Use the supplied Mara orthographic sheet as the exact identity reference: youthful 18-year-old girl, warm light olive-beige skin, hazel-green eyes, thicker dark brows, prominent cheekbones, fuller natural lips, softly oval-square jaw, long voluminous ash-brown wavy center-parted hair, no glasses. Keep the faded brick-red raincoat and six-cell composition. Kellan, Aria, Yuna, Theo and June must remain unchanged. Bright soft daylight, natural skin texture, no extra text or logos.
+
+生成依据：
+metadata/evidence/exec-ee0bf829-4977-4583-bfd0-260dab554814.json
+verification/ninth-inning-solo-20261108/kellan-brooks--instance.json

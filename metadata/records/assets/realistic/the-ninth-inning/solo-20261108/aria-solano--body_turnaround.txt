@@ -1,0 +1,22 @@
+﻿Aria Solano · 全身三视图 · 开场造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22（母图生成日期）
+时区：America/Los_Angeles
+图像尺寸：1024 × 766
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-08
+
+文生图提示词：
+Create a single-character body_turnaround asset for Aria Solano. Aria, a 17-year-old girl with fair lightly freckled skin, large gray-blue eyes, soft dark eyebrows, delicate oval face, small straight nose, full natural rose lips, long chestnut-brown hair loosely parted near the center, black rectangular eyeglasses and small gold hoop earrings. Preserve this exact established character identity, clothing, natural facial proportions and realistic photographic texture. No other characters. Bright soft daylight. Show front, side and back full-body views of the same character.
+
+本文件为已确认母图的单角色裁切。下方文字是按单角色整理的重建提示词，原始提示词属于母图。
+
+2026-11-08 按用户要求从已确认组图无损拆出单角色区域；未重新生图、未改脸。裁切坐标与像素一致性验证见依据文件。
+来源：assets/realistic/the-ninth-inning/leads-body-turnaround.png
+
+母图原始生成提示词（非本次裁切指令）
+Edit the supplied two-row full-body orthographic sheet. Change only the top Kellan row. Replace Kellan's black technical jacket and cream cargo outfit in all three top-row views with the baseball look shown in the second look of the supplied Kellan fashion board: clean white baseball jersey with navy piping and small number 17, black/navy undershirt, white baseball pants, high black socks, black baseball cleats, left-hand baseball glove shown only in the front or side hand position. Keep Kellan's identity strictly matching the supplied face orthographic sheet: the same youthful face, gray-brown tousled hair, olive-green eyes, freckles, jawline and eye-level proportions. Do not use the different face from the current full-body row. Keep the exact 8.5-head long athletic proportion, same baseline, straight-on eye-level camera, front / left 90-degree profile / back views, pale cream background, labels, and complete feet. Keep the entire Aria bottom row exactly unchanged, including her bare legs. No logos, no readable text besides number 17 and view labels, no other changes.
+
+生成依据：
+metadata/evidence/exec-ed65977d-a67a-4a3d-8053-3d11bfb3caa0.json
+verification/ninth-inning-solo-20261108/aria-solano--body_turnaround.json

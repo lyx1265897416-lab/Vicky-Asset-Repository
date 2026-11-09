@@ -1,0 +1,22 @@
+﻿Theo Nguyen · 动作图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22（母图生成日期）
+时区：America/Los_Angeles
+图像尺寸：508 × 491
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-08
+
+文生图提示词：
+Create a single-character pose asset for Theo Nguyen. Theo, a 17-year-old slim boy with fair freckled skin, dense short copper-auburn curls, green-brown eyes, a narrow youthful face, straight slender nose and a lightly playful closed-mouth expression; clean-shaven. Preserve this exact established character identity, clothing, natural facial proportions and realistic photographic texture. No other characters. Bright soft daylight. Show three full-body action poses of the same character.
+
+本文件为已确认母图的单角色裁切。下方文字是按单角色整理的重建提示词，原始提示词属于母图。
+
+2026-11-08 按用户要求从已确认组图无损拆出单角色区域；未重新生图、未改脸。裁切坐标与像素一致性验证见依据文件。
+来源：assets/realistic/the-ninth-inning/cast-action-poses.png
+
+母图原始生成提示词（非本次裁切指令）
+Edit only the bottom-left Mara panel in the supplied six-character action pose sheet. Keep the three Mara full-body actions, long 7.8-head proportion, brick-red raincoat, dark layers, silver earring, ticket 047, doorway and walking poses, but replace Mara's face and hair in all three poses with the strict new identity from the supplied orthographic sheet: warm light olive-beige skin, hazel-green eyes, thick dark brows, prominent cheekbones, fuller natural lips, softly oval-square jaw, long voluminous ash-brown wavy center-parted hair, no glasses. Mara must not resemble Aria: no black rectangular glasses, no gray-blue eyes, no straight chestnut hair. Keep Kellan, Aria, Yuna, Theo and June panels completely unchanged. Preserve bright cream daylight, labels, full feet, no logos, no extra people.
+
+生成依据：
+metadata/evidence/exec-c01af224-0132-46cc-867a-5517c8ffa769.json
+verification/ninth-inning-solo-20261108/theo-nguyen--pose.json

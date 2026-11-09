@@ -1,0 +1,22 @@
+﻿Yuna Park · 六格表情
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-09-22（母图生成日期）
+时区：America/Los_Angeles
+图像尺寸：454 × 491
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-08
+
+文生图提示词：
+Create a single-character expression asset for Yuna Park. Yuna, a 17-year-old girl with fair warm skin, a short honey-blonde side-parted bob with tousled waves, gray-green eyes, a softly angular jaw, straight small nose and natural pink lips; composed and observant. Preserve this exact established character identity, clothing, natural facial proportions and realistic photographic texture. No other characters. Bright soft daylight. Arrange six expressions in a three-column two-row sheet.
+
+本文件为已确认母图的单角色裁切。下方文字是按单角色整理的重建提示词，原始提示词属于母图。
+
+2026-11-08 按用户要求从已确认组图无损拆出单角色区域；未重新生图、未改脸。裁切坐标与像素一致性验证见依据文件。
+来源：assets/realistic/the-ninth-inning/expressions-current.png
+
+母图原始生成提示词（非本次裁切指令）
+Edit only the bottom-middle Mara expression cell in the supplied six-character expression sheet. Replace all Mara expressions with the strict new Mara identity from the supplied orthographic sheet: youthful 18-year-old girl, warm light olive-beige skin, hazel-green eyes, thicker dark brows, prominent cheekbones, fuller natural lips, softly oval-square jaw, long voluminous ash-brown wavy center-parted hair, no glasses. Keep six expression slots and the existing cell layout: calm, soft smile, suspicious, nervous, angry, emotionally resolved. Mara must be clearly different from Aria: no black rectangular glasses, no gray-blue eyes, no straight chestnut hair. Keep Kellan, Aria, Yuna, Theo and June cells completely unchanged. Preserve bright pale cream studio light, labels and natural skin texture, no logos, no extra text.
+
+生成依据：
+metadata/evidence/exec-7bec65f2-1264-42fa-a0d5-633f7ebb10d8.json
+verification/ninth-inning-solo-20261108/yuna-park--expression.json
