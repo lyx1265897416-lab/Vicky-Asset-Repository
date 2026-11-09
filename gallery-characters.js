@@ -94,7 +94,7 @@ function moveCharacter(delta){
 function characterBackgroundHTML(c){
  const labels=ethnicityLabels(),status=manifest.ethnicity_status_labels?.[c.ethnicity_status]||'待设定';
  const tags=(c.ethnicities||[c.ethnicity]).map(v=>labels[v]||v).join(' · ');
- return `<div class="character-background" aria-label="角色人种与肤色"><p><strong>人种／族裔</strong> ${escapeHTML(c.ethnicity_detail||tags)} <span class="background-status">${escapeHTML(status)}</span></p><p><strong>肤色</strong> ${escapeHTML(skinToneLabels()[c.skin_tone]||'待核对')}<small> · 主图观感</small></p><details><summary>分类依据</summary><p>${escapeHTML(tags)}</p><p>${escapeHTML(c.ethnicity_evidence||'')}</p><p class="character-panel-note">${escapeHTML(c.ethnicity_source||'')}</p><p class="character-panel-note">${escapeHTML(c.skin_tone_note||'')}</p></details></div>`;
+ return `<div class="character-background" aria-label="角色人种与肤色"><p><strong>人种／族裔</strong> ${escapeHTML(c.ethnicity_detail||tags)} <span class="background-status">${escapeHTML(status)}</span></p><p><strong>肤色</strong> ${escapeHTML(skinToneLabels()[c.skin_tone]||'待核对')}<small> · 主图观感</small></p><details><summary>分类依据</summary><p>${escapeHTML(tags)}</p><p>${escapeHTML(c.ethnicity_evidence||'')}</p><p class="character-panel-note">${escapeHTML(c.ethnicity_source||'')}</p><p class="character-panel-note">${escapeHTML(c.skin_tone_note||'')}</p></details><button class="edit-character-labels" data-edit-character="${escapeHTML(c.id)}" aria-label="编辑 ${escapeHTML(c.name)} 的人种与肤色">编辑标签</button></div>`;
 }
 function renderCharacterPanel(a){
  const host=document.getElementById('character-panel'),map=characterById();

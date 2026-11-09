@@ -25,7 +25,7 @@ function galleryThumbURL(asset) {
 }
 function galleryPageItems(items) {
   const scope=JSON.stringify([activeKind,activeCollection,query,activeStyle,activeSpecies,activeCategory,
-    activeCharacter,activeProject,activeReadiness,activeGender,activeEthnicity,activeSkinTone,activeScene,groupByCharacter,
+    activeCharacter,activeProject,activeReadiness,activeGender,activeEthnicity,activeSkinTone,activeScene,groupByCharacter,labelRevision,
     [...controls.querySelectorAll('select')].map(input=>[input.id,input.value])]);
   if(scope!==galleryPageScope){galleryPage=0;galleryPageScope=scope}
   galleryPageTotal=items.length;
@@ -355,7 +355,7 @@ function moveCharacter(delta){
 function characterBackgroundHTML(c){
  const labels=ethnicityLabels(),status=manifest.ethnicity_status_labels?.[c.ethnicity_status]||'待设定';
  const tags=(c.ethnicities||[c.ethnicity]).map(v=>labels[v]||v).join(' · ');
- return `<div class="character-background" aria-label="角色人种与肤色"><p><strong>人种／族裔</strong> ${escapeHTML(c.ethnicity_detail||tags)} <span class="background-status">${escapeHTML(status)}</span></p><p><strong>肤色</strong> ${escapeHTML(skinToneLabels()[c.skin_tone]||'待核对')}<small> · 主图观感</small></p><details><summary>分类依据</summary><p>${escapeHTML(tags)}</p><p>${escapeHTML(c.ethnicity_evidence||'')}</p><p class="character-panel-note">${escapeHTML(c.ethnicity_source||'')}</p><p class="character-panel-note">${escapeHTML(c.skin_tone_note||'')}</p></details></div>`;
+ return `<div class="character-background" aria-label="角色人种与肤色"><p><strong>人种／族裔</strong> ${escapeHTML(c.ethnicity_detail||tags)} <span class="background-status">${escapeHTML(status)}</span></p><p><strong>肤色</strong> ${escapeHTML(skinToneLabels()[c.skin_tone]||'待核对')}<small> · 主图观感</small></p><details><summary>分类依据</summary><p>${escapeHTML(tags)}</p><p>${escapeHTML(c.ethnicity_evidence||'')}</p><p class="character-panel-note">${escapeHTML(c.ethnicity_source||'')}</p><p class="character-panel-note">${escapeHTML(c.skin_tone_note||'')}</p></details><button class="edit-character-labels" data-edit-character="${escapeHTML(c.id)}" aria-label="编辑 ${escapeHTML(c.name)} 的人种与肤色">编辑标签</button></div>`;
 }
 function renderCharacterPanel(a){
  const host=document.getElementById('character-panel'),map=characterById();
@@ -376,6 +376,150 @@ function renderCharacterPanel(a){
  host.querySelectorAll('[data-role-asset]').forEach(b=>b.onclick=()=>{const next=Number(b.dataset.roleAsset);modalIndex=next;updateModal();host.querySelector(`[data-role-asset="${next}"]`)?.focus({preventScroll:true})});
  const selector=document.getElementById('detail-character-select');if(selector)selector.onchange=e=>{detailCharacter=e.target.value;updateModal()};
  document.getElementById('show-character-assets').onclick=()=>{const id=detailCharacter;closeModal();activeKind='character';activeGender='all';activeEthnicity='all';activeSkinTone='all';openFilterPanel=null;activeCharacter=id;activeProject='all';activeReadiness='all';activeCollection='all';activeCategory='all';activeStyle='all';activeSpecies='all';query='';selectedAssets.clear();render()};
+}
+
+;
+// Character-level review edits. Static hosting persists them in this browser;
+// explicit JSON export/import transfers reviews without changing image files.
+const LABEL_EDITS_KEY='vicky-character-library:character-labels:v1';
+let labelEdits={},labelRevision=0,labelBaselines=new Map(),labelEditorId=null,labelEditorVersion='',labelReturnFocus=null,labelImportPreview=null,labelImportToken=0;
+const LABEL_FIELDS=['ethnicity','ethnicities','ethnicity_detail','ethnicity_status','ethnicity_source','ethnicity_evidence','skin_tone','skin_tone_note'];
+function normalizeLabelEdit(value){
+ if(!value||typeof value!=='object'||!Array.isArray(value.ethnicities)||!value.ethnicities.length||value.ethnicities.length>20)throw Error('请至少选择一个人种／族裔标签。');
+ const ethnicities=[...new Set(value.ethnicities)];
+ if(ethnicities.some(v=>typeof v!=='string'||!Object.hasOwn(manifest.ethnicity_labels,v)))throw Error('包含无法识别的人种标签。');
+ if(['unknown','not_applicable'].some(v=>ethnicities.includes(v)&&ethnicities.length>1))throw Error('“待设定”或“不适用”需单独选择。');
+ const ancestry=['east_asian','southeast_asian','south_asian','central_asian','european','african','middle_eastern','indigenous_american','pacific_islander'];
+ if(ethnicities.filter(v=>ancestry.includes(v)).length>1&&!ethnicities.includes('mixed'))ethnicities.push('mixed');
+ if(typeof value.skin_tone!=='string'||!Object.hasOwn(manifest.skin_tone_labels,value.skin_tone))throw Error('请选择有效的肤色。');
+ if(value.detail!==undefined&&(typeof value.detail!=='string'||value.detail.length>160))throw Error('细分说明最多 160 字。');
+ return {ethnicities,skin_tone:value.skin_tone,detail:(value.detail||'').trim(),updated_at:typeof value.updated_at==='string'?value.updated_at:''};
+}
+function parseLabelEdits(raw){
+ if(!raw)return {};
+ const data=JSON.parse(raw);
+ if(!data||data.schema_version!==1||data.kind!=='vicky-character-labels'||!data.characters||typeof data.characters!=='object'||Array.isArray(data.characters))throw Error('文件格式不正确，请使用「导出标签」生成的 JSON 文件。');
+ const edits={};
+ for(const [id,value] of Object.entries(data.characters)){
+  if(!labelBaselines.has(id))throw Error('文件包含当前资产库没有的角色：'+id);
+  edits[id]=normalizeLabelEdit(value);
+ }
+ return edits;
+}
+function labelEditDocument(edits){return {schema_version:1,kind:'vicky-character-labels',characters:edits}}
+function applyLabelEdits(edits){
+ for(const c of manifest.characters){
+  Object.assign(c,structuredClone(labelBaselines.get(c.id)));
+  const edit=edits[c.id];if(!edit)continue;
+  c.ethnicities=[...edit.ethnicities];c.ethnicity=c.ethnicities.includes('mixed')?'mixed':c.ethnicities[0];
+  c.ethnicity_detail=edit.detail||c.ethnicities.map(v=>manifest.ethnicity_labels[v]).join(' · ');
+  c.ethnicity_status='manual_setting';c.ethnicity_source='本浏览器手动调整';
+  c.ethnicity_evidence=edit.detail||'用户在标签编辑器中手动调整；不改动角色图像。';
+  c.skin_tone=edit.skin_tone;c.skin_tone_note='用户手动核对的肤色标签。';
+ }
+ labelEdits=edits;labelRevision++;
+}
+function labelEditVersion(edit){return JSON.stringify(edit||null)}
+function persistLabelChange(id,edit,expectedVersion){
+ // Read again immediately before writing so edits to other characters in other tabs survive.
+ const next=parseLabelEdits(localStorage.getItem(LABEL_EDITS_KEY));
+ if(expectedVersion!==undefined&&labelEditVersion(next[id])!==expectedVersion)throw Error('该角色已在其他标签页修改。请关闭后重新打开，核对最新标签再保存。');
+ if(edit===null)delete next[id];else next[id]=normalizeLabelEdit(edit);
+ localStorage.setItem(LABEL_EDITS_KEY,JSON.stringify(labelEditDocument(next)));
+ applyLabelEdits(next);
+}
+function characterCardLabels(a){
+ if(a.asset_kind!=='character'||!a.character_ids.length)return '';
+ const map=characterById(),roles=a.character_ids.map(id=>map.get(id)).filter(Boolean);
+ roles.sort((a,b)=>Number(roleInScope(b))-Number(roleInScope(a)));
+ const row=c=>`<div class="card-label-row" data-label-role="${escapeHTML(c.id)}">${roles.length>1?`<strong class="card-label-name">${escapeHTML(c.name)}</strong>`:''}<div class="card-label-chips"><span class="role-ethnicity">人种 · ${c.ethnicities.map(v=>escapeHTML(manifest.ethnicity_labels[v])).join(' / ')}</span><span class="role-skin">肤色 · ${escapeHTML(manifest.skin_tone_labels[c.skin_tone])}</span></div><button class="edit-character-labels" data-edit-character="${escapeHTML(c.id)}" aria-label="编辑 ${escapeHTML(c.name)} 的人种与肤色">编辑标签</button>${labelEdits[c.id]?'<span class="label-reviewed">已手动调整</span>':''}</div>`;
+ return `<div class="card-labels" aria-label="角色标签">${roles.slice(0,2).map(row).join('')}${roles.length>2?`<details><summary>查看其他 ${roles.length-2} 位角色标签</summary>${roles.slice(2).map(row).join('')}</details>`:''}</div>`;
+}
+function refreshLabelViews(){selectedAssets.clear();render();if(modalIndex>=0)updateModal()}
+function closeLabelEditor(){
+ document.getElementById('label-editor').close();
+ const id=labelEditorId;labelEditorId=null;
+ if(labelReturnFocus?.isConnected)labelReturnFocus.focus({preventScroll:true});
+ else [...document.querySelectorAll('[data-edit-character]')].find(b=>b.dataset.editCharacter===id)?.focus({preventScroll:true});
+}
+function openLabelEditor(id){
+ const c=characterById().get(id);if(!c)return;
+ labelEditorId=id;labelEditorVersion=labelEditVersion(labelEdits[id]);labelReturnFocus=document.activeElement;
+ const dialog=document.getElementById('label-editor');
+ dialog.innerHTML=`<form id="label-editor-form"><header><h2 id="label-editor-title">编辑角色标签</h2><button type="button" data-close-labels aria-label="关闭标签编辑">×</button></header><p class="label-edit-name">${escapeHTML(c.name)}</p><p>应用到此角色的全部图片。保存在当前浏览器；不会自动同步到其他设备。</p><fieldset><legend>人种／族裔 · 可多选</legend><div class="label-options">${Object.entries(manifest.ethnicity_labels).map(([v,name])=>`<label><input type="checkbox" name="ethnicities" value="${escapeHTML(v)}" ${c.ethnicities.includes(v)?'checked':''}><span>${escapeHTML(name)}</span></label>`).join('')}</div></fieldset><p class="label-hint">复合背景可多选祖源，系统会补上“混合”标签；拉丁裔为独立文化背景。</p><label class="label-field">肤色<select name="skin_tone" aria-label="编辑肤色">${Object.entries(manifest.skin_tone_labels).map(([v,name])=>`<option value="${v}" ${c.skin_tone===v?'selected':''}>${escapeHTML(name)}</option>`).join('')}</select></label><label class="label-field">细分说明（可选）<input name="detail" aria-label="族裔细分说明" maxlength="160" placeholder="例如：韩裔美国人；欧洲裔与南亚裔混合" value="${escapeHTML(labelEdits[id]?.detail??c.ethnicity_detail??'')}"></label><p class="label-current-note">库内说明：${escapeHTML(labelBaselines.get(id).ethnicity_detail||'')}</p><p id="label-editor-error" role="alert"></p><div class="label-edit-actions"><button type="submit" class="share-primary">保存标签</button><button type="button" data-close-labels>取消</button><button type="button" id="restore-character-labels" ${labelEdits[id]?'':'disabled'}>恢复库内标签</button></div><button type="button" class="label-backup-link" data-label-backup>导出／导入标签备份</button></form>`;
+ dialog.querySelectorAll('[data-close-labels]').forEach(b=>b.onclick=closeLabelEditor);
+ dialog.querySelector('form').onsubmit=e=>{
+  e.preventDefault();const form=e.currentTarget;
+  try{
+   const edit={ethnicities:[...form.querySelectorAll('[name="ethnicities"]:checked')].map(i=>i.value),skin_tone:form.elements.skin_tone.value,detail:form.elements.detail.value,updated_at:new Date().toISOString()};
+   persistLabelChange(id,edit,labelEditorVersion);refreshLabelViews();closeLabelEditor();showActionNotice('已保存到本浏览器，并更新此角色的全部图片标签。');
+  }catch(error){dialog.querySelector('#label-editor-error').textContent='未保存：'+error.message}
+ };
+ dialog.querySelector('#restore-character-labels').onclick=()=>{
+  try{persistLabelChange(id,null,labelEditorVersion);refreshLabelViews();closeLabelEditor();showActionNotice('已恢复此角色的库内标签。')}
+  catch(error){dialog.querySelector('#label-editor-error').textContent='未恢复：'+error.message}
+ };
+ const initialDetail=dialog.querySelector('[name="detail"]').value;
+ dialog.querySelectorAll('[name="ethnicities"]').forEach(input=>input.addEventListener('change',()=>{const detail=dialog.querySelector('[name="detail"]');if(detail.value===initialDetail)detail.value=''}));
+ dialog.showModal();
+}
+function openLabelBackup(){
+ const dialog=document.getElementById('label-backup');labelImportPreview=null;labelImportToken++;
+ dialog.innerHTML=`<header><h2 id="label-backup-title">标签备份</h2><button type="button" id="close-label-backup" aria-label="关闭标签备份">×</button></header><p>当前浏览器已调整 ${Object.keys(labelEdits).length} 位角色。导出后可在其他设备或浏览器导入；图片不会包含在备份中。</p><button id="export-label-edits">导出标签 JSON</button><label class="label-field">导入标签文件<input id="import-label-file" type="file" accept="application/json,.json"></label><p id="label-import-status" role="status"></p><p id="label-backup-error" role="alert"></p><div id="label-import-preview"></div><button id="apply-label-import" hidden>应用导入标签</button>`;
+ dialog.querySelector('#close-label-backup').onclick=()=>dialog.close();
+ dialog.querySelector('#export-label-edits').onclick=()=>{
+  try{
+   const latest=parseLabelEdits(localStorage.getItem(LABEL_EDITS_KEY));
+   const payload={...labelEditDocument(latest),exported_at:new Date().toISOString()};
+   const url=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)],{type:'application/json'}));
+   const a=document.createElement('a');a.href=url;a.download='vicky-character-labels-'+new Date().toLocaleDateString('sv-SE')+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),30000);
+   dialog.querySelector('#label-import-status').textContent='已导出 '+Object.keys(latest).length+' 位角色的手动调整。';
+  }catch(error){dialog.querySelector('#label-backup-error').textContent='导出失败：'+error.message}
+ };
+ dialog.querySelector('#import-label-file').onchange=async e=>{
+  const file=e.target.files[0],token=++labelImportToken;labelImportPreview=null;
+  dialog.querySelector('#apply-label-import').hidden=true;dialog.querySelector('#label-import-preview').replaceChildren();dialog.querySelector('#label-backup-error').textContent='';
+  if(!file)return;
+  try{
+   if(file.size>1024*1024)throw Error('文件超过 1 MB，请检查是否选择了标签备份。');
+   const raw=await file.text();if(token!==labelImportToken||!dialog.open)return;
+   const edits=parseLabelEdits(raw),ids=Object.keys(edits);
+   const latest=parseLabelEdits(localStorage.getItem(LABEL_EDITS_KEY));
+   labelImportPreview={edits,version:JSON.stringify(latest)};
+   const overlapping=ids.filter(id=>Object.hasOwn(latest,id)).length;
+   dialog.querySelector('#label-import-status').textContent=`共 ${ids.length} 位角色，应用后将覆盖其中 ${overlapping} 位的本地调整。其他角色保持不变。`;
+   const map=characterById();dialog.querySelector('#label-import-preview').innerHTML=ids.map(id=>`<p><strong>${escapeHTML(map.get(id).name)}</strong><br>${edits[id].ethnicities.map(v=>escapeHTML(manifest.ethnicity_labels[v])).join(' / ')} · ${escapeHTML(manifest.skin_tone_labels[edits[id].skin_tone])}</p>`).join('');
+   dialog.querySelector('#apply-label-import').hidden=!ids.length;
+  }catch(error){dialog.querySelector('#label-backup-error').textContent='未导入：'+error.message}
+ };
+ dialog.querySelector('#apply-label-import').onclick=()=>{
+  try{
+   if(!labelImportPreview)throw Error('请先选择标签文件。');
+   const latest=parseLabelEdits(localStorage.getItem(LABEL_EDITS_KEY));
+   if(JSON.stringify(latest)!==labelImportPreview.version)throw Error('本地标签已有变化，请重新选择文件核对后导入。');
+   const next={...latest,...labelImportPreview.edits};
+   localStorage.setItem(LABEL_EDITS_KEY,JSON.stringify(labelEditDocument(next)));applyLabelEdits(next);refreshLabelViews();
+   dialog.close();showActionNotice('标签已导入并保存在本浏览器。');
+  }catch(error){dialog.querySelector('#label-backup-error').textContent='未导入：'+error.message}
+ };
+ dialog.showModal();
+}
+function initLabelEditor(){
+ labelBaselines=new Map(manifest.characters.map(c=>[c.id,Object.fromEntries(LABEL_FIELDS.map(k=>[k,structuredClone(c[k])]))]));
+ manifest.ethnicity_status_labels.manual_setting='手动调整';
+ try{applyLabelEdits(parseLabelEdits(localStorage.getItem(LABEL_EDITS_KEY)))}catch(error){storageNotice('标签调整未能读取：'+error.message+' 原有库内标签仍可浏览。')}
+ for(const [id,title] of [['label-editor','label-editor-title'],['label-backup','label-backup-title']]){
+  const dialog=document.createElement('dialog');dialog.id=id;dialog.className='share-dialog label-dialog';dialog.setAttribute('aria-labelledby',title);document.body.append(dialog);
+ }
+ document.addEventListener('click',e=>{
+  const edit=e.target.closest('[data-edit-character]');if(edit){openLabelEditor(edit.dataset.editCharacter);return}
+  if(e.target.closest('[data-label-backup]')){if(document.getElementById('label-editor').open)closeLabelEditor();openLabelBackup()}
+ });
+ window.addEventListener('storage',e=>{
+  if(e.key!==LABEL_EDITS_KEY&&e.key!==null)return;
+  try{applyLabelEdits(parseLabelEdits(localStorage.getItem(LABEL_EDITS_KEY)));refreshLabelViews()}
+  catch(error){storageNotice('其他标签页的标签调整未能读取：'+error.message)}
+ });
 }
 
 ;
@@ -408,7 +552,7 @@ function typePanelHTML(){
 }
 function renderControls(){
  const count=filterCount()+(activeScene==='all'?0:1),railLeft=controls.querySelector('.library-kinds')?.scrollLeft||0;
- controls.innerHTML=`<div class="navigation-main"><div class="library-kinds" aria-label="素材大类">${Object.entries(kindLabels).map(([k,label])=>`<button data-kind="${k}" class="kind-tab ${activeKind===k?'active':''}" aria-pressed="${activeKind===k}">${label}${k!=='character'&&!assets.some(a=>kindMatches(a,k))?'<span class="planned">待添加</span>':''}</button>`).join('')}</div><input class="search" id="search" aria-label="搜索资产序号、名称或来源" placeholder="搜索序号或关键词…" value="${escapeHTML(query)}"></div><div class="navigation-tools"><div class="collection-switch">${btns([['all','全部'],['favorites','★ 收藏']],'collection',activeCollection)}<span id="favorites-count" class="sr-only">${favoriteCount()}</span></div><span class="nav-divider"></span>${activeKind==='costume'?`<div class="wardrobe-tabs" aria-label="套装素材层级">${btns([['outfit','完整造型'],['costume','服装'],['accessory','配饰'],['all','全部素材']],'category',activeCategory)}</div>`:''}${activeKind==='character'?`<label class="gender-control"><span>性别</span><select id="gender-select" aria-label="性别">${Object.entries(genderLabels).map(([k,label])=>`<option value="${k}" ${activeGender===k?'selected':''}>${label}</option>`).join('')}</select></label><label class="gender-control ethnicity-control"><span>人种</span><select id="ethnicity-select" aria-label="人种" title="按角色族裔设定筛选；混合背景可属于多个类别">${Object.entries(ethnicityLabels()).map(([k,label])=>`<option value="${k}" ${activeEthnicity===k?'selected':''}>${escapeHTML(label)}</option>`).join('')}</select></label><label class="gender-control skin-tone-control"><span>肤色</span><select id="skin-tone-select" aria-label="肤色" title="按角色主图的肤色深浅筛选，与人种独立">${Object.entries(skinToneLabels()).map(([k,label])=>`<option value="${k}" ${activeSkinTone===k?'selected':''}>${escapeHTML(label)}</option>`).join('')}</select></label><button data-panel="types" aria-controls="navigation-panel" aria-expanded="${openFilterPanel==='types'}">${activeCategory==='all'?'图片类型':escapeHTML(categoryLabels[activeCategory])} <span aria-hidden="true">⌄</span></button>`:''}<button data-panel="filters" aria-controls="navigation-panel" aria-expanded="${openFilterPanel==='filters'}">筛选${count?' · '+count:''} <span aria-hidden="true">⌄</span></button>${count?'<button class="reset-filters" id="reset-filters">重置</button>':''}<button class="recycle-shortcut ${activeCollection==='trash'?'active':''}" data-group="collection" data-value="trash" aria-pressed="${activeCollection==='trash'}">回收站</button></div>${openFilterPanel?`<div class="navigation-panel" id="navigation-panel" role="region" aria-label="${openFilterPanel==='types'?'图片类型':'更多筛选'}">${openFilterPanel==='types'?typePanelHTML():`<div class="panel-title"><strong>更多筛选</strong><button data-close-panel aria-label="关闭筛选">×</button></div><div class="filter-row"><span class="filter-label">风格</span>${btns(Object.entries(styleLabels),'style',activeStyle)}</div>${activeKind==='character'?`<div class="filter-row"><span class="filter-label">物种</span>${btns(Object.entries(speciesLabels),'species',activeSpecies)}</div><details class="type-level" open><summary>项目与角色</summary>${characterFilterHTML()}</details>`:''}<div class="mobile-library-tools"><button data-group="collection" data-value="trash">回收站</button></div><div class="panel-footer"><button id="clear-panel-filters">清空筛选</button><button class="active" data-close-panel>完成</button></div>`}</div>`:''}`;
+ controls.innerHTML=`<div class="navigation-main"><div class="library-kinds" aria-label="素材大类">${Object.entries(kindLabels).map(([k,label])=>`<button data-kind="${k}" class="kind-tab ${activeKind===k?'active':''}" aria-pressed="${activeKind===k}">${label}${k!=='character'&&!assets.some(a=>kindMatches(a,k))?'<span class="planned">待添加</span>':''}</button>`).join('')}</div><input class="search" id="search" aria-label="搜索资产序号、名称或来源" placeholder="搜索序号或关键词…" value="${escapeHTML(query)}"></div><div class="navigation-tools"><div class="collection-switch">${btns([['all','全部'],['favorites','★ 收藏']],'collection',activeCollection)}<span id="favorites-count" class="sr-only">${favoriteCount()}</span></div><span class="nav-divider"></span>${activeKind==='costume'?`<div class="wardrobe-tabs" aria-label="套装素材层级">${btns([['outfit','完整造型'],['costume','服装'],['accessory','配饰'],['all','全部素材']],'category',activeCategory)}</div>`:''}${activeKind==='character'?`<label class="gender-control"><span>性别</span><select id="gender-select" aria-label="性别">${Object.entries(genderLabels).map(([k,label])=>`<option value="${k}" ${activeGender===k?'selected':''}>${label}</option>`).join('')}</select></label><label class="gender-control ethnicity-control"><span>人种</span><select id="ethnicity-select" aria-label="人种" title="按角色族裔设定筛选；混合背景可属于多个类别">${Object.entries(ethnicityLabels()).map(([k,label])=>`<option value="${k}" ${activeEthnicity===k?'selected':''}>${escapeHTML(label)}</option>`).join('')}</select></label><label class="gender-control skin-tone-control"><span>肤色</span><select id="skin-tone-select" aria-label="肤色" title="按角色主图的肤色深浅筛选，与人种独立">${Object.entries(skinToneLabels()).map(([k,label])=>`<option value="${k}" ${activeSkinTone===k?'selected':''}>${escapeHTML(label)}</option>`).join('')}</select></label><button data-panel="types" aria-controls="navigation-panel" aria-expanded="${openFilterPanel==='types'}">${activeCategory==='all'?'图片类型':escapeHTML(categoryLabels[activeCategory])} <span aria-hidden="true">⌄</span></button>`:''}<button data-panel="filters" aria-controls="navigation-panel" aria-expanded="${openFilterPanel==='filters'}">筛选${count?' · '+count:''} <span aria-hidden="true">⌄</span></button>${activeKind==='character'?'<button type="button" data-label-backup>标签备份</button>':''}${count?'<button class="reset-filters" id="reset-filters">重置</button>':''}<button class="recycle-shortcut ${activeCollection==='trash'?'active':''}" data-group="collection" data-value="trash" aria-pressed="${activeCollection==='trash'}">回收站</button></div>${openFilterPanel?`<div class="navigation-panel" id="navigation-panel" role="region" aria-label="${openFilterPanel==='types'?'图片类型':'更多筛选'}">${openFilterPanel==='types'?typePanelHTML():`<div class="panel-title"><strong>更多筛选</strong><button data-close-panel aria-label="关闭筛选">×</button></div><div class="filter-row"><span class="filter-label">风格</span>${btns(Object.entries(styleLabels),'style',activeStyle)}</div>${activeKind==='character'?`<div class="filter-row"><span class="filter-label">物种</span>${btns(Object.entries(speciesLabels),'species',activeSpecies)}</div><details class="type-level" open><summary>项目与角色</summary>${characterFilterHTML()}</details>`:''}<div class="mobile-library-tools"><button data-group="collection" data-value="trash">回收站</button></div><div class="panel-footer"><button id="clear-panel-filters">清空筛选</button><button class="active" data-close-panel>完成</button></div>`}</div>`:''}`;
  controls.querySelectorAll('[data-kind]').forEach(b=>b.onclick=()=>{activeKind=b.dataset.kind;activeCollection='all';resetNavigationFilters();if(activeKind==='costume')activeCategory='outfit';openFilterPanel=null;render();controls.querySelector('.kind-tab.active')?.scrollIntoView({block:'nearest',inline:'nearest'})});
  controls.querySelectorAll('[data-group]').forEach(b=>b.onclick=()=>{
   const g=b.dataset.group,v=b.dataset.value;
@@ -514,7 +658,7 @@ function renderStats(){const current=liveAssets();const styles=new Set(current.m
 function starButton(a,index){const saved=favorites.has(favoriteKey(a));return `<button type="button" class="favorite-button" data-favorite-index="${index}" aria-pressed="${saved}" aria-label="${saved?'取消收藏':'收藏'}：${escapeHTML(a.title)}" title="${saved?'取消收藏':'收藏'}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m12 3 2.78 5.64L21 9.55l-4.5 4.39 1.06 6.2L12 17.21l-5.56 2.93 1.06-6.2L3 9.55l6.22-.91Z"/></svg></button>`}
 function renderGrid(){
  const list=filtered();
- grid.innerHTML=characterGridHTML(list,a=>{const index=assets.indexOf(a);return `<article class="card ${selectedAssets.has(favoriteKey(a))?'selected':''}"><div class="thumb ${a.generation.dimensions.height>a.generation.dimensions.width?'portrait-thumb':'sheet-thumb'}" data-index="${index}" tabindex="0" aria-label="预览：${escapeHTML(a.title)}"><img decoding="async" loading="lazy" src="${escapeHTML(galleryThumbURL(a))}" alt="${escapeHTML(a.title)}">${starButton(a,index)}${selectionMode?`<input type="checkbox" class="select-image" data-select-index="${index}" aria-label="选择：${escapeHTML(a.title)}" ${selectedAssets.has(favoriteKey(a))?'checked':''}>`:''}</div><div class="meta">${numberBadge(a)}<h3>${escapeHTML(a.title)}</h3><div class="chips"><span class="chip">${styleLabels[a.style_family]}</span><span class="chip">${speciesLabels[a.species]}</span><span class="chip">${escapeHTML(a.view_label)}</span></div><div class="source">${escapeHTML(a.generation.generation_date||'生成日期未记录')} · ${a.completion_round?'补充素材':'已入库'}</div>${cardActions(a,index)}</div></article>`});
+ grid.innerHTML=characterGridHTML(list,a=>{const index=assets.indexOf(a);return `<article class="card ${selectedAssets.has(favoriteKey(a))?'selected':''}"><div class="thumb ${a.generation.dimensions.height>a.generation.dimensions.width?'portrait-thumb':'sheet-thumb'}" data-index="${index}" tabindex="0" aria-label="预览：${escapeHTML(a.title)}"><img decoding="async" loading="lazy" src="${escapeHTML(galleryThumbURL(a))}" alt="${escapeHTML(a.title)}">${starButton(a,index)}${selectionMode?`<input type="checkbox" class="select-image" data-select-index="${index}" aria-label="选择：${escapeHTML(a.title)}" ${selectedAssets.has(favoriteKey(a))?'checked':''}>`:''}</div><div class="meta">${numberBadge(a)}<h3>${escapeHTML(a.title)}</h3><div class="chips"><span class="chip">${styleLabels[a.style_family]}</span><span class="chip">${speciesLabels[a.species]}</span><span class="chip">${escapeHTML(a.view_label)}</span></div>${characterCardLabels(a)}<div class="source">${escapeHTML(a.generation.generation_date||'生成日期未记录')} · ${a.completion_round?'补充素材':'已入库'}</div>${cardActions(a,index)}</div></article>`});
  empty.hidden=list.length!==0;
  empty.textContent=activeCollection==='trash'?'回收站为空。删除的图片会保存在这里，可以随时恢复。':activeCollection==='favorites'?(favoriteCount()===0?'还没有收藏。到「全部」点击图片右上角的 ☆，喜欢的角色就会出现在这里。':'收藏中没有符合筛选条件的图片。试试其他筛选条件或关键词。'):'没有符合筛选条件的资产。';
  title.textContent=activeCollection==='trash'?'回收站':activeCollection==='favorites'?'我的收藏':(activeStyle==='all'&&activeSpecies==='all'&&activeCategory==='all'&&activeCharacter==='all'&&activeProject==='all'&&activeReadiness==='all'&&!query?'全部确认资产':'筛选结果');
@@ -577,7 +721,7 @@ document.getElementById('modal-favorite').onclick=()=>toggleFavorite(modalIndex)
 document.getElementById('prev-image').onclick=()=>move(-1);document.getElementById('next-image').onclick=()=>move(1);initImageSwipe();
 document.getElementById('prev').onclick=()=>moveCharacter(-1);document.getElementById('next').onclick=()=>moveCharacter(1);document.getElementById('close').onclick=closeModal;document.getElementById('modal').onclick=e=>{if(e.target.id==='modal')closeModal()};
 document.addEventListener('keydown',e=>{
- if(document.getElementById('share-dialog').open||document.getElementById('purge-dialog').open)return;
+ if(document.querySelector('.label-dialog[open]')||document.getElementById('share-dialog').open||document.getElementById('purge-dialog').open)return;
  if(!document.getElementById('modal').classList.contains('open'))return;
  const editing=e.target.matches('textarea,input,select,[contenteditable="true"]');
  if(!editing&&(e.key==='ArrowUp'||e.key==='ArrowDown')){e.preventDefault();moveCharacter(e.key==='ArrowUp'?-1:1)}
@@ -586,7 +730,7 @@ document.addEventListener('keydown',e=>{
  if(e.key==='Tab'){const buttons=[...document.querySelectorAll('#modal button,#modal textarea,#modal summary,#modal a')].filter(el=>el.getClientRects().length);const current=buttons.indexOf(document.activeElement);if(e.shiftKey&&current<=0){e.preventDefault();buttons.at(-1).focus()}else if(!e.shiftKey&&current===buttons.length-1){e.preventDefault();buttons[0].focus()}}
 });
 window.addEventListener('storage',e=>{if(e.key!==FAVORITES_KEY&&e.key!==null)return;favorites=readFavorites();document.getElementById('favorites-count').textContent=favoriteCount();renderGrid();if(modalIndex>=0){if(detailCharacter||filtered().includes(assets[modalIndex]))updateModal();else closeModal()}});
-initGalleryActions();renderStats();render();
+initLabelEditor();initGalleryActions();renderStats();render();
 
 
 ;
