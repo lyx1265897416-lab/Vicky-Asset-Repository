@@ -1,0 +1,21 @@
+﻿P05 吧台酒具 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Product catalog arrangement of stainless cocktail shaker, double jigger, empty clear coupe and martini glasses, and six plain unlabeled liquor bottles. Pure white seamless backdrop, realistic glass and brushed metal reflections, neatly separated objects, no text or logos.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/P05-barware.png
+
+原始生成提示词：
+Photorealistic prop catalogue layout on pure white seamless background. Match bar reference's stainless cocktail shaker, double jigger, clear empty coupe glass, clear empty martini glass, and a row of six plain narrow clear glass bottles with cork stoppers containing amber or clear liquid. All objects separated and fully visible with soft contact shadows. No labels, brands, lettering, people, hands, mint, cocktail garnishes, or bar furniture. Clean precise realistic glass and metal, square composition.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/062.json

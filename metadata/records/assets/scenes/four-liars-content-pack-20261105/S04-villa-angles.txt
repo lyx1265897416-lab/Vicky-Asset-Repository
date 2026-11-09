@@ -1,0 +1,21 @@
+﻿多角度图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One compact tropical oceanfront flat-roof white villa to the right of a single long rectangular cyan infinity pool. Ocean to left; circular sunken lounge with cream cushions and round fire bowl at far short end; narrow stone paths; straight floating wood exterior stair at near end of villa; small wooden bar with three wicker stools at near-right. Teak roof has white daybed, brass telescope, slim dark/glass railings. No people, second pool or extra wings. Vertical photographic location sheet with four panels in a two by two grid: view along pool toward circular lounge; reverse toward bar and stair; side of villa with pool foreground; eye-level rooftop daybed and telescope with moonlit ocean beyond. Warm practical lights, cyan pool, palms, deep navy sky, narrow white gutters, no text. Concept set design reference, not measured construction documentation.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/S04-villa-angles.png
+
+原始生成提示词：
+The first input is the spatial master of the SAME compact tropical villa. Strictly preserve its topology: one long rectangular infinity pool left, single rectangular white villa right, circular sunken cream lounge and round fire bowl at far short end of pool, narrow stone walkway between villa and pool, straight exterior floating wood stair on villa's near end wall up to roof, wooden bar with exactly three wicker stools on landward deck at near-right, teak rooftop with white daybed left and brass telescope right, slim dark/glass perimeter railing. No additional pools, wings or stairs. No people, no numbers or dimensions, no brands. Create a photographic environment MULTI-ANGLE reference sheet for filming, vertical 9:16 composed of exactly FOUR separate rectangular views in a clean 2-by-2 grid, narrow white gutters, no text. Show the SAME villa at night from (1) pool looking down its length toward circular lounge (2) reverse from circular lounge back down pool toward bar and stair (3) side view of white villa and floating stair with pool foreground (4) rooftop eye-level view with white daybed and telescope against moonlit ocean. Preserve all anchors; no second pool on roof, ocean below rail. All panels are photorealistic location plates, not dollhouse models. Warm practical lights, cyan pool, tropical palms, deep navy sky.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/067.json

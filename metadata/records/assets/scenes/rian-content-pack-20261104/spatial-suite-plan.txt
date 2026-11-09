@@ -1,0 +1,21 @@
+﻿临水套房｜平面图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：941 × 1671
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+Edit ONLY the existing plan in reference1 to correct it. Remove the entire exterior bridge at bottom, all exterior reef/cave/channel content, and their labels. These connections were not in the approved scene. Close the bottom room edge with a simple wall footprint. Preserve all internal anchors, furniture and relative placement: Palace suite. From reference viewpoint round raised pool on LEFT beside sea-view arched windows, canopy bed on RIGHT with navy upholstered foot bench, freestanding three-panel blue folding screen between pool and bed, rear doorway and dressing alcove beyond screen. Maintain physical dry walking route around screen, one pool and one bed only. The plan must show ONLY this room, centered on ivory background. Do NOT introduce another entrance. Only the existing specified rear or left doorway remains. Convert the room into a clear 2D TOP-DOWN floor plan, all walls in footprint rather than front elevation, no tall facades. No dimensions. Keep modest material colors and English furniture labels.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-spatial-assets/spatial-suite-plan.png
+
+原始生成提示词：
+Edit ONLY the existing plan in reference1 to correct it. Remove the entire exterior bridge at bottom, all exterior reef/cave/channel content, and their labels. These connections were not in the approved scene. Close the bottom room edge with a simple wall footprint. Preserve all internal anchors, furniture and relative placement: Palace suite. From reference viewpoint round raised pool on LEFT beside sea-view arched windows, canopy bed on RIGHT with navy upholstered foot bench, freestanding three-panel blue folding screen between pool and bed, rear doorway and dressing alcove beyond screen. Maintain physical dry walking route around screen, one pool and one bed only. The plan must show ONLY this room, centered on ivory background. Do NOT introduce another entrance. Only the existing specified rear or left doorway remains. Convert the room into a clear 2D TOP-DOWN floor plan, all walls in footprint rather than front elevation, no tall facades. No dimensions. Keep modest material colors and English furniture labels.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/079.json

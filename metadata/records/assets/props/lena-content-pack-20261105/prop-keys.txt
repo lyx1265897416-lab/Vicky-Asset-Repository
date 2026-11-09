@@ -1,0 +1,21 @@
+﻿Hollis 的钥匙 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Three worn flat cylinder-lock keys, silver and brass with plain round and square heads, attached to a small steel split ring, laid spread on pure white background, soft shadow. Square detailed photorealistic product image, no tags or car fob.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-scene-prop-assets/prop-keys.png
+
+原始生成提示词：
+Create a photorealistic isolated production prop asset of Hollis's small ring of old metal mechanical door keys from reference: small plain steel split ring holding a few silver and worn brass flat cylinder-lock keys, simple unmarked rectangular/round heads. Keys resting flat loosely spread on pure white studio background, no hand, person, door, tags or text, no car key/fob. Realistic size and worn metal, square composition, all keys visible, soft contact shadows.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/018.json

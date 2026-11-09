@@ -1,0 +1,21 @@
+﻿Wes（男主 A）｜全身定装图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Wes, late twenties man, tousled sandy brown hair, gray-green eyes, freckles, warm approachable face. light sky-blue linen shirt open at collar, rolled sleeves untucked, stone beige linen trousers, brown suede loafers, one thin brown leather cord bracelet on his LEFT wrist only; no watch. One centered front-view full-length standing figure with entire hair and both shoes visible, arms relaxed, natural knees and coherent anatomy. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks. Natural lean approximately 7.5-head proportions.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/wes-fullbody.png
+
+原始生成提示词：
+Edit this exact full-body Wes image. User asks for a restrained proportional correction: approximately SEVEN AND A HALF HEADS TALL, with legs only a little longer than the supplied image. Keep his exact face, facial expression, tousled sandy-brown hairstyle, shoulder width, lean healthy physique, skin texture, sky-blue untucked linen shirt with rolled sleeves, beige linen trousers, tan suede loafers and brown bracelet on LEFT wrist. Raise the natural waist/crotch very subtly and add a modest amount of length distributed between thighs and calves; retain normal pelvis, knees, hands and footwear. Aim for a naturally handsome real male at about 7.5 heads, not exaggerated runway legs, no tiny head, no narrow stretched torso. Preserve same relaxed front pose and white studio lighting. Complete hair and shoes visible, vertical 2:3 composition. Change only body proportions moderately; no text or markers.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/049.json

@@ -54,7 +54,7 @@ renderControls=function(){
 const bulkGridBase=renderGrid;let lastBatchScope='';
 renderGrid=function(){
  closeCardMenu();
- const scope=JSON.stringify([activeKind,activeCollection,query,activeStyle,activeSpecies,activeCategory,activeCharacter,activeProject,activeReadiness,activeGender,voiceProject,voiceGender,voiceAge,voiceRole,voiceLanguage,voiceLicense,bgmProject,bgmCategory,bgmOrder,videoCategory]);
+ const scope=JSON.stringify([activeKind,activeCollection,query,activeStyle,activeSpecies,activeCategory,activeCharacter,activeProject,activeReadiness,activeGender,activeEthnicity,voiceProject,voiceGender,voiceAge,voiceRole,voiceLanguage,voiceLicense,bgmProject,bgmCategory,bgmOrder,videoCategory]);
  if(scope!==lastBatchScope){selectedAssets.clear();lastBatchScope=scope}
  bulkGridBase();
  if(isAudioLibrary()){

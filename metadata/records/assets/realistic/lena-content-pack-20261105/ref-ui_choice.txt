@@ -1,0 +1,21 @@
+﻿选择界面｜交互参考 · Lena角色包
+生图模型：原图模型未知／界面截图不适用
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：800 × 1488
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Vertical mobile suspense video-call screenshot, close-up adult brunette Lena in charcoal jacket at film archive, steel door and film cans behind. Dark translucent top badges DIRECT Lena unverified and technical connection banner. Bilingual subtitle below face, two large dark rounded choice buttons with teal outlines, text input and mint green send button at bottom. Realistic video background and white interface typography. Interface reference, not identity master.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/work/lena/references/ui_choice.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/033.json

@@ -1,0 +1,21 @@
+﻿Adrian Voss｜全身三视图 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+32-year-old adult man, loosely parted black hair, gray-green eyes, broad long face, straight thick brows, slightly downturned eyes, clean shaven. near-black charcoal button shirt open top button, sleeves rolled to forearms, thin black ID lanyard with plain gray reversed card, charcoal straight tailored trousers, black leather belt and plain black leather shoes; no jewelry. Tall but natural approximately 7.5-head build, about 183 cm visual height, shoulders broad, legs normal, not exaggerated model proportions. Three full-length views: front, exact side profile, rear; aligned ground and matching scale, complete feet and hair. Photorealistic studio reference with natural skin pores, hair strands, soft neutral lighting, pure white seamless background, no text or watermark.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-character-assets/voss-body-3view.png
+
+原始生成提示词：
+Use case: identity-preserve. Production reference asset for fictional suspense drama Don't Trust This Feed. Character Adrian Voss, 32-year-old adult man, loosely parted black hair, gray-green eyes, broad long face, straight thick brows, slightly downturned eyes, clean shaven. Reference 1 locks existing face identity, hair, age and complexion; reference 2 defines approved work costume. Preserve this exact person, not a new actor. Costume: near-black charcoal button shirt open top button, sleeves rolled to forearms, thin black ID lanyard with plain gray reversed card, charcoal straight tailored trousers, black leather belt and plain black leather shoes; no jewelry. Tall but natural approximately 7.5-head build, about 183 cm visual height, shoulders broad, legs normal, not exaggerated model proportions. Landscape 3:2 full-body turnaround: THREE equally scaled complete figures front, strict left profile nose left, rear. Same proportions in all views, hair to soles fully visible with margins, aligned ground line. Photorealistic live-action studio reference, natural pores and hair strands, tactile cloth, soft even neutral light, PURE WHITE seamless background. No writing, labels, borders, watermarks, screens or extra props. Keep all facial features consistent with identity reference. Reference 2 is now the finalized full body and is authoritative for physique, garment construction and shoes. Copy its exact front proportions, do not elongate legs.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/005.json

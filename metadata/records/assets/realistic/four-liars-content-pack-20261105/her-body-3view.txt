@@ -1,0 +1,21 @@
+﻿Sofia（观众）｜全身三视图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Sofia, 26 year old woman, long brunette hair, brown eyes, warm tan complexion. champagne gold satin spaghetti strap cowl neck bias cut midi dress, nude thin strap flat sandals, small gold hoop earrings, short rounded nude nails, no necklace ring bracelet. Three equally scaled full-length views, front, strict left profile, rear; complete hair and shoes in each panel, aligned ground line. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/her-body-3view.png
+
+原始生成提示词：
+Refine this existing fictional adult Sofia wardrobe turnaround sheet, age 26. Keep the exact same three views front/left-profile/back, face, long brunette hair, champagne gold satin midi dress, small hoop earrings, flat nude sandals, white background and lighting. User requests legs just a LITTLE longer: subtle 4–5 percent length increase distributed through thighs and calves, gently lifted waist, natural balanced anatomy. Apply the same body correction coherently to all three views, head/shoulders proportions unchanged. The dress must remain a modest calf-length midi dress and extend naturally with the leg change, no change to neckline or coverage. Full hair and shoes visible, aligned floor, realistic costume reference, 3:2 landscape. No text.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/010.json

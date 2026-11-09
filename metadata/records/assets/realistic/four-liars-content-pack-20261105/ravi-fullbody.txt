@@ -1,0 +1,21 @@
+﻿Ravi｜全身定装图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Ravi, adult man in his twenties, swept voluminous black hair, brown eyes, medium brown skin, clean shaven. light gray unlined linen blazer, plain white crewneck tee, light gray linen trousers, white leather sneakers, no jewelry. One centered front-view full-length standing figure with entire hair and both shoes visible, arms relaxed, natural knees and coherent anatomy. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/ravi-fullbody.png
+
+原始生成提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Ravi, adult man in his twenties, swept voluminous black hair, brown eyes, medium brown skin, clean shaven. Reference image 1 defines the exact existing face, skin texture, eye color, hairline and haircut; reference image 2 defines the approved costume only; body proportions must be redesigned as described below. Match the SAME person in all panels, preserve age and asymmetric facial details, do not beautify or redesign. Use the costume from reference 2 in EVERY visible view: light gray unlined linen blazer, plain white crewneck tee, light gray linen trousers, white leather sneakers, no jewelry.  USER CORRECTION v3 OVERRIDES all earlier proportion requests. The previous long-leg version was rejected as disproportionate. ravi is 180 cm tall within this ensemble. Build a naturally balanced adult physique approximately SEVEN HEADS TALL (7.0 to 7.2 head lengths from crown to sole, counting the entire skull), a normally sized head, lean fit body, moderately broad shoulders and normal waist. Legs are NOT exaggerated: crotch to soles around 45–46 percent of full standing height, realistic femur and calf lengths, normal pelvis and arms. Preserve original face, haircut, skin and exact clothing from references. Do not lengthen legs like a runway illustration or create a tiny head. The final result should look like a real appealing adult with proportional anatomy. Single FRONT full-body studio portrait on white, vertical 2:3, full hair and footwear visible, neutral standing with arms relaxed. Camera at waist height with distant 70mm-equivalent perspective. Ensemble fixed physical framing: 210 cm vertical field, soles at 95% of canvas, crown at 9% from top; actual character height differs, do not fill all blank space. No text, no measurement lines, no extra objects.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/039.json

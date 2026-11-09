@@ -1,0 +1,21 @@
+﻿维萨册簿｜登记道具 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+Create a high quality production asset for the original fantasy series Rian Thalys. Match the refined semi-realistic fantasy rendered visual style and materials of the supplied reference images. Isolate the exact dark blue violet folio/book held by Vessa in reference, silver ornamental corner lines and central silver filigree motif, pale blue gem clasp on right edge. Three coherent product views: front cover, spine at three-quarter, back cover. CLOSED book, no invented readable writing. Pale cool gray background, no hands or people. Landscape 3:2 composition. No text, labels, logos, watermark or decorative frame.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/prop-folio.png
+
+原始生成提示词：
+Create a high quality production asset for the original fantasy series Rian Thalys. Match the refined semi-realistic fantasy rendered visual style and materials of the supplied reference images. Isolate the exact dark blue violet folio/book held by Vessa in reference, silver ornamental corner lines and central silver filigree motif, pale blue gem clasp on right edge. Three coherent product views: front cover, spine at three-quarter, back cover. CLOSED book, no invented readable writing. Pale cool gray background, no hands or people. Landscape 3:2 composition. No text, labels, logos, watermark or decorative frame.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/008.json

@@ -1,0 +1,21 @@
+﻿无边泳池（日） · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Empty tropical villa infinity pool in bright clear daylight. Long rectangular cyan pool, ocean to left, white flat-roof villa and floating wooden exterior stair to right, dark slim railings and potted tropical plants, circular cream firepit lounge at far end. All lights and flames off. Vertical eye-level view along pool. Photorealistic location photography, detailed real materials, no text or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/L4-pool-day.png
+
+原始生成提示词：
+Edit this exact empty villa pool location from night into bright tropical DAYTIME, photorealistic vertical 9:16 location plate. Preserve camera, pool geometry, white villa on right, floating wooden stair on right, dark rails, potted plants, palm trees, ocean on left, distant circular firepit lounge. Blue sky, midday clear sun, cyan water. Flames extinguished, all lamps/stringlights off, remove moon. No people, no added furniture, no text. Match exact architecture and layout.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/054.json

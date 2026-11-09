@@ -1,0 +1,21 @@
+﻿盐点港｜平面图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+Create ONE strict 2D orthographic top-down film-set PLAN for this single location. Image1 is spatial authority; other images provide its appearance. Saltpoint human harbor. Input 1 is authoritative 3D spatial layout: curved continuous waterfront promenade with THREE shop/cafe zones along back (A dive shop at left, B market center, C tavern at right), several timber finger piers reaching toward camera into water, and lighthouse on right outer headland D. Input 2 provides facade style and eye-level views. Follow input1 for the fixed plan. Low white stone buildings, navy awnings, warm lanterns. No fantasy palace. Draw only this location's footprint, with black architectural linework and flat ivory/light blue fills. Top-down furniture footprints, thick wall or rock outlines, openings and fixed circulation. No wall elevations visible, no perspective, no isometric model, no realistic shadows. Do not draw any additional building, bridge, cave, courtyard, entry or connecting room not present in these references. For unshown edges use a plain closed boundary. Sparse SHORT English zone labels, no numbers or dimensions. Portrait 9:16. One plan fills the sheet. No people.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-spatial-assets/spatial-harbor-plan.png
+
+原始生成提示词：
+Create ONE strict 2D orthographic top-down film-set PLAN for this single location. Image1 is spatial authority; other images provide its appearance. Saltpoint human harbor. Input 1 is authoritative 3D spatial layout: curved continuous waterfront promenade with THREE shop/cafe zones along back (A dive shop at left, B market center, C tavern at right), several timber finger piers reaching toward camera into water, and lighthouse on right outer headland D. Input 2 provides facade style and eye-level views. Follow input1 for the fixed plan. Low white stone buildings, navy awnings, warm lanterns. No fantasy palace. Draw only this location's footprint, with black architectural linework and flat ivory/light blue fills. Top-down furniture footprints, thick wall or rock outlines, openings and fixed circulation. No wall elevations visible, no perspective, no isometric model, no realistic shadows. Do not draw any additional building, bridge, cave, courtyard, entry or connecting room not present in these references. For unshown edges use a plain closed boundary. Sparse SHORT English zone labels, no numbers or dimensions. Portrait 9:16. One plan fills the sheet. No people.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/067.json

@@ -1,0 +1,21 @@
+﻿Wes（男主 A）｜六角度视图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-03
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Wes, late twenties man, tousled sandy brown hair, gray-green eyes, freckles, warm approachable face. light sky-blue linen shirt open at collar, rolled sleeves untucked, stone beige linen trousers, brown suede loafers, one thin brown leather cord bracelet on his LEFT wrist only; no watch. Six head and shoulder views in a two by three grid: front, left and right three-quarter, left and right profile, rear. Consistent identity and scale. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/wes-multi-angle.png
+
+原始生成提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Wes, late twenties man, tousled sandy brown hair, gray-green eyes, freckles, warm approachable face. Reference image 1 defines the exact existing face, skin texture, eye color, hairline and haircut; reference image 2 defines the approved costume and body proportions. Match the SAME person in all panels, preserve age and asymmetric facial details, do not beautify or redesign. Use the costume from reference 2 in EVERY visible view: light sky-blue linen shirt open at collar, rolled sleeves untucked, stone beige linen trousers, brown suede loafers, one thin brown leather cord bracelet on his LEFT wrist only; no watch. Create a 3:2 landscape SIX VIEW head and shoulders angle sheet, exactly 2 rows x 3 columns. Top row: front, left three-quarter, right three-quarter. Bottom row: strict left profile, a gently elevated camera looking down at face, a gently lowered camera looking up at face. Distinct camera angles, entire hair and chin visible, consistent head scale, same neutral expression. No back view. Clean white seamless studio background and soft neutral even light, realistic photographic fidelity matching the source, no stylization, no labels, no text, no borders, no watermark, no added props. Only change viewing angle or expression as specified.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/050.json

@@ -1,0 +1,21 @@
+﻿多角度图 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Meridian media archive facility: G operations control room and loading dock; B2 windowless projection room with steel desk, white cup, warm lamp, main bolted door, narrow side door, dim terminal and film racks; B3 charred sealed archive with film racks, red valve and warm work lamp. Separate green-lit concrete stair core connects levels. Intermediate floors and unseen regions omitted. Photorealistic scene contact sheet, five columns in order projection room, stairwell, sealed archive, control room, loading dock; two rows of different wide camera angles for each. Consistent materials and night lighting, white narrow gutters, no people or text. Fictional production concept, not measured construction documentation.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-scene-prop-assets/spatial-multi-angle.png
+
+原始生成提示词：
+Production architecture reference for the fictional Meridian media archive, consistent with attached cutaway scheme and original room photos. The cutaway is schematic, intermediate unshown floors omitted. G contains operations control room (long console, 2 chairs, blue gray monitor wall) and rainy loading dock with half-raised shutter. B2 contains windowless projection/archive room with steel desk, white cup, warm desk lamp, thick main steel door with slide bolt, adjacent narrow side door, small wall terminal, film-can shelves. B3 sealed archive contains scorched metal film-can shelves, rusty red valve and portable warm work lamp. Separate concrete stair core left connects all levels, green caged lamps. Original room photo details authoritative. No people. No added plot objects. No numerical dimensions. No L1/L2/L3/L4/L5 labels anywhere, since source cutaway room labels are erroneous. Only G, B2, B3 where appropriate. Dry interiors, rain only outside. Landscape 3:2 high quality. Create a production scene reference CONTACT SHEET, five clearly separated equal-width COLUMNS corresponding in this exact order to projection room, stairwell, sealed archive, control room, loading dock. Two ROWS: first row reverse wide angle and second row diagonal corner wide angle of the SAME room per column. 10 coherent photorealistic images with white thin gutters, no text or labels. Keep fixed geometry, furnishings, lighting and props within both views of each room. ARCHITECTURAL views, not closeups, no people. No 3D dollhouse render in this sheet.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/020.json

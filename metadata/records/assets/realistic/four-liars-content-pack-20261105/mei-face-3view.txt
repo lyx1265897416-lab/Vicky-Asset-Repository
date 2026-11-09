@@ -1,0 +1,21 @@
+﻿Mei（主持人）｜面部三视图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Mei, early forties woman, short side-part dark bob, hazel eyes, mature polished face. ivory single-button blazer dress with sleeves slightly pushed up, nude pointed pumps, small pearl studs, plain cream cue card held naturally at waist in full body views. Three evenly spaced head and shoulder portraits: front, strict left profile with nose pointing left, back of head. Same head scale, neutral expression. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/mei-face-3view.png
+
+原始生成提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Mei, early forties woman, short side-part dark bob, hazel eyes, mature polished face. Reference image 1 defines the exact existing face, skin texture, eye color, hairline and haircut; reference image 2 defines the approved costume and body proportions. Match the SAME person in all panels, preserve age and asymmetric facial details, do not beautify or redesign. Use the costume from reference 2 in EVERY visible view: ivory single-button blazer dress with sleeves slightly pushed up, nude pointed pumps, small pearl studs, plain cream cue card held naturally at waist in full body views. Create a 3:2 landscape three-view HEAD AND SHOULDERS turnaround sheet: exactly three evenly spaced portraits, left panel FRONT facing camera, center panel strict LEFT PROFILE nose pointing left, right panel BACK OF HEAD facing away. All same head scale, neutral expression. Show the entire hair silhouette, ears, shoulders and collar. Back panel must truly show the rear hair and collar. Clean white seamless studio background and soft neutral even light, realistic photographic fidelity matching the source, no stylization, no labels, no text, no borders, no watermark, no added props. Only change viewing angle or expression as specified.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/032.json

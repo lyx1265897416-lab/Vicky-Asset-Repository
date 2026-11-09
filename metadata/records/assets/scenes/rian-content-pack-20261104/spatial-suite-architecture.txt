@@ -1,0 +1,21 @@
+﻿临水套房｜建筑资料图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+Use case: infographic-diagram. Create the requested production spatial reference for an existing fictional Rian Thalys story location. Image 1 locks the connected spatial geometry; later images lock the existing visual appearance. Palace suite. From reference viewpoint round raised pool on LEFT beside sea-view arched windows, canopy bed on RIGHT with navy upholstered foot bench, freestanding three-panel blue folding screen between pool and bed, rear doorway and dressing alcove beyond screen. Maintain physical dry walking route around screen, one pool and one bed only. Asset type: architectural/set reference BOARD. A portrait 9:16 page with THREE clearly separated stacked orthographic studies of the SAME fixed space: main elevation, perpendicular side elevation or longitudinal section, and a row of 3 material/detail closeups from the reference. Fine accurate architectural linework blended with lightly shaded ivory, pale blue and gold materials. Show wall/arch heights and openings coherently without numerical dimensions. For natural reef/cave use terrain cross-sections and stone/coral details, NOT invented buildings. Short English headings only ELEVATION, SECTION, DETAILS. No isometric hero view and no floor plan on this board. Preserve exact existing anchors and materials. Unseen surfaces minimally completed, no new story props. Clear legible professional reference; no watermark.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-spatial-assets/spatial-suite-architecture.png
+
+原始生成提示词：
+Use case: infographic-diagram. Create the requested production spatial reference for an existing fictional Rian Thalys story location. Image 1 locks the connected spatial geometry; later images lock the existing visual appearance. Palace suite. From reference viewpoint round raised pool on LEFT beside sea-view arched windows, canopy bed on RIGHT with navy upholstered foot bench, freestanding three-panel blue folding screen between pool and bed, rear doorway and dressing alcove beyond screen. Maintain physical dry walking route around screen, one pool and one bed only. Asset type: architectural/set reference BOARD. A portrait 9:16 page with THREE clearly separated stacked orthographic studies of the SAME fixed space: main elevation, perpendicular side elevation or longitudinal section, and a row of 3 material/detail closeups from the reference. Fine accurate architectural linework blended with lightly shaded ivory, pale blue and gold materials. Show wall/arch heights and openings coherently without numerical dimensions. For natural reef/cave use terrain cross-sections and stone/coral details, NOT invented buildings. Short English headings only ELEVATION, SECTION, DETAILS. No isometric hero view and no floor plan on this board. Preserve exact existing anchors and materials. Unseen surfaces minimally completed, no new story props. Clear legible professional reference; no watermark.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/078.json

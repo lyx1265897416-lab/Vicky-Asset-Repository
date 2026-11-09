@@ -1,0 +1,21 @@
+﻿Sloane（对手）｜六角度视图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Sloane, adult woman in her twenties, long wavy blonde hair with curtain fringe, blue eyes, freckles. electric blue satin halter mini dress, silver strappy high heel sandals, small silver drop earrings, long almond pale pink glossy nails. Six head and shoulder views in a two by three grid: front, left and right three-quarter, left and right profile, rear. Consistent identity and scale. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/sloane-multi-angle.png
+
+原始生成提示词：
+Local correction to first reference six-angle portrait sheet of fictional adult Sloane. Reference2 shows her corrected profile. Update the profile portraits in reference1 to match reference2: gently soften projecting lips/muzzle and retract forward chin tip into a balanced natural silhouette. Keep exactly same identity, front portrait, blonde hair, freckles, blue dress, earrings and six panel layout. All other regions unchanged. Realistic subtle local edit, no text.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/045.json

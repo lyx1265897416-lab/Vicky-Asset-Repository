@@ -1,0 +1,21 @@
+﻿L1 放映室 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：938 × 1677
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Windowless small archive projection room, rough gray concrete walls, a cold fluorescent ceiling tube, heavy steel main door with horizontal slide bolt at back left, adjacent narrow steel side door and dim wall terminal, film-can shelves on right. Foreground steel desk with one white paper cup, small warm desk lamp at left. Empty, dry night interior, vertical photorealistic location image.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-scene-prop-assets/L1-relay-empty.png
+
+原始生成提示词：
+Edit the attached established location image into a production EMPTY ENVIRONMENT master, photorealistic vertical 9:16. Remove Lena completely including hands, reconstruct the room naturally behind her. Preserve the existing thick steel main door with sliding bolt at rear left, metal film-can shelving at right, rough concrete walls, single cold white fluorescent ceiling tube, foreground steel desk and one plain white paper cup, warm desk lamp. Reveal a narrow steel side door adjacent to main door and a small dim wall terminal on rear wall where previously obscured, as specified in the story. Entire room windowless and dry, night interior, realistic cinematic archive facility. Keep same scale, geometry, camera direction, material and existing illumination. No people, no silhouettes, no readable screen text, no graphic labels. Complete usable location image, not a collage.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/015.json

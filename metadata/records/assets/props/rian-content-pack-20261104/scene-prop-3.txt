@@ -1,0 +1,21 @@
+﻿呼吸坠 · Rian角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：506 × 420
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+A fantasy breathing pendant on a dark braided neck cord, oval translucent sea-green gem within a silver filigree cage, three small luminous green beads along its base. Product detail sheet on pale gray: large pendant at left, smaller charged and depleted versions at right with three and one lit beads respectively. Refined 3D product rendering, silver metal and glasslike green gem, soft studio light.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/scene-prop-3.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/022.json

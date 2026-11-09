@@ -2,9 +2,9 @@
 let activeCharacter='all',activeProject='all',activeReadiness='all',groupByCharacter=false,detailCharacter=null;
 const projectLabels={'the_ninth_inning':'第九局以后','mii-takes-care-of-you':'今天不要上班，咪养你','off-script / KISS ME FOR REAL':'OFF SCRIPT · KISS ME FOR REAL','the-sea-princes-almost-bride':'海王子的准新娘','3d-white-34-20260923':'白底 3D 角色 · 34 组','3d-front-17-20260923':'白底 3D 角色 · 17 组','front-id-32-20260923':'白底女角色 · 32 组','white-portraits-24-20260922':'白底女角色 · 24 组','male-white-portraits-31-v2-20260923':'男角色 · 31 组','male-white-portraits-23-v2-20260923':'男角色第二版 · 23 组','western-male-white-28-v3-20260923':'欧美男角色 · 28 组','research-white-27-20260923':'调研角色 · 27 组','research-character-batch-20260922':'原创调研角色'};
 function roleComplete(c){return manifest.asset_standard.slots.every(s=>assets.some(a=>!isTrashed(a)&&a.character_ids.length===1&&a.character_ids[0]===c.id&&(s.views.includes(a.view_type)||(a.verified_slots||[]).includes(s.key))))}
-function roleInScope(c){return genderMatches(c)&&(activeProject==='all'||c.project===activeProject)&&(activeReadiness==='all'||(activeReadiness==='complete'?roleComplete(c):!roleComplete(c)))}
+function roleInScope(c){return genderMatches(c)&&ethnicityMatches(c)&&(activeProject==='all'||c.project===activeProject)&&(activeReadiness==='all'||(activeReadiness==='complete'?roleComplete(c):!roleComplete(c)))}
 const characterById=()=>new Map(manifest.characters.map(c=>[c.id,c]));
-function characterMatches(a,id){const map=characterById();return (id==='all'||(id==='unassigned'?!a.character_ids.length:a.character_ids.includes(id)))&&((activeProject==='all'&&activeReadiness==='all'&&activeGender==='all')||a.character_ids.some(cid=>map.has(cid)&&roleInScope(map.get(cid))))}
+function characterMatches(a,id){const map=characterById();return (id==='all'||(id==='unassigned'?!a.character_ids.length:a.character_ids.includes(id)))&&((activeProject==='all'&&activeReadiness==='all'&&activeGender==='all'&&activeEthnicity==='all')||a.character_ids.some(cid=>map.has(cid)&&(id==='all'||cid===id)&&roleInScope(map.get(cid))))}
 function characterFilterHTML(){
  const available=manifest.characters.filter(c=>roleInScope(c)&&assets.some(a=>a.character_ids.includes(c.id)&&(activeCollection==='trash'?isTrashed(a):!isTrashed(a))));
  const projects=[...new Set(manifest.characters.map(c=>c.project))];
@@ -109,5 +109,5 @@ function renderCharacterPanel(a){
  host.querySelectorAll('[data-slot-asset]').forEach(b=>b.onclick=()=>{modalIndex=Number(b.dataset.slotAsset);updateModal()});
  host.querySelectorAll('[data-role-asset]').forEach(b=>b.onclick=()=>{const next=Number(b.dataset.roleAsset);modalIndex=next;updateModal();host.querySelector(`[data-role-asset="${next}"]`)?.focus({preventScroll:true})});
  const selector=document.getElementById('detail-character-select');if(selector)selector.onchange=e=>{detailCharacter=e.target.value;updateModal()};
- document.getElementById('show-character-assets').onclick=()=>{const id=detailCharacter;closeModal();activeKind='character';activeGender='all';openFilterPanel=null;activeCharacter=id;activeProject='all';activeReadiness='all';activeCollection='all';activeCategory='all';activeStyle='all';activeSpecies='all';query='';selectedAssets.clear();render()};
+ document.getElementById('show-character-assets').onclick=()=>{const id=detailCharacter;closeModal();activeKind='character';activeGender='all';activeEthnicity='all';openFilterPanel=null;activeCharacter=id;activeProject='all';activeReadiness='all';activeCollection='all';activeCategory='all';activeStyle='all';activeSpecies='all';query='';selectedAssets.clear();render()};
 }

@@ -1,0 +1,21 @@
+﻿Jasper（男主 B）｜全身定装图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Jasper, late twenties man, dark brown wavy curls, gray-green eyes, angular face, composed gaze. midnight navy silky shirt open two buttons and rolled sleeves tucked into black slim trousers, black loafers, no jewelry or watch. One centered front-view full-length standing figure with entire hair and both shoes visible, arms relaxed, natural knees and coherent anatomy. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks. Tall lean model build, elongated but anatomically coherent legs and normal head size; taller visual stature than other men.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/jasper-fullbody.png
+
+原始生成提示词：
+Make a very small local proportional adjustment to this exact Jasper photograph: SHORTEN his legs by only the height of ONE heel of the black loafers he is wearing, about 2–3 cm total in body scale, not a whole shoe length. Distribute this small reduction between thigh and lower leg, keep knees natural and preserve his tall elegant model build. Preserve head size, exact face, hairstyle, shoulder width, torso, shirt, hands, navy shirt tucked into black trousers, identical black loafers. Do not change shoe heel height. Overall pose, white background, lighting and framing stay the same; retain full head-to-toe view. No text. Subtle adjustment only, not another large body redesign.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/018.json

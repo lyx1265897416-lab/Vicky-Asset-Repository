@@ -1,0 +1,21 @@
+﻿白色纸杯 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One plain matte white tapered disposable paper cup, rolled rim, open top viewed from slightly elevated three-quarter angle, isolated on pure white studio background with soft contact shadow. Square photorealistic product image, no print, hands or lid.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-scene-prop-assets/prop-cup.png
+
+原始生成提示词：
+Extract and recreate the plain matte white paper cup from attached production reference as one isolated production prop on pure white background, photorealistic studio product image. One cup only, upright, three-quarter eye level slightly elevated so opening visible, rolled rim and tapered disposable paper shape, no print, no lid, natural tiny contact shadow. No lamp, no film can, no room or hands. Square canvas, whole item visible, high detail.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/016.json

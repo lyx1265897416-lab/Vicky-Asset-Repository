@@ -1,0 +1,21 @@
+﻿临海餐桌｜多角度图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+Create the requested production spatial reference for an existing fictional Rian Thalys story location. Image 1 locks the connected spatial geometry; later images lock the existing visual appearance. Small palace dining alcove opening onto seaside terrace at dusk. ONE round white marble dining table and TWO blue velvet chairs facing each other, two place settings, central flowers/candles, open tall french doors toward balcony, navy gold curtains, white stone balustrade outside. Retain exact table and chairs. Asset type: FOUR-VIEW ENVIRONMENT CONTACT SHEET, exactly 2 columns by 2 rows, filling one portrait 9:16 canvas with narrow pale gutters. Four DIFFERENT actual camera views of ONE fixed location, not four new layouts: entry establishing view; reverse view from opposite end; left diagonal view; right diagonal view. Keep lighting/time, materials, number/positions of fixed anchors and adjacent openings consistent with the 3D reference. High-end detailed fantasy game rendering as original. All views at plausible camera height, not isometric. NO people. No text, no titles. Preserve exact existing anchors and materials. Unseen surfaces minimally completed, no new story props. Clear legible professional reference; no watermark.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-spatial-assets/spatial-dining-angles.png
+
+原始生成提示词：
+Use case: stylized-concept. Create the requested production spatial reference for an existing fictional Rian Thalys story location. Image 1 locks the connected spatial geometry; later images lock the existing visual appearance. Small palace dining alcove opening onto seaside terrace at dusk. ONE round white marble dining table and TWO blue velvet chairs facing each other, two place settings, central flowers/candles, open tall french doors toward balcony, navy gold curtains, white stone balustrade outside. Retain exact table and chairs. Asset type: FOUR-VIEW ENVIRONMENT CONTACT SHEET, exactly 2 columns by 2 rows, filling one portrait 9:16 canvas with narrow pale gutters. Four DIFFERENT actual camera views of ONE fixed location, not four new layouts: entry establishing view; reverse view from opposite end; left diagonal view; right diagonal view. Keep lighting/time, materials, number/positions of fixed anchors and adjacent openings consistent with the 3D reference. High-end detailed fantasy game rendering as original. All views at plausible camera height, not isometric. NO people. No text, no titles. Preserve exact existing anchors and materials. Unseen surfaces minimally completed, no new story props. Clear legible professional reference; no watermark.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/059.json

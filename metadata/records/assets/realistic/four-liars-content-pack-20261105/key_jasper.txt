@@ -1,0 +1,21 @@
+﻿Jasper × Sofia｜开场双人参考 · Four Liars角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：788 × 1400
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Jasper, late twenties man, dark brown wavy curls, gray-green eyes, angular face, composed gaze. midnight navy silky shirt open two buttons and rolled sleeves tucked into black slim trousers, black loafers, no jewelry or watch. Production character reference asset for original fictional series Four Liars, One Island. Character Sofia, 26 year old woman, long brunette hair, brown eyes, warm tan complexion. champagne gold satin spaghetti strap cowl neck bias cut midi dress, nude thin strap flat sandals, small gold hoop earrings, short rounded nude nails, no necklace ring bracelet.  A close two-person standing shot: Jasper left facing Sofia right, intimate eye contact; Sofia holds a low cocktail tumbler with a lime wheel. Tropical villa pool party at night with palms, cyan water and warm string lights. Vertical cinematic frame.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/four-liars-content-pack-20261105/document-originals/key_jasper.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/072.json

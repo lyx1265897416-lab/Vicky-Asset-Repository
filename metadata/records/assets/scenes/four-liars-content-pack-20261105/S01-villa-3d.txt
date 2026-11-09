@@ -1,0 +1,21 @@
+﻿三维概念图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One compact tropical oceanfront flat-roof white villa to the right of a single long rectangular cyan infinity pool. Ocean to left; circular sunken lounge with cream cushions and round fire bowl at far short end; narrow stone paths; straight floating wood exterior stair at near end of villa; small wooden bar with three wicker stools at near-right. Teak roof has white daybed, brass telescope, slim dark/glass railings. No people, second pool or extra wings. Single elevated three-quarter architectural diorama on clean light neutral background, realistic materials, warm night lights and tropical palms, portrait layout with generous margins. Concept set design reference, not measured construction documentation.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/S01-villa-3d.png
+
+原始生成提示词：
+Create one sophisticated realistic architectural 3D concept model image for this SAME tropical oceanfront villa set, portrait 9:16. Inputs are environment references, not panels to copy. One elevated three-quarter overview showing white flat-roof villa on RIGHT side of rectangular cyan infinity pool, ocean LEFT, circular sunken cream-cushioned firepit lounge at FAR SHORT END of pool, floating exterior wood stair along villa pool-facing wall reaching roof. Roof has teak floor, white daybed and brass telescope, glass/dark slim rail. Outdoor small wood bar with three wicker stools on landward pool deck. Palms and potted tropical plants; warm night lights. Use coherent geometry and physically connected paths around pool. Keep it intimate single villa, no invented extra wings or second pool. No people or text, no dimensions. Render on clean light neutral backdrop as a physical architectural diorama, enough margins, clear spatial relationships.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/064.json

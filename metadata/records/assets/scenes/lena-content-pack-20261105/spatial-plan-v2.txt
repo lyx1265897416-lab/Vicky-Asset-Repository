@@ -1,0 +1,21 @@
+﻿平面图 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Meridian media archive facility: G operations control room and loading dock; B2 windowless projection room with steel desk, white cup, warm lamp, main bolted door, narrow side door, dim terminal and film racks; B3 charred sealed archive with film racks, red valve and warm work lamp. Separate green-lit concrete stair core connects levels. Intermediate floors and unseen regions omitted. Landscape white architectural floor-plan sheet, three side-by-side flat diagrams labelled G, B2, B3. Thick dark wall outlines, door swing arcs, step lines and arrows at left stair core; console and two chairs plus loading ramp on G, desk/lamp/cup and film shelves on B2, two shelving rows and central aisle on B3. No measured dimensions. Fictional production concept, not measured construction documentation.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-scene-prop-assets/spatial-plan-v2.png
+
+原始生成提示词：
+Transform this incorrect perspective floor reference into an ACTUAL ARCHITECTURAL FLOOR PLAN. Strictly a 2D vector-style black and gray line drawing seen from directly vertically overhead, camera looking straight down parallel to gravity, ZERO perspective, ZERO visible vertical wall elevations. Three side-by-side flat rectangular panels labeled G, B2, B3. Every element uses conventional plan symbols: walls as thick double-line outlines, doors as gaps with quarter-circle swing arcs, stairs as parallel step lines with arrow, chairs as small top-down circles/squares, tables as rectangles, shelving as long narrow rectangles, small cup as circle. NO tall doors depicted frontally, no monitors depicted frontally, no receding perspective floor, no rendered rooms. Same left stair core on each floor. G plan: central operations room with console along upper wall and 2 chairs, loading bay in right room with roller shutter along bottom exterior wall and ramp outside. B2 plan: archive/projection room steel desk with lamp/cup at lower left, racks along right wall, main and narrow side doors along top wall leading to corridor to left stair, small terminal on top wall. B3 plan: 2 parallel rows of film-can shelving along left and right walls with central aisle, red valve as small circle along left wall, archive entry linked to left stair. Flat white background, clean professional drafted plan like a CAD drawing. No material textures, no photoreal shading, no elevations. No invented dimensions. Only G B2 B3 labels. Landscape 3:2.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/022.json

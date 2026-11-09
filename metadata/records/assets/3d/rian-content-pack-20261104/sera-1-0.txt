@@ -1,0 +1,21 @@
+﻿Sera Venn｜原始角色设定板 · Rian角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+High-end semi-realistic 3D fantasy romance character rendering, detailed soft skin and individual hair strands, tactile fabric, neutral soft studio lighting. Sera Venn age 24, adult fleet heiress,  warm tan face and brown eyes, long dark brown high ponytail with braids and silver hair ornaments, small blue fin ears, pearl studs. Deep teal tailored long split-tail military jacket with silver embroidery and fasteners, charcoal fitted trousers, dark knee-high heeled boots. No weapon.  Landscape character reference sheet: front, profile and rear full-length uniform views at left; large face and smaller angle portraits at right. Pale gray background and original character labels.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/sera-1-0.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/027.json

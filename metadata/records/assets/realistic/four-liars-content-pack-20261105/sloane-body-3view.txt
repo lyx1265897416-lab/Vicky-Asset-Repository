@@ -1,0 +1,21 @@
+﻿Sloane（对手）｜全身三视图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Sloane, adult woman in her twenties, long wavy blonde hair with curtain fringe, blue eyes, freckles. electric blue satin halter mini dress, silver strappy high heel sandals, small silver drop earrings, long almond pale pink glossy nails. Three equally scaled full-length views, front, strict left profile, rear; complete hair and shoes in each panel, aligned ground line. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/sloane-body-3view.png
+
+原始生成提示词：
+Create a neutral wardrobe continuity reference sheet of the same fictional ADULT woman Sloane, age 28, from the two supplied reference photos. Use exactly the same face, blonde hair, blue dress, earrings and silver sandals as the approved full-body photo. Exactly three fully clothed standing views FRONT, LEFT PROFILE and BACK side by side, identical ordinary natural proportions, arms relaxed, full hair and shoes visible. Professional costume documentation, neutral standing pose, even studio lighting on white, 3:2 landscape, no text. Preserve identity; natural relaxed balanced facial profile without forward jutting chin.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/041.json

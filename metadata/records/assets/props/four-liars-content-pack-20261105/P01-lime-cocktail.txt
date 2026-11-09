@@ -1,0 +1,21 @@
+﻿P01 青柠鸡尾酒 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One low clear straight-sided tumbler with a thick glass base, pale cloudy golden cocktail and one thin lime wheel, no straw, mint or flowers. Three-quarter product view on pure white seamless background, soft grounded shadow, realistic glass reflections.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/P01-lime-cocktail.png
+
+原始生成提示词：
+Create a photorealistic prop catalogue photograph on pure white seamless background. Reference image defines the EXACT low clear straight-sided tumbler with thick glass base, pale golden cloudy cocktail, a little ice and ONE thin round lime wheel clipped on rim held by the woman. Show ONLY this one drink, centered 3/4 view, complete glass, soft subtle shadow. No people, hands, straw, mint, flowers, extra lime slices or text. Keep realistic glass design and proportions, no tall glass. Square image.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/058.json

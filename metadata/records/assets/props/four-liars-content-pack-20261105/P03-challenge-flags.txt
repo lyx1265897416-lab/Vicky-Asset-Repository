@@ -1,0 +1,21 @@
+﻿P03 夺旗赛红旗 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Six plain red triangular pennant flags on six slim natural wood poles, accompanied by a small loose pile of white chalk powder. Isolated product arrangement on pure white, complete poles, realistic fabric weave and soft studio shadows.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/P03-challenge-flags.png
+
+原始生成提示词：
+Photorealistic isolated prop reference photograph on pure white seamless background. Reproduce the beach challenge red flags from reference: six small plain red triangular pennant flags on six slim natural wooden poles, neatly arranged side by side at an oblique angle, visible entire pole and plain cloth. Add a small unobtrusive pile of white chalk powder at bottom corner to show the starting-line material. No beach background, no people, no text, no paddleboards, no logos. Soft studio contact shadow, square composition.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/060.json

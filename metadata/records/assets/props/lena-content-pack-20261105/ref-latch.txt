@@ -1,0 +1,21 @@
+﻿门闩操作｜动作参考 · Lena角色包
+生图模型：原图模型未知／界面截图不适用
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：720 × 1264
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Close view of worn gray painted steel door and heavy horizontal barrel slide bolt engaged in receiver. A woman’s bare hand with short pale nails touches the lock, charcoal work jacket sleeve at wrist; rust and chipped paint, realistic vertical detail frame.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/work/lena/references/latch.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/030.json

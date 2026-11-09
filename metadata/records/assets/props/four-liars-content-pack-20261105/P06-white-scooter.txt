@@ -1,0 +1,21 @@
+﻿P06 白色踏板车 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One white retro step-through scooter with tan saddle, chrome mirrors and trim, black tires, complete body and both wheels in three-quarter view. Pure white seamless background, soft grounded shadow, photorealistic product rendering, no rider or text.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/P06-white-scooter.png
+
+原始生成提示词：
+Extract and faithfully reproduce the exact white retro step-through scooter from reference as a photorealistic studio catalogue photograph isolated on pure white seamless background. Single full scooter, three-quarter left-side view facing left, tan seat, chrome trim and round mirror, black tires, realistic wheel size, side stand deployed. Keep original design and proportions, remove environment and brand logos, no people, no text. Soft natural contact shadow. Landscape 3:2 composition.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/063.json

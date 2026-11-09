@@ -1,0 +1,21 @@
+﻿Lena Hart｜六角度视图 · Lena角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+27-year-old adult woman, long center-part dark chestnut slightly wavy hair, fair skin, softly elongated oval face, hazel-brown eyes and natural dark brows. dark charcoal gray cotton zip work jacket half zipped, one thin white seam on the sleeve matching outfit reference, cream knit top, straight dark charcoal work trousers and plain black low work shoes; no jewelry; short unpainted nails. Natural slender approximately 7.2-head build, about 168 cm visual height, normal legs and head, not a fashion runway figure. Six head-and-shoulder portraits in a 2 by 3 grid: frontal, left/right three-quarter, left/right profile and rear. Photorealistic studio reference with natural skin pores, hair strands, soft neutral lighting, pure white seamless background, no text or watermark.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-character-assets/lena-multi-angle.png
+
+原始生成提示词：
+Use case: identity-preserve. Production reference asset for fictional suspense drama Don't Trust This Feed. Character Lena Hart, 27-year-old adult woman, long center-part dark chestnut slightly wavy hair, fair skin, softly elongated oval face, hazel-brown eyes and natural dark brows. Reference 1 locks existing face identity, hair, age and complexion; reference 2 defines approved work costume. Preserve this exact person, not a new actor. Costume: dark charcoal gray cotton zip work jacket half zipped, one thin white seam on the sleeve matching outfit reference, cream knit top, straight dark charcoal work trousers and plain black low work shoes; no jewelry; short unpainted nails. Natural slender approximately 7.2-head build, about 168 cm visual height, normal legs and head, not a fashion runway figure. Landscape 3:2 sheet with SIX head-and-shoulder portraits in a 2 by 3 grid: FRONT, left three-quarter, right three-quarter / strict left profile, strict right profile, back of head. Consistent head scale and neutral expression. Photorealistic live-action studio reference, natural pores and hair strands, tactile cloth, soft even neutral light, PURE WHITE seamless background. No writing, labels, borders, watermarks, screens or extra props. Keep all facial features consistent with identity reference.
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/002.json

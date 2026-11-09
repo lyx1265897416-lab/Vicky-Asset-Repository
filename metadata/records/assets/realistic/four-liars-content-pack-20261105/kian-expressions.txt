@@ -1,0 +1,21 @@
+﻿Kian｜六格表情图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Kian, adult man in his late twenties, dark tousled waves, brown eyes, warm tan skin, angular jaw with light stubble. terracotta linen shirt open collar rolled sleeves tucked into cream trousers, brown belt and brown loafers, no jewelry. Six head and shoulder portraits in a two by three grid with restrained varied expressions: neutral, warm smile, thoughtful, surprised, doubtful, serious. Consistent identity and head scale. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/kian-expressions.png
+
+原始生成提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Kian, adult man in his late twenties, dark tousled waves, brown eyes, warm tan skin, angular jaw with light stubble. Reference image 1 defines the exact existing face, skin texture, eye color, hairline and haircut; reference image 2 defines the approved costume and body proportions. Match the SAME person in all panels, preserve age and asymmetric facial details, do not beautify or redesign. Use the costume from reference 2 in EVERY visible view: terracotta linen shirt open collar rolled sleeves tucked into cream trousers, brown belt and brown loafers, no jewelry. Create a 3:2 landscape SIX EXPRESSION head-and-shoulders sheet, exactly 2 rows x 3 columns, all front camera at eye level, consistent head scale and crop with hair/chin fully visible. Natural distinct playable facial expressions, small believable muscle changes, no cartoon exaggeration. Expressions in reading order: neutral attentive, small warm smile, amused, doubtful, restrained concern, speaking steadily. Clean white seamless studio background and soft neutral even light, realistic photographic fidelity matching the source, no stylization, no labels, no text, no borders, no watermark, no added props. Only change viewing angle or expression as specified.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/026.json

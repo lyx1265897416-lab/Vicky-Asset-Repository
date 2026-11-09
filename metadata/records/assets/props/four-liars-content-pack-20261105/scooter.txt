@@ -1,0 +1,21 @@
+﻿白色踏板车｜场景参考 · Four Liars角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：788 × 1400
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+A white retro step-through scooter with tan seat, chrome mirrors and black tires parked on stone deck at a tropical white villa pool party at night. Full vehicle in side three-quarter view, cyan pool, wood staircase, palms, warm string lights, moonlit blue sea, vertical cinematic frame, no people.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/four-liars-content-pack-20261105/document-originals/scooter.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/074.json

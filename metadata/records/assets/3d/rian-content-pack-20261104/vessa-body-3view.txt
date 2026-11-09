@@ -1,0 +1,21 @@
+﻿Vessa Thalys｜全身三视图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+High-end semi-realistic 3D fantasy romance character rendering, detailed soft skin and individual hair strands, tactile fabric, neutral soft studio lighting. Vessa Thalys age 38, mature composed regent,  pale face, silver lavender braided updo with pearls, gray violet eyes and blue violet fin ears, pearl earrings. Purple high-collar court gown with pale sheer long sleeves, silver-gold embroidery and waist gemstones, purple ankle boots. Neutral body turnaround without holding the book so garment structure is visible. Preserve her maturity, not a teenager.  Three equally scaled full-length figures: front, exact profile, rear. Complete hair, hands and feet visible. Pale cool-gray seamless background, no text or watermark.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/vessa-body-3view.png
+
+原始生成提示词：
+Create a production character reference image based strictly on the supplied approved fictional character assets. Vessa Thalys age 38, mature composed regent, exact approved pale face, silver lavender braided updo with pearls, gray violet eyes and blue violet fin ears, pearl earrings. Purple high-collar court gown with pale sheer long sleeves, silver-gold embroidery and waist gemstones, purple ankle boots. Neutral body turnaround without holding the book so garment structure is visible. Preserve her maturity, not a teenager. Reference 1 locks identity; if reference 2 exists it locks costume. Preserve the SAME face, hair color, accessories, age and original high-end semi-realistic fantasy 3D character rendering style. Do not turn into a different real person or flat anime. Exactly THREE full-length views evenly spaced in landscape 3:2: FRONT, strict LEFT PROFILE nose left, BACK. Entire head to soles visible, identical height and ground line. Preserve the approved garment cut, fasteners and anatomical proportions across views, relaxed arms. No inset portraits. Soft neutral studio light, pale cool gray seamless background matching references. No text, labels, logos, watermarks or decorative border. Change only layout, viewing angle or specified expression, not identity.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/042.json

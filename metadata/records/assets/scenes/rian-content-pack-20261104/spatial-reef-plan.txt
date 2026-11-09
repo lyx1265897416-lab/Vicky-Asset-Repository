@@ -1,0 +1,21 @@
+﻿礁海｜平面图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+Use case: infographic-diagram. Create the requested production spatial reference for an existing fictional Rian Thalys story location. Image 1 locks the connected spatial geometry; later images lock the existing visual appearance. Natural submerged reef passage: shallow pale sand central channel, lavender blue coral and kelp on both sides, tall natural limestone cave arch toward BACK RIGHT, translucent turquoise water and sunshafts. This is natural terrain, NO buildings. Show terrain sections instead of building elevations. Fish can be omitted. Asset type: ONE TRUE ORTHOGRAPHIC TOP-DOWN 2D FLOOR/SITE PLAN viewed exactly vertically, no perspective, no roof. Refined architectural linework on ivory background; walls/rock outlines dark gray, walkable dry surfaces pale ivory, water translucent pale turquoise, fixed furniture/obstacles shown as exact footprint symbols. Copy the 3D layout anchors exactly, do not mirror. Depict door openings and fixed circulation clearly. Sparse short English labels to identify main zones, no numerical dimensions, no scale claims, no arbitrary compass. One plan only filling portrait 9:16 page. For reef/cave draw natural terrain channel and rock/coral footprints; for bridge show straight bridge over water; no invented rooms or doors. This is a film set spatial concept plan, not a measured construction plan. Preserve exact existing anchors and materials. Unseen surfaces minimally completed, no new story props. Clear legible professional reference; no watermark. CRITICAL DRAWING STYLE: flat 2D architectural plan with thin black lines and simple muted flat colors, not a painted isometric cutaway. Every wall is only a thick footprint line; arches and tall facades must NOT be visible frontally. Do not add an exterior bridge, attached rooms, or unrelated connections unless expressly present in the reference. The plan fills the page, no floating facade panels.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-spatial-assets/spatial-reef-plan.png
+
+原始生成提示词：
+Use case: infographic-diagram. Create the requested production spatial reference for an existing fictional Rian Thalys story location. Image 1 locks the connected spatial geometry; later images lock the existing visual appearance. Natural submerged reef passage: shallow pale sand central channel, lavender blue coral and kelp on both sides, tall natural limestone cave arch toward BACK RIGHT, translucent turquoise water and sunshafts. This is natural terrain, NO buildings. Show terrain sections instead of building elevations. Fish can be omitted. Asset type: ONE TRUE ORTHOGRAPHIC TOP-DOWN 2D FLOOR/SITE PLAN viewed exactly vertically, no perspective, no roof. Refined architectural linework on ivory background; walls/rock outlines dark gray, walkable dry surfaces pale ivory, water translucent pale turquoise, fixed furniture/obstacles shown as exact footprint symbols. Copy the 3D layout anchors exactly, do not mirror. Depict door openings and fixed circulation clearly. Sparse short English labels to identify main zones, no numerical dimensions, no scale claims, no arbitrary compass. One plan only filling portrait 9:16 page. For reef/cave draw natural terrain channel and rock/coral footprints; for bridge show straight bridge over water; no invented rooms or doors. This is a film set spatial concept plan, not a measured construction plan. Preserve exact existing anchors and materials. Unseen surfaces minimally completed, no new story props. Clear legible professional reference; no watermark. CRITICAL DRAWING STYLE: flat 2D architectural plan with thin black lines and simple muted flat colors, not a painted isometric cutaway. Every wall is only a thick footprint line; arches and tall facades must NOT be visible frontally. Do not add an exterior bridge, attached rooms, or unrelated connections unless expressly present in the reference. The plan fills the page, no floating facade panels.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/075.json

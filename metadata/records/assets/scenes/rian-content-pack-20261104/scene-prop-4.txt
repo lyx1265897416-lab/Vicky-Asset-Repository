@@ -1,0 +1,21 @@
+﻿临水套房｜场景图 · Rian角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：768 × 440
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+An empty ornate sea-palace fantasy setting rendered in refined semi-realistic 3D, ivory stone, restrained gold details, blue accents, realistic tactile materials, clear soft lighting, no people. Palace suite. From reference viewpoint round raised pool on LEFT beside sea-view arched windows, canopy bed on RIGHT with navy upholstered foot bench, freestanding three-panel blue folding screen between pool and bed, rear doorway and dressing alcove beyond screen. Maintain physical dry walking route around screen, one pool and one bed only. Single eye-level establishing view, landscape composition, no captions.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/scene-prop-4.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/023.json

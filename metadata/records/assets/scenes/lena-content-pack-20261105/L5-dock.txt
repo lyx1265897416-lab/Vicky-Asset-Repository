@@ -1,0 +1,21 @@
+﻿L5 装卸口 · Lena角色包
+生图模型：原图模型未知／界面截图不适用
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：941 × 1672
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+A loading dock viewed from inside through a half-raised steel roller shutter, yellow protective bollards, wet concrete ramp with rails leading into a rainy night service yard, amber sodium streetlamp reflected on wet paving. Empty photorealistic vertical scene, rain outside only.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/lena-scene-prop-assets/L5-dock.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/027.json

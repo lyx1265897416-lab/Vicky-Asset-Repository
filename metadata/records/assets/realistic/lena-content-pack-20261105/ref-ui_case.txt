@@ -1,0 +1,21 @@
+﻿案卷界面｜交互参考 · Lena角色包
+生图模型：原图模型未知／界面截图不适用
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：800 × 1488
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Vertical mobile suspense video-call screenshot with almost black translucent case-file overlay. Large Chinese heading 案卷, close button top right, thin rounded evidence card with teal E01, bold 语音备忘, English and Chinese Lena voice-memo quotation and warning that voice alone does not verify identity. Dim video and choices behind overlay, white text and teal accents. This is an interface reference, not a character portrait.
+
+按飞书定稿保留原始图片字节。独立提示词为成图描述，未验证纯文生图同脸或空间一致性。空间图为概念参考；界面截图仅作交互参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/work/lena/references/ui_case.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/lena-content-pack-20261105/evidence/032.json

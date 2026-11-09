@@ -1,0 +1,21 @@
+﻿Mila｜白底正面主图 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+High-end semi-realistic 3D fantasy romance character rendering, detailed soft skin and individual hair strands, tactile fabric, neutral soft studio lighting. Adult female character. Honey-blonde loose high ponytail with tousled face-framing strands, blue eyes, many natural freckles across nose and cheeks, orange rectangular hair clip on viewer RIGHT, friendly closed-mouth smile, mustard-yellow rain jacket over muted blue T-shirt with existing dark straps. One single eye-level frontal chest-up close portrait, level head, shoulders facing camera, direct gaze, flat pure white background, portrait 3:4 framing, no panels, text or borders.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-main-portraits/mila-master-white.png
+
+原始生成提示词：
+Use case: identity-preserve. Input image is the canonical identity, outfit, and rendering style reference for Mila. Create ONE single standalone frontal eye-level chest-up character portrait, on an absolutely pure solid white (#FFFFFF) background, portrait 3:4 composition. Exactly one person, one head, no panels, no collage, no inset views, no text or borders. Face AND shoulders straight toward camera, eyes looking directly into camera, level head with no tilt, camera at eye height. Include full hair silhouette with comfortable top margin and both shoulders, crop at upper chest. Preserve the EXACT reference character face, age appearance, facial proportions, skin color, hairstyle, accessories, costume, fine skin and hair texture, high-end semi-realistic 3D character rendering style. Honey-blonde loose high ponytail with tousled face-framing strands, blue eyes, many natural freckles across nose and cheeks, orange rectangular hair clip on viewer RIGHT, friendly closed-mouth smile, mustard-yellow rain jacket over muted blue T-shirt with existing dark straps. Soft even neutral studio light. The face should dominate the image clearly, same apparent head size as a professional character reference bust. Change only composition/view and background; do not redesign or beautify into a different person. Background must be flat white to all edges, without gray/lavender gradient, scenery or shadow.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/084.json

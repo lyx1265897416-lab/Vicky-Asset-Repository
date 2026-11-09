@@ -1,0 +1,21 @@
+﻿Sera Venn｜单人全身照 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+High-end semi-realistic 3D fantasy romance character rendering, detailed soft skin and individual hair strands, tactile fabric, neutral soft studio lighting. Sera Venn age 24, adult fleet heiress,  warm tan face and brown eyes, long dark brown high ponytail with braids and silver hair ornaments, small blue fin ears, pearl studs. Deep teal tailored long split-tail military jacket with silver embroidery and fasteners, charcoal fitted trousers, dark knee-high heeled boots. No weapon.  One front-view full-length standing figure, entire hair to soles visible, natural relaxed stance and coherent proportions. Pale cool-gray seamless background, no text or watermark.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/sera-fullbody.png
+
+原始生成提示词：
+Create a production character reference image based strictly on the supplied approved fictional character assets. Sera Venn age 24, adult fleet heiress, exact approved warm tan face and brown eyes, long dark brown high ponytail with braids and silver hair ornaments, small blue fin ears, pearl studs. Deep teal tailored long split-tail military jacket with silver embroidery and fasteners, charcoal fitted trousers, dark knee-high heeled boots. No weapon. Reference 1 locks identity; if reference 2 exists it locks costume. Preserve the SAME face, hair color, accessories, age and original high-end semi-realistic fantasy 3D character rendering style. Do not turn into a different real person or flat anime. One full-length FRONT view character standing naturally with arms relaxed and feet visible, centered. Portrait 2:3. Entire hair to soles visible with margin; both hands complete. Preserve source body proportions, elegant and coherent around 7.5 heads for human legs; do not exaggerate leg length. Soft neutral studio light, pale cool gray seamless background matching references. No text, labels, logos, watermarks or decorative border. Change only layout, viewing angle or specified expression, not identity.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/031.json

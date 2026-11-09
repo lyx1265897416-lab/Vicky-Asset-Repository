@@ -1,0 +1,21 @@
+﻿Wes（男主 A）｜全身三视图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Wes, late twenties man, tousled sandy brown hair, gray-green eyes, freckles, warm approachable face. light sky-blue linen shirt open at collar, rolled sleeves untucked, stone beige linen trousers, brown suede loafers, one thin brown leather cord bracelet on his LEFT wrist only; no watch. Three equally scaled full-length views, front, strict left profile, rear; complete hair and shoes in each panel, aligned ground line. Photorealistic studio photography with natural pores, individual hair strands, tactile cloth, soft even neutral light, pure white seamless background. No labels, borders or watermarks. Natural lean approximately 7.5-head proportions.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-character-assets/wes-body-3view.png
+
+原始生成提示词：
+Create a photographic full-body turnaround reference sheet for fictional adult wes. Reference 1 is the exact FACE identity. Reference 2 is the LATEST body/costume master and its proportions are authoritative. Copy the front figure EXACTLY from reference2, then derive LEFT PROFILE and BACK of the SAME physique, hair, outfit and accessories. Do not lengthen the legs or reduce head size compared to reference2. Wes has a natural approximately7.5-head build. Exactly3 equally spaced figures FRONT, LEFT PROFILE facing left, BACK; same size across panels, complete hair to soles visible, floor baseline aligned. White studio soft even light, true realistic anatomy, hands relaxed, preserve clothing seams buttons and footwear. 3:2 landscape, no text.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/046.json

@@ -1,0 +1,21 @@
+﻿Four Liars｜角色包封面 · Four Liars角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：788 × 1400
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+A vertical photorealistic dating reality show ensemble poster. Front center Sofia, adult brunette woman with warm tan skin in champagne gold cowl-neck satin slip dress, hands on hips, direct confident gaze. Seven attractive adult men form a staggered row behind, each with distinct faces and clothing: light blue linen, midnight navy, sage green polo, coral red hibiscus shirt, terracotta linen, cream polo, light gray suit. Tropical oceanfront white villa at night, turquoise lit pool, palms and warm bulbs. Bright pink title at top reads FOUR LIARS, ONE ISLAND; small white subtitle reads SEVEN MEN. FOUR ARE LYING. WHO DO YOU TRUST? Cinematic warm skin tones and blue evening backdrop.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/four-liars-content-pack-20261105/document-originals/cover-v3.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/071.json

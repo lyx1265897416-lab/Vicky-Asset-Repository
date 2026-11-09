@@ -1,0 +1,21 @@
+﻿Jasper｜楼梯开场参考 · Four Liars角色包
+生图模型：原图生成模型未核实
+生成日期：未知（未取得生成记录）
+时区：未知
+图像尺寸：787 × 1400
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+Production character reference asset for original fictional series Four Liars, One Island. Character Jasper, late twenties man, dark brown wavy curls, gray-green eyes, angular face, composed gaze. midnight navy silky shirt open two buttons and rolled sleeves tucked into black slim trousers, black loafers, no jewelry or watch.  Full figure descending an exterior white villa staircase at a tropical pool party at night, one hand resting on slim rail, composed direct look, cyan pool, palms and warm bulbs behind. Vertical cinematic frame.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/four-liars-content-pack-20261105/document-originals/S11.jpg
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/070.json

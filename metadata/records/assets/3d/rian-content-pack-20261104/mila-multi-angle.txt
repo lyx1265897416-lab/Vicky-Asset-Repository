@@ -1,0 +1,21 @@
+﻿Mila｜头部多角度 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+High-end semi-realistic 3D fantasy romance character rendering, detailed soft skin and individual hair strands, tactile fabric, neutral soft studio lighting. Mila age 21,  freckled face, blue eyes, honey blond curly HIGH ponytail with orange rectangular clip. Mustard yellow hooded jacket, slate blue tee, gray cargo trousers and pale sneakers. Reference 2 determines outfit: NO camera and NO camera strap in these neutral character assets. Human ears.  Six head-and-shoulder portraits arranged in two rows of three, front and three-quarter and profile angles. Pale cool-gray seamless background, no text or watermark. No camera and no black camera neck strap.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/mila-multi-angle.png
+
+原始生成提示词：
+Create a production character reference image based strictly on the supplied approved fictional character assets. Mila age 21, exact approved freckled face, blue eyes, honey blond curly HIGH ponytail with orange rectangular clip. Mustard yellow hooded jacket, slate blue tee, gray cargo trousers and pale sneakers. Reference 2 determines outfit: NO camera and NO camera strap in these neutral character assets. Human ears. Reference 1 locks identity; if reference 2 exists it locks costume. Preserve the SAME face, hair color, accessories, age and original high-end semi-realistic fantasy 3D character rendering style. Do not turn into a different real person or flat anime. Exactly SIX head-and-shoulders views, landscape 3:2, 2 rows x 3 columns: front, left three-quarter, right three-quarter; strict left profile, gentle high angle looking down at face, gentle low angle looking up at face. Each angle genuinely distinct. Same neutral expression and head scale. Soft neutral studio light, pale cool gray seamless background matching references. No text, labels, logos, watermarks or decorative border. Change only layout, viewing angle or specified expression, not identity.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/005.json

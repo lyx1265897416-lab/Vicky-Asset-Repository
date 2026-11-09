@@ -1,0 +1,21 @@
+﻿P02 素面卡片与文件夹 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One thick plain cream host cue card, a neatly stacked set of matching blank cards and a simple cream folder arranged on pure white seamless background. No logos or printed writing. Subtle paper texture, realistic studio product lighting.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/P02-cards-folder.png
+
+原始生成提示词：
+Photorealistic prop catalogue photograph on pure white seamless background for a tropical reality dating show. Arrange one thick plain cream rectangular host cue card, a short neatly stacked set of identical blank cream production prompt cards, and one plain sand-beige paper folder, partly open showing blank cream paper. Clear separated objects, realistic uncoated paper texture, clean studio light, soft shadow, no people or hands, absolutely no readable text, marks, logos, numbers, screens, phones, financial documents. Square image.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/059.json

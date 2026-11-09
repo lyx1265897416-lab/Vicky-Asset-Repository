@@ -1,0 +1,21 @@
+﻿Rian Thalys｜岸上便装｜六格表情 · Rian角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-04
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-04
+
+文生图提示词：
+High-end semi-realistic 3D fantasy romance character rendering, detailed soft skin and individual hair strands, tactile fabric, neutral soft studio lighting. Rian Thalys age 23,  silver lilac long hair and fin ears . Shore costume and half-up braided hairstyle : white draped high collar shirt with silver diagonal buttons, wide black trousers with asymmetrical layers and lilac patterned hanging sash, black shoes, blue drop earrings. No royal shoulder drape, no bare torso, no tail.  Six consistent head-and-shoulder portraits in two rows of three showing varied subtle emotions. Pale cool-gray seamless background, no text or watermark.
+
+原图原字节归档；独立文字描述按已选成图整理，未验证纯文生图同脸或空间一致性。严格连续性请同时使用原图。空间设计为概念参考，不是实测工程图。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/rian-character-assets/rian-shore-expressions.png
+
+原始生成提示词：
+Create a production character reference image based strictly on the supplied approved fictional character assets. Rian Thalys age 23, same exact face and silver lilac long hair and fin ears as reference 1. Shore costume and half-up braided hairstyle exactly reference 2: white draped high collar shirt with silver diagonal buttons, wide black trousers with asymmetrical layers and lilac patterned hanging sash, black shoes, blue drop earrings. No royal shoulder drape, no bare torso, no tail. Reference 1 locks identity; if reference 2 exists it locks costume. Preserve the SAME face, hair color, accessories, age and original high-end semi-realistic fantasy 3D character rendering style. Do not turn into a different real person or flat anime. Exactly SIX head-and-shoulders expression panels, landscape 3:2, 2 rows x 3 columns, front eye-level camera and consistent crop. In reading order: calm attentive, small warm smile, quietly amused, skeptical, worried but composed, speaking. Natural readable muscle changes; no cartoon faces. For Vessa dignified restrained warmth; for Sera confident composed; for Rian playful but gentle. Soft neutral studio light, pale cool gray seamless background matching references. No text, labels, logos, watermarks or decorative border. Change only layout, viewing angle or specified expression, not identity.
+
+生成依据：
+imports/rian-content-pack-20261104/evidence/012.json

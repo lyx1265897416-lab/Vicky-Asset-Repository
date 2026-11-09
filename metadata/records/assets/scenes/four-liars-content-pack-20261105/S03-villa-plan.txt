@@ -1,0 +1,21 @@
+﻿平面图 · Four Liars角色包
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-05
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-05
+
+文生图提示词：
+One compact tropical oceanfront flat-roof white villa to the right of a single long rectangular cyan infinity pool. Ocean to left; circular sunken lounge with cream cushions and round fire bowl at far short end; narrow stone paths; straight floating wood exterior stair at near end of villa; small wooden bar with three wicker stools at near-right. Teak roof has white daybed, brass telescope, slim dark/glass railings. No people, second pool or extra wings. Landscape sheet with TWO top-down 90-degree orthographic plans SIDE BY SIDE, site plan left and rooftop right at identical scale and orientation. Both villa footprints are long narrow vertical rectangles. Site has pool left, villa right, round lounge at top, stair and bar bottom-right; opaque pale fill leaves interior unspecified. Roof has daybed top-left, telescope top-right and stair landing bottom-right, no pool. Fine dark outlines, pale natural material colors, white background, no text or dimensions. Concept set design reference, not measured construction documentation.
+
+按已加入飞书的定稿原字节入库。独立提示词按成图重建，未验证纯文生图同脸或空间一致性；严格连续性请同时使用原图。建筑空间图是概念参考。
+
+
+来源：/Users/vicky/Documents/Codex/2026-11-03/https-japy03oxab-feishu-cn-wiki-g4ojwsqrdik3gikgyhucv7y8nqc/outputs/four-liars-scene-prop-assets/S03-villa-plan.png
+
+原始生成提示词：
+Revise this architectural plan sheet for STRICT CONSISTENCY. Keep the site's upper plan design, but lay out TWO diagrams SIDE BY SIDE, on a landscape white sheet: LEFT the full site plan seen in this image; RIGHT the roof plan. BOTH use the SAME scale, SAME north/up orientation, SAME exact long narrow vertical rectangular villa footprint proportions; align rooftop plan vertically with villa rectangle in left plan. The roof's long axis must run vertically, not horizontally. Roof contains one small white cushioned daybed toward top-left, brass telescope toward top-right, plants and slim glass railing, stair landing at bottom-right connected to the same straight stair drawn at the bottom end of the left villa. No roof pool. Preserve main site: pool left, villa right, circular firepit lounge top end, bar with three stools bottom-right. Architectural top-down 90 degree plan, no perspective. Soft natural colors, crisp edges, white margins, no text, numbers, dimensions. Concept reference.
+
+生成依据：
+imports/four-liars-content-pack-20261105/evidence/066.json
