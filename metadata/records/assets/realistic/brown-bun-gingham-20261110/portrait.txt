@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 黑色挂脖·正面身份母版
+生图模型：用户提供母版（原始生图模型未提供）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult woman with hazel-green eyes, naturally arched brown brows, straight nose, soft oval face, rose lips, warm fair skin with realistic fine texture; medium brown center-parted hair gathered into a loose low bun slightly toward her left, delicate face-framing tendrils, thick small gold hoop earrings. Tall slim elegant fashion-model build, long natural legs, approximately seven anatomical head lengths overall. Centered front-facing head-and-upper-chest portrait, calm closed lips, black scarf-neck halter top with draped high neck and deep front opening, shoulders bare. Eyes level, nose and philtrum centered, head upright. Pure white seamless studio background, even soft light, clear natural face and fabric texture, no text, watermark or scenery.
+
+独立文生图描述按成图重建，未验证纯文本同脸复现。脸部身份以用户头像为准，身体比例及前侧服装以确认全身图为准；背面结构为本次补全。两张母版原字节保留。
+
+
+来源：Vicky 角色 · 棕发低髻·格纹度假 · 黑色挂脖·正面身份母版
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/brown-bun-gingham-20261110/authorization.json
+imports/brown-bun-gingham-20261110/generation-events.json

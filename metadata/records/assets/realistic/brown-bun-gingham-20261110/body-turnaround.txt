@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 格纹套装·全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult woman with hazel-green eyes, naturally arched brown brows, straight nose, soft oval face, rose lips, warm fair skin with realistic fine texture; medium brown center-parted hair gathered into a loose low bun slightly toward her left, delicate face-framing tendrils, thick small gold hoop earrings. Tall slim elegant fashion-model build, long natural legs, approximately seven anatomical head lengths overall. Brown-and-ivory tiny gingham fitted V-neck halter crop top, tied into a small bow at the back of the neck, open upper back and fitted gingham lower-back band; matching gingham short beach shorts, broad ivory foldover waist panel with a thin gingham center-front tie; flat dark-brown thong sandals. No hat, bag, bottle or hand-held object. Landscape three full-length equal-size views in one row: straight front, strict profile facing image right, exact rear. Matching head heights, foot baseline, wardrobe and proportions. Pure white seamless studio background, even soft light, clear natural face and fabric texture, no text, watermark or scenery.
+
+独立文生图描述按成图重建，未验证纯文本同脸复现。脸部身份以用户头像为准，身体比例及前侧服装以确认全身图为准；背面结构为本次补全。两张母版原字节保留。
+
+
+来源：Vicky 角色 · 棕发低髻·格纹度假 · 格纹套装·全身三视图
+
+原始生成提示词：
+Photorealistic white-background studio reference of the SAME ADULT WOMAN in the two approved references. Image 1 strictly controls facial identity: hazel-green eyes, defined naturally arched brown brows, straight nose, natural rose lips, softly oval face, warm fair skin with realistic texture, center-parted medium brown hair in a loosely gathered low bun (slightly toward her left as reference) with delicate loose face-framing tendrils, thick small gold hoop earrings. Image 2 strictly controls body and outfit: slim tall elegant fashion-model build approximately 7 anatomical head lengths, long natural legs, brown-and-ivory tiny gingham fitted V-neck halter crop top and matching short gingham beach shorts with a broad ivory-white foldover waist panel and thin gingham tie centered at front; flat dark-brown thong sandals. No hat or objects in hands, no bags, no black scarf from portrait. Shirt back is a simple open upper back below halter neck ties with a fitted gingham lower-back band; this is a coherent design completion, not a new different outfit. Same golden hoop earrings and hairstyle in all views. Natural anatomically credible body, realistic skin and fabric, soft neutral even studio lighting, pure white seamless background, faint foot contact shadow only, no typography, labels, watermark or grid borders. Create one LANDSCAPE full-body turnaround sheet with THREE equal-size full-length figures in one row: left perfectly straight frontal, middle exact 90-degree profile looking to IMAGE RIGHT, right exact rear view. Same height, same head size, feet baseline aligned. All hair, fingers and sandals fully visible with margins. Relaxed neutral standing, both arms down, balanced weight. Front must keep the approved full-body proportions and the exact approved face with level eyes, straight centered nose/philtrum/chin, no head tilt. Side and rear show consistent low bun, halter top, white foldover waistband and short shorts, no invented accessories. Maintain same approx seven-head realistic proportion in every view. Three views of one woman only.
+
+生成依据：
+imports/brown-bun-gingham-20261110/authorization.json
+imports/brown-bun-gingham-20261110/generation-events.json
