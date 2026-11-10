@@ -1,0 +1,22 @@
+﻿栗棕卷发·亚麻度假 · 亚麻度假装·九宫格表情
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic young adult man with blue-gray eyes, straight nose, softly angular jaw, warm light skin with natural fine texture and a tiny cheek mole, youthful features, voluminous tousled chestnut-brown curls, natural smile. Tall slim lightly athletic build, long legs and approximately 7–8 anatomical head-length model proportions. Warm ivory linen relaxed button-up shirt, deep open collar, sleeves rolled just below elbows, untucked curved hem; matching relaxed straight shorts ending above knees; beige two-strap flat sandals and small silver bead bracelet on his right wrist. No hat or sunglasses. Three-by-three frontal head-and-shoulders expression grid, same face and scale: neutral, warm smile, affectionate smile, teasing smirk, concern, surprise, irritation, sadness, laughter. Natural differentiated facial acting; heads upright, full hair visible, white gutters, no labels. Pure white seamless background, even soft frontal studio light, realistic skin, hair and linen texture, no text, watermark, props or other characters. 
+
+独立文字描述按成图重建；未验证纯文本同脸复现。身份以确认西装肖像为准，度假装与全身比例以确认全身图为准；新增视图来自这两张参考，未替换母版。
+
+
+来源：Vicky 原创角色 · 栗棕卷发·亚麻度假 · 亚麻度假装·九宫格表情
+
+原始生成提示词：
+Photorealistic studio character reference asset on pure white seamless background. Image 1 is the STRICT approved facial identity: same young adult man, blue-gray eyes, straight nose, natural warm light skin, tiny cheek mole, gentle youthful features, thick voluminous light chestnut brown curls, same hairline and curl silhouette. Image 2 is the STRICT approved body and wardrobe: tall slim lightly athletic 7.8–8 anatomical head-length fashion-model proportions, long legs; warm ivory linen open-neck button shirt unbuttoned down to lower sternum, rolled sleeves below elbows, untucked curved hem, relaxed straight ivory linen shorts above knees, light beige two-strap flat sandals, small silver bead bracelet on his right wrist. No hat or glasses. No suit. Natural skin/fabric details, neutral soft even studio illumination. Maintain same identity and outfit across all panels, no stylization, no text, no watermark. Create one square NINE-EXPRESSION reference sheet in an evenly spaced 3 by 3 grid. Nine head-and-upper-chest portraits of this SAME person, every one strictly frontal and eye level, zero head tilt or turn, nose/philtrum/chin on vertical axis. Full hair visible in every cell, identical camera distance, head scale, white background, and ivory linen open-collar shirt. No labels or text. Expressions in reading order: 1 neutral relaxed closed lips; 2 warm tooth-showing smile matching approved portrait; 3 affectionate gentle closed-mouth smile with soft eyes; 4 playful teasing one-corner smile and slightly lifted eyebrow; 5 concerned softly knitted brows and attentive eyes; 6 surprised lifted brows with slightly parted lips; 7 restrained irritation with narrowed eyes and pressed lips, no shouting; 8 sad/disappointed softened gaze and slightly lowered mouth corners, no exaggerated tears; 9 genuine bright laugh with mouth open and cheeks/eyes naturally engaged. Make nine visibly distinct, subtle believable human expressions without changing facial anatomy, skin color, curly hairstyle or identity. Not a cartoon expression chart. Keep all nine portraits fully separate with clean white gutters and no hands, props or accessories.
+
+生成依据：
+imports/chestnut-linen-character-20261110/generation-events.json
+imports/chestnut-linen-character-20261110/authorization.json

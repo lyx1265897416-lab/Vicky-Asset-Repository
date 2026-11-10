@@ -1,0 +1,22 @@
+﻿栗棕卷发·亚麻度假 · 亚麻度假装·正面全身
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-09
+时区：America/Los_Angeles
+图像尺寸：887 × 1774
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic young adult man with blue-gray eyes, straight nose, softly angular jaw, warm light skin with natural fine texture and a tiny cheek mole, youthful features, voluminous tousled chestnut-brown curls, natural smile. Tall slim lightly athletic build, long legs and approximately 7–8 anatomical head-length model proportions. Warm ivory linen relaxed button-up shirt, deep open collar, sleeves rolled just below elbows, untucked curved hem; matching relaxed straight shorts ending above knees; beige two-strap flat sandals and small silver bead bracelet on his right wrist. No hat or sunglasses. Vertical full-length head-to-sandals photograph, strictly frontal upright neutral stance, eye-level flat-perspective studio appearance, hands naturally down, both feet visible, generous white margins. Pure white seamless background, even soft frontal studio light, realistic skin, hair and linen texture, no text, watermark, props or other characters. 
+
+独立文字描述按成图重建；未验证纯文本同脸复现。身份以确认西装肖像为准，度假装与全身比例以确认全身图为准；新增视图来自这两张参考，未替换母版。
+
+
+来源：Vicky 原创角色 · 栗棕卷发·亚麻度假 · 亚麻度假装·正面全身
+
+原始生成提示词：
+Generate ONE photorealistic full-length studio character photograph. Reference image 1 is the STRICT identity and hair reference: preserve this exact young adult man's face, blue-gray eyes, chestnut light-brown voluminous curls, facial proportions, natural skin and cheek mole, friendly gentle smile, and precisely frontal nose. Reference image 2 is ONLY the clothing/style reference, not the face, pose, camera angle, or background. Dress character 1 in the outfit of image 2: warm ivory/off-white textured linen button-up shirt with relaxed airy fit, collar open and upper buttons undone to the lower sternum as shown, bare chest beneath, sleeves casually rolled to just below elbows, shirt untucked with natural curved hem, matching off-white linen relaxed straight-cut shorts ending a little above knees, comfortable moderately wide leg openings. Preserve beautiful visible linen weave, soft folds, opaque fabric and natural drape. Add simple understated light beige leather flat sandals to complete the beach-resort outfit since footwear is outside the reference crop. No hat or sunglasses: show the approved curls, eyes, and entire face clearly. Tall slim lightly athletic fashion-model build with long elegant legs, high natural waist, balanced shoulder width, approximately 7.8–8 anatomical head lengths from skull crown to soles, realistic anatomy and proportion, not a large head or long torso. Not bulky muscular. Entire body standing perfectly straight front-on, both shoulders and hips square to camera, level shoulders, evenly balanced weight, feet slightly apart pointing forward, arms naturally down at sides with both hands visible and relaxed. No hand in pocket, no contrapposto, no leaning, no head turn. Face perfectly frontal: zero yaw, pitch or roll, straight nose bridge/tip centered under midpoint between eyes and above philtrum/chin; both cheeks equally visible. Eyes look straight forward. Neutral eye-level studio camera appearance with distant long-lens flat perspective, no high angle or low angle or foreshortening. Pure solid white seamless background and white floor, only subtle contact shadow beneath sandals. Vertical full-body composition including ALL hair and both sandal soles, white breathing room above and below. Soft even frontal lighting, clear face detail, natural photographic skin and fabric. No beach scenery, no other people, no UI overlays, no labels, no text, no watermark. Prioritize identity of image 1, relaxed ivory linen styling of image 2, long-legged balanced model proportions, and exact straight-on frontal orientation.
+
+生成依据：
+imports/chestnut-linen-character-20261110/generation-events.json
+imports/chestnut-linen-character-20261110/authorization.json

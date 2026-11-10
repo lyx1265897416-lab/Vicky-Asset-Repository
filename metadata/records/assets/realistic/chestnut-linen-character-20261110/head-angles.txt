@@ -1,0 +1,22 @@
+﻿栗棕卷发·亚麻度假 · 亚麻度假装·头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic young adult man with blue-gray eyes, straight nose, softly angular jaw, warm light skin with natural fine texture and a tiny cheek mole, youthful features, voluminous tousled chestnut-brown curls, natural smile. Tall slim lightly athletic build, long legs and approximately 7–8 anatomical head-length model proportions. Warm ivory linen relaxed button-up shirt, deep open collar, sleeves rolled just below elbows, untucked curved hem; matching relaxed straight shorts ending above knees; beige two-strap flat sandals and small silver bead bracelet on his right wrist. No hat or sunglasses. Three-column two-row head-and-shoulders sheet: front, left-facing three-quarter, right-facing three-quarter, left profile, right profile, rear. Relaxed closed lips; consistent head scale and soft lighting, complete curls visible. Pure white seamless background, even soft frontal studio light, realistic skin, hair and linen texture, no text, watermark, props or other characters. 
+
+独立文字描述按成图重建；未验证纯文本同脸复现。身份以确认西装肖像为准，度假装与全身比例以确认全身图为准；新增视图来自这两张参考，未替换母版。
+
+
+来源：Vicky 原创角色 · 栗棕卷发·亚麻度假 · 亚麻度假装·头部六角度
+
+原始生成提示词：
+Photorealistic studio character reference asset on pure white seamless background. Image 1 is the STRICT approved facial identity: same young adult man, blue-gray eyes, straight nose, natural warm light skin, tiny cheek mole, gentle youthful features, thick voluminous light chestnut brown curls, same hairline and curl silhouette. Image 2 is the STRICT approved body and wardrobe: tall slim lightly athletic 7.8–8 anatomical head-length fashion-model proportions, long legs; warm ivory linen open-neck button shirt unbuttoned down to lower sternum, rolled sleeves below elbows, untucked curved hem, relaxed straight ivory linen shorts above knees, light beige two-strap flat sandals, small silver bead bracelet on his right wrist. No hat or glasses. No suit. Natural skin/fabric details, neutral soft even studio illumination. Maintain same identity and outfit across all panels, no stylization, no text, no watermark. Create a SIX-ANGLE HEAD reference sheet in a precise 3-column by 2-row grid, six distinct head-and-shoulders bust views of the SAME person. Reading order: top left straight frontal; top middle three-quarter turned toward image left; top right three-quarter turned toward image right; bottom left strict profile looking image left; bottom middle strict profile looking image right; bottom right exact rear head view. Keep entire curls inside every cell with white space around each bust, all heads equal size, no cropping of hair, no overlapping panels, no labels or lines. Neutral softly closed lips in these studies (expression variation is not the goal). The front is strictly upright with level eyes and centered straight nose. Other heads turn on vertical axis without tilting. All wear the approved ivory linen open collar, facial structure and hair match reference 1, clothing matches reference 2. Preserve curl mass from all angles.
+
+生成依据：
+imports/chestnut-linen-character-20261110/generation-events.json
+imports/chestnut-linen-character-20261110/authorization.json

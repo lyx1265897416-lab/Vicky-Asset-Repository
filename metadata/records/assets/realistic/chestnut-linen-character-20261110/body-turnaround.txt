@@ -1,0 +1,22 @@
+﻿栗棕卷发·亚麻度假 · 亚麻度假装·全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic young adult man with blue-gray eyes, straight nose, softly angular jaw, warm light skin with natural fine texture and a tiny cheek mole, youthful features, voluminous tousled chestnut-brown curls, natural smile. Tall slim lightly athletic build, long legs and approximately 7–8 anatomical head-length model proportions. Warm ivory linen relaxed button-up shirt, deep open collar, sleeves rolled just below elbows, untucked curved hem; matching relaxed straight shorts ending above knees; beige two-strap flat sandals and small silver bead bracelet on his right wrist. No hat or sunglasses. Landscape three-view full-body sheet: straight front, strict right-facing side profile, exact rear. Same size figures, aligned heads and feet, entire curls and sandals visible, consistent anatomy and wardrobe. Pure white seamless background, even soft frontal studio light, realistic skin, hair and linen texture, no text, watermark, props or other characters. 
+
+独立文字描述按成图重建；未验证纯文本同脸复现。身份以确认西装肖像为准，度假装与全身比例以确认全身图为准；新增视图来自这两张参考，未替换母版。
+
+
+来源：Vicky 原创角色 · 栗棕卷发·亚麻度假 · 亚麻度假装·全身三视图
+
+原始生成提示词：
+Photorealistic studio character reference asset on pure white seamless background. Image 1 is the STRICT approved facial identity: same young adult man, blue-gray eyes, straight nose, natural warm light skin, tiny cheek mole, gentle youthful features, thick voluminous light chestnut brown curls, same hairline and curl silhouette. Image 2 is the STRICT approved body and wardrobe: tall slim lightly athletic 7.8–8 anatomical head-length fashion-model proportions, long legs; warm ivory linen open-neck button shirt unbuttoned down to lower sternum, rolled sleeves below elbows, untucked curved hem, relaxed straight ivory linen shorts above knees, light beige two-strap flat sandals, small silver bead bracelet on his right wrist. No hat or glasses. No suit. Natural skin/fabric details, neutral soft even studio illumination. Maintain same identity and outfit across all panels, no stylization, no text, no watermark. Make one LANDSCAPE full-body turnaround sheet with THREE separate equal-size full-length views in a single row: LEFT perfectly straight front view (zero yaw/pitch/roll, direct gaze, nose/philtrum/chin vertically aligned), CENTER strict 90-degree side profile facing image right, RIGHT exact 180-degree rear view. All three show the exact same person, matching body scale, same head height and foot baseline, relaxed arms at sides, neutral balanced standing stance. All hair and both sandals fully visible in every panel with clear white margins and space separating figures. The front must preserve the approved face and body. Side/rear retain voluminous curly hair, long leg proportions, matching shirt length and shorts hem and sandals. Do not add any extra person beyond these three views of this single character.
+
+生成依据：
+imports/chestnut-linen-character-20261110/generation-events.json
+imports/chestnut-linen-character-20261110/authorization.json

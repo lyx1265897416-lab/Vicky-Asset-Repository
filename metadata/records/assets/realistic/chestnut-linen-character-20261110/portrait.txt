@@ -1,0 +1,22 @@
+﻿栗棕卷发·亚麻度假 · 西装正面平视·身份母版
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-09
+时区：America/Los_Angeles
+图像尺寸：1082 × 1454
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic young adult man with blue-gray eyes, straight nose, softly angular jaw, warm light skin with natural fine texture and a tiny cheek mole, youthful features, voluminous tousled chestnut-brown curls, natural smile. Tall slim lightly athletic build, long legs and approximately 7–8 anatomical head-length model proportions. Centered head-and-upper-chest portrait in charcoal suit, white shirt and black tie, complete curls visible. Exact frontal eye-level face, pupils horizontal, nose bridge, nose tip, philtrum and chin centered, no head tilt; friendly tooth-showing smile. Pure white seamless background, even soft frontal studio light, realistic skin, hair and linen texture, no text, watermark, props or other characters. 
+
+独立文字描述按成图重建；未验证纯文本同脸复现。身份以确认西装肖像为准，度假装与全身比例以确认全身图为准；新增视图来自这两张参考，未替换母版。
+
+
+来源：Vicky 原创角色 · 栗棕卷发·亚麻度假 · 西装正面平视·身份母版
+
+原始生成提示词：
+Precisely edit this portrait with ONE minimal correction: the face/nose still points very slightly toward the viewer's right. Rotate the facial orientation a tiny amount toward IMAGE LEFT (the viewer's left), approximately 1–2 degrees, just enough to achieve a perfectly straight frontal face. Do not turn into a left-facing pose. Correct the nose's subtle rightward direction: the nose bridge and tip must be dead straight, the tip directly below the exact midpoint of the pupils and directly above the philtrum, mouth center, and chin center. Left and right nasal wings must have balanced frontal visibility, both nostrils equally visible, no lateral perspective on the nose. Both cheeks and ears equally visible in perspective, pupils on a level horizontal line, gaze directly into camera, no head roll, no chin tilt. The aim is full frontal passport-reference geometry and an anatomically natural nose, not a new face or a visibly rotated head. Preserve this exact person's identity, facial proportions, smile and teeth, blue-gray eyes, skin texture and small mole, chestnut brown curly hair and exact lightness, suit, tie, white shirt, crop, photorealism, even lighting, and pure white background. Make only the tiny orientation correction requested. No text, no watermarks.
+
+生成依据：
+imports/chestnut-linen-character-20261110/generation-events.json
+imports/chestnut-linen-character-20261110/authorization.json
