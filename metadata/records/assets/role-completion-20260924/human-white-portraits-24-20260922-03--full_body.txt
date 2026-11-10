@@ -1,21 +1,21 @@
-﻿白底角色 03 · 及肩棕发白开衫 · 单人全身照 · 本轮补充
+﻿白底角色 03 · 及肩棕发白开衫 · 单人全身照
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-24
+生成日期：2026-11-09
 时区：America/Los_Angeles
 图像尺寸：1024 × 1536
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-24
+提示词整理日期：2026-11-09
 
 文生图提示词：
-Photorealistic character asset of one young adult woman age18–22 with straight shoulder-length deep-brown hair center parted with curved ends, fair neutral skin, warm brown almond eyes, straight delicate brows, small straight nose and rounded pink lips, wearing charcoal scoop-neck rib knit beneath open ivory cardigan, high-waisted charcoal wide straight jeans and black low-top sneakers. One independent single full-body front portrait. Tall slender natural7.8-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+Photorealistic character asset of one young adult woman age18–22 with straight shoulder-length deep-brown hair center parted with curved ends, fair neutral skin, warm brown almond eyes, straight delicate brows, small straight nose and rounded pink lips, wearing charcoal scoop-neck rib knit beneath open ivory cardigan, high-waisted charcoal wide straight jeans and black low-top sneakers. One independent single full-body front portrait. Tall slender natural7-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text. Updated production proportions: balanced approximately seven-head adult body, front-facing eye-level pose, upright head, natural adult feet; slim shoulders, pelvis and limbs according to the current confirmed image. Preserve the depicted outfit, face, hair and fine bright photographic finish.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+本轮重新生成全身图，用户暂时确认入库；实际参考图提示词见原始生成记录。独立文生图描述为重建文本，未验证无参考图同脸复现。原始 PNG 无缩放或二次压缩。
 
 
-来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-03--full_body.json
+来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/white-24-approved-replacement-20261109/events/human-white-portraits-24-20260922-03--full_body.json
 
-实际带参考图生成提示词
-Use attached reference as absolute identity anchor. Retain her precise eye/nose/lip shapes and age, no lookalike replacement, preserve hairstyle and upper clothing. Straighten head for neutral production views rather than copying the original head tilt. Photorealistic character asset of one young adult woman age18–22 with straight shoulder-length deep-brown hair center parted with curved ends, fair neutral skin, warm brown almond eyes, straight delicate brows, small straight nose and rounded pink lips, wearing charcoal scoop-neck rib knit beneath open ivory cardigan, high-waisted charcoal wide straight jeans and black low-top sneakers. One independent single full-body front portrait. Tall slender natural7.8-head fashion proportions with long legs. Head completely upright and level, neutral expression, hands relaxed by sides, body centered facing camera. Entire hair crown to soles visible with generous margins, no bent perspective, no collage or other people. Vertical2:3. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+本轮实际带参考图生成提示词
+MANDATORY OVERRIDE: head absolutely upright, zero tilt to either shoulder; horizontal pupil line and eyebrows, perfectly centered nose and chin above sternum. Portrait reference head tilt MUST NOT carry over. Generate a NEW native-quality photorealistic full-length studio photograph from scratch. Original closeup reference supplies ONLY fictional adult woman's exact face identity, hair, complexion and photographic finish. Do not extend or warp it. Match original fine skin detail, delicate facial features, crisp hair strands and textile texture. STRICT POSE: upright vertical head, zero lateral tilt, face straight toward viewer, eyes horizontal, nose and sternum centered, shoulders level, camera at eye level with minimal perspective. Do not copy reference's tilted pose. Arms relaxed, straight stable stance. Pure white seamless backdrop, even soft bright light, subtle floor shadow. Entire crown and shoes visible. Sharp coherent native image, no blur, no smoothing, no painterly look. Standard 2:3 portrait canvas. Balanced graceful human proportions; avoid giant head, miniature feet, tiny head or stretched torso. No labels or collage.  OUTFIT: white fine-knit open cardigan, black scoop-neck top, charcoal straight-leg jeans, black canvas sneakers with white soles. REQUIRED CORRECTION: Correct the previously oversized head/small-feet impression: anatomically normal head about 1/7.3 of standing stature, not oversized; realistic adult size EU39 feet and shoes with adequate forefoot width and toe box, do not shrink feet. Slimmer shoulder girdle, upper ribcage and pelvis; subtly straight slender hip silhouette, no broad upper torso. Balanced long legs.
 
 生成依据：
-imports/role-completion-20260924/events/human-white-portraits-24-20260922-03--full_body.json
+imports/white-24-approved-replacement-20261109/events/human-white-portraits-24-20260922-03--full_body.json
