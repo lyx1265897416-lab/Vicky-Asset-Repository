@@ -1,0 +1,22 @@
+﻿棕发蓝灰眼男模｜藏蓝衬衫 · 正面特写·身份母版
+生图模型：用户提供的确认原图（生成版本未核实）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult male with warm fair skin, natural visible pores, gray-blue eyes, thick natural brows, straight nose, full muted pink lips, defined jaw and light brown airy tousled wavy hair. Pure white seamless studio background, crisp neutral soft light, realistic casting-photograph texture. Front-facing chest-up portrait, direct gaze, black crew-neck T-shirt, all hair visible.
+
+原图保留。身份以用户确认特写为准；全身比例以确认版为准。提示词不保证完全复现。
+
+
+来源：/var/folders/nd/prqg9fln68dchnxcnb349h5h0000gn/T/codex-clipboard-17a8aa57-2a03-4c98-acbd-a25b0934846d.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/navy-model-20261110/generation-prompts.json
+imports/navy-model-20261110/review.json
