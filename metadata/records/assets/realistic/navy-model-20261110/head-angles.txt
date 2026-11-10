@@ -9,14 +9,16 @@
 文生图提示词：
 Photorealistic adult male with warm fair skin and visible pores, gray-blue eyes, thick natural brows, straight nose, full pink lips, defined jaw and light brown airy tousled wavy hair. Tall slim natural approximately seven-head proportions, navy textured band collar shirt, white inner placket, light gray striped turned cuffs, necklace, black pinstripe wide trousers, cloth sash and black shoes. Pure white background, crisp neutral soft studio photography, same identity in all panels. Landscape sheet, SIX large head-and-shoulder views in a 3-column 2-row layout: front, left three-quarter, right three-quarter; left profile, right profile, rear. Complete hair in each panel, same scale. Eyes and pores crisp.
 
-原图保留。身份以用户确认特写为准；全身比例以确认版为准。提示词不保证完全复现。
+基于确认特写与全身母版校准的修订；视觉复核通过，不代表逐像素相同或视频一致性已验证。原始分辨率未提高。
 
 
-来源：/Users/vicky/.codex/generated_images/01a14418-0911-7be0-a6e8-9b74e45c83e2/exec-086f4468-2a44-4a0c-b117-6b6faf5ccdd4.png
+来源：/Users/vicky/.codex/generated_images/01a14418-0911-7be0-a6e8-9b74e45c83e2/exec-7d2c4b2e-3c44-4da9-82cc-fdb0a92fff2a.png
 
 原始生成提示词：
-Create a production character reference sheet of the SAME adult male in both references. Reference 1 is the exact face identity and photographic detail authority: gray-blue eyes, natural thick brows, straight nose, full muted pink lips, defined natural jaw, fair warm skin with pores and small marks, light brown airy tousled wavy hair with fine flyaways. Reference 2 is the confirmed fullbody proportion and outfit authority: natural approximately seven heads tall, slim tall adult, navy textured band collar shirt, white inner placket, light gray striped turned cuffs, small necklace, black fine-pinstripe wide trousers, cloth sash and black shoes. All panels same person, same outfit, identical hair length and color, natural head size. Pure white seamless background, neutral soft studio light, crisp real casting-photography quality matching ref1. No CGI, doll face, smoothing, illustration, text, labels, borders or watermark. Preserve identity across every view. Landscape sheet, SIX large head-and-shoulder views in a 3-column 2-row layout: front, left three-quarter, right three-quarter; left profile, right profile, rear. Complete hair in each panel, same scale. Eyes and pores crisp.
+Use case: identity-preserve. Repair the third image (edit target) against image1 exact identity master and image2 approved body/outfit master. Same adult man, no redesign. Match image1 face width, cheek fullness, jaw/chin shape, brow-eye spacing, straight nose, full lips, gray-blue irises, subtle skin marks, light brown soft airy waves and flyaways. Do not elongate face, narrow cheeks or sharpen chin. Preserve natural camera skin pores and individual fine hair, no doll/CGI/smoothing. Same navy textured band-collar shirt, white inner placket and small necklace as image2; unchanged white studio background and neutral illumination. Match head-to-shoulder proportion to approved references, no oversized head. Six views 3 columns x 2 rows: front, left three-quarter, right three-quarter; left profile, right profile, rear. All panels consistent hair length, sideburns and crown volume, full hair visible. Preserve layout. Render a genuinely detailed high resolution 3072x2048 image, crisp facial details at individual panel scale.
 
 生成依据：
 imports/navy-model-20261110/generation-prompts.json
 imports/navy-model-20261110/review.json
+imports/navy-model-20261110/consistency-review/review.json
+imports/navy-model-20261110/consistency-review/prompts.json
