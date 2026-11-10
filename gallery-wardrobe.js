@@ -8,7 +8,7 @@ function wardrobeDetailList(a){
  return outfitAssets(a,ref).sort((x,y)=>({outfit:0,costume:1,accessory:2}[x.category]??3)-({outfit:0,costume:1,accessory:2}[y.category]??3)||x.library_number-y.library_number);
 }
 function moveOutfit(delta){
- const a=assets[modalIndex],covers=assets.filter(x=>x.asset_kind==='costume'&&x.category==='outfit'&&x.wardrobe_batch===a.wardrobe_batch&&!isTrashed(x)).sort((x,y)=>x.library_number-y.library_number);
+ const a=assets[modalIndex],scope=new Set(filtered()),covers=assets.filter(x=>x.asset_kind==='costume'&&x.category==='outfit'&&x.wardrobe_batch===a.wardrobe_batch&&scope.has(x)).sort((x,y)=>x.library_number-y.library_number);
  if(!covers.length){move(delta);return}
  const i=covers.findIndex(x=>(x.outfit_refs||[]).includes(detailOutfitRef));
  const next=covers[(i+delta+covers.length)%covers.length];
