@@ -1,0 +1,22 @@
+﻿棕卷发·白衫牛仔 · 脸部三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Adult woman with warm medium skin, subtle freckles, hazel-brown eyes, full natural pink lips and voluminous dark brown curly high updo with loose ringlets. White scalloped-strap pintucked button-front fitted camisole layered over a black top with lavender straps, dark indigo bootcut jeans, black silver-buckle belt and black bow ballet flats. Three head-and-shoulder portraits: front, left profile, right profile. Photorealistic studio photography, pure white seamless background, soft even light, natural skin and fabric texture, consistent identity, no text or watermark.
+
+独立提示词按成图重建，未验证纯文字同脸复现。用户确认全身图为唯一身份与造型依据；新增视图按授权补齐，未冒称逐张确认。
+
+
+来源：Vicky 原创角色 · 时装双角色确认入库 · 棕卷发·白衫牛仔
+
+原始生成提示词：
+Create a photorealistic character reference triptych for this exact adult woman. Three equal head-and-shoulders views on pure white: strict front, strict left profile, strict right profile. Same face, hair, complexion, accessories and visible clothing as reference, natural neutral expression and soft uniform light. Do not mirror asymmetric accessories; preserve actual anatomical side of hair and ornaments. Wide 3:1 image, three heads fully visible with margins, no text. Identity continuity is paramount.
+
+生成依据：
+imports/fashion-duo-20261110/authorization.json
+imports/fashion-duo-20261110/final-generation-events.json

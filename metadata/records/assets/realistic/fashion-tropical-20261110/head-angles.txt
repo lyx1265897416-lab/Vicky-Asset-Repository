@@ -1,0 +1,22 @@
+﻿金长卷发·热带花裙 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Adult woman with warm tan skin, hazel-green eyes, full pink lips, long golden blonde side-part waves, orange lily on her anatomical left and gold hoop earrings. Turquoise lace-trim tropical floral fitted camisole, matching short wrap sarong with a blue flower at her left hip and long narrow side drape to mid-calf, turquoise shoulder bag with blue disc strap on left shoulder, colorful bracelets and tan strappy flat sandals. Six head views in 3x2 grid: front, left three-quarter, left profile, back, right profile, right three-quarter. Photorealistic studio photography, pure white seamless background, soft even light, natural skin and fabric texture, consistent identity, no text or watermark.
+
+独立提示词按成图重建，未验证纯文字同脸复现。用户确认全身图为唯一身份与造型依据；新增视图按授权补齐，未冒称逐张确认。
+
+
+来源：Vicky 原创角色 · 时装双角色确认入库 · 金长卷发·热带花裙
+
+原始生成提示词：
+Using the reference as the exact identity and wardrobe anchor, create a photorealistic adult female character library asset. Preserve her unique face, proportions, skin, hair color and clothing details. Character: long blonde side-part waves, orange lily by her left ear, gold hoops, turquoise lace trim tropical floral fitted top, matching short wrap skirt with long side drape and blue flower clasp, turquoise shoulder bag with disc strap, colorful bracelets, tan sandals. One 3:2 sheet with exactly six head portraits in a 3 columns x 2 rows grid: front, left three-quarter, left profile, back of head, right profile, right three-quarter. Same facial identity throughout, consistent size. No text. Pure white background, soft even catalogue studio lighting, natural skin and fabric detail. No invented accessories, no redesign, no watermarks.
+
+生成依据：
+imports/fashion-duo-20261110/authorization.json
+imports/fashion-duo-20261110/final-generation-events.json

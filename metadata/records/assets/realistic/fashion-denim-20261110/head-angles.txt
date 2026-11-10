@@ -1,0 +1,22 @@
+﻿棕卷发·白衫牛仔 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Adult woman with warm medium skin, subtle freckles, hazel-brown eyes, full natural pink lips and voluminous dark brown curly high updo with loose ringlets. White scalloped-strap pintucked button-front fitted camisole layered over a black top with lavender straps, dark indigo bootcut jeans, black silver-buckle belt and black bow ballet flats. Six head views in 3x2 grid: front, left three-quarter, left profile, back, right profile, right three-quarter. Photorealistic studio photography, pure white seamless background, soft even light, natural skin and fabric texture, consistent identity, no text or watermark.
+
+独立提示词按成图重建，未验证纯文字同脸复现。用户确认全身图为唯一身份与造型依据；新增视图按授权补齐，未冒称逐张确认。
+
+
+来源：Vicky 原创角色 · 时装双角色确认入库 · 棕卷发·白衫牛仔
+
+原始生成提示词：
+Using the reference as the exact identity and wardrobe anchor, create a photorealistic adult female character library asset. Preserve her unique face, proportions, skin, hair color and clothing details. Character: brown curly high updo, warm skin with freckles, white pintucked button-front camisole over black inner top with lavender straps, dark bootcut jeans, black belt and black ballet flats. One 3:2 sheet with exactly six head portraits in a 3 columns x 2 rows grid: front, left three-quarter, left profile, back of head, right profile, right three-quarter. Same facial identity throughout, consistent size. No text. Pure white background, soft even catalogue studio lighting, natural skin and fabric detail. No invented accessories, no redesign, no watermarks.
+
+生成依据：
+imports/fashion-duo-20261110/authorization.json
+imports/fashion-duo-20261110/final-generation-events.json

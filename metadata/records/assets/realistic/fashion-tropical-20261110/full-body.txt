@@ -1,0 +1,22 @@
+﻿金长卷发·热带花裙 · 确认全身母版
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Adult woman with warm tan skin, hazel-green eyes, full pink lips, long golden blonde side-part waves, orange lily on her anatomical left and gold hoop earrings. Turquoise lace-trim tropical floral fitted camisole, matching short wrap sarong with a blue flower at her left hip and long narrow side drape to mid-calf, turquoise shoulder bag with blue disc strap on left shoulder, colorful bracelets and tan strappy flat sandals. Full-length frontal eye-level standing portrait, natural seven-head model proportions, arms down, whole head and footwear visible. Photorealistic studio photography, pure white seamless background, soft even light, natural skin and fabric texture, consistent identity, no text or watermark.
+
+独立提示词按成图重建，未验证纯文字同脸复现。用户确认全身图为唯一身份与造型依据；新增视图按授权补齐，未冒称逐张确认。
+
+
+来源：Vicky 原创角色 · 时装双角色确认入库 · 金长卷发·热带花裙
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/fashion-duo-20261110/authorization.json
+imports/fashion-duo-20261110/final-generation-events.json
