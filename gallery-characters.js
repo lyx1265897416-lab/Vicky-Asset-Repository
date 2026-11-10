@@ -24,6 +24,7 @@ function characterGridHTML(list,card){
  const groups=manifest.characters.filter(roleInScope).map(c=>({id:c.id,name:c.name,items:list.filter(a=>a.character_ids.includes(c.id))})).filter(g=>g.items.length&&(activeCharacter==='all'||activeCharacter===g.id));
  const unassigned=list.filter(a=>!a.character_ids.length);
  if(unassigned.length)groups.push({id:'unassigned',name:'未归类 / 风格参考',items:unassigned});
+ groups.sort((a,b)=>list.indexOf(a.items[0])-list.indexOf(b.items[0]));
  return groups.map(g=>`<section class="character-group" aria-label="${escapeHTML(g.name)}"><header><h3>${escapeHTML(g.name)}</h3><span>${g.items.length} 张 · ${[...new Set(g.items.map(a=>a.view_label))].map(escapeHTML).join(' / ')}</span></header><div class="character-group-grid">${g.items.map(card).join('')}</div></section>`).join('');
 }
 function sameCharacterAssets(id){return assets.filter(a=>a.character_ids.includes(id)&&!isTrashed(a))}
