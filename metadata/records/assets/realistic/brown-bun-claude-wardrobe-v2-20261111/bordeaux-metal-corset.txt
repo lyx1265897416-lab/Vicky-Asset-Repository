@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 酒红金属扣束腰长裙·造型展示板
+生图模型：Nano Banana 2.1 · edit
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：2752 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic fashion wardrobe board of one adult woman with softly oval face, green-grey eyes, natural brown eyebrows, softly full rose lips, fair warm skin, center-parted brown hair gathered into a loose low bun on her own left, fine face-framing strands, slim natural model proportions. Wine-red strapless corset with vertical seams, silver metal hook-and-eye fastening down the front and a pointed lower edge; matching fitted mermaid maxi skirt flaring into soft folds at the hem, wine-red ankle-strap high heels, wide black headband and small gold hoop earrings. Warm light-grey studio backdrop, soft even daylight, natural skin texture and detailed fabric. Wide layout: full-body front view, three-quarter view, back view, then a narrow right column of head-and-shoulders portrait and clothing/shoe detail crops. All panels depict the same woman and outfit. Complete feet in the full-body panels, relaxed neutral standing posture, no added text or labels outside the existing garment graphic.
+
+原图来自Claude会话并由本次用户确认，原始PNG字节保留。展示板含正面、四分之三侧面、背面及细节，并非严格正侧背三视图。独立提示词按实际成图重建，纯文字未验证同脸复现。
+
+
+来源：Claude 原图确认入库 · 酒红金属扣束腰长裙
+
+原始生成提示词：
+Character wardrobe sheet for a live-action reality-dating TV drama. Photorealistic fashion lookbook photography, light warm-grey seamless studio backdrop, soft even daylight, true-to-life skin texture, no beauty filter. IDENTITY: exactly the same woman as reference images 1-3: same face, green-grey eyes, natural brows, brown hair in the same low messy bun with soft face-framing strands, small gold hoop earrings, same slim body proportions and height as the full-body reference (do not shrink the head or stretch the legs). Image 3 is ONLY for body proportions - ignore its black clothes. COSTUME: she wears EXACTLY the complete outfit shown in the LAST reference image (the costume reference): copy every garment, cut, length, colour, wash, fabric texture, print, hardware, shoes and every accessory faithfully; add nothing, remove nothing. Layout, left to right in one wide image: full-body FRONT view, full-body THREE-QUARTER view, full-body BACK view, then a narrow column with two close-ups: head-and-shoulders portrait, and a detail crop of fabric and shoes. Every panel shows the identical outfit. Neutral relaxed standing pose, feet fully visible in every full-body panel. No added text, letters, logos or labels anywhere (except a print that is already on the garment). OUTFIT NOTES: wine-red strapless corset bodice with a silver metal hook-and-eye closure down the centre front and a pointed peplum edge, floor-length fitted mermaid skirt flaring into soft ruffled folds at the hem, wine-red ankle-strap high heels, wide black fabric headband worn on her head in front of the low bun.
+
+生成依据：
+imports/brown-bun-claude-wardrobe-v2-20261111/generation-evidence/bordeaux-metal-corset.json
+imports/brown-bun-claude-wardrobe-v2-20261111/authorization.json

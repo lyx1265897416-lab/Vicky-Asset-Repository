@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 白色荷叶拖尾草帽套装·造型展示板
+生图模型：Nano Banana 2.1 · edit
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：2752 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic fashion wardrobe board of one adult woman with softly oval face, green-grey eyes, natural brown eyebrows, softly full rose lips, fair warm skin, center-parted brown hair gathered into a loose low bun on her own left, fine face-framing strands, slim natural model proportions. White draped halter wrap crop top with open back and tied straps, white tiered ruffled mini skirt with a long cascading side train, wide-brim natural straw boater hat with cream ribbon, gold cuff and delicate gold necklace with pale clover-shaped pendant, natural light-tan woven raffia sandals with a broad toe strap, cream ankle straps and small gold buckles, slim mid-height heels. Warm light-grey studio backdrop, soft even daylight, natural skin texture and detailed fabric. Wide layout: full-body front view, three-quarter view, back view, then a narrow right column of head-and-shoulders portrait and clothing/shoe detail crops. All panels depict the same woman and outfit. Complete feet in the full-body panels, relaxed neutral standing posture, no added text or labels outside the existing garment graphic.
+
+原图来自Claude会话并由本次用户确认，原始PNG字节保留。展示板含正面、四分之三侧面、背面及细节，并非严格正侧背三视图。独立提示词按实际成图重建，纯文字未验证同脸复现。 最终原始提示词仅修改鞋色；独立提示词已补齐整套造型描述，前序生成链在来源证据中保留。
+
+
+来源：Claude 原图确认入库 · 白色荷叶拖尾草帽套装
+
+原始生成提示词：
+Edit this wardrobe sheet. Change ONLY the COLOUR and material of the sandals in every panel where feet are visible (front, three-quarter, back and the shoe close-up): they must match the straw hat - natural light-tan woven straw / raffia texture on the wide front strap and the heel, with a cream ankle strap and small gold buckle (same cream as the hat ribbon). Keep the exact same sandal shape: one wide strap across the front, NO toe post, thin buckled ankle strap, slim mid-height heel. No black on the shoes. Keep EVERYTHING else pixel-identical: same woman and face, hat, top, skirt, gold cuff, necklace, pose, framing, background, layout. No text.
+
+生成依据：
+imports/brown-bun-claude-wardrobe-v2-20261111/generation-evidence/white-ruffle-train.json
+imports/brown-bun-claude-wardrobe-v2-20261111/authorization.json
