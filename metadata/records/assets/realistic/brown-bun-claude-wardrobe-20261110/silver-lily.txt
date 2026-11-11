@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 银灰百合刺绣吊带长裙·造型展示板
+生图模型：Nano Banana 2.1 · edit
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：2752 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic fashion wardrobe board of one adult woman with softly oval face, green-grey eyes, natural brown eyebrows, softly full rose lips, fair warm skin, center-parted brown hair gathered into a loose low bun on her own left, fine face-framing strands, slim natural model proportions. Silver-grey satin floor-length slip gown with thin adjustable shoulder straps, straight neckline and low V-shaped back, pale-gold and blush-pink lily embroidery rising along one side of the front from hem toward waist, silver strappy high heels and small gold hoop earrings. Warm light-grey studio backdrop, soft even daylight, natural skin texture and detailed fabric. Wide layout: full-body front view, three-quarter view, back view, then a narrow right column of head-and-shoulders portrait and clothing/shoe detail crops. All panels depict the same woman and outfit. Complete feet in the full-body panels, relaxed neutral standing posture, no text or logos.
+
+原图来自Claude会话并由本次用户确认，原始PNG字节保留。展示板含正面、四分之三侧面、背面及细节，并非严格正侧背三视图。独立提示词按实际成图重建，纯文字未验证同脸复现。
+
+
+来源：Claude 原图确认入库 · 银灰百合刺绣吊带长裙
+
+原始生成提示词：
+Character wardrobe sheet for a live-action reality-dating TV drama. Photorealistic fashion lookbook photography, light warm-grey seamless studio backdrop, soft even daylight, true-to-life skin texture, no beauty filter. EXACTLY the same woman as the reference images: same face, green-grey eyes, natural brows, brown hair in the same low messy bun with soft face-framing strands, small gold hoop earrings, same slim body proportions and height as the full-body reference (do not shrink the head or stretch the legs). Layout, left to right in one wide image: full-body FRONT view, full-body THREE-QUARTER view, full-body BACK view, then a narrow column with two close-ups: head-and-shoulders portrait, and a detail crop of fabric and shoes. Every panel shows the identical outfit with identical colours, fabric, length and accessories. Neutral relaxed standing pose, feet fully visible in every full-body panel. No text, letters, logos or labels anywhere. OUTFIT: dinner gown option two: silver-grey liquid satin slip gown with thin straps and a straight neckline, floor length, hand-embroidered pale-gold and blush-pink lilies climbing from the hem up to the waist on one side, silver strappy heels, same small gold hoops.
+
+生成依据：
+imports/brown-bun-claude-wardrobe-20261110/generation-evidence/silver-lily.json
+imports/brown-bun-claude-wardrobe-20261110/authorization.json
