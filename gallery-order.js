@@ -48,7 +48,12 @@
   };
   label.append(select);
   const old=controls.querySelector('#bgm-order');
-  if(old)old.replaceWith(label);else rail.insertBefore(label,rail.querySelector('[data-label-backup],.recycle-shortcut,#batch-mode'));
+  if(old)old.replaceWith(label);else {
+   const anchor=rail.querySelector('[data-label-backup],.recycle-shortcut,#batch-mode');
+   // Bulk controls may wrap the anchor in a nested action group.
+   const sibling=anchor&&[...rail.children].find(child=>child.contains(anchor));
+   rail.insertBefore(label,sibling||null);
+  }
  };
  render();
 })();
