@@ -1,0 +1,22 @@
+﻿深棕卷发·藏蓝条纹 · 九宫格表情
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1199 × 1312
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult male with warm fair skin, natural visible pores, gray-blue eyes, thick natural brows, straight nose, full muted pink lips, defined jaw and dark brown swept tousled wavy hair with loose forehead strands and subtle facial stubble. Pure white seamless studio background, crisp neutral soft light, realistic casting-photograph texture. Nine consistent head-and-shoulder portraits in a three-by-three expression grid: neutral, smile, side glance, laugh, worried, surprised, angry, sad, confident smile.Navy fine vertical-striped open-collar shirt with rolled sleeves, square silver pendant, black belt with rectangular silver buckle, black pleated wide trousers, black shoes, silver watch on left wrist and bracelets on right wrist.  Refined naturally tapered masculine jaw, balanced nose-lip-chin relationship, no forward-jutting chin. Crisp skin pores and hair strands, no illustration or plastic smoothing, no text.
+
+原图保留。身份以用户确认特写为准；全身比例以确认版为准。提示词不保证完全复现。
+
+
+来源：/Users/vicky/.codex/generated_images/01a14418-0911-7be0-a6e8-9b74e45c83e2/exec-fc2aafaa-e995-48f3-9abe-d269894e8935.png
+
+原始生成提示词：
+Create a photorealistic production reference sheet of the SAME adult man. Image1 is sole face identity, hairstyle and quality master: dark brown swept tousled waves with loose forehead strands, thick dark brows, blue-gray eyes, straight nose, natural lips, strong jaw, subtle stubble and skin marks, real pores. Image2 is exact body proportion and wardrobe master: tall lean athletic physique, natural head size, navy fine vertical-striped open collar shirt with sleeves rolled to forearms, black belt silver buckle, black pleated wide-leg trousers, black shoes, square pendant, silver watch on his left wrist, bracelets on his right wrist and rings. Use ONLY this navy outfit throughout, never the portrait's suit. Preserve exact face proportions, hair shape and photographic texture; no doll face, smoothing, CGI or identity drift. White seamless background, neutral soft studio light, crisp fine hair and fabric, no labels, text or watermark. Nine head-and-shoulder portraits in a 3x3 grid: neutral, small warm smile, playful side glance, natural open laugh, worried, surprised, restrained anger, sad, confident gentle smile. Keep exact bone structure and hairstyle in every expression, same crop, no expression-induced identity drift.
+
+生成依据：
+imports/dark-wave-navy-stripe-20261110/generation-prompts.json
+imports/dark-wave-navy-stripe-20261110/review.json

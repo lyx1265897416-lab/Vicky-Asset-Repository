@@ -1,0 +1,22 @@
+﻿深棕卷发·藏蓝条纹 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult male with warm fair skin, natural visible pores, gray-blue eyes, thick natural brows, straight nose, full muted pink lips, defined jaw and dark brown swept tousled wavy hair with loose forehead strands and subtle facial stubble. Pure white seamless studio background, crisp neutral soft light, realistic casting-photograph texture. Six head-and-shoulder portraits in a three-column two-row grid: front, left three-quarter, right three-quarter, left profile, right profile, rear.Navy fine vertical-striped open-collar shirt with rolled sleeves, square silver pendant, black belt with rectangular silver buckle, black pleated wide trousers, black shoes, silver watch on left wrist and bracelets on right wrist.  Refined naturally tapered masculine jaw, balanced nose-lip-chin relationship, no forward-jutting chin. Crisp skin pores and hair strands, no illustration or plastic smoothing, no text.
+
+原图保留。身份以用户确认特写为准；全身比例以确认版为准。提示词不保证完全复现。
+
+
+来源：/Users/vicky/.codex/generated_images/01a14418-0911-7be0-a6e8-9b74e45c83e2/exec-ee244f2f-a2c3-44a3-a521-bf789e14bd4b.png
+
+原始生成提示词：
+Edit reference 1 to synchronize this same adult male character's corrected profile with reference 2 (the revised head sheet). Update side-profile and three-quarter panels only; preserve exact front and rear panels. Gently reduce protrusion of chin tip and broad thick lower jaw, creating a refined natural male mandibular contour, chin slightly behind lower lip in profile. Preserve recognizable identity, straight nose, blue-gray eyes, dark brown wavy hair, stubble, pores, photographic quality and existing lighting. No change in pose, wardrobe, white background or arrangement. No text. Restrained anatomical refinement only.
+
+生成依据：
+imports/dark-wave-navy-stripe-20261110/generation-prompts.json
+imports/dark-wave-navy-stripe-20261110/review.json

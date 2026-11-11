@@ -1,0 +1,22 @@
+﻿深棕卷发·藏蓝条纹 · 正面特写·身份母版
+生图模型：用户提供的确认原图（生成版本未核实）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult male with warm fair skin, natural visible pores, gray-blue eyes, thick natural brows, straight nose, full muted pink lips, defined jaw and dark brown swept tousled wavy hair with loose forehead strands and subtle facial stubble. Pure white seamless studio background, crisp neutral soft light, realistic casting-photograph texture. Single front chest-up portrait, direct gaze, dark pinstripe suit, white shirt, burgundy paisley tie and white pocket square. Refined naturally tapered masculine jaw, balanced nose-lip-chin relationship, no forward-jutting chin. Crisp skin pores and hair strands, no illustration or plastic smoothing, no text.
+
+原图保留。身份以用户确认特写为准；全身比例以确认版为准。提示词不保证完全复现。
+
+
+来源：/var/folders/nd/prqg9fln68dchnxcnb349h5h0000gn/T/codex-clipboard-7d985516-e4ca-49ce-bc68-939d17d6e3bd.png
+
+原始生成提示词：
+未取得
+
+生成依据：
+imports/dark-wave-navy-stripe-20261110/generation-prompts.json
+imports/dark-wave-navy-stripe-20261110/review.json

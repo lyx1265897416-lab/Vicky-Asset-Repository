@@ -1,0 +1,22 @@
+﻿深棕卷发·藏蓝条纹 · 脸部三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult male with warm fair skin, natural visible pores, gray-blue eyes, thick natural brows, straight nose, full muted pink lips, defined jaw and dark brown swept tousled wavy hair with loose forehead strands and subtle facial stubble. Pure white seamless studio background, crisp neutral soft light, realistic casting-photograph texture. Three evenly spaced head-and-shoulder views: front, left profile, rear.Navy fine vertical-striped open-collar shirt with rolled sleeves, square silver pendant, black belt with rectangular silver buckle, black pleated wide trousers, black shoes, silver watch on left wrist and bracelets on right wrist.  Refined naturally tapered masculine jaw, balanced nose-lip-chin relationship, no forward-jutting chin. Crisp skin pores and hair strands, no illustration or plastic smoothing, no text.
+
+原图保留。身份以用户确认特写为准；全身比例以确认版为准。提示词不保证完全复现。
+
+
+来源：/Users/vicky/.codex/generated_images/01a14418-0911-7be0-a6e8-9b74e45c83e2/exec-182a15f8-3887-42f1-bf96-07679789aaf4.png
+
+原始生成提示词：
+Edit image1, a three-view head reference sheet of an adult male. Image2 is his locked front identity. Correct ONLY the middle side-profile panel to address overprojecting broad bulky chin/jaw. Gently retract chin tip so it sits naturally slightly behind the lower lip projection, reduce the heavy forward-projecting lower face and thick blocky jaw mass, refine mandibular outline into an elegant clean continuous line from ear to chin with subtle natural taper. Slightly shorten excessive front-to-back lower jaw depth, not a weak/recessed chin. Keep strong but refined adult male bone structure, balanced nose-lip-chin relationship, natural head stacked over neck, no jutting jaw. High-fashion male portrait contour aesthetics, but preserve this man's identity; do not replace with a celebrity. Keep exact left FRONT and right BACK panels unchanged, preserve hair, blue-gray eyes, nose, lips, skin marks and stubble, navy striped shirt, necklace, white background, layout, head scale and photographic detail. No smoothing or CGI. The user wants a noticeable but restrained improvement of side-profile chin projection and width, not new identity.
+
+生成依据：
+imports/dark-wave-navy-stripe-20261110/generation-prompts.json
+imports/dark-wave-navy-stripe-20261110/review.json
