@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 黄绿色围领短裙·全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult woman with hazel-green eyes, softly oval face, natural rose lips, warm fair skin, center-parted brown hair with loose face-framing strands and a low bun on her anatomical left; small thick gold hoop earrings. Tall slender model proportions and long natural legs. Yellow-green/chartreuse olive broad softly folded scarf collar immediately below the jaw, extending to the base of the neck; gathered matching green satin halter top with a fitted paneled corset waist, ruched matching green satin mini skirt, long green scarf tail on her anatomical left, thin black ankle-strap high-heel sandals. Back has an open upper back and opaque fitted waist panel with discreet center-back closure. Three equal-scale full-length views: exact front, strict right-facing profile and exact rear. Aligned head heights and feet. Rear bun and scarf tail visibly offset toward viewer left. Pure white studio background, soft even lighting, realistic skin, hair and fabric detail, complete head and shoes, no text.
+
+独立文生图描述按成图重建，未验证纯文本同脸复现。黄绿色造型为同一角色的不同服装展示；正面确认图保留原字节，后背结构为本轮补全。
+
+
+来源：Vicky 同角色不同造型 · 黄绿色围领短裙 · 全身三视图
+
+原始生成提示词：
+Create a neutral photographic fashion reference sheet with three full-length views of the adult woman in image 1: exact front, strict right-facing profile, exact rear, arranged left to right at equal scale, aligned head heights and feet, on pure white. Image 1 is the approved master for facial identity, yellow-green/chartreuse olive satin clothing color, broad high wrapped collar, fitted paneled halter top, ruched short skirt, long scarf, body proportions and photographic treatment. Image 2 provides the already established side/rear clothing construction and layout, but recolor ALL its garment fabric from black to the exact green of image 1. Shoes remain black, earrings gold. Image 3 is a supporting facial-detail reference; preserve its natural facial features and soft realistic skin texture consistent with the approved master. Crucially keep the low brown bun on the woman's own LEFT side in all views, viewer-right in front and viewer-left in rear. The long scarf tail is also on her own left, viewer-left in rear. Rear construction follows image 2: exposed upper back, fitted opaque waist panel with discreet center-back closure. Preserve the tall long-legged proportions, neutral standing pose and relaxed arms. Highest native detail, realistic skin and hair, soft neutral studio lighting. Complete heads and shoes with margins, no cropping, no labels or text. Keep the same person and same green outfit in all three views.
+
+生成依据：
+imports/brown-bun-green-scarf-20261110/authorization.json
+imports/brown-bun-green-scarf-20261110/generation-events.json

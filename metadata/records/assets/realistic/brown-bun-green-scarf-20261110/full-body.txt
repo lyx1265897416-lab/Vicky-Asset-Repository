@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 黄绿色围领短裙·确认正面全身
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1036 × 1518
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult woman with hazel-green eyes, softly oval face, natural rose lips, warm fair skin, center-parted brown hair with loose face-framing strands and a low bun on her anatomical left; small thick gold hoop earrings. Tall slender model proportions and long natural legs. Yellow-green/chartreuse olive broad softly folded scarf collar immediately below the jaw, extending to the base of the neck; gathered matching green satin halter top with a fitted paneled corset waist, ruched matching green satin mini skirt, long green scarf tail on her anatomical left, thin black ankle-strap high-heel sandals. Back has an open upper back and opaque fitted waist panel with discreet center-back closure. Single full-length exact front view, neutral upright stance, arms down. Pure white studio background, soft even lighting, realistic skin, hair and fabric detail, complete head and shoes, no text.
+
+独立文生图描述按成图重建，未验证纯文本同脸复现。黄绿色造型为同一角色的不同服装展示；正面确认图保留原字节，后背结构为本轮补全。
+
+
+来源：Vicky 同角色不同造型 · 黄绿色围领短裙 · 确认正面全身
+
+原始生成提示词：
+Precise photographic compositing edit. The first image is the ONLY source of the woman's head and facial identity. The second image is the body/wardrobe composition to edit. Replace the entire head in the second image with a faithful scaled reproduction of the head from the first image: transfer the source face, including its fuller softly oval cheeks, wide-set large hazel eyes and exact eyelids, brows, straight natural nose, softly full lips, jaw, hairline, brown hair and side bun. Do not retain the face from the second image. Treat the first image's head like a photographed source plate to composite, preserving its identity and natural photographic texture rather than generating a new model. Fit this head naturally at the same head size and position in the full-body image, blending the neck seamlessly. Preserve the exact tall body proportions, limbs, neutral frontal pose, black heels, yellow-green clothing, broad high scarf collar, skirt and trailing scarf from image 2. Preserve the complete full-body white-background framing. Match the first image's soft neutral photographic rendering throughout, natural subtle skin pores and individual flyaway hairs, no beautification, no smoothing, no sharpened CGI gloss. Deliver the highest native resolution available with clear detailed facial features. One full-body image, no inset, no labels. Only the head/face identity and photographic treatment are corrected.
+
+生成依据：
+imports/brown-bun-green-scarf-20261110/authorization.json
+imports/brown-bun-green-scarf-20261110/generation-events.json
