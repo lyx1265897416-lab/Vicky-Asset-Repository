@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 黑色围领短裙·全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult woman with hazel-green eyes, softly oval face, natural rose lips, warm fair skin, center-parted brown hair with loose face-framing strands and a low bun on her anatomical left; small thick gold hoop earrings. Tall slender model proportions and long natural legs. Black broad softly folded scarf collar immediately below the jaw, extending to the base of the neck; gathered black halter top with a fitted paneled corset waist, ruched matching black mini skirt, long black scarf tail on her anatomical left, thin black ankle-strap high-heel sandals. Back has an open upper back and opaque fitted waist panel with discreet center-back closure. Three equal-scale full-length views: exact front, strict right-facing profile and exact rear. Aligned head heights and feet. Rear bun and scarf tail visibly offset toward viewer left. Pure white studio background, soft even lighting, realistic skin, hair and fabric detail, complete head and shoes, no text.
+
+独立文生图描述按成图重建，未验证纯文本同脸复现。黑色造型为同一角色的不同服装展示；正面确认图保留原字节，后背结构为本轮补全。
+
+
+来源：Vicky 同角色不同造型 · 黑色围领短裙 · 全身三视图
+
+原始生成提示词：
+Make a neutral fashion catalog reference sheet showing the adult woman from image 1 in three full-length views: front, right-facing profile, and back, arranged left to right on white. Preserve the exact black clothing design, broad wrapped collar, long scarf tail, skirt, shoes, body proportions and facial identity of image 1. Use image 2 only for her face and hairstyle across views. Keep the bun on her own left side, which is viewer-left in the back view and viewer-right in the front view. Keep the scarf tail on that same side in all views. Complete the clothing rear construction naturally and consistently with the front. All three figures stand neutrally at the same scale with matching head height and aligned feet, both arms relaxed. Include complete heads and shoes with margins. Clear realistic studio photography, soft even lighting, natural skin and fabric detail. No text or labels.
+
+生成依据：
+imports/brown-bun-black-scarf-20261110/authorization.json
+imports/brown-bun-black-scarf-20261110/generation-events.json

@@ -1,0 +1,22 @@
+﻿棕发低髻·格纹度假 · 黑色围领短裙·确认正面全身
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：1035 × 1519
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Photorealistic adult woman with hazel-green eyes, softly oval face, natural rose lips, warm fair skin, center-parted brown hair with loose face-framing strands and a low bun on her anatomical left; small thick gold hoop earrings. Tall slender model proportions and long natural legs. Black broad softly folded scarf collar immediately below the jaw, extending to the base of the neck; gathered black halter top with a fitted paneled corset waist, ruched matching black mini skirt, long black scarf tail on her anatomical left, thin black ankle-strap high-heel sandals. Back has an open upper back and opaque fitted waist panel with discreet center-back closure. Single full-length exact front view, neutral upright stance, arms down. Pure white studio background, soft even lighting, realistic skin, hair and fabric detail, complete head and shoes, no text.
+
+独立文生图描述按成图重建，未验证纯文本同脸复现。黑色造型为同一角色的不同服装展示；正面确认图保留原字节，后背结构为本轮补全。
+
+
+来源：Vicky 同角色不同造型 · 黑色围领短裙 · 确认正面全身
+
+原始生成提示词：
+Create an edited version of IMAGE 2, the full-length neutral fashion studio portrait of an adult woman. IMAGE 1 is the exact reference for facial identity, photographic rendering and the black wrapped collar. Keep IMAGE 2's full-body composition, head size relative to body, tall body and leg proportions, exact frontal standing pose, entire black ensemble, skirt, long scarf tail and shoes. Do not crop or shorten the figure. CORRECT THE COLLAR to exactly match IMAGE 1 when scaled to the full-body figure: a broad soft matte-black fabric wrap encircling the entire neck, with its upper edge immediately under the jaw, lower edge down at the neck base, the same vertical band height and horizontal width relative to her jaw and shoulders as IMAGE 1. Reproduce its gently layered horizontal folds and its broad cloth connections descending at both sides. It must not be the narrow rolled collar visible in IMAGE 2. Use image 1 as a precise collar pattern and placement guide, retaining the remaining outfit design from image 2. Match IMAGE 1's natural photographic realism and clear fine detail: individual hair strands, subtle skin pores and natural tonal variation, sharply resolved hazel-green eyes and gold earrings, softly textured matte fabric at the collar, without waxy skin or painted or airbrushed surfaces. Neutral white balance and soft even studio lighting like image 1. Preserve the same woman's identity and anatomical-left low brown bun. Render at the highest available native detail with clear full-body photographic focus and a pure white background; keep the portrait aspect ratio and full head-to-shoes framing of image 2. No text, no watermark.
+
+生成依据：
+imports/brown-bun-black-scarf-20261110/authorization.json
+imports/brown-bun-black-scarf-20261110/generation-events.json
