@@ -1,0 +1,22 @@
+﻿金发蓝眼·星纹格裤 · 脸部三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-10
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-10
+
+文生图提示词：
+Adult woman with blue-grey eyes, full glossy pink lips, natural brows, warm light-medium skin with subtle freckles, blonde dark-root loose updo and fine face-framing wisps. Yellow/navy diagonally striped neck scarf with a mid-chest hanging end on her anatomical right, blue strapless yellow-star pointed handkerchief crop top, red-brown plaid floor-length wide-leg trousers almost covering black shoes, ornate diagonal belt, stacked bracelets on anatomical left wrist. No necklace, no upper-arm cuff, no bag. Three head-and-shoulder portraits: front, left profile, right profile. Photorealistic studio photography, pure white seamless background, soft even light, natural skin and fabric texture, consistent identity, no text or watermark.
+
+独立提示词按成图重建，未验证纯文字同脸复现。用户确认全身图为唯一身份与造型依据；新增视图按授权补齐，未冒称逐张确认。
+
+
+来源：Vicky 原创角色 · 星纹格裤确认入库 · 金发蓝眼·星纹格裤
+
+原始生成提示词：
+Create a photorealistic character reference of the same adult woman. Image 1 is the confirmed outfit and body master; image 2 is ONLY the authoritative high-detail facial identity. Match image 2 face, blue-grey eyes, full pink lips, brows, natural skin pores and tiny freckles, blonde dark-root loose updo and wispy face framing strands. Preserve sharp photographic detail, no generic face or smoothing. Outfit from image 1: yellow/navy diagonal stripe neck scarf ending at mid chest on her anatomical right, blue strapless yellow-star pointed handkerchief top, red-brown plaid floor-length wide-leg trousers almost covering black shoes, diagonal ornate belt, stacked bracelets on anatomical left wrist. No necklace, no upper-arm cuff, no bag. White seamless studio, soft even light, consistent identity and garment structure, no text, no labels. Horizontal three head-and-shoulders portraits: frontal, left profile, right profile. Equal scale, neutral calm expression, all hair visible. Correct leftmost panel to nose pointing left; middle front; rightmost pointing right.
+
+生成依据：
+imports/star-plaid-20261110/authorization.json
+imports/star-plaid-20261110/final-generation-events.json
