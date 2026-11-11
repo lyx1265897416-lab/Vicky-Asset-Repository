@@ -1,0 +1,22 @@
+﻿服装37图 · 004 · 黑色金属扣腰带 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：2172 × 724
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 黑色金属扣腰带。仅此单件配饰，成对耳饰或手套作为一组，无其他物品。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装37图 · 图4 整图
+
+原始生成提示词：
+Create a close-up professional PRODUCT PHOTOGRAPH of EXACTLY ONE accessory: 黑色金属扣腰带. Pure WHITE seamless background. The attached image is reference for this accessory design ONLY. Do not reproduce the outfit or person. NO CLOTHING, NO SHIRTS, NO SKIRTS, NO PANTS, NO SHOES, NO BODY, NO MANNEQUIN. Entire item uncropped, realistic materials, soft neutral studio light. Single isolated object fills the frame. No text. Target position: 整图. Only the black leather belt and its buckle; remove all hanging chains, since the trouser chain is a separate item.
+
+生成依据：
+imports/wardrobe-37-20261111/events/acc-007-v2.json
+imports/wardrobe-37-20261111/sources.json

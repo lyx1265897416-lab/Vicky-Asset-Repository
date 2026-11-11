@@ -1,0 +1,22 @@
+﻿服装37图 · 015 · 灰纹抹胸长垂片裙 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 炭灰纹理抹胸迷你裙，腰侧小镂空与长不对称垂片，灰色中筒袜，灰色系带分趾风格鞋。配饰：黑色细颈圈；黑色长吊坠项链；黑色宽手镯。按自然穿搭位置或旁置排列，无人无人台。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装37图 · 图9 上排中
+
+原始生成提示词：
+Use case: product-mockup. One standalone photorealistic wardrobe catalogue image, pure white seamless background, soft neutral studio light, realistic fabric/construction. Portrait 2:3; entire objects fully visible with comfortable margins. No text, watermark, people, skin, body parts, hair, visible mannequin, hangers, support or scene. Hollow invisible-mannequin presentation, no skin-colored filling in stockings. Preserve exact visible color, silhouette, pattern and details. Conservatively reconstruct occluded details without adding decoration. The ONLY target is the 上排中 outfit in the reference (Chinese position; 上排左=top left, 上排中=top center, 上排右=top right, 下排左=bottom left, 下排中=bottom center, 下排右=bottom right, 左=left, 右=right, 整图=single outfit). Ignore every other panel. Create a coherent complete front-facing hollow outfit display. Garments and shoes: 炭灰纹理抹胸迷你裙，腰侧小镂空与长不对称垂片，灰色中筒袜，灰色系带分趾风格鞋. Exact detachable accessories inventory: 黑色细颈圈；黑色长吊坠项链；黑色宽手镯. Show each listed accessory exactly once (a pair only where specified), placed naturally or beside the outfit without overlap or cropping. No extra items. Keep the shirt neckline hollow; never show a body.
+
+生成依据：
+imports/wardrobe-37-20261111/events/complete-015.json
+imports/wardrobe-37-20261111/sources.json

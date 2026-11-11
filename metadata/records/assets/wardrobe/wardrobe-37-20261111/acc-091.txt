@@ -1,0 +1,22 @@
+﻿服装37图 · 042 · 黑色软皮手提包 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 黑色软皮手提包。仅此单件配饰，成对耳饰或手套作为一组，无其他物品。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装37图 · 图13 下排中
+
+原始生成提示词：
+Use case: product-mockup. One standalone photorealistic wardrobe catalogue image, pure white seamless background, soft neutral studio light, realistic fabric/construction. Portrait 2:3; entire objects fully visible with comfortable margins. No text, watermark, people, skin, body parts, hair, visible mannequin, hangers, support or scene. Hollow invisible-mannequin presentation, no skin-colored filling in stockings. Preserve exact visible color, silhouette, pattern and details. Conservatively reconstruct occluded details without adding decoration. The ONLY target is the 下排中 outfit in the reference (Chinese position; 上排左=top left, 上排中=top center, 上排右=top right, 下排左=bottom left, 下排中=bottom center, 下排右=bottom right, 左=left, 右=right, 整图=single outfit). Ignore every other panel. Show ONLY this ONE standalone accessory: 黑色软皮手提包. Match its visible design from this target. A pair of gloves or earrings counts as one matching pair. No garments, shoes, other jewelry or other objects. Show complete chains, straps and ends. No collage or accessory board.
+
+生成依据：
+imports/wardrobe-37-20261111/events/acc-091.json
+imports/wardrobe-37-20261111/sources.json

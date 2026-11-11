@@ -1,0 +1,22 @@
+﻿服装37图 · 056 · 金色细手链 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 金色细手链。仅此单件配饰，成对耳饰或手套作为一组，无其他物品。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装37图 · 图16 整图
+
+原始生成提示词：
+One isolated accessory product photo, ONLY 金色细手链. Pure white background, soft studio light, no person, mannequin, clothing or other accessories. A matching pair only if explicitly described. Match the accessory from the 整图 outfit in the reference; ignore all other objects. Complete straps and chains uncropped; no text. Do not recreate the outfit.
+
+生成依据：
+imports/wardrobe-37-20261111/events/acc-123.json
+imports/wardrobe-37-20261111/sources.json
