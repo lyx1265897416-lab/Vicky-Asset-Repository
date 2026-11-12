@@ -1,0 +1,22 @@
+﻿服装74图 · 149 · 香槟V领开衩缎长裙 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 浅香槟缎面V领细挂脖收腰长礼服，腰腹横褶，高开衩及地裙，香槟细带凉鞋。配饰：香槟长颈巾。按自然穿搭位置或旁置排列，无人无人台。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装74图 · 图36 c3
+
+原始生成提示词：
+Use case: product-mockup. One standalone photorealistic wardrobe catalogue product photo. Pure white seamless background, neutral soft studio lighting, realistic fabric texture. Portrait 2:3, full objects uncropped with comfortable margins. NO people, skin, body parts, face, hair, visible mannequin, hangers, stand, scene, text or watermark. Hollow invisible-mannequin presentation; see white background through sheer fabrics. Preserve the reference garment colors, silhouette, construction and fabric. Do not invent footwear when not visible. Reconstruct obscured seams conservatively. Reference image is design input only. Target ONLY image 36 position c3. rNcM means row N, column M, counted left to right, top to bottom across the full image. For images 27 and 28 there are 3 rows x 8 persons: each row joins two 4-person panels. For image 21 left/middle-left/middle-right/right are its four distinct clothing sets. For image 31 the left side has six dresses in two rows; right side has three people. For image 29 c1-c5 means its five main columns. For image 36 c4 bottom means the red lace dress in fourth column below a cropped advertisement; ignore cropped neighboring items. Ignore all other outfits, text and objects. Complete outfit cover: 浅香槟缎面V领细挂脖收腰长礼服，腰腹横褶，高开衩及地裙，香槟细带凉鞋. Include ONLY these detachable accessories: 香槟长颈巾. Arrange clothing as one coherent frontal hollow outfit and place the listed accessories beside it with clear spacing. No people, skin, additional items, jewelry not listed, or mannequin.
+
+生成依据：
+imports/wardrobe-74-20261111/events/complete-149.json
+imports/wardrobe-74-20261111/sources.json

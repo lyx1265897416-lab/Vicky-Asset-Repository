@@ -1,0 +1,22 @@
+﻿服装74图 · 148 · 银色腕表 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：1199 × 1312
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 银色腕表。仅此单件配饰，成对耳饰或手套作为一组，无其他物品。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装74图 · 图36 c2
+
+原始生成提示词：
+ONLY one silver metal wristwatch with a small dial and silver bracelet strap. Large centered standalone accessory product photography on a pure white background. Recreate this accessory from the reference. The reference includes an outfit: DO NOT COPY THE DRESS OR ANY CLOTHING. No dress, no garment, no person, no mannequin, no body parts, no other objects. The entire output is only the named small accessory, uncropped, with natural soft studio shadows.
+
+生成依据：
+imports/wardrobe-74-20261111/events/acc-189-v2.json
+imports/wardrobe-74-20261111/sources.json

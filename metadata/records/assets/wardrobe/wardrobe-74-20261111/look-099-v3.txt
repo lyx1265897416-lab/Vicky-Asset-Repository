@@ -1,0 +1,22 @@
+﻿服装74图 · 099 · 白背心奶油直筒牛仔 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-11
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-11
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 白色圆领修身背心，奶油色直筒宽松牛仔长裤，黑色细带凉鞋。仅服装与鞋袜；无可拆卸配饰。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。文字图案以视觉参考为主，未逐图重生成验证。
+
+
+来源：服装74图 · 图27 r3c5
+
+原始生成提示词：
+Edit this catalog image. Preserve all garments exactly, their colors and construction, on pure white. REMOVE ALL feet, toes, ankles, human skin, mannequin parts inside or below trousers. Show the pair of EMPTY black sandals separately BESIDE the trousers, viewed from above with smooth flat insoles, clearly unworn shoes. Trousers end above blank white background, nothing emerging from hems. No body parts anywhere.
+
+生成依据：
+imports/wardrobe-74-20261111/events/look-099-v3.json
+imports/wardrobe-74-20261111/sources.json
