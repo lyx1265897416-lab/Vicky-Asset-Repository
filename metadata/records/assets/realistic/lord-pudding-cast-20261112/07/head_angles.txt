@@ -1,0 +1,24 @@
+﻿富豪猫 · 眼镜棕西装遗嘱执行人 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-12
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-12
+
+文生图提示词：
+Older adult man, gray side-parted hair, rectangular thin gold-tone glasses, fuller face and body, brown tweed three-piece suit, ivory shirt, burgundy tie, brown leather shoes. Six head-and-shoulder portraits in a 3 by 2 grid: left profile, front, right profile, left three-quarter, rear, right three-quarter. Pure white seamless studio background, soft even daylight, natural detailed skin and individual hair strands, accurate cloth weave and shoe leather, realistic photography, no text, no watermark. Maintain natural adult anatomy and consistent identity.
+
+独立提示词为成图重建描述；严格身份一致需同时参考已确认全身图与原始肖像。实际尺寸按PNG记录，不冒称2K或4K；背面细节为生成补全。
+
+
+来源：富豪猫互动剧 · 已确认六人角色补齐
+
+原始生成提示词：
+Create a photographic head-angle identity reference sheet of the EXACT SAME person in the references. Older adult man, gray side-parted hair, rectangular thin gold-tone glasses, fuller face and body, brown tweed three-piece suit, ivory shirt, burgundy tie, brown leather shoes. Reference 1 controls exact facial identity, age, facial proportions, hair and accessories. Reference 2 controls approved outfit and photographic style. Six equally sized close-up head-and-shoulder photographs in a tidy 3-column by 2-row layout on pure white: top row left-facing exact 90-degree profile, straight frontal eye-level, right-facing exact 90-degree profile; bottom row left three-quarter face, straight rear view of head and upper shoulders, right three-quarter face. Neutral relaxed mouth and eyes in all visible faces, no expression changes. Same scale and white studio lighting. Every head fully inside its cell with complete hair and ears, no overlap. Realistic fine skin texture, hair strands, natural cloth; no illustration, no waxy skin, no swirly false textures. No text, labels, numbers or borders. Preserve identity and hairstyle in all six angles. Landscape 3:2 sheet, maximum native resolution.
+
+生成依据：
+imports/lord-pudding-cast-20261112/authorization.json
+imports/lord-pudding-cast-20261112/generation-prompts.json
+imports/lord-pudding-cast-20261112/approved-fullbody-generation-prompts.json
+imports/lord-pudding-cast-20261112/portrait-generation-prompts.json
