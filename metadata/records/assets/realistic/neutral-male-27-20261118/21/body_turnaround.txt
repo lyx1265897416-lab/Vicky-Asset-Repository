@@ -1,26 +1,22 @@
 ﻿眼镜·藏蓝Polo · 全身三视图
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-11-18
+生成日期：2026-11-19
 时区：America/Los_Angeles
 图像尺寸：1536 × 1024
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-11-18
+提示词整理日期：2026-11-19
 
 文生图提示词：
-Photorealistic young adult male character. Dark brown textured wavy hair, gray-green eyes behind thin rectangular metal glasses, youthful clean-shaven angular face; navy polo with a single narrow ivory collar stripe. Lower outfit: stone-gray straight chinos, dark brown leather loafers. Three full-length photographs of the same adult man in one horizontal sheet: front, exact image-right-facing profile, exact back. Identical clothing, body proportions and head scale; 8–8.5-head athletic adult proportions, natural healthy long legs, arms at sides, empty hands. Entire hair and shoes visible, aligned crown heights and shoe baseline, generous margins. Pure white studio, subtle contact shadows, landscape 3:2, no text. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+Photorealistic adult male character. Dark brown textured wavy hair, gray-green eyes behind thin rectangular metal glasses, youthful clean-shaven angular face; navy polo with a single narrow ivory collar stripe. Lower clothing: stone-gray straight chinos, dark brown leather loafers. Three full-length views of the identical man, front, strict right-facing 90-degree profile, back, aligned height and waist, evenly spaced in a landscape 3:2 image. Tall elegant approximately eight-head fashion-model anatomy, compact ribcage and abdomen, high natural waist, long femurs and lower legs, balanced shoulders and natural head size. Fully visible hair, hands and shoes. Fine detailed natural skin, hair strands and fabric weave. White seamless studio and soft floor contact shadows. Level long-lens photography, no perspective distortion, no illustration, no text or watermark.
 
-独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+独立文生图提示词按本次成图重建；实际从已确认正面肖像重新生成单人全身，再以新全身和肖像生成三视图。未拉伸、修图或沿用旧全身体型；纯文字不保证同脸。
 
 
 来源：白底男角色27人确认入库 · 原参考 21 · neutral-male-27-20261118
 
 原始生成提示词：
-Use case: identity-preserve. Asset: 全身三视图. Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels.
-IDENTITY: Dark brown textured wavy hair, gray-green eyes behind thin rectangular metal glasses, youthful clean-shaven angular face; navy polo with a single narrow ivory collar stripe.
-LOWER OUTFIT: stone-gray straight chinos, dark brown leather loafers.
-Preserve the exact individual face, skull and jaw shape, eye color, hair color, hairstyle, apparent adult age, skin tone, and existing accessories of the supplied portrait. Different views are the SAME person, never a lookalike or a blended generic face. Realistic bright neutral studio photography with detailed natural pores and individual hair strands, accurate fine cloth weave, pure white seamless background, neutral color, no painterly/swirl texture, no plastic skin, no text, no labels, no watermark. 
-Use the attached approved image as the authoritative visual reference. Preserve all visible garment, collar, jewelry and hair details; infer unseen rear clothing construction consistently. Do not add props or new accessories.
+Generate a NEW photorealistic full-body character turnaround sheet in landscape 3:2. Reference image 1 is the NEW full-body identity, costume and proportion master; image 2 is the close-up face identity. Exactly three full-height views of this SAME adult man: FRONT, strict 90-degree SIDE facing right, BACK, evenly spaced left to right, identical scale and aligned crown, shoulders, natural waist, hips, knees and soles. Preserve the new long-legged approximately eight-head-tall fashion model anatomy, compact ribcage/abdomen and high natural waist. Do not lengthen torso or shorten legs when rotating. Same exact clothing construction, fabric colors, accessories and shoes as full-body master. All three complete figures from hair to shoes visible with small white margins; natural relaxed arms at sides, straight standing posture, neutral expression, no head turning except with whole body. White seamless studio and delicate contact shadows, level long-lens near-orthographic photography, sharp pores/hair/fabric texture. No labels, words, dividers, borders, diagram lines, illustration or plastic CG. Character details: Dark brown textured wavy hair, gray-green eyes behind thin rectangular metal glasses, youthful clean-shaven angular face; navy polo with a single narrow ivory collar stripe..
 
 生成依据：
-imports/neutral-male-27-20261118/receipts/21-body_turnaround.json
-imports/neutral-male-27-20261118/authorization.json
+imports/model-proportions-16-20261119/turnaround-receipts.json
+imports/model-proportions-16-20261119/authorization.json

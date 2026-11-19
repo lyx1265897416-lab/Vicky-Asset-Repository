@@ -1,0 +1,22 @@
+﻿黑色针织牛仔 · 001 · 黑色菱格链条肩包 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background with soft neutral studio light. Entire items visible, realistic material texture, no person, skin, body parts, visible mannequin, hanger or stand, no text or watermark. One narrow black diamond-quilted leather shoulder bag, tapered upper section with round metal eyelet, rounded rectangular lower body, front flap and small gold interlocking-C clasp. Black leather interwoven with gold chain forms the shoulder strap. Three-quarter front view with entire strap visible.
+
+依据用户两张参考照片制作白底无人商品图；被头发和靴子遮挡的服装区域保守补全。保留可见版型、纹理与配饰，不作为品牌或精确款号鉴定。
+
+
+来源：用户提供的黑色针织牛仔穿搭两张照片 · 同套不同姿态
+
+原始生成提示词：
+Use case: product-mockup. Create one high-resolution portrait 2:3 photographic wardrobe asset for Vicky wardrobe library, pure white seamless background, soft neutral studio lighting, realistic materials, all objects fully inside frame with generous margins. References 1 and 2 show the SAME outfit, use both for details. Remove ALL person, hair, skin, body, mannequin, hanger, stand, outdoor background. No text, labels, collage borders or watermark. Faithfully reconstruct visible item details; conservatively complete occluded structure. Show ONLY ONE black quilted leather shoulder bag visible in the reference photos, realistic faithful product reconstruction. Structured rounded rectangular body and flap, diamond quilting, small gold interlocking-C clasp at front, black-leather-woven gold chain shoulder strap attached through round metal eyelets. In photo1 the bag is seen edge-on; photo2 reveals its wider front. Show three-quarter FRONT view, do not mistake the narrow side panel for the whole bag. Strap forms a relaxed single loop above bag, entire bag and entire chain visible. No cap, belt, boots, clothes, hands or other items.
+
+生成依据：
+imports/wardrobe-black-denim-20261118/events/acc-002.json
+imports/wardrobe-black-denim-20261118/sources.json

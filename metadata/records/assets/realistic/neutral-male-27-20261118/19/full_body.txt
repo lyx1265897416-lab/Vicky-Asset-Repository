@@ -1,26 +1,22 @@
 ﻿黑发·蓝灰马甲 · 单人全身照
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-11-18
+生成日期：2026-11-19
 时区：America/Los_Angeles
 图像尺寸：1024 × 1536
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-11-18
+提示词整理日期：2026-11-19
 
 文生图提示词：
-Photorealistic young adult male character. Black swept wavy hair, green eyes, pronounced brows, clean-shaven structured face; slate blue double-breasted waistcoat, taupe shirt, espresso tie with small plain gold tie bar. Lower outfit: matching slate blue tailored trousers, dark brown Oxford shoes. Create ONE full-length standing studio photograph, front-facing body and face, upright at eye level, relaxed neutral expression, arms naturally at sides, empty hands. Entire hair to shoes visible with generous clean margins. Tall naturally proportioned adult male model, approximately 8–8.5 heads tall, long natural legs of healthy athletic thickness, balanced shoulders, not stretched, not oversized head, not excessively thin legs. Complete the lower outfit exactly as specified. Vertical 2:3 image, target native 1024x1536. Keep full body sharp, soft grounded shadow below shoes. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+Photorealistic adult male character. Black swept wavy hair, green eyes, pronounced brows, clean-shaven structured face; slate blue double-breasted waistcoat, taupe shirt, espresso tie with small plain gold tie bar. Lower clothing: matching slate blue tailored trousers, dark brown Oxford shoes. One centered full-length frontal standing portrait, neutral closed-mouth expression, relaxed arms, portrait 2:3. Tall elegant approximately eight-head fashion-model anatomy, compact ribcage and abdomen, high natural waist, long femurs and lower legs, balanced shoulders and natural head size. Fully visible hair, hands and shoes. Fine detailed natural skin, hair strands and fabric weave. White seamless studio and soft floor contact shadows. Level long-lens photography, no perspective distortion, no illustration, no text or watermark.
 
-独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+独立文生图提示词按本次成图重建；实际从已确认正面肖像重新生成单人全身，再以新全身和肖像生成三视图。未拉伸、修图或沿用旧全身体型；纯文字不保证同脸。
 
 
 来源：白底男角色27人确认入库 · 原参考 19 · neutral-male-27-20261118
 
 原始生成提示词：
-Use case: identity-preserve. Asset: 单人全身照. Create ONE full-length standing studio photograph, front-facing body and face, upright at eye level, relaxed neutral expression, arms naturally at sides, empty hands. Entire hair to shoes visible with generous clean margins. Tall naturally proportioned adult male model, approximately 8–8.5 heads tall, long natural legs of healthy athletic thickness, balanced shoulders, not stretched, not oversized head, not excessively thin legs. Complete the lower outfit exactly as specified. Vertical 2:3 image, target native 1024x1536. Keep full body sharp, soft grounded shadow below shoes.
-IDENTITY: Black swept wavy hair, green eyes, pronounced brows, clean-shaven structured face; slate blue double-breasted waistcoat, taupe shirt, espresso tie with small plain gold tie bar.
-LOWER OUTFIT: matching slate blue tailored trousers, dark brown Oxford shoes.
-Preserve the exact individual face, skull and jaw shape, eye color, hair color, hairstyle, apparent adult age, skin tone, and existing accessories of the supplied portrait. Different views are the SAME person, never a lookalike or a blended generic face. Realistic bright neutral studio photography with detailed natural pores and individual hair strands, accurate fine cloth weave, pure white seamless background, neutral color, no painterly/swirl texture, no plastic skin, no text, no labels, no watermark. 
-Use the attached approved image as the authoritative visual reference. Preserve all visible garment, collar, jewelry and hair details; infer unseen rear clothing construction consistently. Do not add props or new accessories.
+NEW photograph, not an edit. Use attached portrait only as exact facial identity and upper wardrobe reference. Full-length adult male runway model, exceptionally long legs and compact torso, approximately eight heads tall. Black swept wavy hair, green eyes, pronounced brows, clean-shaven structured face; slate blue double-breasted waistcoat, taupe shirt, espresso tie with small plain gold tie bar. Lower wardrobe: matching slate blue tailored trousers, dark brown Oxford shoes. Anatomical priority: high natural waist, SHORT compact abdomen, long upper legs and lower legs, high crotch, no elongated neck or torso. Legs must account for slightly over half of total standing height. Shirt/knit ends at high hip, tailored jackets properly cropped at upper hip without dragging the waistline down; trouser waistband at natural waist, no low rise. Reconstruct the whole body with elegant realistic fashion-model proportions. Neutral front view, centered symmetrical relaxed standing pose, arms down, hands and full shoes visible. White seamless photography studio and soft floor contact shadow. Camera level, long lens perspective, no low-angle distortion. Calm neutral closed-mouth expression. Preserve precise face, hairstyle and clothes details in reference. Ultra-crisp realistic photographic material, pores, individual hair, fabric weave, no plastic CG, no drawing. Portrait 2:3 frame. No text, no guides, no watermark. Approximate anatomy within frame: crown 4%, chin 16%, shoulder 19%, natural waist 35%, crotch 47%, knee 72%, soles 96%. The upper body must NOT become long.
 
 生成依据：
-imports/neutral-male-27-20261118/receipts/19-full_body.json
-imports/neutral-male-27-20261118/authorization.json
+imports/model-proportions-16-20261119/full-body-receipts.json
+imports/model-proportions-16-20261119/authorization.json
