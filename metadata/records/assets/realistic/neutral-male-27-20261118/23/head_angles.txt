@@ -1,0 +1,22 @@
+﻿雀斑卷发·灰格纹 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic young adult male character. Soft tousled medium brown curly fringe, brown eyes, fair skin with distinctive natural freckles, slim youthful clean-shaven face; one black dangling cross earring, charcoal-gray plaid overshirt over black crewneck T-shirt. Create a SIX-VIEW head-and-shoulders photographic reference sheet in an evenly aligned 3-column by 2-row grid. Top row left to right: straight-on front; left three-quarter facing image-left; right three-quarter facing image-right. Bottom row: exact left-facing 90-degree profile; exact right-facing 90-degree profile; exact back of head with NO face visible. Entire hair, neck and shoulder collar visible in every cell. SAME face, skull and head size in every view, identical eye-level perspective, calm neutral expression throughout. Pure white background and neat white gutters. Landscape 3:2 native 1536x1024. No text, no duplicate views, no extra panels. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底男角色27人确认入库 · 原参考 23 · neutral-male-27-20261118
+
+原始生成提示词：
+Targeted accessory continuity correction to FIRST image, a six-view sheet. Keep exactly the same six views, face identity, hair, expression, freckles, clothes, panel composition and photographic style. SECOND image is the approved frontal identity/accessory reference. He wears exactly ONE black cross drop earring on HIS RIGHT ear (viewer-left ear in a front portrait). Correct ONLY the lower row profiles: bottom-left image (nose points image-left, showing HIS LEFT ear) must have a completely BARE ear with NO earring, remove the black cross and hoop there. Bottom-middle image (nose points image-right, showing HIS RIGHT ear) must have the one black hoop and cross drop earring, matching the top-left front portrait. Upper row is already correct: top-left earring viewer-left; top-middle no earring; top-right visible cross on near ear. Back view earring at viewer-right. Do not add a second earring. Maintain all faces and six angles unchanged, pure white background. No text or labels.
+
+生成依据：
+imports/neutral-male-27-20261118/receipts/23-head_angles-correction.json
+imports/neutral-male-27-20261118/authorization.json

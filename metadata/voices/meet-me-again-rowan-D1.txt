@@ -47,5 +47,5 @@ Morning. I know the way. Seeing you still makes me nervous. I'd like to hold you
   "reuse_note": "正式对白调用 minimax/speech-02-hd + English_ReservedYoungMan；不是原演员声音克隆。"
 }
 确认记录：imports/meet-me-again-D1-20261012/choice-evidence.json
-/Users/vicky/Documents/waku内容/borrow-me-tomorrow/production/selected-d1-20261012/selection.json
-/Users/vicky/Documents/waku内容/borrow-me-tomorrow/production/male-casting-young-20261012/jobs/D1-params.json
+imports/meet-me-again-D1-20261012/choice-evidence.json
+imports/meet-me-again-D1-20261012/retained-generation-record.txt

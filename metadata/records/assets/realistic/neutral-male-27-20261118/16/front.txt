@@ -1,0 +1,25 @@
+﻿卷发·热带花衬衫 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic young adult male character. Dense tousled dark brown curls, hazel-green eyes, thick brows, refined balanced facial features, clean-shaven warm light skin; absolutely NO facial moles or beauty marks, natural fine skin texture; cream green-and-navy botanical shirt with a few muted red flowers, silver chain. No facial moles or dark beauty marks anywhere; retain natural skin texture. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底男角色27人确认入库 · 原参考 16 · neutral-male-27-20261118
+
+原始生成提示词：
+Use case: identity-preserve. Subtly refine the facial features of this EXACT male character in the input studio portrait, retaining his recognizable identity. Make the eyes and brows a little more balanced and naturally harmonious, refine the nose bridge and tip subtly, refine the lip contour and left-right balance, and give the jaw/chin a clean natural contour. Small tasteful improvements only, no drastic reshaping, no generic replacement face. Preserve his hazel eyes, thick dark brows, brown curly hair, warm skin tone, age and character.
+Remove ALL facial moles/beauty marks, particularly the prominent dark spot on viewer-left cheek and the small dark spots below the viewer-left corner of his mouth and around the chin. No dark moles anywhere on the forehead, cheeks, nose, lips, jaw or chin. Keep realistic fine skin texture and pores, gently even skin tone without plastic smoothing.
+Maintain rigorously straight-on front view, eye-level camera, zero head roll/yaw/pitch; eye line perfectly horizontal; nose, philtrum, lips midpoint and chin aligned vertically. Completely neutral expression at rest: brows relaxed, eyelids naturally open, lips gently closed, level relaxed mouth corners, no smile, smirk, pout, squint or frown.
+Keep the exact existing hairstyle, tropical shirt and silver chain, solid white background, soft balanced neutral lighting, chest crop, head scale and placement. Same 1086x1448 vertical 3:4 canvas. One portrait, no text, no UI, no borders.
+
+生成依据：
+imports/neutral-male-27-20261118/authorization.json
+imports/neutral-male-27-20261118/front-provenance.json

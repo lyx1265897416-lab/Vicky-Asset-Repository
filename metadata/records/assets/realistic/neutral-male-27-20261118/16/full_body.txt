@@ -1,0 +1,26 @@
+﻿卷发·热带花衬衫 · 单人全身照
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic young adult male character. Dense tousled dark brown curls, hazel-green eyes, thick brows, refined balanced facial features, clean-shaven warm light skin; absolutely NO facial moles or beauty marks, natural fine skin texture; cream green-and-navy botanical shirt with a few muted red flowers, silver chain. Lower outfit: sand linen straight trousers, dark brown suede loafers. No facial moles or dark beauty marks anywhere; retain natural skin texture. Create ONE full-length standing studio photograph, front-facing body and face, upright at eye level, relaxed neutral expression, arms naturally at sides, empty hands. Entire hair to shoes visible with generous clean margins. Tall naturally proportioned adult male model, approximately 8–8.5 heads tall, long natural legs of healthy athletic thickness, balanced shoulders, not stretched, not oversized head, not excessively thin legs. Complete the lower outfit exactly as specified. Vertical 2:3 image, target native 1024x1536. Keep full body sharp, soft grounded shadow below shoes. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底男角色27人确认入库 · 原参考 16 · neutral-male-27-20261118
+
+原始生成提示词：
+Use case: identity-preserve. Asset: 单人全身照. Create ONE full-length standing studio photograph, front-facing body and face, upright at eye level, relaxed neutral expression, arms naturally at sides, empty hands. Entire hair to shoes visible with generous clean margins. Tall naturally proportioned adult male model, approximately 8–8.5 heads tall, long natural legs of healthy athletic thickness, balanced shoulders, not stretched, not oversized head, not excessively thin legs. Complete the lower outfit exactly as specified. Vertical 2:3 image, target native 1024x1536. Keep full body sharp, soft grounded shadow below shoes.
+IDENTITY: Dense tousled dark brown curls, hazel-green eyes, thick brows, refined balanced facial features, clean-shaven warm light skin; absolutely NO facial moles or beauty marks, natural fine skin texture; cream green-and-navy botanical shirt with a few muted red flowers, silver chain.
+LOWER OUTFIT: sand linen straight trousers, dark brown suede loafers.
+Preserve the exact individual face, skull and jaw shape, eye color, hair color, hairstyle, apparent adult age, skin tone, and existing accessories of the supplied portrait. Different views are the SAME person, never a lookalike or a blended generic face. Realistic bright neutral studio photography with detailed natural pores and individual hair strands, accurate fine cloth weave, pure white seamless background, neutral color, no painterly/swirl texture, no plastic skin, no text, no labels, no watermark. Absolute invariant: no facial moles or dark beauty marks on any view or expression.
+Use the attached approved image as the authoritative visual reference. Preserve all visible garment, collar, jewelry and hair details; infer unseen rear clothing construction consistently. Do not add props or new accessories.
+
+生成依据：
+imports/neutral-male-27-20261118/receipts/16-full_body.json
+imports/neutral-male-27-20261118/authorization.json

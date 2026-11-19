@@ -1,0 +1,26 @@
+﻿棕发·深灰领带正装 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic young adult male character. Swept textured brown hair, gray-green eyes, strong brows and defined clean-shaven jaw; dark charcoal three-piece suit, white shirt, dark navy textured tie. Create a SIX-VIEW head-and-shoulders photographic reference sheet in an evenly aligned 3-column by 2-row grid. Top row left to right: straight-on front; left three-quarter facing image-left; right three-quarter facing image-right. Bottom row: exact left-facing 90-degree profile; exact right-facing 90-degree profile; exact back of head with NO face visible. Entire hair, neck and shoulder collar visible in every cell. SAME face, skull and head size in every view, identical eye-level perspective, calm neutral expression throughout. Pure white background and neat white gutters. Landscape 3:2 native 1536x1024. No text, no duplicate views, no extra panels. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底男角色27人确认入库 · 原参考 07 · neutral-male-27-20261118
+
+原始生成提示词：
+Use case: identity-preserve. Asset: 头部六角度. Create a SIX-VIEW head-and-shoulders photographic reference sheet in an evenly aligned 3-column by 2-row grid. Top row left to right: straight-on front; left three-quarter facing image-left; right three-quarter facing image-right. Bottom row: exact left-facing 90-degree profile; exact right-facing 90-degree profile; exact back of head with NO face visible. Entire hair, neck and shoulder collar visible in every cell. SAME face, skull and head size in every view, identical eye-level perspective, calm neutral expression throughout. Pure white background and neat white gutters. Landscape 3:2 native 1536x1024. No text, no duplicate views, no extra panels.
+IDENTITY: Swept textured brown hair, gray-green eyes, strong brows and defined clean-shaven jaw; dark charcoal three-piece suit, white shirt, dark navy textured tie.
+
+Preserve the exact individual face, skull and jaw shape, eye color, hair color, hairstyle, apparent adult age, skin tone, and existing accessories of the supplied portrait. Different views are the SAME person, never a lookalike or a blended generic face. Realistic bright neutral studio photography with detailed natural pores and individual hair strands, accurate fine cloth weave, pure white seamless background, neutral color, no painterly/swirl texture, no plastic skin, no text, no labels, no watermark. 
+Use the attached approved image as the authoritative visual reference. Preserve all visible garment, collar, jewelry and hair details; infer unseen rear clothing construction consistently. Do not add props or new accessories.
+
+生成依据：
+imports/neutral-male-27-20261118/receipts/07-head_angles.json
+imports/neutral-male-27-20261118/authorization.json

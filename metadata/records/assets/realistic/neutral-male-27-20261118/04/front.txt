@@ -1,0 +1,24 @@
+﻿黑发蓝眼·立领皮衣 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic young adult male character. Medium-length black center-parted hair with strands crossing forehead, clear blue eyes, pale skin, narrow refined face, clean shaven; black leather stand-collar zipped jacket. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底男角色27人确认入库 · 原参考 04 · neutral-male-27-20261118
+
+原始生成提示词：
+Use case: identity-preserve. Precisely correct the FIRST input portrait to match the SECOND input's framing and eye-level pose. The first image is the edit target and sole identity/clothing reference. The second is ONLY the composition template: DO NOT copy that man's facial features, hair, skin color or outfit. Preserve first man's facial identity, hair, eye color, skin tone, clothing and detail.
+The first man's head is too large and too low. Reduce the head-to-chin image occupancy approximately 9%, matching template hair-top height, eye height and chin height; show a little more upper chest.
+Output vertical 3:4 1086x1448, pure white background, centered nose x=50%, eyes level y=37%, bottom of chin y=63%, main hair top near y=6%. Keep both shoulders level, chest crop, relaxed closed mouth, no props, no text, one portrait.
+
+生成依据：
+imports/neutral-male-27-20261118/authorization.json
+imports/neutral-male-27-20261118/front-provenance.json

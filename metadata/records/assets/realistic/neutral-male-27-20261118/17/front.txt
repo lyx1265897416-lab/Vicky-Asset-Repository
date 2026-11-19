@@ -1,0 +1,25 @@
+﻿棕卷发·黑金礼服 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic young adult male character. Swept medium-length brown curls, blue-gray eyes, defined clean-shaven face and full lips; black aristocratic formal coat with gold embroidery, ivory high cravat and lace, dark red gemstone brooch. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底男角色27人确认入库 · 原参考 17 · neutral-male-27-20261118
+
+原始生成提示词：
+Use case: identity-preserve. Create ONE photorealistic individual studio ID-style bust portrait of the exact male character in the reference. Preserve his distinctive facial identity, facial proportions, apparent age, skin tone, eye color, hairstyle and hair color; do not homogenize him into a generic model.
+STANDARDIZED SERIES GEOMETRY (follow precisely): vertical 3:4 canvas, face and torso directly front-facing, eye-level camera, head upright without tilt, gaze into lens, shoulders horizontal and square to camera. Center nose at x=50%. Full hair visible with top at y=7%; eye line at y=35%; bottom of chin at y=61%; shoulders around y=74%; bottom edge cuts across upper chest at y=100%. Hair-top to chin occupies 54% of image height. Both shoulders equally visible. Use a natural 85mm portrait perspective, no wide angle. Neutral relaxed closed mouth.
+Pure solid white background (#FFFFFF), even neutral soft studio lighting, realistic skin texture and crisp eyes. Keep the clothing category and styling of source but make a small tasteful variation: black aristocratic formal coat with subtly revised gold embroidery, ivory high-collar cravat and smaller dark red gemstone brooch, preserve period style. No props, hands, jewelry additions, text, numbering, borders, watermarks, interface, or other people. One portrait only, not a collage.
+Input roles: FIRST input is the sole identity and character reference. SECOND input is ONLY a framing/scale/white-background/lighting template from this portrait series. Copy its head size, eye-line height, chest crop and canvas ratio, NEVER its facial identity, coloring, hairstyle or clothing. Keep the FIRST input's distinct face. Preserve existing accessories specifically mentioned above. Output same image dimensions as the framing template.
+
+生成依据：
+imports/neutral-male-27-20261118/authorization.json
+imports/neutral-male-27-20261118/front-provenance.json
