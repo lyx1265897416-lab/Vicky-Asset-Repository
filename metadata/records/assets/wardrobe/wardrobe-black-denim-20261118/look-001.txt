@@ -1,0 +1,22 @@
+﻿黑色针织牛仔 · 001 · 黑色罗纹上衣灰黑牛仔翻折靴 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background with soft neutral studio light. Entire items visible, realistic material texture, no person, skin, body parts, visible mannequin, hanger or stand, no text or watermark. A fitted black fine vertical rib-knit round-neck long-sleeve top with long cuffs, low-rise grey-black five-pocket jeans with heavily faded thigh fronts and slim straight legs, and a pair of black pointed-toe leather boots with slouchy folded shafts and small silver side studs. The jeans tuck into the boots. Only apparel and footwear, no detachable accessories.
+
+依据用户两张参考照片制作白底无人商品图；被头发和靴子遮挡的服装区域保守补全。保留可见版型、纹理与配饰，不作为品牌或精确款号鉴定。
+
+
+来源：用户提供的黑色针织牛仔穿搭两张照片 · 同套不同姿态
+
+原始生成提示词：
+Use case: product-mockup. Create one high-resolution portrait 2:3 photographic wardrobe asset for Vicky wardrobe library, pure white seamless background, soft neutral studio lighting, realistic materials, all objects fully inside frame with generous margins. References 1 and 2 show the SAME outfit, use both for details. Remove ALL person, hair, skin, body, mannequin, hanger, stand, outdoor background. No text, labels, collage borders or watermark. Faithfully reconstruct visible item details; conservatively complete occluded structure. Show ONLY the CLOTHING AND FOOTWEAR: a fitted black fine vertical rib-knit round-neck long-sleeve top, long cuffs, ordinary waist length slightly cropped; low-rise gray-black washed five-pocket denim jeans, strongly faded gray thigh fronts and slim straight legs, and a pair of black leather pointed-toe mid-heel tall boots with loose folded-over shafts and small silver round studs on side of the fold. Arrange as a straight, symmetrical, front-view invisible-body outfit, sleeves gently angled down, jeans legs straight (no bent leg pose), lower jeans tucked naturally into boots. Neck and cuffs must be empty. Absolutely exclude the cap, bag, belt and any jewelry. Keep all top-to-boot details sharp, realistic product photo, white background.
+
+生成依据：
+imports/wardrobe-black-denim-20261118/events/look-001.json
+imports/wardrobe-black-denim-20261118/sources.json

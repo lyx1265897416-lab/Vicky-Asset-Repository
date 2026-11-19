@@ -1,0 +1,22 @@
+﻿黑色针织牛仔 · 001 · 黑色细皮革腰带 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background with soft neutral studio light. Entire items visible, realistic material texture, no person, skin, body parts, visible mannequin, hanger or stand, no text or watermark. One narrow smooth black leather belt with a small rounded gold-tone buckle, black keeper and adjustment holes, arranged as a loose oval loop with buckle facing forward.
+
+依据用户两张参考照片制作白底无人商品图；被头发和靴子遮挡的服装区域保守补全。保留可见版型、纹理与配饰，不作为品牌或精确款号鉴定。
+
+
+来源：用户提供的黑色针织牛仔穿搭两张照片 · 同套不同姿态
+
+原始生成提示词：
+Use case: product-mockup. Create one high-resolution portrait 2:3 photographic wardrobe asset for Vicky wardrobe library, pure white seamless background, soft neutral studio lighting, realistic materials, all objects fully inside frame with generous margins. References 1 and 2 show the SAME outfit, use both for details. Remove ALL person, hair, skin, body, mannequin, hanger, stand, outdoor background. No text, labels, collage borders or watermark. Faithfully reconstruct visible item details; conservatively complete occluded structure. Show ONLY ONE narrow black smooth leather belt seen threaded through the jeans in reference2. Small rounded gold-tone buckle, narrow black leather keeper, simple plain strap with adjustment holes. Arrange a single loose oval loop on white with buckle facing camera at front; entire belt visible. Faithful slim proportions, not wide or chunky. No trousers, body or other items.
+
+生成依据：
+imports/wardrobe-black-denim-20261118/events/acc-003.json
+imports/wardrobe-black-denim-20261118/sources.json

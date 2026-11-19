@@ -1,0 +1,22 @@
+﻿黑色针织牛仔 · 001 · 黑色罗纹上衣灰黑牛仔翻折靴 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-18
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-18
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background with soft neutral studio light. Entire items visible, realistic material texture, no person, skin, body parts, visible mannequin, hanger or stand, no text or watermark. A fitted black fine vertical rib-knit round-neck long-sleeve top with long cuffs, low-rise grey-black five-pocket jeans with heavily faded thigh fronts and slim straight legs, and a pair of black pointed-toe leather boots with slouchy folded shafts and small silver side studs. The jeans tuck into the boots. Matching black flat-top short-brim cap floats above the empty neckline; a narrow black leather belt with gold buckle is threaded through the jeans; a narrow black quilted gold-chain shoulder bag with tapered upper panel and gold interlocking-C clasp hangs at one side.
+
+依据用户两张参考照片制作白底无人商品图；被头发和靴子遮挡的服装区域保守补全。保留可见版型、纹理与配饰，不作为品牌或精确款号鉴定。
+
+
+来源：用户提供的黑色针织牛仔穿搭两张照片 · 同套不同姿态
+
+原始生成提示词：
+Use case: product-mockup. Make a single portrait 2:3 pure white seamless photographic COMPLETE OUTFIT cover for a wardrobe library. Input1 is the approved clothing+boots asset, inputs2-4 are the matching cap, bag and belt. Preserve the exact clothing designs, proportions, materials and accessory designs of those four inputs. Arrange as one straight front-view invisible-body ensemble: black fitted fine rib-knit round-neck long-sleeve top, grey-black heavily faded low-rise straight jeans, black pointed-toe slouchy folded-shaft boots with silver side studs; narrow black belt with small gold buckle threaded through jeans belt loops. Place the black flat-top short-brim cap floating above the empty neckline at natural head position, with only white empty space beneath it, NO head or hair. Hang the black diamond-quilted narrow shoulder bag by its black-and-gold chain from one shoulder at the side, preserving its tapered upper section, front flap and small gold interlocking-C clasp. Exactly one cap, one bag, one belt, one top, one pair of jeans and one pair of boots. Never add accessories. Absolutely no person, skin, face, hair, hands, neck, body, mannequin or support. All items completely visible, including cap and boot tips, generous white border. Soft neutral studio light, sharp realistic cloth and leather texture, no background scenery, no text or layout panels.
+
+生成依据：
+imports/wardrobe-black-denim-20261118/events/complete-001.json
+imports/wardrobe-black-denim-20261118/sources.json
