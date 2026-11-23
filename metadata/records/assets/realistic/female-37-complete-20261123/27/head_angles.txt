@@ -1,0 +1,24 @@
+﻿浅棕直发·黑色船领 · 头部六角度
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-23
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Long sleek light-brown hair, green-gray eyes, soft friendly features. light chestnut straight hair with curved ends, black modest boat-neck top covering shoulders, tiny dark circular pendant instead of clover. Create a SIX-VIEW head-and-shoulders photographic reference sheet in an evenly aligned 3-column by 2-row grid. Top row left to right: straight-on front; left three-quarter facing image-left; right three-quarter facing image-right. Bottom row: exact left-facing 90-degree profile; exact right-facing 90-degree profile; exact back of head with NO face visible. Entire hair, neck and shoulder collar visible in every cell. SAME face, skull and head size in every view, identical eye-level perspective, calm neutral expression throughout. Pure white background and neat white gutters. Landscape 3:2 native 1536x1024. No text, no duplicate views, no extra panels. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 27 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Asset: 头部六角度. Create a SIX-VIEW head-and-shoulders photographic reference sheet in an evenly aligned 3-column by 2-row grid. Top row left to right: straight-on front; left three-quarter facing image-left; right three-quarter facing image-right. Bottom row: exact left-facing 90-degree profile; exact right-facing 90-degree profile; exact back of head with NO face visible. Entire hair, neck and shoulder collar visible in every cell. SAME face, skull and head size in every view, identical eye-level perspective, calm neutral expression throughout. Pure white background and neat white gutters. Landscape 3:2 native 1536x1024. No text, no duplicate views, no extra panels.
+IDENTITY AND STYLE: Long sleek light-brown hair, green-gray eyes, soft friendly features. Slight variation: light chestnut straight hair with curved ends, black modest boat-neck top covering shoulders, tiny dark circular pendant instead of clover.
+Reference image defines the exact approved person, face, hairstyle, apparent age and upper clothing. Preserve identity, eye color, face shape, hairline, skin tone, hair and accessory design precisely. Same individual in every view, never a generic lookalike. Bright soft neutral frontal studio lighting and equal fill, consistent exposure with clear eyes and no dark face. Pure white seamless background, real fine skin and hair detail, no painterly texture or plastic skin. No text, labels, watermark, collage of different people, props, bags or added accessories. Infer unseen garment construction conservatively and consistently.  STRICT CROP: every panel is a HEAD-AND-SHOULDERS CLOSE-UP cropped at upper chest, no waist, no hips, no legs, no full-body figures. Face large enough to inspect features.
+
+生成依据：
+imports/female-37-complete-20261123/receipts/27-head_angles.json
+imports/female-37-complete-20261123/authorization.json

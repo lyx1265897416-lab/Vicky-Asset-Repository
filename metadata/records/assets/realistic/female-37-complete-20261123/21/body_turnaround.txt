@@ -1,0 +1,25 @@
+﻿中棕层次·淡蓝衬衫 · 全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-23
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Medium brown layered long waves with lighter strands, blue-gray eyes. mushroom-brown layered waves, pale blue softly structured collared blouse and a small gold ring pendant. Lower outfit: navy high-waisted straight-leg tailored trousers and dark brown flat loafers. Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Approximately seven-and-a-half (7.5) heads tall, balanced long-leg proportions, no elongated torso, no excessive leg stretching. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels. Adult head-to-body ratio approximately 7.5, proportionate shoulder width, ribcage and pelvis; healthy natural build, no oversized head or tiny body. Preserve age-appropriate anatomy for the young girl. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 21 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Asset: 脸部三视图. Create a horizontal THREE-PANEL HEAD-AND-SHOULDER turnaround photograph sheet. Left: exact straight-on front face, middle: exact 90-degree side profile facing image-right, right: exact rear head/back of shoulders looking away, NO face visible in rear. SAME head at identical scale with aligned crown and chin heights and ample margins in all three evenly spaced panels. Show entire hair, ears where unobstructed, neck and clothing collar. Neutral expression in front/profile, eye-level camera. White background, landscape 3:2, native 1536x1024. No extra views, labels or borders.
+IDENTITY AND STYLE: Medium brown layered long waves with lighter strands, blue-gray eyes. Slight variation: mushroom-brown layered waves, pale blue softly structured collared blouse and a small gold ring pendant.
+LOWER OUTFIT: navy high-waisted straight-leg tailored trousers and dark brown flat loafers.
+Reference image defines the exact approved person, face, hairstyle, apparent age and upper clothing. Preserve identity, eye color, face shape, hairline, skin tone, hair and accessory design precisely. Same individual in every view, never a generic lookalike. Bright soft neutral frontal studio lighting and equal fill, consistent exposure with clear eyes and no dark face. Pure white seamless background, real fine skin and hair detail, no painterly texture or plastic skin. No text, labels, watermark, collage of different people, props, bags or added accessories. Infer unseen garment construction conservatively and consistently. 
+
+生成依据：
+imports/female-37-complete-20261123/receipts/21-body_turnaround.json
+imports/female-37-complete-20261123/authorization.json

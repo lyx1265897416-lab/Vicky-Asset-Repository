@@ -1,0 +1,27 @@
+﻿黑棕长波浪·墨蓝翻领 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-20
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Very dark brown long waves, dark brown eyes, thick brows, softly rounded face. dark espresso waves, midnight-blue blouse with a modest small collar and short gold chain, no low neckline. Eyebrows are softened natural brown with visible fine hair strands, not solid black. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 36 · female-37-complete-20261123
+
+原始生成提示词：
+# 36 · 眉毛优化
+
+使用内置 image_gen。以用户附图为编辑目标，双侧眉毛调细、减淡并保留毛流；保留正面平视、白底、构图、服装与光线。
+
+Use case: identity-preserve. Edit target: the attached frontal female studio portrait. Make a very localized correction to BOTH eyebrows only: they are currently too thick, dense, dark and forceful. Reduce their vertical thickness about 25–30 percent, soften the inner brow heads, reduce density so natural skin shows between fine individual hairs, and lighten the near-black/dark brown brows to a soft medium ash brown harmonizing with her brown hair. Keep their natural overall length and position with a gentle low arch and tapered tails, balanced left and right. The result should be noticeably softer and finer, naturally groomed, not pencil-thin, bleached, painted or artificial. Preserve the exact same individual, apparent age, eyes, nose, lips, expression, face geometry, hair, clothing and necklace. Preserve dead-on frontal eye-level pose, level pupils, centered nose-mouth-chin, original chest-up scale, pure white backdrop, bright even neutral studio lighting, natural skin texture. Keep all pixels outside the eyebrow regions as unchanged as possible. One photorealistic portrait, same 1086x1448 3:4 framing; no text, watermark or collage.
+
+
+生成依据：
+imports/female-37-complete-20261123/authorization.json
+imports/female-37-complete-20261123/front-provenance.json

@@ -1,0 +1,24 @@
+﻿深棕直发·墨绿圆领 · 九宫格表情
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-23
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Dark brown straight center-parted hair, brown eyes, warm medium-light skin. deep espresso sleek hair with softly curved ends, deep forest-green round-neck blouse. Create a 3x3 NINE-PANEL head-and-shoulder expression reference sheet of exactly the SAME character. Every cell same head scale, front-facing eye-level, upright centered head, same hair, clothes, accessories and lighting. Nine distinct natural expressions in reading order: neutral at rest; gentle closed-mouth smile; joyful open-mouth laugh; restrained anger with tense brow; quiet sadness; surprised with naturally widened eyes; worried concern; subtle disgust; playful SINGLE-EYE wink with slight smile. Facial muscles change while identity stays fixed, avoid grotesque overacting or giant eyes. Include full hair and neck in every cell, consistent white gutters, pure white background. Square native 1536x1536 image. No text, no labels, exactly nine cells. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 12 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Asset: 九宫格表情. Create a 3x3 NINE-PANEL head-and-shoulder expression reference sheet of exactly the SAME character. Every cell same head scale, front-facing eye-level, upright centered head, same hair, clothes, accessories and lighting. Nine distinct natural expressions in reading order: neutral at rest; gentle closed-mouth smile; joyful open-mouth laugh; restrained anger with tense brow; quiet sadness; surprised with naturally widened eyes; worried concern; subtle disgust; playful SINGLE-EYE wink with slight smile. Facial muscles change while identity stays fixed, avoid grotesque overacting or giant eyes. Include full hair and neck in every cell, consistent white gutters, pure white background. Square native 1536x1536 image. No text, no labels, exactly nine cells.
+IDENTITY AND STYLE: Dark brown straight center-parted hair, brown eyes, warm medium-light skin. Slight variation: deep espresso sleek hair with softly curved ends, deep forest-green round-neck blouse.
+Reference image defines the exact approved person, face, hairstyle, apparent age and upper clothing. Preserve identity, eye color, face shape, hairline, skin tone, hair and accessory design precisely. Same individual in every view, never a generic lookalike. Bright soft neutral frontal studio lighting and equal fill, consistent exposure with clear eyes and no dark face. Pure white seamless background, real fine skin and hair detail, no painterly texture or plastic skin. No text, labels, watermark, collage of different people, props, bags or added accessories. Infer unseen garment construction conservatively and consistently.  STRICT CROP: every panel is a HEAD-AND-SHOULDERS CLOSE-UP cropped at upper chest, no waist, no hips, no legs, no full-body figures. Face large enough to inspect features.
+
+生成依据：
+imports/female-37-complete-20261123/receipts/12-expression_grid.json
+imports/female-37-complete-20261123/authorization.json

@@ -1,0 +1,22 @@
+﻿黑色长卷·细条纹圆领 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Long near-black waves, brown eyes, dark full brows. soft black waves, narrow navy-and-ivory striped crewneck top with short sleeves, small silver hoops and simple pendant. Eyebrows are softened natural brown with visible fine hair strands, not solid black. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 37 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Input image is the edit target. Only slightly lighten BOTH eyebrows from very dark dense brown to a softer natural medium-dark brown, reducing visual darkness/density approximately 15–20%. Preserve the original brow thickness, length, shape, arch and individual hair strands. Soften dark solid-looking patches and inner brow heads subtly; keep the brows well-defined and realistic, not pale, thin or bleached. All other facial features must remain unchanged. Clean rectangular portrait without screenshot rounded corners. Preserve the same person, apparent age, hairstyle and color, clothing, jewelry, eye color, natural skin tone and texture. Preserve the centered chest-up portrait scale and consistent bright even soft frontal studio lighting, pure white background. Maintain strict frontal eye-level pose. Output one photorealistic portrait, 3:4 vertical 1086x1448, no text, watermark, collage or frame. Outside the requested correction, preserve the reference as closely as possible.
+
+生成依据：
+imports/female-37-complete-20261123/authorization.json
+imports/female-37-complete-20261123/front-provenance.json

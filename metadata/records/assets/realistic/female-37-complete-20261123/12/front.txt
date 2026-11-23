@@ -1,0 +1,22 @@
+﻿深棕直发·墨绿圆领 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-20
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Dark brown straight center-parted hair, brown eyes, warm medium-light skin. deep espresso sleek hair with softly curved ends, deep forest-green round-neck blouse. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 12 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Rephotograph the ONE person in the reference as a precise straight-front, eye-level studio identification headshot. Preserve this individual's identity, age, facial structure, eye color, skin tone, hairstyle, clothing and accessories. Correct the previous portrait's oblique face, slanted features and uneven or dark exposure. CRITICAL CAMERA/POSE: head and torso face the lens dead-on, zero yaw, zero roll, zero pitch. Camera optical axis at pupil height. The center of the forehead, bridge of nose, tip of nose, philtrum, center of closed lips and chin must lie on the same vertical image centerline; both pupils on one horizontal line and looking at the lens; equal perspective size of both eyes; equally visible cheeks and nasal wings; level relaxed shoulders. No leaning, turning, looking aside, looking down, chin tuck, cocked head or beauty angle. Preserve natural individual features without a mirrored/artificial face. Neutral closed-mouth expression. COMPOSITION: 3:4 vertical image 1086x1448, centered chest-up passport-like framing, eyes at 37% image height, chin at 60%, cheek width around 40% canvas width, natural top hair margin, shoulders around 73%, bottom cuts upper chest. Keep face scale identical to other portraits in this series; voluminous hair and buns must not push the face lower or shrink it. LIGHTING CRITICAL: bright high-key studio headshot, large soft frontal light exactly above camera plus equal left/right fill and gentle under-chin fill. Even luminous exposure across BOTH cheeks, eyes, forehead and neck, clearly visible eyes, softly open shadows. Daylight neutral white balance 5600K, no yellow orange purple color cast. Pure white RGB255 seamless background. Face must look brightly and evenly lit, never underexposed, dull, murky or backlit. Preserve complexion rather than bleaching skin; retain fine natural skin texture, no smoothing. No directional side shadows, no dramatic contrast, no glossy hot spots, no overexposed washed-out skin. Output exactly ONE clean photorealistic portrait, no words, logos, watermark, grid, frame or other people.
+
+生成依据：
+imports/female-37-complete-20261123/authorization.json
+imports/female-37-complete-20261123/front-provenance.json

@@ -1,0 +1,22 @@
+﻿深棕高髻·黑色无袖领 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-23
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Dark brown hair in high loose bun with face-framing strands, brown eyes, smooth cheeks without dimples. neater espresso high bun, black sleeveless modest round-neck blouse and small gold hoops. Remove hand, camera and gestures, gently closed-mouth expression. One centered chest-up studio ID portrait. Straight front view, eye-level camera, upright head, level shoulders, eyes looking directly at the camera, relaxed neutral closed-mouth expression. Consistent 3:4 portrait crop, full hair visible, pure white background, soft even studio lighting, realistic skin texture. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 31 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Input image is the edit target. Remove ONLY the visible dimple on the VIEWER'S RIGHT cheek, beside the mouth corner (subject's left cheek). Fill that localized indentation and remove its shadow so this cheek is smoothly contoured like the opposite cheek, retaining natural skin texture. Preserve the exact smile, mouth shape, expression and face proportions. Deliver a clean portrait without the bottom-right screenshot UI badge or rounded screenshot edges. Preserve the same person, apparent age, hairstyle and color, clothing, jewelry, eye color, natural skin tone and texture. Preserve the centered chest-up portrait scale and consistent bright even soft frontal studio lighting, pure white background. Maintain strict frontal eye-level pose. Output one photorealistic portrait, 3:4 vertical 1086x1448, no text, watermark, collage or frame. Outside the requested correction, preserve the reference as closely as possible.
+
+生成依据：
+imports/female-37-complete-20261123/authorization.json
+imports/female-37-complete-20261123/front-provenance.json

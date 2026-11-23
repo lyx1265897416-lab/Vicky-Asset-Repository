@@ -1,0 +1,25 @@
+﻿乌黑长卷·深海军蓝 · 单人全身照
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-23
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-23
+
+文生图提示词：
+Photorealistic female character, preserve apparent age. Long black waves, dark brown eyes, faint freckles, coral lips. soft black-brown waves with a cleaner middle part, dark navy round-neck top, understated thin necklace. Lower outfit: dark gray high-waisted straight-leg jeans and black flat ankle boots. Create ONE full-length front-facing standing studio photograph, camera level and undistorted portrait-lens perspective, head upright, relaxed neutral expression, shoulders level, arms naturally at sides, hands empty. Entire hair to soles visible with 4–6% margins. Approximately SEVEN-AND-A-HALF (7.5) HEADS TALL measured from anatomical skull crown (not piled hair) to chin, elegant tall balanced model-like proportions with healthy natural build. Natural waist around 38–39% down from crown, crotch around 48–49%, knees around 73%; legs subtly long but proportional, torso not excessively long or short, normal head size and feet. Avoid squat short legs, huge head, tiny torso, stretched legs or eight/nine-head extreme runway proportions. Preserve apparent age: for the clearly young girl retain age-appropriate youthful anatomy and clothing. Vertical 2:3 native 1024x1536, soft grounded shadow, full body sharply visible. Keep the exact reference upper garment; complete the lower outfit specified. Adult head-to-body ratio approximately 7.5, proportionate shoulder width, ribcage and pelvis; healthy natural build, no oversized head or tiny body. Preserve age-appropriate anatomy for the young girl. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+
+独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+
+
+来源：白底女角色37人确认入库 · 原参考 24 · female-37-complete-20261123
+
+原始生成提示词：
+Use case: identity-preserve. Asset: 单人全身照. Create ONE full-length front-facing standing studio photograph, camera level and undistorted portrait-lens perspective, head upright, relaxed neutral expression, shoulders level, arms naturally at sides, hands empty. Entire hair to soles visible with 4–6% margins. Approximately SEVEN-AND-A-HALF (7.5) HEADS TALL measured from anatomical skull crown (not piled hair) to chin, elegant tall balanced model-like proportions with healthy natural build. Natural waist around 38–39% down from crown, crotch around 48–49%, knees around 73%; legs subtly long but proportional, torso not excessively long or short, normal head size and feet. Avoid squat short legs, huge head, tiny torso, stretched legs or eight/nine-head extreme runway proportions. Preserve apparent age: for the clearly young girl retain age-appropriate youthful anatomy and clothing. Vertical 2:3 native 1024x1536, soft grounded shadow, full body sharply visible. Keep the exact reference upper garment; complete the lower outfit specified.
+IDENTITY AND STYLE: Long black waves, dark brown eyes, faint freckles, coral lips. Slight variation: soft black-brown waves with a cleaner middle part, dark navy round-neck top, understated thin necklace.
+LOWER OUTFIT: dark gray high-waisted straight-leg jeans and black flat ankle boots.
+Reference image defines the exact approved person, face, hairstyle, apparent age and upper clothing. Preserve identity, eye color, face shape, hairline, skin tone, hair and accessory design precisely. Same individual in every view, never a generic lookalike. Bright soft neutral frontal studio lighting and equal fill, consistent exposure with clear eyes and no dark face. Pure white seamless background, real fine skin and hair detail, no painterly texture or plastic skin. No text, labels, watermark, collage of different people, props, bags or added accessories. Infer unseen garment construction conservatively and consistently.  USER PROPORTION CORRECTION: previous adult full-body versions looked short-legged. Increase visible leg length, aiming for a harmonious 7.5-head tall fashion-model silhouette. Moderately compact torso, natural high waist, long thighs and calves, normal head and healthy natural limbs. Avoid long tops that visually lower the waist. Preserve recognizable face, age, outfit style and real anatomy. HARMONY CHECK: anatomical head height about one seventh-and-a-half of standing height; healthy natural shoulders about 2.4–2.7 head-widths across, proportionate ribcage and pelvis. Do not shrink the shoulders or body around an oversized head. Elegant healthy slender build, not frail, pinched, tiny or emaciated. Hair volume is not the anatomical head size. Coherent head-neck-shoulder connection.
+
+生成依据：
+imports/female-37-complete-20261123/receipts/24-full_body.json
+imports/female-37-complete-20261123/authorization.json
