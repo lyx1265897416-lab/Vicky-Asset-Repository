@@ -1,25 +1,23 @@
 ﻿浅棕挑染·米白针织 · 全身三视图
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-11-23
+生成日期：2026-11-26
 时区：America/Los_Angeles
 图像尺寸：1536 × 1024
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-11-23
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Photorealistic female character, preserve apparent age. Light brown loose waves and pale face-framing highlights, gray-green eyes. beige-brown hair with subtler honey highlights, modest ivory rib-knit round-neck top. Lower outfit: warm beige high-waisted straight jeans and cream flat sneakers. Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Approximately seven-and-a-half (7.5) heads tall, balanced long-leg proportions, no elongated torso, no excessive leg stretching. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels. Adult head-to-body ratio approximately 7.5, proportionate shoulder width, ribcage and pelvis; healthy natural build, no oversized head or tiny body. Preserve age-appropriate anatomy for the young girl. Preserve a consistent individual face and hairstyle across all views. High-detail photographic skin, anatomically natural features, no watermarks, interfaces, logos or text.
+Photorealistic white studio character-library image. Identity: Long light brown and blonde highlighted waves with bright face-framing blonde streaks and darker center-part roots; pale green eyes, fair skin, oval face and natural rose lips. Outfit: Black long-sleeve fitted stand-collar pullover with long silver central half zipper extending to mid-torso; wide black belt with twin rows of silver studs and rectangular silver buckle; dark indigo charcoal washed jeans with prominent faded whiskering and contrast seams, long straight legs slightly gathered above boots; black leather ankle boots with thick soles, silver studs and crystal-like metal decorations around upper shaft, buckled ankle straps. Silver bracelets and rings as wardrobe reference. Exactly three equally tall figures in strict front, exact90-degree right-facing profile, strict back, aligned crown and ground, consistent outfit and hair, entire head through shoe soles. Coordinated healthy tall approximately7.7–8-head proportions with long thighs and calves, balanced normal head/shoulders/hips and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-独立文生图提示词按本次角色外观与成图重建；实际生成采用已确认肖像作为图像参考，原始编辑提示词另保留。独立文生图不能保证逐像素复现。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：白底女角色37人确认入库 · 原参考 07 · female-37-complete-20261123
 
 原始生成提示词：
-Use case: identity-preserve. Asset: 脸部三视图. Create a horizontal THREE-PANEL HEAD-AND-SHOULDER turnaround photograph sheet. Left: exact straight-on front face, middle: exact 90-degree side profile facing image-right, right: exact rear head/back of shoulders looking away, NO face visible in rear. SAME head at identical scale with aligned crown and chin heights and ample margins in all three evenly spaced panels. Show entire hair, ears where unobstructed, neck and clothing collar. Neutral expression in front/profile, eye-level camera. White background, landscape 3:2, native 1536x1024. No extra views, labels or borders.
-IDENTITY AND STYLE: Light brown loose waves and pale face-framing highlights, gray-green eyes. Slight variation: beige-brown hair with subtler honey highlights, modest ivory rib-knit round-neck top.
-LOWER OUTFIT: warm beige high-waisted straight jeans and cream flat sneakers.
-Reference image defines the exact approved person, face, hairstyle, apparent age and upper clothing. Preserve identity, eye color, face shape, hairline, skin tone, hair and accessory design precisely. Same individual in every view, never a generic lookalike. Bright soft neutral frontal studio lighting and equal fill, consistent exposure with clear eyes and no dark face. Pure white seamless background, real fine skin and hair detail, no painterly texture or plastic skin. No text, labels, watermark, collage of different people, props, bags or added accessories. Infer unseen garment construction conservatively and consistently. 
+Generate a NEW high-detail photorealistic full-body turnaround sheet in native1536x1024 landscape. Reference is the approved character and exact new outfit: preserve face, hair, clothing construction, colors, accessories, footwear and tall coordinated approximately7.7-head anatomy, long legs. Exactly THREE full-length equal-height figures side by side: LEFT strict frontal, CENTER exact90-degree profile facing right, RIGHT strict back. Same person and same clothing in all views, head directly aligned with torso, arms naturally at sides with empty hands, neutral stance, parallel legs. Align crown heights and soles on same ground line, entire hair and footwear visible with margins. Render actual profile and back garment construction consistently, not copied front details. Bright evenly illuminated white seamless studio, crisp face and hair, natural skin, detailed fabrics, leather and metal. No bag, sunglasses, handheld items, text, labels, borders, watermark, extra figures or cropped feet.
 
 生成依据：
-imports/female-37-complete-20261123/receipts/07-body_turnaround.json
-imports/female-37-complete-20261123/authorization.json
+imports/ref20-ref19-ref16-outfits-20261126/receipts/07-body_turnaround.json
+imports/ref20-ref19-ref16-outfits-20261126/authorization.json
+imports/ref20-ref19-ref16-outfits-20261126/visual-review.json

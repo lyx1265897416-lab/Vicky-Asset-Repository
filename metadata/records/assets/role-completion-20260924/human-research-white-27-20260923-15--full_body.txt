@@ -1,21 +1,23 @@
 ﻿调研白底女角色 参考15 · 棕色半扎发黑色露肩 · 单人全身照 · 本轮补充
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-25
+生成日期：2026-11-26
 时区：America/Los_Angeles
 图像尺寸：1024 × 1536
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-25
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos.   Original fictional young adult woman age 20–24. Long medium-brown hair half pulled back with wispy face-framing strands, fair skin, blue-gray eyes, full brows, soft pink lips. Black off-shoulder top with one narrow visible shoulder strap.  Black off-shoulder soft knit top over black narrow-strap layer, charcoal high-waisted flowing pleated midi SKIRT, black ballet flats and bare legs. Tall 173 cm slender build. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+Photorealistic white studio character-library image. Identity: Long medium-brown hair half pulled back with wispy face-framing strands, fair skin, blue-gray eyes, full brows and soft pink lips. Outfit: Fitted heather-gray sleeveless high-neck halter top with gently ruched waist and pointed curved front hem, small exposed side waist; low-rise black long flared jeans fitted through hips and thighs then widening below knees, black shoes subtly visible below hems; delicate gold chain bracelet. No bag, tattoo or handheld objects. One complete strictly frontal full-length portrait, level head and shoulders, gaze forward, empty hands at sides, entire hair and shoe soles visible. Coordinated healthy tall approximately7.7–8-head proportions with long thighs and calves, balanced normal head/shoulders/hips and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-research-white-27-20260923-15--full_body.json
 
 实际带参考图生成提示词
-Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos.   Original fictional young adult woman age 20–24. Long medium-brown hair half pulled back with wispy face-framing strands, fair skin, blue-gray eyes, full brows, soft pink lips. Black off-shoulder top with one narrow visible shoulder strap.  Black off-shoulder soft knit top over black narrow-strap layer, charcoal high-waisted flowing pleated midi SKIRT, black ballet flats and bare legs. Tall 173 cm slender build. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3. Preserve exact approved facial identity, hairstyle, complexion and wardrobe details. Reference for identity only, do NOT inherit pose. Both eyes open and directly forward in neutral view. Exactly zero head roll, horizontal pupils and shoulders, nose chin vertical above sternum. Full body has 7.8-head tall model proportion, head12.8percent height, long limbs without elongated face or neck. Follow explicit skirt vs trousers definition.
+Use case: identity-preserve. Generate a NEW crisp photorealistic native1024x1536 full-length portrait for character library. Input1 exact character identity, face and hairstyle. Input2 outfit and tall long-leg proportion reference only. Preserve the original individual and apparent adult age. Identity: Long medium-brown hair half pulled back with wispy face-framing strands, fair skin, blue-gray eyes, full brows and soft pink lips. Outfit: Fitted heather-gray sleeveless high-neck halter top with gently ruched waist and pointed curved front hem, small exposed side waist; low-rise black long flared jeans fitted through hips and thighs then widening below knees, black shoes subtly visible below hems; delicate gold chain bracelet. No bag, tattoo or handheld objects. Strictly frontal upright face and body, eye-level direct gaze, level eyes and shoulders, empty hands relaxed at sides. Approximately7.7-head tall balanced fashion-model anatomy: head correctly sized relative to shoulders and torso, elegant long thighs and calves, proportional hands and feet. No perspective distortion or oversized head. Fully show head, hair and both shoe soles with small margins. White seamless studio background with subtle grounded shadow, bright even neutral illumination and no dark face. Crisp eyes, natural skin texture, detailed hair strands, garment weave and seams, metal and leather detail. No bag, handheld objects, sunglasses, text, watermark, border or collage. Match clothing closely; do not transfer wardrobe model face or hair.
 
 生成依据：
-imports/role-completion-20260924/events/human-research-white-27-20260923-15--full_body.json
+imports/ref20-ref19-ref16-outfits-20261126/receipts/r15-full_body.json
+imports/ref20-ref19-ref16-outfits-20261126/authorization.json
+imports/ref20-ref19-ref16-outfits-20261126/visual-review.json
