@@ -1,0 +1,22 @@
+﻿炭灰围巾牛仔 · 001 · 灰色针织长围巾 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background, soft neutral studio light, entire items visible, realistic materials. No person, skin, body parts, visible mannequin, hanger, stand, typography, logos or watermark. One heather-gray soft fine-knit long scarf, draped as a loose loop with two long uneven tapered hanging ends, subtle wool fuzz and soft gravity folds.
+
+依据用户提供造型图整理为纯白背景无人服装、独立配饰与完整造型。小尺寸耳饰和吊坠细节、头发遮挡部分保守补全；不作精确款号或品牌鉴定。需保持设计时结合原参考，不承诺纯文字逐像素复现。
+
+
+来源：用户于2026-11-26提供的炭灰外套、绿针织、灰围巾与喇叭牛仔完整穿搭图
+
+原始生成提示词：
+Use case: product-mockup. Reference image defines CLOTHING AND ACCESSORY DESIGN ONLY. Create one photorealistic wardrobe library product image on a pure white seamless background, vertical 2:3. NO person, no face, no hair, no skin, no body parts, no visible mannequin, no hanger, no display stand, no typography or watermark. Soft neutral studio illumination, realistic fabric/metal textures, subtle contact shadows, full item uncropped with breathing room. Faithfully retain the reference garment design rather than redesigning it. Extract ONLY the gray knitted scarf from the reference. One entire heather-gray soft fine-knit long scarf, arranged in a loose draped loop at the top with two long asymmetrical hanging tapered ends, fine wool fibers, gentle soft folds, faithfully matching source scarf thickness and gray tone. Empty white center of loop. No body, garment, bust or other jewelry. Center the whole scarf vertically with generous margins, realistic product photography.
+
+生成依据：
+imports/wardrobe-charcoal-scarf-denim-20261126/events/acc-001.json
+imports/wardrobe-charcoal-scarf-denim-20261126/sources.json

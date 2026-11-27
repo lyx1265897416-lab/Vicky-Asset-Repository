@@ -1,0 +1,22 @@
+﻿黑针织链条长靴 · 001 · 银色小圈尖坠耳饰 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background, soft neutral studio light, entire items visible, realistic materials. No person, skin, body parts, visible mannequin, hanger, stand, typography, logos or watermark. One coordinated pair of small silver-tone hoop earrings with short understated pointed drop charms, simple everyday gothic jewelry. Small parts partially occluded in reference are conservatively reconstructed without elaborate new motifs.
+
+依据用户提供造型图整理为纯白背景无人服装、独立配饰与完整造型。小尺寸耳饰和鼻钉细节、头发遮挡部分保守补全；不作精确款号或品牌鉴定。需保持设计时结合原参考，不承诺纯文字逐像素复现。
+
+
+来源：用户于2026-11-26提供的黑色立领针织、灰黑紧身牛仔、长靴与链条腰带完整穿搭图
+
+原始生成提示词：
+Reference defines clothing/accessory design only. Create one photorealistic product image, pure white seamless background, portrait 2:3, soft neutral studio lighting, realistic materials, whole item visible with margins. No person, skin, face, hair, braids, visible mannequin, stand, hanger, typography or watermark. Preserve visible reference design; do not invent decoration. Extract ONLY the following accessory, no other garments or accessories. One coordinated pair of small silver-tone hoop earrings with short understated pointed drop charms, simple everyday gothic jewelry. Small parts partially occluded in reference are conservatively reconstructed without elaborate new motifs.
+
+生成依据：
+imports/wardrobe-black-knit-boots-20261126/events/acc-003.json
+imports/wardrobe-black-knit-boots-20261126/sources.json

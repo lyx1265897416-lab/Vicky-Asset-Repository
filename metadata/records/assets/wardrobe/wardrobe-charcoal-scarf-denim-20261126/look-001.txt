@@ -1,0 +1,22 @@
+﻿炭灰围巾牛仔 · 001 · 炭灰短外套绿针织喇叭牛仔 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background, soft neutral studio light, entire items visible, realistic materials. No person, skin, body parts, visible mannequin, hanger, stand, typography, logos or watermark. A fitted waist-length charcoal-black wool jacket with a wide folded collar/notched lapel, center black buttons, long fitted sleeves and discreet hip pocket flaps. Under it is a deep forest/teal green rib-knit V-neck sweater layer, and an ivory scalloped lace-trim camisole peeks at the neckline and below the green knit hem. Dark indigo faded jeans fitted through the thighs and gently flared widely below the knees, long floor-skimming hems with authentic faded thigh whiskering and gold-brown stitching. Under the hems a pair of black canvas low-top sneakers with off-white rubber toe caps, off-white soles and white laces, without brand logos. Maintain slender balanced garment proportions and notably long flared trouser legs. Apparel and footwear only; no removable scarf, hair ornament, jewelry or bag.
+
+依据用户提供造型图整理为纯白背景无人服装、独立配饰与完整造型。小尺寸耳饰和吊坠细节、头发遮挡部分保守补全；不作精确款号或品牌鉴定。需保持设计时结合原参考，不承诺纯文字逐像素复现。
+
+
+来源：用户于2026-11-26提供的炭灰外套、绿针织、灰围巾与喇叭牛仔完整穿搭图
+
+原始生成提示词：
+Use case: product-mockup. Reference image defines CLOTHING AND ACCESSORY DESIGN ONLY. Create one photorealistic wardrobe library product image on a pure white seamless background, vertical 2:3. NO person, no face, no hair, no skin, no body parts, no visible mannequin, no hanger, no display stand, no typography or watermark. Soft neutral studio illumination, realistic fabric/metal textures, subtle contact shadows, full item uncropped with breathing room. Faithfully retain the reference garment design rather than redesigning it. Show ONLY the apparel and footwear as one frontal ghost-mannequin clothing ensemble with naturally filled volume and totally invisible wearer: A fitted waist-length charcoal-black wool jacket with a wide folded collar/notched lapel, center black buttons, long fitted sleeves and discreet hip pocket flaps. Under it is a deep forest/teal green rib-knit V-neck sweater layer, and an ivory scalloped lace-trim camisole peeks at the neckline and below the green knit hem. Dark indigo faded jeans fitted through the thighs and gently flared widely below the knees, long floor-skimming hems with authentic faded thigh whiskering and gold-brown stitching. Under the hems a pair of black canvas low-top sneakers with off-white rubber toe caps, off-white soles and white laces, without brand logos. Maintain slender balanced garment proportions and notably long flared trouser legs. REMOVE ALL removable accessories from source: no scarf, no bow, no necklace, no earrings, no bag. Expose the full collar and the ivory lace trim at both neckline and hem. Keep the jacket buttoned at middle as in source. Do not turn the jacket into a long blazer, do not turn flared jeans into straight or wide-leg trousers. Garments and shoes are correctly layered as worn; not spread out as a collage.
+
+生成依据：
+imports/wardrobe-charcoal-scarf-denim-20261126/events/look-001.json
+imports/wardrobe-charcoal-scarf-denim-20261126/sources.json

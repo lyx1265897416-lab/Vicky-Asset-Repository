@@ -1,0 +1,22 @@
+﻿炭灰围巾牛仔 · 001 · 炭灰短外套绿针织牛仔套装 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph on pure white seamless background, soft neutral studio light, entire items visible, realistic materials. No person, skin, body parts, visible mannequin, hanger, stand, typography, logos or watermark. A fitted waist-length charcoal-black wool jacket with a wide folded collar/notched lapel, center black buttons, long fitted sleeves and discreet hip pocket flaps. Under it is a deep forest/teal green rib-knit V-neck sweater layer, and an ivory scalloped lace-trim camisole peeks at the neckline and below the green knit hem. Dark indigo faded jeans fitted through the thighs and gently flared widely below the knees, long floor-skimming hems with authentic faded thigh whiskering and gold-brown stitching. Under the hems a pair of black canvas low-top sneakers with off-white rubber toe caps, off-white soles and white laces, without brand logos. Maintain slender balanced garment proportions and notably long flared trouser legs. Accessories: a long soft heather-gray knitted scarf loosely looped at the empty neckline with two long uneven tapered tails, a dark burgundy ribbon hair bow with long tails, a matched pair of delicate small gold drop earrings, and a fine gold chain with a tiny oval loop pendant.
+
+依据用户提供造型图整理为纯白背景无人服装、独立配饰与完整造型。小尺寸耳饰和吊坠细节、头发遮挡部分保守补全；不作精确款号或品牌鉴定。需保持设计时结合原参考，不承诺纯文字逐像素复现。
+
+
+来源：用户于2026-11-26提供的炭灰外套、绿针织、灰围巾与喇叭牛仔完整穿搭图
+
+原始生成提示词：
+Use case: product-mockup. Reference image defines CLOTHING AND ACCESSORY DESIGN ONLY. Create one photorealistic wardrobe library product image on a pure white seamless background, vertical 2:3. NO person, no face, no hair, no skin, no body parts, no visible mannequin, no hanger, no display stand, no typography or watermark. Soft neutral studio illumination, realistic fabric/metal textures, subtle contact shadows, full item uncropped with breathing room. Faithfully retain the reference garment design rather than redesigning it. Show the COMPLETE coordinated outfit as a ghost-mannequin arrangement without any visible body: A fitted waist-length charcoal-black wool jacket with a wide folded collar/notched lapel, center black buttons, long fitted sleeves and discreet hip pocket flaps. Under it is a deep forest/teal green rib-knit V-neck sweater layer, and an ivory scalloped lace-trim camisole peeks at the neckline and below the green knit hem. Dark indigo faded jeans fitted through the thighs and gently flared widely below the knees, long floor-skimming hems with authentic faded thigh whiskering and gold-brown stitching. Under the hems a pair of black canvas low-top sneakers with off-white rubber toe caps, off-white soles and white laces, without brand logos. Maintain slender balanced garment proportions and notably long flared trouser legs. Include all FOUR removable accessory types: gray fine-knit long scarf looped loosely at the empty neck with two long hanging tapered ends as in source; one dark burgundy fabric hair bow with long ribbon tails floating above and slightly left of the empty neckline; a matched pair of tiny delicate gold drop earrings arranged near the bow; fine gold chain with a tiny oval loop pendant resting in the exposed camisole neckline beneath the scarf. No hair attached to the bow. All clothing hangs together naturally in one coherent frontal outfit, NOT separate panels or collage. Headless white empty space where the head would be. Jacket fastened at middle as source, green knit and ivory lace hem visible. Scarf should not cover all jacket details. Retain reference exactly in visible details; conservatively fill occluded construction. No bag, belt, gloves or new accessories.
+
+生成依据：
+imports/wardrobe-charcoal-scarf-denim-20261126/events/complete-001.json
+imports/wardrobe-charcoal-scarf-denim-20261126/sources.json
