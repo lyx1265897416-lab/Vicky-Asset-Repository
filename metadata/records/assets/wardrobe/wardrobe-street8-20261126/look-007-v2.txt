@@ -1,0 +1,22 @@
+﻿街拍8图 · 007 · 砖红蕾丝缎背心 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 砖红色褶皱缎面细吊带V领短背心，黑色蕾丝领边，深靛蓝低腰微喇叭牛仔裤，棕色露趾高跟凉鞋，鞋内必须空无脚趾。。仅服装与鞋袜；无可拆卸配饰。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：街拍8图 · 图2 r2c2
+
+原始生成提示词：
+Edit this exact garment product photo. Remove all human skin, feet and toes from both brown sandals below the jeans. Show EMPTY hollow sandals with plain unsegmented brown leather insoles, no anatomy. Preserve the red camisole, dark blue jeans, sandal design, colors, proportions and white background exactly. No accessories, no people.
+
+生成依据：
+imports/wardrobe-street8-20261126/events/look-007-v2.json
+imports/wardrobe-street8-20261126/sources.json

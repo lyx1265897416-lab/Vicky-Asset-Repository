@@ -1,0 +1,22 @@
+﻿街拍8图 · 017 · 双层棕开衫格纹裙 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 深棕短针织外套叠驼色V领开衫，米白蕾丝边衬衫，蓝灰棕格纹百褶短裙，米灰印花及膝袜，棕色系带低帮皮鞋。。配饰：深棕柔软手提包；银色短链与小十字吊坠组合。按自然穿搭位置或旁置排列，无人无人台。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：街拍8图 · 图3 r2c4
+
+原始生成提示词：
+Create one complete photorealistic wardrobe reference board on pure white. Image 1 is the approved hollow garment set: preserve exactly its clothing and footwear, colors, material and cut. Image 2 is the source board; target ONLY the largest central person in position r2c4. rNcM means row N column M, two rows four columns; ignore the tiny background thumbnails. Add ONLY these accessories: 深棕柔软手提包；银色短链与小十字吊坠组合. Keep all detachable accessories separately alongside the garment set, one of each (earrings/gloves as pairs). Do not add any unlisted objects. Do not duplicate shoes or garments. No extra gloves, sunglasses, jewelry, bags or hats. No person, skin, feet, toes, body or visible mannequin; all shoes EMPTY and garment gaps white. All objects fully visible with generous margins. Portrait 2:3, soft neutral studio lighting, realistic fabric and metal. No labels, titles or watermarks.
+
+生成依据：
+imports/wardrobe-street8-20261126/events/complete-017.json
+imports/wardrobe-street8-20261126/sources.json

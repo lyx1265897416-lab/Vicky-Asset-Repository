@@ -1,0 +1,22 @@
+﻿街拍8图 · 036 · 黑白叠领针织短裙 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 黑色修身深V七分袖迷你连衣裙，内搭白色大开领衬衫，白色翻折袖口，黑色厚底及膝宽筒靴。。仅服装与鞋袜；无可拆卸配饰。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：街拍8图 · 图6 r2c1
+
+原始生成提示词：
+Use case: product-mockup. One standalone photorealistic wardrobe catalogue product photo. Pure white seamless background, neutral soft studio lighting, realistic fabric texture. Portrait 2:3, full objects uncropped with comfortable margins. NO people, skin, body parts, face, hair, visible mannequin, hangers, stand, scene, text, brand logos or watermark. Hollow invisible-mannequin presentation; see white background through sheer fabrics. Preserve the reference garment colors, silhouette, construction and fabric. Do not invent footwear when not visible. Reconstruct obscured seams conservatively. Reference image is design input only. Target ONLY image 6 position r2c1. rNcM means row N, column M, counted left to right, top to bottom across the full image. Images 2 through 8 each have two rows and four columns. Target ONLY the largest central person inside the selected cell; ignore all small background thumbnails. Image 1 is one street-style outfit. All shoes must be EMPTY without feet or toes. All open garment gaps show pure white with no anatomy. Ignore all other outfits, text and objects. GARMENTS AND SHOWN FOOTWEAR ONLY: 黑色修身深V七分袖迷你连衣裙，内搭白色大开领衬衫，白色翻折袖口，黑色厚底及膝宽筒靴。. Remove ALL detachable accessories including 银色窄手镯；银色长链小吊坠项链. Keep integral garment fasteners, sewn bows and ties. No new items.
+
+生成依据：
+imports/wardrobe-street8-20261126/events/look-036.json
+imports/wardrobe-street8-20261126/sources.json

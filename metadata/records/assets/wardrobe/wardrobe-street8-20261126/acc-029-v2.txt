@@ -1,0 +1,22 @@
+﻿街拍8图 · 010 · 半透明浅灰购物袋一对无文字 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1312 × 1199
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 半透明浅灰购物袋一对无文字。仅此单件配饰，成对耳饰或手套作为一组，无其他物品。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：街拍8图 · 图3 r1c1
+
+原始生成提示词：
+Edit this exact isolated product photo. Remove the entire metal chain and clips. Show two ordinary translucent gray grocery shopping bags with plain integral plastic loop handles. No metal or accessories. Keep other details and pure white background unchanged. No new accessories or extra objects.
+
+生成依据：
+imports/wardrobe-street8-20261126/events/acc-029-v2.json
+imports/wardrobe-street8-20261126/sources.json
