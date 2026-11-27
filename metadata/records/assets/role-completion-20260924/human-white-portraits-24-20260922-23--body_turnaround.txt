@@ -1,21 +1,23 @@
 ﻿白底角色 23 · 金色马尾黑白叠穿 · 全身三视图 · 本轮补充
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-24
+生成日期：2026-11-27
 时区：America/Los_Angeles
 图像尺寸：1536 × 1024
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-24
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Photorealistic character asset of one young adult woman age18–22 with long honey-blonde low ponytail draped over her right shoulder, loose curtain strands, fair lightly freckled skin, blue-gray eyes, fine brows, oval cheeks, small straight nose and soft rose lips, wearing black sleeveless knit vest over white short-sleeve tee, high-waisted sand pleated wide trousers and black penny loafers. Three-panel full-body turnaround sheet. LEFT strict FRONT, CENTER exact90degree SIDE facing image-left, RIGHT exact180degree BACK. Same woman, same outfit, same tall natural7.8-head proportions and long legs in all three panels. Neutral upright posture, relaxed arms, level head. Entire hair to soles included with generous margins; identical scale and baseline. Horizontal3:2 canvas, three equal columns. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+Finely detailed white studio character-library image preserving the original realistic photographic or rendered character style. Identity: Blonde blue-gray-eyed woman with low side ponytail. Outfit: Olive fuzzy asymmetric wrap cardigan, pale blue collared shirt, caramel suede knee-length A-line button skirt, dark belt and floral cord, dark brown slouch lace-up boots. Exactly three equally tall figures in strict front, exact90-degree right-facing profile, strict back, aligned crown and ground, consistent outfit and hair, entire head through shoe soles. Match the final approved fullbody proportions exactly, including latest leg-length reductions. Natural balanced thighs, calves, head, shoulders and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-white-portraits-24-20260922-23--body_turnaround.json
 
 实际带参考图生成提示词
-Use the attached approved full-body image to preserve exact same person, face, hair, full outfit and body proportions. Hands relaxed outside pockets. Photorealistic character asset of one young adult woman age18–22 with long honey-blonde low ponytail draped over her right shoulder, loose curtain strands, fair lightly freckled skin, blue-gray eyes, fine brows, oval cheeks, small straight nose and soft rose lips, wearing black sleeveless knit vest over white short-sleeve tee, high-waisted sand pleated wide trousers and black penny loafers. Three-panel full-body turnaround sheet. LEFT strict FRONT, CENTER exact90degree SIDE facing image-left, RIGHT exact180degree BACK. Same woman, same outfit, same tall natural7.8-head proportions and long legs in all three panels. Neutral upright posture, relaxed arms, level head. Entire hair to soles included with generous margins; identical scale and baseline. Horizontal3:2 canvas, three equal columns. Pure white seamless studio, bright soft frontal daylight and balanced fill, low contrast, faint optical halation, natural pores and subtle skin texture, detailed real cotton and knit weave, realistic50mm perspective, no plastic skin, no 3D rendering, no logos or text.
+Create a NEW crisp photorealistic character turnaround sheet, native landscape 1536x1024. Reference1 is the FINAL approved fullbody: exactly preserve its face, hair, outfit, footwear and especially its head-to-body and leg-length proportions, do not make taller or shorter. Reference2 is the authoritative facial identity only. Exactly THREE complete equally sized figures side by side: strict frontal view on left, exact 90-degree profile facing right in middle, strict rear view on right. Same woman and same clothing in every view. Align crowns and shoe soles on identical horizontal levels. Entire hair and footwear visible, generous separation, white seamless studio, even neutral light and subtle floor shadows. Upright neutral relaxed posture, level head/shoulders/hips, arms down empty hands. Retain clear realistic eyes, skin, individual hair, fine fabric detail; anatomically complete two legs and feet under clothing. No bags, hats, head ornaments, props, labels, text, watermark, cutoffs or 3/4 views. Outfit: Olive fuzzy asymmetric wrap cardigan, pale blue collared shirt, caramel suede knee-length A-line button skirt, dark belt and floral cord, dark brown slouch lace-up boots.
 
 生成依据：
-imports/role-completion-20260924/events/human-white-portraits-24-20260922-23--body_turnaround.json
+imports/longer-legs-14-20261126/receipts/olive-body_turnaround.json
+imports/longer-legs-14-20261126/authorization.json
+imports/longer-legs-14-20261126/visual-review.json
