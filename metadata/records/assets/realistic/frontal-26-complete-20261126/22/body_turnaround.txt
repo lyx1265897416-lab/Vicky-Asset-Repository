@@ -1,27 +1,23 @@
 ﻿银白长发·淡紫眼 · 全身三视图
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：未知（未取得生成记录）
+生成日期：2026-11-27
 时区：America/Los_Angeles
 图像尺寸：1536 × 1024
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-11-26
+提示词整理日期：2026-11-27
 
 文生图提示词：
-Photorealistic female character. long straight silver-white hair with fine face-framing strands, lavender irises, delicate face, black high-neck sleeveless top. Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels. Maintain the exact tall balanced natural long-leg proportions and healthy shoulder-to-head ratio of the full-body reference; no shortened legs in any view. Full outfit: high-waisted tailored black straight-leg trousers and black low-heeled ankle boots. Pure white background, finely detailed natural skin, consistent identity and original hairstyle, no text or watermark.
+Finely detailed white studio character-library image preserving the original realistic photographic or rendered character style. Identity: Very pale rosy skin, lavender eyes, soft pink lips and long straight center-parted silver-white hair tucked back at sides, softly rendered realistic character style. Outfit: Fitted black long-sleeve off-shoulder top with broad white floral scalloped lace neck band, high-waisted floor-length layered gray tulle skirt and black shoe tips. Exactly three equally tall figures in strict front, exact90-degree right-facing profile, strict back, aligned crown and ground, consistent outfit and hair, entire head through shoe soles. Tall natural proportions guided by the user-approved black halter outfit reference: higher waist and hips, compact balanced torso, visibly longer thighs and calves. Natural balanced thighs, calves, head, shoulders and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-独立文生图提示词用于描述外观，不保证逐像素复现。实际生成以用户确认正视图锁脸；原始编辑提示词和参考关系另存。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：正视图26人确认入库 · B11 · frontal-26-complete-20261126
 
 原始生成提示词：
-Use case: identity-preserve. Image 1 is the outfit and body proportion reference. Image 2 is the sole face identity/hair reference.
-TASK: Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels. Maintain the exact tall balanced natural long-leg proportions and healthy shoulder-to-head ratio of the full-body reference; no shortened legs in any view.
-IDENTITY: long straight silver-white hair with fine face-framing strands, lavender irises, delicate face, black high-neck sleeveless top.
-FULL OUTFIT COMPLETION: high-waisted tailored black straight-leg trousers and black low-heeled ankle boots.
-Keep exactly this individual, original eye color, distinctive face proportions, hair color and style, clothing and small accessories. Same person in every panel. Infer unseen clothing construction conservatively, consistent front/profile/back. Pure white seamless background, even neutral soft studio light, crisp natural skin pores, hair strands and fabric details, no oily shine or plastic smoothing. Neutral calm face except expression-grid requested emotions. No seductive posing, no text, labels, watermark, borders, logos or added accessories. Do not copy identity from proportion reference. Create fresh at high native clarity, never stretch an existing body image.
+Create a coherent photorealistic character turnaround sheet of exactly THREE complete figures of the SAME woman wearing the EXACT outfit from reference 1. Reference 1 is authoritative final fullbody, including its current head size and long leg proportions. Reference 2 is original face identity detail. White studio background, landscape 3:2 canvas. Left: strict front view, center: strict exact 90-degree profile facing right, right: strict back view. Entire hair through soles/entire gown visible, three equal-sized figures aligned at head crown and floor, generous separation, no cropping. Preserve the exact face, hair style/color/length, skin, outfit construction, fabric colors, accessories worn and shoe details of reference 1. Keep the small corrected head size for this version, natural long thighs/calves, same silhouette and waist height. Arms at sides, empty hands, front head perfectly upright and eyes level, no leaning. No props, bag, hat, sunglasses, text, letters, watermark or extra panel. Original rendering style retained: softly rendered realistic silver-haired character with lavender eyes. Derive plausible unseen clothing back from visible garment construction without adding embellishments. Exact same outfit and person across views, not three different models.
 
 生成依据：
-imports/frontal-26-complete-20261126/receipts/22-body_turnaround.json
-imports/frontal-26-complete-20261126/authorization.json
-imports/frontal-26-complete-20261126/visual-review.json
+imports/wardrobe-six-new-20261127/receipts/silver-body_turnaround.json
+imports/wardrobe-six-new-20261127/authorization.json
+imports/wardrobe-six-new-20261127/visual-review.json

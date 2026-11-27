@@ -1,27 +1,25 @@
 ﻿深棕长卷·白短袖 · 单人全身照
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：未知（未取得生成记录）
+生成日期：2026-11-27
 时区：America/Los_Angeles
 图像尺寸：1024 × 1536
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-11-26
+提示词整理日期：2026-11-27
 
 文生图提示词：
-Photorealistic female character. long dark brown wavy hair with small side twists, green eyes, white fitted crewneck T-shirt with navy and red sleeve trim. Create ONE full-length studio photograph, strictly front-facing head and torso, eye line level, shoulders and hips square, both feet at equal depth, arms relaxed at sides with empty hands. Entire crown and shoes visible, narrow 4 percent top/bottom margin. Tall elegant natural model proportions matching the supplied proportion reference: normal head size, balanced broad-enough shoulders, healthy torso width, high natural waist and pelvis, naturally long thighs and lower legs, normal knees and ankles. Preserve gender presentation and apparent age of identity reference. Never squat, short-legged, oversized head, tiny shoulders, elongated torso, stretched stick legs or shrunken head. Camera level with no perspective foreshortening, vertical 2:3, highest native detail, full body and face sharply resolved. No bags, handheld props or head accessories. Full outfit: high-waisted dark indigo straight-leg jeans and black low-heeled loafers. Pure white background, finely detailed natural skin, consistent identity and original hairstyle, no text or watermark.
+Finely detailed white studio character-library image preserving the original realistic photographic or rendered character style. Identity: Warm fair skin with subtle freckles and small neck mole, green-hazel eyes, thick dark brows and full rose lips, long dark chestnut wavy hair with front sections twisted back. Outfit: Fitted black fuzzy sleeveless high halter-neck mini dress and glossy black pointed knee-high fine-heel boots with broad folded cuffs and small side tie details. Bare legs. One complete strictly frontal full-length portrait, level head and shoulders, gaze forward, empty hands at sides, entire hair and shoe soles visible. Tall natural proportions guided by the user-approved black halter outfit reference: higher waist and hips, compact balanced torso, visibly longer thighs and calves. Natural balanced thighs, calves, head, shoulders and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-独立文生图提示词用于描述外观，不保证逐像素复现。实际生成以用户确认正视图锁脸；原始编辑提示词和参考关系另存。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：正视图26人确认入库 · B05 · frontal-26-complete-20261126
 
 原始生成提示词：
-Use case: identity-preserve. Image 1 is the sole face/identity/hair and upper clothing authority. Image 2 is ONLY a body proportion reference: match height impression, shoulder/torso/leg balance, never copy its face, hair or outfit.
-TASK: Create ONE full-length studio photograph, strictly front-facing head and torso, eye line level, shoulders and hips square, both feet at equal depth, arms relaxed at sides with empty hands. Entire crown and shoes visible, narrow 4 percent top/bottom margin. Tall elegant natural model proportions matching the supplied proportion reference: normal head size, balanced broad-enough shoulders, healthy torso width, high natural waist and pelvis, naturally long thighs and lower legs, normal knees and ankles. Preserve gender presentation and apparent age of identity reference. Never squat, short-legged, oversized head, tiny shoulders, elongated torso, stretched stick legs or shrunken head. Camera level with no perspective foreshortening, vertical 2:3, highest native detail, full body and face sharply resolved. No bags, handheld props or head accessories.
-IDENTITY: long dark brown wavy hair with small side twists, green eyes, white fitted crewneck T-shirt with navy and red sleeve trim.
-FULL OUTFIT COMPLETION: high-waisted dark indigo straight-leg jeans and black low-heeled loafers.
-Keep exactly this individual, original eye color, distinctive face proportions, hair color and style, clothing and small accessories. Same person in every panel. Infer unseen clothing construction conservatively, consistent front/profile/back. Pure white seamless background, even neutral soft studio light, crisp natural skin pores, hair strands and fabric details, no oily shine or plastic smoothing. Neutral calm face except expression-grid requested emotions. No seductive posing, no text, labels, watermark, borders, logos or added accessories. Do not copy identity from proportion reference. Create fresh at high native clarity, never stretch an existing body image.
+Use case: identity-preserve. One original sharp photorealistic studio full-length portrait. Reference 1 target identity, reference 3 authoritative facial identity and hairstyle, reference 2 clothing only, reference 4 approved body proportions only. Preserve exact woman of references 1/3: green hazel eyes, thick dark brows, warm fair skin with subtle freckles and characteristic small neck mole, full rose lips, long dark chestnut wavy hair with both front sections loosely twisted back, natural neutral direct gaze. Reference 2 outfit: fitted black fuzzy textured sleeveless high halter-neck mini dress, upper thighs visible, black glossy pointed-toe knee-high high-heel boots with broad folded cuffs and small side tie/lacing detail. Remove sunglasses, shoulder bag and straps, jewelry, head adornments; don't copy reference 2 tattoos, face or hairstyle.
+Strict upright frontal standing pose, level eyes and shoulders and hips, head straight not tilted or turned, arms naturally down with empty hands, feet parallel and same depth, no walking/contrapposto/hands-on-hips. Clean white background with soft ground shadow. Entire head and boots visible with small margins in portrait 2:3. Tall elegant actual long thighs and calves with high natural pelvis and balanced torso, proportion like reference 4 and reference 2. Natural balanced head size, not tiny or oversized. Sharp face and hair detail and realistic skin, finely resolved fuzzy fabric, glossy leather, soft even studio light, consistent photorealistic style with reference 3. No text/watermark.
+LATEST USER REJECTED reference 5 because legs are still short. Regenerate fresh using original face and outfit references. Make actual femur AND lower-leg anatomy visibly longer, roughly 8% more leg length than ref 5, with naturally higher hip/crotch and a slightly shorter upper-body proportion, making overall stature a little taller. Keep SAME head size in relation to shoulders; do not shrink head, enlarge hair, stretch neck, shorten skirt alone, or only elongate boot heels. Rebalance the body to genuinely longer legs. Preserve same fluffy halter mini dress and knee boot design. Frame full stature on white including head and soles, upright frontal no tilt.
 
 生成依据：
-imports/frontal-26-complete-20261126/receipts/16-full_body.json
-imports/frontal-26-complete-20261126/authorization.json
-imports/frontal-26-complete-20261126/visual-review.json
+imports/wardrobe-six-new-20261127/receipts/halter-full_body.json
+imports/wardrobe-six-new-20261127/authorization.json
+imports/wardrobe-six-new-20261127/visual-review.json
