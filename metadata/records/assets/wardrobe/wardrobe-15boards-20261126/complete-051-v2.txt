@@ -1,0 +1,22 @@
+﻿服装15图 · 051 · 棕军装呢夹克阔牛仔 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. Brown tweed fitted double-breasted high-stand-collar jacket, integral same-fabric round-buckle waist belt, extra-wide faded olive-gray jeans, dark open-toe shoes barely visible.。配饰：棕色矩形太阳镜。按自然穿搭位置或旁置排列，无人无人台。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：服装15图 · 图11 right
+
+原始生成提示词：
+Edit this exact complete wardrobe board. Remove the extra gray gloves. The ONLY separate accessory is the brown rectangular sunglasses. Preserve the brown tweed jacket and jeans. Keep all remaining objects, garment designs, colors, fabrics and positions unchanged. Pure white background, no people, body parts, mannequins or text. Do not add anything.
+
+生成依据：
+imports/wardrobe-15boards-20261126/events/complete-051-v2.json
+imports/wardrobe-15boards-20261126/sources.json

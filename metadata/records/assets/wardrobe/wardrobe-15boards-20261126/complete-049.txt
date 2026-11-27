@@ -1,0 +1,22 @@
+﻿服装15图 · 049 · 黑长袖深牛仔阔腿 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. Fitted black long-sleeve crewneck top with long cuffs, dark indigo low-rise baggy jeans with contrast stitches, black split-toe low shoes.。配饰：橄榄色大肩背包；黑灰格纹围巾；黑色小皮革钱包。按自然穿搭位置或旁置排列，无人无人台。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：服装15图 · 图10 right
+
+原始生成提示词：
+Create one complete photorealistic wardrobe reference board on a pure white seamless background. Reference image 1 is the exact approved hollow garment set: preserve its clothes, shoes, material, color and cut. Reference image 2 is the source fashion board; use ONLY position right (rNcM = row N column M; two rows four columns for boards 3–7, left/right for the two-look boards). Add ONLY these matching accessories from that source position: 橄榄色大肩背包；黑灰格纹围巾；黑色小皮革钱包. Put the full garment set centrally and arrange the listed accessories clearly beside it, one each; earrings/gloves as pairs. Keep detachable accessories separate and recognizable; no repeated clothing. There is NO PERSON or visible mannequin. All shoes are EMPTY, no human feet or toes. Any open garment gaps show pure white background, never skin. Sheer tights are hollow fabric with no flesh inside. Entire outfit and all accessories fit uncropped within generous white margins. Soft neutral studio lighting, faithful fabric and metal texture. Portrait 2:3. No title, labels, text, logos or watermarks.
+
+生成依据：
+imports/wardrobe-15boards-20261126/events/complete-049.json
+imports/wardrobe-15boards-20261126/sources.json

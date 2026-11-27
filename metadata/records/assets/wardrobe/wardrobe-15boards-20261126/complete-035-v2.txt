@@ -1,0 +1,22 @@
+﻿服装15图 · 035 · 黑灰条纹短上衣棕喇叭 · 完整造型
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. Sheer black-gray arch-striped wide-neck long-sleeve cropped top, opaque tonal lining at chest, dark brown low-rise fitted flared trousers with lace-up front, brown pointed shoes.。配饰：古铜圆环腰链；黑色细短颈圈；银色镂空宽手镯。按自然穿搭位置或旁置排列，无人无人台。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：服装15图 · 图6 r2c4
+
+原始生成提示词：
+Edit this exact complete wardrobe board. Remove the gold ring chain worn across the trouser waist. Keep exactly one gold ring chain belt displayed separately on the right, and preserve the separate leather belt and cuffs. Keep all remaining objects, garment designs, colors, fabrics and positions unchanged. Pure white background, no people, body parts, mannequins or text. Do not add anything.
+
+生成依据：
+imports/wardrobe-15boards-20261126/events/complete-035-v2.json
+imports/wardrobe-15boards-20261126/sources.json

@@ -1,0 +1,22 @@
+﻿服装15图 · 044 · 米白镂空斗篷棕短裙 · 无人服装
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1024 × 1536
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. Ivory openwork cable-knit rolled-neck cropped poncho over dark chocolate ribbed long-sleeve mini dress, taupe over-knee knit socks, dark brown shearling-cuff midcalf suede boots with side buckles.。仅服装与鞋袜；无可拆卸配饰。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：服装15图 · 图8 left
+
+原始生成提示词：
+Use case: product-mockup. One standalone photorealistic wardrobe catalogue product photo. Pure white seamless background, neutral soft studio lighting, realistic fabric texture. Portrait 2:3, full objects uncropped with comfortable margins. NO people, skin, body parts, face, hair, visible mannequin, hangers, stand, scene, text, brand logos or watermark. Hollow invisible-mannequin presentation; see white background through sheer fabrics. Preserve the reference garment colors, silhouette, construction and fabric. Do not invent footwear when not visible. Reconstruct obscured seams conservatively. Reference image is design input only. Target ONLY image 8 position left. rNcM means row N, column M, counted left to right, top to bottom across the full image. Images 3 through 7 each have exactly two rows and four columns. Images 2 and 8 through 15 have two people side by side. Image 1 is a single outfit with accessories. Ignore all other outfits, text and objects. GARMENTS AND SHOWN FOOTWEAR ONLY: Ivory openwork cable-knit rolled-neck cropped poncho over dark chocolate ribbed long-sleeve mini dress, taupe over-knee knit socks, dark brown shearling-cuff midcalf suede boots with side buckles.. Remove ALL detachable accessories including 棕色粗花呢报童帽黑帽带；棕色圆筒手提包米色包边与小几何花纹. Keep integral garment fasteners, sewn bows and ties. No new items.
+
+生成依据：
+imports/wardrobe-15boards-20261126/events/look-044.json
+imports/wardrobe-15boards-20261126/sources.json

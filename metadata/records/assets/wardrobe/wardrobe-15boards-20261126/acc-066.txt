@@ -1,0 +1,22 @@
+﻿服装15图 · 033 · 银色大圆环长项链 · 独立配饰
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：2026-11-26
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic wardrobe product photograph. Pure white seamless background and soft neutral studio lighting. No person, skin, body parts, visible mannequin or stand. Entire objects visible, faithful texture. 银色大圆环长项链。仅此单件配饰，成对耳饰或手套作为一组，无其他物品。
+
+依据用户附件制作白底无人商品图；原附件仅作参考。遮挡处、微小首饰和未展示结构采用保守补全，不代表品牌或精确商品鉴定。参考图中的文字与品牌标志不作为商品身份依据。
+
+
+来源：服装15图 · 图6 r2c2
+
+原始生成提示词：
+独立配饰商品摄影。只提取并展示这一件物品：银色大圆环长项链。它位于参考图 6 的 r2c2 位置；rNcM 表示从上至下第N行、从左至右第M列。将选中的这件配饰放大，单独居中占据画面约80%。保留其颜色、材料、结构、搭扣、提手或链条。仅该物品与纯白背景、轻微落影。禁止出现衣服、裤子、裙子、鞋、人物、人台、皮肤、头发、身体、手、耳朵或任何其他物品。成对耳环/手套和明确命名的首饰组合可作为一组。不是整套穿搭，不是拼贴。No outfit, no garments, no people. ONE isolated accessory product only. No text, brand logos, watermark. Photorealistic product photo. Full object uncropped.
+
+生成依据：
+imports/wardrobe-15boards-20261126/events/acc-066.json
+imports/wardrobe-15boards-20261126/sources.json
