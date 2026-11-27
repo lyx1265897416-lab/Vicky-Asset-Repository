@@ -1,0 +1,23 @@
+﻿金发中分·棕外套 · 正面平视胸像
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1086 × 1448
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic male character. center-parted swept golden blonde hair, blue-gray eyes, strong straight brows, brown coat over taupe collared shirt. One straight frontal eye-level head-and-shoulder portrait, neutral resting expression, white seamless background and even soft studio lighting. Pure white background, finely detailed natural skin, consistent identity and original hairstyle, no text or watermark.
+
+独立文生图提示词用于描述外观，不保证逐像素复现。实际生成以用户确认正视图锁脸；原始编辑提示词和参考关系另存。
+
+
+来源：正视图26人确认入库 · A09 · frontal-26-complete-20261126
+
+原始生成提示词：
+Use case: identity-preserve. Create ONE independent photorealistic identity-reference portrait of the SAME person in the input photograph. Preserve his individual face shape, exact characteristic eyes, eyelids, brows, nose, lips, jaw, complexion, age appearance and natural facial details; do not substitute a generic handsome face or merge identities. Repose him into a rigorously straight-on passport-style photograph. Pure solid white #FFFFFF background. The entire head and both shoulders are square to the camera: yaw 0 degrees, pitch 0 degrees, roll 0 degrees. Camera exactly at pupil height on the face's central axis, never above or below. Both eyes on an exactly horizontal line, nose bridge, philtrum and chin centered on one vertical line. Show equal left/right facial exposure, both cheek contours and ears equally visible where hair permits, neither cheek closer to lens. Shoulders level and equally distant from camera. Chin neither lowered nor raised. Both pupils look directly into lens. Preserve natural anatomical asymmetry without geometric head tilt; do not mirror half of the face. Calm neutral expression, lips gently closed, eyebrows relaxed, no smirk, no seductive pose. Keep recognizable hairstyle, dry natural texture and roughly original hair color (a subtle shade variation is allowed); no strands hiding eyes. Clothing: brown coat over a neatly arranged taupe collared shirt. Vertical 3:4 studio ID-photo composition, full hair and crown uncut with small white margin above, crop at upper chest, centered head occupying most of the frame, not a full body image. Symmetrical large soft frontal lights, neutral white balance, even exposure on both sides of face, no directional sunlight or hard cast shadows, preserve realistic skin pores without oily sheen or plastic retouching. Hands, phone, props, original background, all text, logos and watermark removed. This is a plain character reference photograph, no document template, no border, no captions, no collage. Critical acceptance criterion: genuinely fully frontal facial anatomy, no head cant or sideways glance whatsoever.
+
+生成依据：
+imports/frontal-26-complete-20261126/front-provenance.json
+imports/frontal-26-complete-20261126/authorization.json
+imports/frontal-26-complete-20261126/visual-review.json

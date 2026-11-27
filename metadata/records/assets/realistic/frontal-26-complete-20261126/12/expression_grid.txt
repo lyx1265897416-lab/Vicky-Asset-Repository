@@ -1,0 +1,26 @@
+﻿灰金中分·绿灰眼 · 九宫格表情
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1254 × 1254
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic male character. ash blonde medium parted hair, green-gray eyes, small silver ear hoop, black jacket and white shirt. Create a 3x3 NINE-PANEL head-and-shoulder expression reference sheet of exactly the SAME character. Every cell same head scale, front-facing eye-level, upright centered head, same hair, clothes, accessories and lighting. Nine distinct natural expressions in reading order: neutral at rest; gentle closed-mouth smile; joyful open-mouth laugh; restrained anger with tense brow; quiet sadness; surprised with naturally widened eyes; worried concern; subtle disgust; playful SINGLE-EYE wink with slight smile. Facial muscles change while identity stays fixed, avoid grotesque overacting or giant eyes. Include full hair and neck in every cell, consistent white gutters, pure white background. Square native 1536x1536 image. No text, no labels, exactly nine cells. Pure white background, finely detailed natural skin, consistent identity and original hairstyle, no text or watermark.
+
+独立文生图提示词用于描述外观，不保证逐像素复现。实际生成以用户确认正视图锁脸；原始编辑提示词和参考关系另存。
+
+
+来源：正视图26人确认入库 · B01 · frontal-26-complete-20261126
+
+原始生成提示词：
+Use case: identity-preserve. Image 1 is the sole face/identity/hair and upper clothing authority.
+TASK: Create a 3x3 NINE-PANEL head-and-shoulder expression reference sheet of exactly the SAME character. Every cell same head scale, front-facing eye-level, upright centered head, same hair, clothes, accessories and lighting. Nine distinct natural expressions in reading order: neutral at rest; gentle closed-mouth smile; joyful open-mouth laugh; restrained anger with tense brow; quiet sadness; surprised with naturally widened eyes; worried concern; subtle disgust; playful SINGLE-EYE wink with slight smile. Facial muscles change while identity stays fixed, avoid grotesque overacting or giant eyes. Include full hair and neck in every cell, consistent white gutters, pure white background. Square native 1536x1536 image. No text, no labels, exactly nine cells.
+IDENTITY: ash blonde medium parted hair, green-gray eyes, small silver ear hoop, black jacket and white shirt.
+Keep exactly this individual, original eye color, distinctive face proportions, hair color and style, clothing and small accessories. Same person in every panel. Infer unseen clothing construction conservatively, consistent front/profile/back. Pure white seamless background, even neutral soft studio light, crisp natural skin pores, hair strands and fabric details, no oily shine or plastic smoothing. Neutral calm face except expression-grid requested emotions. No seductive posing, no text, labels, watermark, borders, logos or added accessories. Do not copy identity from proportion reference. Create fresh at high native clarity, never stretch an existing body image.
+
+生成依据：
+imports/frontal-26-complete-20261126/receipts/12-expression_grid.json
+imports/frontal-26-complete-20261126/authorization.json
+imports/frontal-26-complete-20261126/visual-review.json

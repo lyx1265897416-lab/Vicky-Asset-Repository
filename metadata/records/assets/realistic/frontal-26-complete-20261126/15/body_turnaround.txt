@@ -1,0 +1,27 @@
+﻿黑棕中分·蓝绿眼 · 全身三视图
+生图模型：内置 ImageGen（具体模型版本未披露）
+生成日期：未知（未取得生成记录）
+时区：America/Los_Angeles
+图像尺寸：1536 × 1024
+提示词类型：按成图重建的独立文生图提示词
+提示词整理日期：2026-11-26
+
+文生图提示词：
+Photorealistic male character. dark parted wavy hair, blue-green eyes, naturally lightly freckled complexion, pale gray crewneck shirt. Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels. Maintain the exact tall balanced natural long-leg proportions and healthy shoulder-to-head ratio of the full-body reference; no shortened legs in any view. Full outfit: charcoal straight-leg jeans and black low-profile sneakers. Pure white background, finely detailed natural skin, consistent identity and original hairstyle, no text or watermark.
+
+独立文生图提示词用于描述外观，不保证逐像素复现。实际生成以用户确认正视图锁脸；原始编辑提示词和参考关系另存。
+
+
+来源：正视图26人确认入库 · B04 · frontal-26-complete-20261126
+
+原始生成提示词：
+Use case: identity-preserve. Image 1 is the outfit and body proportion reference. Image 2 is the sole face identity/hair reference.
+TASK: Create a THREE-VIEW full-length turnaround sheet of the same person in the first input full-body image. Second input is the approved face identity. Left: front; center: exact 90-degree side profile facing image-right; right: exact back facing away. Keep first input's exact outfit, footwear, build, leg-to-torso ratio, leg thickness, height and head-to-body scale identical across all views. Entire hair and footwear visible with generous margins, all three shoes aligned on one baseline, same crown height. Neutral stance, arms relaxed at sides, empty hands. Neutral face and eye-level perspective, no leaning or posing. Landscape native 1536x1024, pure white seamless studio and subtle foot contact shadows. Exactly three figures of ONE identity, no text or labels. Maintain the exact tall balanced natural long-leg proportions and healthy shoulder-to-head ratio of the full-body reference; no shortened legs in any view.
+IDENTITY: dark parted wavy hair, blue-green eyes, naturally lightly freckled complexion, pale gray crewneck shirt.
+FULL OUTFIT COMPLETION: charcoal straight-leg jeans and black low-profile sneakers.
+Keep exactly this individual, original eye color, distinctive face proportions, hair color and style, clothing and small accessories. Same person in every panel. Infer unseen clothing construction conservatively, consistent front/profile/back. Pure white seamless background, even neutral soft studio light, crisp natural skin pores, hair strands and fabric details, no oily shine or plastic smoothing. Neutral calm face except expression-grid requested emotions. No seductive posing, no text, labels, watermark, borders, logos or added accessories. Do not copy identity from proportion reference. Create fresh at high native clarity, never stretch an existing body image.
+
+生成依据：
+imports/frontal-26-complete-20261126/receipts/15-body_turnaround.json
+imports/frontal-26-complete-20261126/authorization.json
+imports/frontal-26-complete-20261126/visual-review.json
