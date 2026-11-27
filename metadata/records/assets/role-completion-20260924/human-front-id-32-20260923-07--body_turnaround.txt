@@ -1,21 +1,23 @@
 ﻿白底女角色32组 07 · 雀斑刘海孔雀蓝T恤 · 全身三视图 · 本轮补充
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-24
+生成日期：2026-11-26
 时区：America/Los_Angeles
 图像尺寸：1536 × 1024
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-24
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Photographic full-body three-view turnaround of a fictional adult woman with balanced oval face, warm brown eyes, freckles and full muted rose lips. Produce a clean horizontal FULL BODY three-view turnaround: frontal, true 90-degree profile facing right, straight back, three evenly spaced complete figures with hair tops and soles aligned. Dark brown shoulder-length shaggy layered hair with straight wispy bangs, brown eyes, freckles, balanced symmetrical oval face, rose lips, thin hoop earrings. Peacock teal short-sleeve cotton crewneck tucked into high-rise light-wash wide-leg jeans and plain off-white canvas sneakers. Slender long-legged natural model proportions 7.8 heads tall, complete hands and shoes visible, neutral upright posture and arms relaxed by sides. Exact same person, hair length, outfit, body size and footwear in all panels. Photographic realism, high-key white seamless studio and floor, broad soft frontal daylight, open shadows, pores and fine hair and denim details. No text or decorative borders, no extra portraits or people.
+Finely detailed white studio character-library image preserving the original realistic photographic or rendered character style. Identity: Brown shoulder-length shaggy hair with wispy straight bangs, brown eyes, freckles, large thin hoop earrings. Outfit: Ivory sleeveless ribbed crewneck knit top tucked into cream high waisted pleated wide leg trousers, narrow brown leather belt with brass buckle, brown pointed leather heels, fine small pendant necklace. Empty hands, no coffee cup or bag. Exactly three equally tall figures in strict front, exact90-degree right-facing profile, strict back, aligned crown and ground, consistent outfit and hair, entire head through shoe soles. Coordinated healthy tall approximately7.5-head proportions with long thighs and calves, balanced normal head/shoulders/hips and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-front-id-32-20260923-07--body_turnaround.json
 
 实际带参考图生成提示词
-Exact same woman as image1 identity and image2 outfit and proportions. Produce a clean horizontal FULL BODY three-view turnaround: frontal, true 90-degree profile facing right, straight back, three evenly spaced complete figures with hair tops and soles aligned. Dark brown shoulder-length shaggy layered hair with straight wispy bangs, brown eyes, freckles, balanced symmetrical oval face, rose lips, thin hoop earrings. Peacock teal short-sleeve cotton crewneck tucked into high-rise light-wash wide-leg jeans and plain off-white canvas sneakers. Slender long-legged natural model proportions 7.8 heads tall, complete hands and shoes visible, neutral upright posture and arms relaxed by sides. Exact same person, hair length, outfit, body size and footwear in all panels. Photographic realism, high-key white seamless studio and floor, broad soft frontal daylight, open shadows, pores and fine hair and denim details. No text or decorative borders, no extra portraits or people.
+Use case: identity-preserve. Create a crisp native landscape 1536x1024 professional character turnaround sheet with EXACTLY THREE complete equally tall views of the SAME adult woman: left strict frontal, center exact 90-degree profile FACING RIGHT, right strict rear. Reference 1 is the FINAL authoritative clothing, anatomy, body proportions and styling; reference 2 is authoritative facial identity. Preserve exact identity, hair, skin, every clothing material/color/detail and leg length from reference 1. Identity: Brown shoulder-length shaggy hair with wispy straight bangs, brown eyes, freckles, large thin hoop earrings. Clothing: Ivory sleeveless ribbed crewneck knit top tucked into cream high waisted pleated wide leg trousers, narrow brown leather belt with brass buckle, brown pointed leather heels, fine small pendant necklace. Empty hands, no coffee cup or bag. Copy final garment structure from reference 1 in preference to verbal descriptions. Each figure upright relaxed standing, arms hanging down and empty hands, level head, shoulders and pelvis. Front face and torso perfectly square to camera, no tilt, lean, twist, walking or crossed legs; feet at equal depth. Exactly three nonoverlapping figures evenly spaced with same head size, same crown height and same shoe ground level, generous white gaps. Entire hair and shoe soles in frame. Anatomically continuous two legs and feet under garments; slit skirts show the correctly connected leg as in final reference; no hollow skirt or floating shoes. Preserve original realistic photographic/render style. Pure white seamless background with small neutral contact shadows, crisp eyes, hair strands, skin and fabric, consistent soft studio lighting. No captions, labels, panel lines, watermark, props, bags, added ornaments, altered hair, replacement faces, blur, stretching, duplicates or extra figures.
 
 生成依据：
-imports/role-completion-20260924/events/human-front-id-32-20260923-07--body_turnaround.json
+imports/seven-wardrobes-20261126/receipts/creamtrousers-body_turnaround.json
+imports/seven-wardrobes-20261126/authorization.json
+imports/seven-wardrobes-20261126/visual-review.json

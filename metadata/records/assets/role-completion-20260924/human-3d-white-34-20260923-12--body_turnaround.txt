@@ -1,21 +1,23 @@
 ﻿12 · 赤茶·发带 · 全身三视图 · 本轮补充
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-24
+生成日期：2026-11-26
 时区：America/Los_Angeles
 图像尺寸：1536 × 1024
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-24
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Premium semi-realistic 2.5D/3D full-body reference sheet of one young adult woman with a soft round-oval face, short rounded chin, blue-gray eyes, freckles and copper auburn wavy hair. Three complete head-to-toe figures side-by-side, straight front, strict 90-degree right-facing side profile, straight back, crowns and soles at same levels with margin. Preserve soft round-oval face and short rounded chin, blue-gray eyes, freckles, copper auburn long wavy hair, dusty rose headband with bow on her left/viewer-right in frontal view, small brass clip beside it, silver pendant. Cream open knit cardigan over dusty pink botanical-print tee, ivory high-rise wide-leg jeans, cream sneakers. Same details in every view, arms relaxed and fingers visible. Refined semi-realistic 2.5D/3D romance-game rendering, bright white backdrop and softly lit white floor, very fine groomed hair and knit texture, low sheen, no oily beauty filter. Slender 7.8-head model proportions, no elongated face, no text or inset images.
+Finely detailed realistic 3D white studio character-library image. Identity: Blue-gray eyes, fair rosy skin, long copper-red wavy hair with wispy bangs, original pink bow headband and small clip, delicate facial proportions and pink lips. Outfit: Cream tiny-floral ruffled high-neck blouse with layered frill front and cuffs, charcoal-brown double-breasted waistcoat with cognac piping and four buttons, long cream skirt with pintucks and lace insert bands, black pointed buckle ankle boots. No bag or props. Exactly three equally tall figures in strict front, exact90-degree right-facing profile, strict back, aligned crown and ground, consistent outfit and hair, entire head through shoe soles. Coordinated healthy tall approximately7.5-head proportions with long thighs and calves, balanced normal head/shoulders/hips and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-3d-white-34-20260923-12--body_turnaround.json
 
 实际带参考图生成提示词
-Create a horizontal full-body THREE-VIEW reference turnaround of exactly the same young adult woman from image1, using image2 for exact outfit and long-legged slim proportions. Three complete head-to-toe figures side-by-side, straight front, strict 90-degree right-facing side profile, straight back, crowns and soles at same levels with margin. Preserve soft round-oval face and short rounded chin, blue-gray eyes, freckles, copper auburn long wavy hair, dusty rose headband with bow on her left/viewer-right in frontal view, small brass clip beside it, silver pendant. Cream open knit cardigan over dusty pink botanical-print tee, ivory high-rise wide-leg jeans, cream sneakers. Same details in every view, arms relaxed and fingers visible. Refined semi-realistic 2.5D/3D romance-game rendering, bright white backdrop and softly lit white floor, very fine groomed hair and knit texture, low sheen, no oily beauty filter. Slender 7.8-head model proportions, no elongated face, no text or inset images.
+Use case: identity-preserve. Generate a LANDSCAPE3:2 fullbody turnaround of the exact woman in image1 latest outfit, using image2 original identity as additional reference. Exactly three evenly spaced equally tall figures strict FRONT / strict90degree SIDE facing right / BACK, complete hair to soles, aligned crown and baseline. Preserve exact face, bluegray eyes, fair rosy skin, long copper red wavy hair with bangs and pink bow headband and small clip, realistic polished3D style. Exact same cream tiny-floral-print blouse with high frilled neckline and layered ruffle front/cuffs, charcoalbrown double-breasted fitted waistcoat with cognac piping and four buttons, cream long A-line skirt with lace-insert/pintuck bands and gathered tier, black pointed buckle ankle boots. Match image1 proportions consistently; front head upright, face straight toward camera, horizontal shoulders and eyes, no lean, arms relaxed and empty hands. White seamless studio even neutral light, maximum native sharp facial details/hair/cloth. No bags, handheld objects, text, labels, UI or watermark. WIDE landscape.
 
 生成依据：
-imports/role-completion-20260924/events/human-3d-white-34-20260923-12--body_turnaround.json
+imports/braids-redhead-outfits-20261126/receipts/redhead-body_turnaround.json
+imports/braids-redhead-outfits-20261126/authorization.json
+imports/braids-redhead-outfits-20261126/visual-review.json

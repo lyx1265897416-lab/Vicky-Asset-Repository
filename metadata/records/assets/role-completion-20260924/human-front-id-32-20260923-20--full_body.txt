@@ -1,21 +1,23 @@
 ﻿白底女角色32组 20 · 低盘发象牙白开衫 · 单人全身照 · 本轮补充
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-25
+生成日期：2026-11-26
 时区：America/Los_Angeles
 图像尺寸：1024 × 1536
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-25
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One original fictional adult woman, age 23. Dark brown hair in a loose low updo with center-parted strands, fair peach skin, softly tapered oval face, large dark eyes, delicate brows, rose lips, ivory round-neck button cardigan with small pale buttons. Ivory round-neck button cardigan, pale dusty-blue A-line midi skirt and ivory Mary Jane flats. Bare lower legs. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+Finely detailed white studio character-library image preserving the original realistic photographic or rendered character style. Identity: Exact fair rosy-skinned East Asian character from third closeup, large warm brown eyes, delicate nose, glossy pink lips, softly oval face, dark center-parted hair in low updo with fine face-framing strands. Keep exact identity and hairstyle. Outfit: Rich cornflower cobalt-blue chunky-knit relaxed sweater with soft folded cowl turtleneck, dropped shoulders and gently pushed-up sleeves. Black fitted knee-length pencil skirt with off-center covered black buttons and small lower front slit. Sheer black tights, glossy black peep-toe low/mid-heeled pumps. No handbag, no draped scarf, no props or head ornaments. One complete strictly frontal full-length portrait, level head and shoulders, gaze forward, empty hands at sides, entire hair and shoe soles visible. Coordinated healthy tall approximately7.5-head proportions with long thighs and calves, balanced normal head/shoulders/hips and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-front-id-32-20260923-20--full_body.json
 
 实际带参考图生成提示词
-Use attached confirmed portrait as strict character identity and photographic style reference. Do not change her face, age or ethnic appearance. Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One original fictional adult woman, age 23. Dark brown hair in a loose low updo with center-parted strands, fair peach skin, softly tapered oval face, large dark eyes, delicate brows, rose lips, ivory round-neck button cardigan with small pale buttons. Ivory round-neck button cardigan, pale dusty-blue A-line midi skirt and ivory Mary Jane flats. Bare lower legs. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+Use case: identity-preserve proportion edit. Edit image1 only to make legs moderately longer and stature a little taller, approximately 8 percent longer hip-to-floor and about 4 percent taller overall. Natural elegant long-legged adult proportions about 7.8 heads tall. Raise apparent waist slightly, maintain anatomically correct knees and ankles, do not stretch face, torso or fabric texture. Preserve EXACT face, expression, hair, clothing design and color, all accessories already present, material detail and white studio. Image2 authoritative face. Strict centered frontal upright pose, horizontal eye and shoulder lines, arms down, feet parallel equal depth. Entire head and shoes visible with small margins, crisp native 1024x1536. No new props. Black pencil skirt remains knee length; show visibly longer calves in sheer tights, same black peep toe pumps.
 
 生成依据：
-imports/role-completion-20260924/events/human-front-id-32-20260923-20--full_body.json
+imports/seven-wardrobes-20261126/receipts/blueknit-full_body.json
+imports/seven-wardrobes-20261126/authorization.json
+imports/seven-wardrobes-20261126/visual-review.json

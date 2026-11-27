@@ -1,21 +1,23 @@
 ﻿白底女角色32组 05 · 暖棕长发白吊带 · 单人全身照 · 本轮补充
 生图模型：内置 ImageGen（具体模型版本未披露）
-生成日期：2026-09-24
+生成日期：2026-11-26
 时区：America/Los_Angeles
 图像尺寸：1024 × 1536
 提示词类型：按成图重建的独立文生图提示词
-提示词整理日期：2026-09-24
+提示词整理日期：2026-11-26
 
 文生图提示词：
-Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One original fictional adult woman, age 23. Long warm chestnut loose waves and parted curtain strands, fair peach skin, softly tapered oval face, brown eyes, straight medium brows, rose lips, opaque white fine ribbed camisole with scalloped neckline. Opaque white fine-rib camisole with scalloped neckline, high-waisted ecru straight jeans, light taupe suede flat loafers. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+Finely detailed white studio character-library image preserving the original realistic photographic or rendered character style. Identity: Fair East Asian woman, long chestnut brown layered hair, brown eyes, soft face. Outfit: Beige off shoulder fitted ruched long sleeve top, ruffled neckline and flared cuffs, dark chocolate brown asymmetric midi wrap skirt with cream edged ruffles and fabric flower at hip, modest front slit, dark open toe high heel mules. One complete strictly frontal full-length portrait, level head and shoulders, gaze forward, empty hands at sides, entire hair and shoe soles visible. Coordinated healthy tall approximately7.5-head proportions with long thighs and calves, balanced normal head/shoulders/hips and feet. Bright even neutral light, crisp skin, eyes, hair, fabrics, seams, shoes; subtle floor shadow. No bags, handheld objects, UI, text, watermark, blur or anatomical distortion.
 
-此为带身份参考图生成的补充素材；独立文字提示词已重建，未经纯文生图复现验证。严格同脸请同时使用身份母版。
+Fresh generation from original character identity and supplied outfit; standalone text prompt reconstructed from output, exact face reproduction from text alone not verified.
 
 
 来源：/Users/vicky/Documents/waku内容/vicky-character-library/imports/role-completion-20260924/events/human-front-id-32-20260923-05--full_body.json
 
 实际带参考图生成提示词
-Use attached confirmed portrait as strict character identity and photographic style reference. Do not change her face, age or ethnic appearance. Photorealistic photographic studio character asset, natural skin pores and fine individual hair, realistic cotton and knit detail. Pure white seamless background, bright soft frontal daylight balanced fill, low shadows, realistic 50mm lens perspective, no plastic skin, no illustration or 3D, no text or labels or logos. Preserve individual face, skin tone and age from reference. One original fictional adult woman, age 23. Long warm chestnut loose waves and parted curtain strands, fair peach skin, softly tapered oval face, brown eyes, straight medium brows, rose lips, opaque white fine ribbed camisole with scalloped neckline. Opaque white fine-rib camisole with scalloped neckline, high-waisted ecru straight jeans, light taupe suede flat loafers. One independent full-body portrait, strict front view, head upright, level eye line, relaxed standing arms by sides hands out of pockets, entire hair to soles included with generous margin. Elegant 7.8-head tall long-limbed model proportions, anatomically coherent. Vertical 2:3.
+Use case: identity-preserve. Create one crisp native 1024x1536 full length wardrobe edit. Image1 is character body, image2 ONLY outfit and proportion, image3 authoritative face and hair. Preserve exact recognizable identity from image3: Fair East Asian woman, long chestnut brown layered hair, brown eyes, soft face. Outfit: Beige off shoulder fitted ruched long sleeve top, ruffled neckline and flared cuffs, dark chocolate brown asymmetric midi wrap skirt with cream edged ruffles and fabric flower at hip, modest front slit, dark open toe high heel mules. Match outfit reference proportions naturally, tall balanced figure. Pure white seamless studio, subtle ground shadow, full hair and shoes visible. Strict frontal view, head upright, horizontal eyes and shoulders, square hips, no leaning, turning or tilted head. Both feet parallel at same depth, balanced stance, arms down relaxed empty hands. Preserve original photographic rendering and fine facial, skin, hair and fabric details. No bag, handheld props, head ornaments, reference model identity, UI, text, watermark or background scenery.
 
 生成依据：
-imports/role-completion-20260924/events/human-front-id-32-20260923-05--full_body.json
+imports/seven-wardrobes-20261126/receipts/rufflebrown-full_body.json
+imports/seven-wardrobes-20261126/authorization.json
+imports/seven-wardrobes-20261126/visual-review.json
